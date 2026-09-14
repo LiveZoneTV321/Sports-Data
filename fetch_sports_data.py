@@ -2,7 +2,7 @@
 
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
@@ -70,11 +70,10 @@ def parse_event_start_time(match):
     """
     Read eventInfo.startTime.
 
-    Expected format:
-
+    Expected:
         14/09/2026 05:00:00 AM
 
-    Returns timezone-aware Bangladesh datetime.
+    Returns Bangladesh timezone datetime.
     """
 
     if not isinstance(match, dict):
@@ -108,41 +107,46 @@ def update_match_status(match, now_bd):
     """
     Final status logic:
 
-    1. If source says ENDED:
-           ENDED
+    1. Source ENDED -> ENDED
 
-    2. If event date is already over:
-           ENDED
+    2. Event date already passed -> ENDED
 
-    3. If start time has not arrived:
-           UPCOMING
+    3. Same day but start time not reached -> UPCOMING
 
-    4. If start time has arrived:
-           LIVE
+    4. Start time reached -> LIVE
     """
 
     if not isinstance(match, dict):
         return "UPCOMING"
 
+    event_name = str(
+        match.get("event_name", "Unknown Event")
+    ).strip()
+
     source_status = get_source_status(match)
 
-    # --------------------------------------------------
-    # Priority 1:
-    # If main/source API explicitly says ENDED,
-    # always keep it ENDED.
-    # --------------------------------------------------
-    if source_status == "ENDED":
-        match["status"] = "ENDED"
-        return "ENDED"
-
-    # --------------------------------------------------
-    # Get event start time
-    # --------------------------------------------------
     start_time = parse_event_start_time(match)
 
     # --------------------------------------------------
-    # If start time cannot be parsed,
-    # safely use source status.
+    # SOURCE ENDED HAS HIGHEST PRIORITY
+    # --------------------------------------------------
+    if source_status == "ENDED":
+
+        match["status"] = "ENDED"
+
+        print(
+            f"[STATUS] {event_name} | "
+            f"Source={source_status} | "
+            f"Start={start_time} | "
+            f"Now={now_bd} | "
+            f"Final=ENDED"
+        )
+
+        return "ENDED"
+
+    # --------------------------------------------------
+    # If startTime is missing or invalid,
+    # use source status safely.
     # --------------------------------------------------
     if start_time is None:
 
@@ -154,7 +158,17 @@ def update_match_status(match, now_bd):
             "STARTED",
             "PLAYING"
         }:
+
             match["status"] = "LIVE"
+
+            print(
+                f"[STATUS] {event_name} | "
+                f"Source={source_status} | "
+                f"Start=INVALID/MISSING | "
+                f"Now={now_bd} | "
+                f"Final=LIVE"
+            )
+
             return "LIVE"
 
         if source_status in {
@@ -162,55 +176,113 @@ def update_match_status(match, now_bd):
             "SCHEDULED",
             "NOT STARTED"
         }:
+
             match["status"] = "UPCOMING"
+
+            print(
+                f"[STATUS] {event_name} | "
+                f"Source={source_status} | "
+                f"Start=INVALID/MISSING | "
+                f"Now={now_bd} | "
+                f"Final=UPCOMING"
+            )
+
             return "UPCOMING"
 
-        # Unknown status fallback
         match["status"] = source_status or "UPCOMING"
+
+        print(
+            f"[STATUS] {event_name} | "
+            f"Source={source_status or 'EMPTY'} | "
+            f"Start=INVALID/MISSING | "
+            f"Now={now_bd} | "
+            f"Final={match['status']}"
+        )
 
         return match["status"]
 
     # --------------------------------------------------
-    # Event date is already finished.
+    # EVENT DATE ALREADY PASSED
     #
     # Example:
     #
-    # Event = 14/09/2026
-    # Today = 15/09/2026
+    # Event = 04/09/2026
+    # Today = 14/09/2026
     #
-    # Automatically ENDED.
+    # Result = ENDED
     # --------------------------------------------------
     if now_bd.date() > start_time.date():
 
         match["status"] = "ENDED"
 
+        print(
+            f"[STATUS] {event_name} | "
+            f"Source={source_status or 'EMPTY'} | "
+            f"Start={start_time} | "
+            f"Now={now_bd} | "
+            f"Final=ENDED"
+        )
+
         return "ENDED"
 
     # --------------------------------------------------
-    # Same date:
+    # FUTURE DATE
+    # --------------------------------------------------
+    if now_bd.date() < start_time.date():
+
+        match["status"] = "UPCOMING"
+
+        print(
+            f"[STATUS] {event_name} | "
+            f"Source={source_status or 'EMPTY'} | "
+            f"Start={start_time} | "
+            f"Now={now_bd} | "
+            f"Final=UPCOMING"
+        )
+
+        return "UPCOMING"
+
+    # --------------------------------------------------
+    # SAME DATE
     #
-    # Before start time = UPCOMING
-    # Start time reached = LIVE
+    # Before start = UPCOMING
+    # At/after start = LIVE
     # --------------------------------------------------
     if now_bd < start_time:
 
         match["status"] = "UPCOMING"
 
+        print(
+            f"[STATUS] {event_name} | "
+            f"Source={source_status or 'EMPTY'} | "
+            f"Start={start_time} | "
+            f"Now={now_bd} | "
+            f"Final=UPCOMING"
+        )
+
         return "UPCOMING"
 
-    # Start time has arrived
+    # --------------------------------------------------
+    # START TIME REACHED
+    # --------------------------------------------------
     match["status"] = "LIVE"
+
+    print(
+        f"[STATUS] {event_name} | "
+        f"Source={source_status or 'EMPTY'} | "
+        f"Start={start_time} | "
+        f"Now={now_bd} | "
+        f"Final=LIVE"
+    )
 
     return "LIVE"
 
 
-def update_all_match_statuses(matches):
+def update_all_match_statuses(matches, now_bd):
     """
-    Recalculate status for every match
-    using Bangladesh current time.
+    Recalculate every match using
+    the SAME Bangladesh current time.
     """
-
-    now_bd = datetime.now(BD_TIMEZONE)
 
     live_count = 0
     upcoming_count = 0
@@ -249,16 +321,7 @@ def convert_drm_keys(data):
 
         drm_key = kid:key
 
-    Example:
-
-        "kid": "abc",
-        "key": "123"
-
-    becomes:
-
-        "drm_key": "abc:123"
-
-    DRM ছাড়া streams কোনোভাবেই পরিবর্তন হবে না.
+    DRM ছাড়া streams-এর কোনো data পরিবর্তন করা হবে না.
     """
 
     matches = find_matches(data)
@@ -280,11 +343,10 @@ def convert_drm_keys(data):
             if not isinstance(stream, dict):
                 continue
 
-            # Get kid and key
             kid = stream.get("kid")
             key = stream.get("key")
 
-            # Convert only when BOTH exist
+            # Only convert when BOTH exist
             if kid is not None and key is not None:
 
                 kid = str(kid).strip()
@@ -292,10 +354,8 @@ def convert_drm_keys(data):
 
                 if kid and key:
 
-                    # Create combined DRM key
                     stream["drm_key"] = f"{kid}:{key}"
 
-                    # Remove old fields
                     stream.pop("kid", None)
                     stream.pop("key", None)
 
@@ -312,42 +372,56 @@ def main():
         else "sports_data.json"
     )
 
+    # One fixed Bangladesh time for this entire run
     now_bd = datetime.now(BD_TIMEZONE)
 
+    print("=" * 70)
+    print("SPORTS DATA FETCH START")
     print(
-        "Fetch start time (Bangladesh):",
-        now_bd.isoformat(timespec="seconds")
+        "Bangladesh Time:",
+        now_bd.strftime("%d/%m/%Y %I:%M:%S %p")
     )
+    print("=" * 70)
 
     try:
 
-        # -----------------------------------------
-        # 1. Fetch original source JSON
-        # -----------------------------------------
+        # --------------------------------------------------
+        # 1. Fetch latest source API
+        # --------------------------------------------------
         data = fetch_data()
 
-        # -----------------------------------------
+        print("Source API fetched successfully.")
+
+        # --------------------------------------------------
         # 2. Find matches
-        # -----------------------------------------
+        # --------------------------------------------------
         matches = find_matches(data)
 
-        # -----------------------------------------
-        # 3. Update match status using time
-        # -----------------------------------------
+        print(
+            "Source matches found:",
+            len(matches)
+        )
+
+        # --------------------------------------------------
+        # 3. Update status
+        # --------------------------------------------------
         (
             live_count,
             upcoming_count,
             ended_count
-        ) = update_all_match_statuses(matches)
+        ) = update_all_match_statuses(
+            matches,
+            now_bd
+        )
 
-        # -----------------------------------------
+        # --------------------------------------------------
         # 4. Convert DRM
-        # -----------------------------------------
+        # --------------------------------------------------
         drm_count = convert_drm_keys(data)
 
-        # -----------------------------------------
-        # 5. Update top-level statistics
-        # -----------------------------------------
+        # --------------------------------------------------
+        # 5. Update top-level information
+        # --------------------------------------------------
         if isinstance(data, dict):
 
             data["total_matches"] = len(matches)
@@ -358,9 +432,9 @@ def main():
                 "%I:%M:%S %p %d-%m-%Y"
             )
 
-        # -----------------------------------------
+        # --------------------------------------------------
         # 6. Save final JSON
-        # -----------------------------------------
+        # --------------------------------------------------
         with open(
             output_file,
             "w",
@@ -376,38 +450,46 @@ def main():
 
             f.write("\n")
 
-        # -----------------------------------------
-        # 7. GitHub Actions log
-        # -----------------------------------------
+        # --------------------------------------------------
+        # 7. Final summary
+        # --------------------------------------------------
+        print("=" * 70)
+        print("FINAL SUMMARY")
+        print("=" * 70)
+
         print(
-            "Total number of matches:",
+            "Total matches:",
             len(matches)
         )
 
         print(
-            "Live matches:",
+            "LIVE:",
             live_count
         )
 
         print(
-            "Upcoming matches:",
+            "UPCOMING:",
             upcoming_count
         )
 
         print(
-            "Ended matches:",
+            "ENDED:",
             ended_count
         )
 
         print(
-            "DRM streams converted:",
+            "DRM converted:",
             drm_count
         )
 
         print(
-            "Successfully saved data to:",
+            "Output file:",
             output_file
         )
+
+        print("=" * 70)
+        print("SPORTS DATA UPDATE SUCCESS")
+        print("=" * 70)
 
         return 0
 
