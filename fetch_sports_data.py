@@ -3,6 +3,7 @@
 import json
 import sys
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -12,6 +13,12 @@ SOURCE_URL = (
     "sm-monirulislam/Upcoming-and-Live-Sports-Data/"
     "refs/heads/main/Sports_data.json"
 )
+
+# Bangladesh Time
+BD_TIMEZONE = ZoneInfo("Asia/Dhaka")
+
+# Source event time format
+EVENT_TIME_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 
 
 def fetch_data():
@@ -43,33 +50,193 @@ def find_matches(data):
     return []
 
 
-def is_live(match):
+def get_source_status(match):
+    """
+    Get original status from source API.
+    """
+
     if not isinstance(match, dict):
-        return False
+        return ""
 
-    for key in (
-        "live",
-        "isLive",
-        "is_live"
-    ):
-        if isinstance(match.get(key), bool):
-            return match[key]
-
-    status = str(
+    return str(
         match.get(
             "status",
             match.get("match_status", "")
         )
-    ).strip().lower()
+    ).strip().upper()
 
-    return status in {
-        "live",
-        "inplay",
-        "in-play",
-        "ongoing",
-        "started",
-        "playing"
-    }
+
+def parse_event_start_time(match):
+    """
+    Read eventInfo.startTime.
+
+    Expected format:
+
+        14/09/2026 05:00:00 AM
+
+    Returns timezone-aware Bangladesh datetime.
+    """
+
+    if not isinstance(match, dict):
+        return None
+
+    event_info = match.get("eventInfo")
+
+    if not isinstance(event_info, dict):
+        return None
+
+    start_time = event_info.get("startTime")
+
+    if not start_time:
+        return None
+
+    try:
+        parsed = datetime.strptime(
+            str(start_time).strip(),
+            EVENT_TIME_FORMAT
+        )
+
+        return parsed.replace(
+            tzinfo=BD_TIMEZONE
+        )
+
+    except (ValueError, TypeError):
+        return None
+
+
+def update_match_status(match, now_bd):
+    """
+    Final status logic:
+
+    1. If source says ENDED:
+           ENDED
+
+    2. If event date is already over:
+           ENDED
+
+    3. If start time has not arrived:
+           UPCOMING
+
+    4. If start time has arrived:
+           LIVE
+    """
+
+    if not isinstance(match, dict):
+        return "UPCOMING"
+
+    source_status = get_source_status(match)
+
+    # --------------------------------------------------
+    # Priority 1:
+    # If main/source API explicitly says ENDED,
+    # always keep it ENDED.
+    # --------------------------------------------------
+    if source_status == "ENDED":
+        match["status"] = "ENDED"
+        return "ENDED"
+
+    # --------------------------------------------------
+    # Get event start time
+    # --------------------------------------------------
+    start_time = parse_event_start_time(match)
+
+    # --------------------------------------------------
+    # If start time cannot be parsed,
+    # safely use source status.
+    # --------------------------------------------------
+    if start_time is None:
+
+        if source_status in {
+            "LIVE",
+            "INPLAY",
+            "IN-PLAY",
+            "ONGOING",
+            "STARTED",
+            "PLAYING"
+        }:
+            match["status"] = "LIVE"
+            return "LIVE"
+
+        if source_status in {
+            "UPCOMING",
+            "SCHEDULED",
+            "NOT STARTED"
+        }:
+            match["status"] = "UPCOMING"
+            return "UPCOMING"
+
+        # Unknown status fallback
+        match["status"] = source_status or "UPCOMING"
+
+        return match["status"]
+
+    # --------------------------------------------------
+    # Event date is already finished.
+    #
+    # Example:
+    #
+    # Event = 14/09/2026
+    # Today = 15/09/2026
+    #
+    # Automatically ENDED.
+    # --------------------------------------------------
+    if now_bd.date() > start_time.date():
+
+        match["status"] = "ENDED"
+
+        return "ENDED"
+
+    # --------------------------------------------------
+    # Same date:
+    #
+    # Before start time = UPCOMING
+    # Start time reached = LIVE
+    # --------------------------------------------------
+    if now_bd < start_time:
+
+        match["status"] = "UPCOMING"
+
+        return "UPCOMING"
+
+    # Start time has arrived
+    match["status"] = "LIVE"
+
+    return "LIVE"
+
+
+def update_all_match_statuses(matches):
+    """
+    Recalculate status for every match
+    using Bangladesh current time.
+    """
+
+    now_bd = datetime.now(BD_TIMEZONE)
+
+    live_count = 0
+    upcoming_count = 0
+    ended_count = 0
+
+    for match in matches:
+
+        status = update_match_status(
+            match,
+            now_bd
+        )
+
+        if status == "LIVE":
+            live_count += 1
+
+        elif status == "UPCOMING":
+            upcoming_count += 1
+
+        elif status == "ENDED":
+            ended_count += 1
+
+    return (
+        live_count,
+        upcoming_count,
+        ended_count
+    )
 
 
 def convert_drm_keys(data):
@@ -145,11 +312,11 @@ def main():
         else "sports_data.json"
     )
 
+    now_bd = datetime.now(BD_TIMEZONE)
+
     print(
-        "Fetch start time:",
-        datetime.now(timezone.utc)
-        .astimezone()
-        .isoformat(timespec="seconds")
+        "Fetch start time (Bangladesh):",
+        now_bd.isoformat(timespec="seconds")
     )
 
     try:
@@ -165,20 +332,34 @@ def main():
         matches = find_matches(data)
 
         # -----------------------------------------
-        # 3. Convert DRM
+        # 3. Update match status using time
+        # -----------------------------------------
+        (
+            live_count,
+            upcoming_count,
+            ended_count
+        ) = update_all_match_statuses(matches)
+
+        # -----------------------------------------
+        # 4. Convert DRM
         # -----------------------------------------
         drm_count = convert_drm_keys(data)
 
         # -----------------------------------------
-        # 4. Count live matches
+        # 5. Update top-level statistics
         # -----------------------------------------
-        live_count = sum(
-            is_live(match)
-            for match in matches
-        )
+        if isinstance(data, dict):
+
+            data["total_matches"] = len(matches)
+
+            data["live_match"] = live_count
+
+            data["last_update_time"] = now_bd.strftime(
+                "%I:%M:%S %p %d-%m-%Y"
+            )
 
         # -----------------------------------------
-        # 5. Save final JSON
+        # 6. Save final JSON
         # -----------------------------------------
         with open(
             output_file,
@@ -196,7 +377,7 @@ def main():
             f.write("\n")
 
         # -----------------------------------------
-        # 6. GitHub Actions log
+        # 7. GitHub Actions log
         # -----------------------------------------
         print(
             "Total number of matches:",
@@ -204,8 +385,18 @@ def main():
         )
 
         print(
-            "Number of live matches:",
+            "Live matches:",
             live_count
+        )
+
+        print(
+            "Upcoming matches:",
+            upcoming_count
+        )
+
+        print(
+            "Ended matches:",
+            ended_count
         )
 
         print(
