@@ -776,6 +776,50 @@ def add_manual_streams(
 
     return added_count
 
+# ============================================================
+# REMOVE EMPTY STREAM URLs
+# ============================================================
+
+def remove_empty_stream_urls(matches):
+    removed_count = 0
+
+    for match in matches:
+        if not isinstance(match, dict):
+            continue
+
+        streams = match.get("streams", [])
+
+        if not isinstance(streams, list):
+            continue
+
+        valid_streams = []
+
+        for stream in streams:
+            if not isinstance(stream, dict):
+                continue
+
+            stream_url = str(
+                stream.get("stream_url", "")
+            ).strip()
+
+            # Empty URL হলে বাদ যাবে
+            if not stream_url:
+                removed_count += 1
+
+                print(
+                    f"[AUTO REMOVE] Empty stream URL | "
+                    f"{get_event_name(match)} | "
+                    f"{stream.get('channel_name', 'Unknown Stream')}"
+                )
+
+                continue
+
+            valid_streams.append(stream)
+
+        match["streams"] = valid_streams
+
+    return removed_count
+
 
 # ============================================================
 # ADD MANUAL EVENTS
@@ -1017,6 +1061,7 @@ def main():
             )
         )
 
+
         # ----------------------------------------------------
         # ADD NEW EVENTS
         # ----------------------------------------------------
@@ -1026,6 +1071,15 @@ def main():
                 matches,
                 manual_control
             )
+        )
+
+
+        # ----------------------------------------------------
+        # REMOVE EMPTY STREAM URLs
+        # ----------------------------------------------------
+
+        empty_streams_removed = (
+            remove_empty_stream_urls(matches)
         )
 
         # ----------------------------------------------------
@@ -1151,6 +1205,11 @@ def main():
         print(
             "Events added:",
             added_events
+        )
+
+        print(
+            "Empty streams removed:",
+            empty_streams_removed
         )
 
         print(
