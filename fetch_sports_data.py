@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 
+import copy
+import hashlib
 import json
+import re
 import sys
-from copy import deepcopy
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
+
+# ============================================================
+# CONFIG
+# ============================================================
 
 SOURCE_URL = (
     "https://raw.githubusercontent.com/"
@@ -18,16 +24,14 @@ SOURCE_URL = (
 MANUAL_CONTROL_FILE = "manual_control.json"
 
 BD_TIMEZONE = ZoneInfo("Asia/Dhaka")
-
 EVENT_TIME_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 
 
-# =========================================================
-# FETCH SOURCE API
-# =========================================================
+# ============================================================
+# FETCH MAIN API
+# ============================================================
 
 def fetch_data():
-
     req = Request(
         SOURCE_URL,
         headers={
@@ -39,136 +43,221 @@ def fetch_data():
         return json.load(response)
 
 
-# =========================================================
-# LOAD MANUAL CONTROL
-# =========================================================
-
-def load_manual_control():
-
-    try:
-
-        with open(
-            MANUAL_CONTROL_FILE,
-            "r",
-            encoding="utf-8"
-        ) as f:
-
-            data = json.load(f)
-
-        if not isinstance(data, dict):
-            return {}
-
-        return data
-
-    except FileNotFoundError:
-
-        print(
-            "WARNING: manual_control.json not found."
-        )
-
-        return {}
-
-    except json.JSONDecodeError as exc:
-
-        raise RuntimeError(
-            f"Invalid manual_control.json: {exc}"
-        )
-
-
-# =========================================================
+# ============================================================
 # FIND MATCHES
-# =========================================================
+# ============================================================
 
 def find_matches(data):
-
     if isinstance(data, list):
         return data
 
     if isinstance(data, dict):
-
         for key in (
             "matches",
             "events",
             "data",
             "sports"
         ):
-
-            if isinstance(
-                data.get(key),
-                list
-            ):
+            if isinstance(data.get(key), list):
                 return data[key]
 
     return []
 
 
-# =========================================================
-# EVENT ID
-# =========================================================
+# ============================================================
+# TEXT NORMALIZER
+# ============================================================
 
-def get_event_id(match):
-
-    if not isinstance(match, dict):
+def normalize_text(value):
+    if value is None:
         return ""
 
-    # Prefer id
-    event_id = match.get("id")
+    value = str(value).strip().lower()
 
-    if event_id is not None:
-        return str(event_id).strip()
+    # Remove extra spaces
+    value = re.sub(r"\s+", " ", value)
 
+    # Normalize common Vs variations
+    value = re.sub(r"\s+vs\.?\s+", " vs ", value)
+
+    # Remove punctuation
+    value = re.sub(r"[^a-z0-9\s]", "", value)
+
+    # Remove duplicate spaces again
+    value = re.sub(r"\s+", " ", value).strip()
+
+    return value
+
+
+# ============================================================
+# AUTO EVENT ID
+# ============================================================
+
+def generate_event_id(match):
+    """
+    Main API তে id না থাকলেও এখানে automatically
+    stable deterministic ID তৈরি হবে।
+
+    Primary identity:
+        Category
+        teamA
+        teamB
+        eventName
+
+    যদি এগুলো খুব generic/empty হয়,
+    event_name + startTime fallback হিসেবে ব্যবহার হবে।
+    """
+
+    if not isinstance(match, dict):
+        return "evt_unknown"
+
+    category = normalize_text(
+        match.get("Category", match.get("category", ""))
+    )
+
+    event_name = normalize_text(
+        match.get("event_name", match.get("eventName", ""))
+    )
+
+    event_info = match.get("eventInfo", {})
+
+    if not isinstance(event_info, dict):
+        event_info = {}
+
+    team_a = normalize_text(
+        event_info.get("teamA", "")
+    )
+
+    team_b = normalize_text(
+        event_info.get("teamB", "")
+    )
+
+    tournament_name = normalize_text(
+        event_info.get("eventName", "")
+    )
+
+    start_time = normalize_text(
+        event_info.get("startTime", "")
+    )
+
+    # --------------------------------------------------------
+    # Primary identity
+    # --------------------------------------------------------
+
+    identity_parts = [
+        category,
+        team_a,
+        team_b,
+        tournament_name
+    ]
+
+    identity = "|".join(
+        part for part in identity_parts
+        if part
+    )
+
+    # --------------------------------------------------------
     # Fallback
-    event_id = match.get("event_id")
+    # --------------------------------------------------------
 
-    if event_id is not None:
-        return str(event_id).strip()
+    if not identity:
+        identity = "|".join(
+            part for part in [
+                category,
+                event_name,
+                start_time
+            ]
+            if part
+        )
 
-    return ""
+    if not identity:
+        identity = "unknown_event"
+
+    # --------------------------------------------------------
+    # SHA256 short ID
+    # --------------------------------------------------------
+
+    hash_id = hashlib.sha256(
+        identity.encode("utf-8")
+    ).hexdigest()[:12]
+
+    return f"evt_{hash_id}"
 
 
-# =========================================================
+# ============================================================
+# ASSIGN IDS TO ALL EVENTS
+# ============================================================
+
+def assign_event_ids(matches):
+    used_ids = set()
+    generated_count = 0
+
+    for index, match in enumerate(matches):
+        if not isinstance(match, dict):
+            continue
+
+        existing_id = match.get("id")
+
+        if existing_id:
+            event_id = str(existing_id).strip()
+        else:
+            event_id = generate_event_id(match)
+            generated_count += 1
+
+        # ----------------------------------------------------
+        # Duplicate protection
+        # ----------------------------------------------------
+
+        original_id = event_id
+        counter = 2
+
+        while event_id in used_ids:
+            event_id = f"{original_id}_{counter}"
+            counter += 1
+
+        match["id"] = event_id
+        used_ids.add(event_id)
+
+    return generated_count
+
+
+# ============================================================
 # EVENT NAME
-# =========================================================
+# ============================================================
 
 def get_event_name(match):
-
     if not isinstance(match, dict):
         return "Unknown Event"
 
     return str(
         match.get(
             "event_name",
-            "Unknown Event"
+            match.get("eventName", "Unknown Event")
         )
     ).strip()
 
 
-# =========================================================
+# ============================================================
 # SOURCE STATUS
-# =========================================================
+# ============================================================
 
 def get_source_status(match):
-
     if not isinstance(match, dict):
         return ""
 
     return str(
         match.get(
             "status",
-            match.get(
-                "match_status",
-                ""
-            )
+            match.get("match_status", "")
         )
     ).strip().upper()
 
 
-# =========================================================
-# PARSE START TIME
-# =========================================================
+# ============================================================
+# START TIME PARSER
+# ============================================================
 
 def parse_event_start_time(match):
-
     if not isinstance(match, dict):
         return None
 
@@ -183,7 +272,6 @@ def parse_event_start_time(match):
         return None
 
     try:
-
         parsed = datetime.strptime(
             str(start_time).strip(),
             EVENT_TIME_FORMAT
@@ -193,86 +281,57 @@ def parse_event_start_time(match):
             tzinfo=BD_TIMEZONE
         )
 
-    except (
-        ValueError,
-        TypeError
-    ):
-
+    except (ValueError, TypeError):
         return None
 
 
-# =========================================================
-# MANUAL REMOVE EVENT
-# =========================================================
+# ============================================================
+# MANUAL CONTROL LOADER
+# ============================================================
 
-def remove_manual_events(
-    matches,
-    manual_control
-):
+def load_manual_control():
+    try:
+        with open(
+            MANUAL_CONTROL_FILE,
+            "r",
+            encoding="utf-8"
+        ) as f:
+            data = json.load(f)
 
-    remove_events = manual_control.get(
-        "remove_events",
-        []
-    )
+        if not isinstance(data, dict):
+            return {}
 
-    if not isinstance(
-        remove_events,
-        list
-    ):
-        return matches
+        return data
 
-    remove_ids = {
-        str(event_id).strip()
-        for event_id in remove_events
-        if str(event_id).strip()
-    }
+    except FileNotFoundError:
+        print(
+            f"[MANUAL] {MANUAL_CONTROL_FILE} not found. "
+            "Using empty manual control."
+        )
+        return {}
 
-    if not remove_ids:
-        return matches
-
-    original_count = len(matches)
-
-    filtered = []
-
-    for match in matches:
-
-        event_id = get_event_id(match)
-
-        if event_id in remove_ids:
-
-            print(
-                f"[REMOVE EVENT] "
-                f"{get_event_name(match)} "
-                f"(ID={event_id})"
-            )
-
-            continue
-
-        filtered.append(match)
-
-    removed_count = (
-        original_count -
-        len(filtered)
-    )
-
-    print(
-        "Manual events removed:",
-        removed_count
-    )
-
-    return filtered
+    except json.JSONDecodeError as exc:
+        print(
+            f"[MANUAL] Invalid JSON in "
+            f"{MANUAL_CONTROL_FILE}: {exc}"
+        )
+        return {}
 
 
-# =========================================================
-# MANUAL STATUS OVERRIDE
-# =========================================================
+# ============================================================
+# STATUS OVERRIDE
+# ============================================================
 
 def apply_status_override(
     match,
     manual_control
 ):
+    if not isinstance(match, dict):
+        return False
 
-    event_id = get_event_id(match)
+    event_id = str(
+        match.get("id", "")
+    ).strip()
 
     if not event_id:
         return False
@@ -282,79 +341,61 @@ def apply_status_override(
         {}
     )
 
-    if not isinstance(
-        overrides,
-        dict
-    ):
+    if not isinstance(overrides, dict):
         return False
 
     if event_id not in overrides:
         return False
 
-    status = str(
+    new_status = str(
         overrides[event_id]
     ).strip().upper()
 
-    if status not in {
-        "LIVE",
-        "UPCOMING",
-        "ENDED"
-    }:
-
-        print(
-            f"[WARNING] Invalid manual status "
-            f"for {get_event_name(match)}: "
-            f"{status}"
-        )
-
+    if not new_status:
         return False
 
-    match["status"] = status
+    match["status"] = new_status
 
     print(
         f"[MANUAL STATUS] "
-        f"{get_event_name(match)} "
-        f"(ID={event_id}) "
-        f"→ {status}"
+        f"{event_id} | "
+        f"{get_event_name(match)} | "
+        f"Status={new_status}"
     )
 
     return True
 
 
-# =========================================================
-# AUTOMATIC STATUS
-# =========================================================
+# ============================================================
+# UPDATE MATCH STATUS
+# ============================================================
 
 def update_match_status(
     match,
     now_bd,
     manual_control
 ):
-
     if not isinstance(match, dict):
         return "UPCOMING"
 
     event_name = get_event_name(match)
-
     source_status = get_source_status(match)
 
-    # -----------------------------------------------------
-    # MANUAL STATUS OVERRIDE
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 1. Manual status override has highest priority
+    # --------------------------------------------------------
 
     if apply_status_override(
         match,
         manual_control
     ):
-
         return match["status"]
 
-    # -----------------------------------------------------
-    # SOURCE ENDED
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 2. Source says ENDED
+    # --------------------------------------------------------
 
     if source_status == "ENDED":
-
         match["status"] = "ENDED"
 
         print(
@@ -365,17 +406,15 @@ def update_match_status(
 
         return "ENDED"
 
-    # -----------------------------------------------------
-    # START TIME
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 3. Parse event start time
+    # --------------------------------------------------------
 
-    start_time = parse_event_start_time(
-        match
-    )
+    start_time = parse_event_start_time(match)
 
-    # -----------------------------------------------------
-    # INVALID / MISSING START TIME
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 4. No start time
+    # --------------------------------------------------------
 
     if start_time is None:
 
@@ -387,16 +426,7 @@ def update_match_status(
             "STARTED",
             "PLAYING"
         }:
-
             match["status"] = "LIVE"
-
-            print(
-                f"[STATUS] {event_name} | "
-                f"Start=MISSING | "
-                f"Source={source_status} | "
-                f"Final=LIVE"
-            )
-
             return "LIVE"
 
         if source_status in {
@@ -404,102 +434,66 @@ def update_match_status(
             "SCHEDULED",
             "NOT STARTED"
         }:
-
             match["status"] = "UPCOMING"
-
-            print(
-                f"[STATUS] {event_name} | "
-                f"Start=MISSING | "
-                f"Source={source_status} | "
-                f"Final=UPCOMING"
-            )
-
             return "UPCOMING"
 
         match["status"] = (
-            source_status or
-            "UPCOMING"
+            source_status or "UPCOMING"
         )
 
         return match["status"]
 
-    # -----------------------------------------------------
-    # PREVIOUS DATE
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 5. Previous calendar date = ENDED
+    # --------------------------------------------------------
 
     if now_bd.date() > start_time.date():
-
         match["status"] = "ENDED"
 
         print(
             f"[STATUS] {event_name} | "
-            f"Start={start_time} | "
-            f"Now={now_bd} | "
+            f"Start={start_time.strftime('%d/%m/%Y %I:%M:%S %p')} | "
             f"Final=ENDED"
         )
 
         return "ENDED"
 
-    # -----------------------------------------------------
-    # FUTURE DATE
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 6. Future date = UPCOMING
+    # --------------------------------------------------------
 
     if now_bd.date() < start_time.date():
-
         match["status"] = "UPCOMING"
-
-        print(
-            f"[STATUS] {event_name} | "
-            f"Start={start_time} | "
-            f"Now={now_bd} | "
-            f"Final=UPCOMING"
-        )
 
         return "UPCOMING"
 
-    # -----------------------------------------------------
-    # SAME DATE - BEFORE START
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 7. Same date but before start
+    # --------------------------------------------------------
 
     if now_bd < start_time:
-
         match["status"] = "UPCOMING"
-
-        print(
-            f"[STATUS] {event_name} | "
-            f"Start={start_time} | "
-            f"Now={now_bd} | "
-            f"Final=UPCOMING"
-        )
 
         return "UPCOMING"
 
-    # -----------------------------------------------------
-    # SAME DATE - STARTED
-    # -----------------------------------------------------
+    # --------------------------------------------------------
+    # 8. Same date and start time reached = LIVE
+    # --------------------------------------------------------
 
     match["status"] = "LIVE"
-
-    print(
-        f"[STATUS] {event_name} | "
-        f"Start={start_time} | "
-        f"Now={now_bd} | "
-        f"Final=LIVE"
-    )
 
     return "LIVE"
 
 
-# =========================================================
+# ============================================================
 # UPDATE ALL STATUSES
-# =========================================================
+# ============================================================
 
 def update_all_match_statuses(
     matches,
     now_bd,
     manual_control
 ):
-
     live_count = 0
     upcoming_count = 0
     ended_count = 0
@@ -513,15 +507,12 @@ def update_all_match_statuses(
         )
 
         if status == "LIVE":
-
             live_count += 1
 
         elif status == "UPCOMING":
-
             upcoming_count += 1
 
         elif status == "ENDED":
-
             ended_count += 1
 
     return (
@@ -531,52 +522,173 @@ def update_all_match_statuses(
     )
 
 
-# =========================================================
+# ============================================================
+# REMOVE EVENTS
+# ============================================================
+
+def remove_manual_events(
+    matches,
+    manual_control
+):
+    remove_ids = manual_control.get(
+        "remove_events",
+        []
+    )
+
+    if not isinstance(remove_ids, list):
+        return matches, 0
+
+    remove_ids = {
+        str(event_id).strip()
+        for event_id in remove_ids
+        if str(event_id).strip()
+    }
+
+    if not remove_ids:
+        return matches, 0
+
+    original_count = len(matches)
+
+    matches = [
+        match
+        for match in matches
+        if not (
+            isinstance(match, dict)
+            and str(
+                match.get("id", "")
+            ).strip() in remove_ids
+        )
+    ]
+
+    removed_count = (
+        original_count - len(matches)
+    )
+
+    if removed_count:
+        print(
+            f"[MANUAL] Events removed: "
+            f"{removed_count}"
+        )
+
+    return matches, removed_count
+
+
+# ============================================================
 # REMOVE STREAMS
-# =========================================================
+# ============================================================
 
 def remove_manual_streams(
     matches,
     manual_control
 ):
-
     remove_streams = manual_control.get(
         "remove_streams",
         {}
     )
 
-    if not isinstance(
-        remove_streams,
-        dict
-    ):
+    if not isinstance(remove_streams, dict):
         return 0
 
     removed_count = 0
 
     for match in matches:
 
-        event_id = get_event_id(match)
-
-        if not event_id:
+        if not isinstance(match, dict):
             continue
 
-        stream_names = remove_streams.get(
-            event_id,
+        event_id = str(
+            match.get("id", "")
+        ).strip()
+
+        if event_id not in remove_streams:
+            continue
+
+        stream_names = remove_streams[event_id]
+
+        if not isinstance(stream_names, list):
+            continue
+
+        stream_names = {
+            str(name).strip().lower()
+            for name in stream_names
+            if str(name).strip()
+        }
+
+        streams = match.get(
+            "streams",
             []
         )
 
-        if not isinstance(
-            stream_names,
-            list
-        ):
+        if not isinstance(streams, list):
             continue
 
-        stream_names_set = {
-            str(name).strip().lower()
-            for name in stream_names
-        }
+        original_count = len(streams)
 
-        if not stream_names_set:
+        match["streams"] = [
+            stream
+            for stream in streams
+            if not (
+                isinstance(stream, dict)
+                and str(
+                    stream.get(
+                        "channel_name",
+                        stream.get(
+                            "channelName",
+                            ""
+                        )
+                    )
+                ).strip().lower()
+                in stream_names
+            )
+        ]
+
+        removed_count += (
+            original_count -
+            len(match["streams"])
+        )
+
+    if removed_count:
+        print(
+            f"[MANUAL] Streams removed: "
+            f"{removed_count}"
+        )
+
+    return removed_count
+
+
+# ============================================================
+# ADD MANUAL STREAMS
+# ============================================================
+
+def add_manual_streams(
+    matches,
+    manual_control
+):
+    add_streams = manual_control.get(
+        "add_streams",
+        {}
+    )
+
+    if not isinstance(add_streams, dict):
+        return 0
+
+    added_count = 0
+
+    for match in matches:
+
+        if not isinstance(match, dict):
+            continue
+
+        event_id = str(
+            match.get("id", "")
+        ).strip()
+
+        if event_id not in add_streams:
+            continue
+
+        new_streams = add_streams[event_id]
+
+        if not isinstance(new_streams, list):
             continue
 
         streams = match.get(
@@ -584,294 +696,182 @@ def remove_manual_streams(
             []
         )
 
-        if not isinstance(
-            streams,
-            list
-        ):
-            continue
+        if not isinstance(streams, list):
+            streams = []
 
-        new_streams = []
-
-        for stream in streams:
-
-            if not isinstance(
-                stream,
-                dict
-            ):
-
-                new_streams.append(stream)
-                continue
-
-            channel_name = str(
-                stream.get(
-                    "channel_name",
-                    ""
-                )
-            ).strip().lower()
-
-            if channel_name in stream_names_set:
-
-                print(
-                    f"[REMOVE STREAM] "
-                    f"{get_event_name(match)} | "
-                    f"{channel_name}"
-                )
-
-                removed_count += 1
-
-                continue
-
-            new_streams.append(stream)
-
-        match["streams"] = new_streams
-
-    return removed_count
-
-
-# =========================================================
-# ADD STREAMS
-# =========================================================
-
-def add_manual_streams(
-    matches,
-    manual_control
-):
-
-    add_streams = manual_control.get(
-        "add_streams",
-        {}
-    )
-
-    if not isinstance(
-        add_streams,
-        dict
-    ):
-        return 0
-
-    added_count = 0
-
-    for match in matches:
-
-        event_id = get_event_id(match)
-
-        if not event_id:
-            continue
-
-        streams_to_add = add_streams.get(
-            event_id,
-            []
-        )
-
-        if not isinstance(
-            streams_to_add,
-            list
-        ):
-            continue
-
-        if not streams_to_add:
-            continue
-
-        if not isinstance(
-            match.get("streams"),
-            list
-        ):
-
-            match["streams"] = []
-
-        existing_streams = match["streams"]
-
-        # Existing channel names
         existing_names = {
             str(
                 stream.get(
                     "channel_name",
-                    ""
+                    stream.get(
+                        "channelName",
+                        ""
+                    )
                 )
             ).strip().lower()
-
-            for stream in existing_streams
-
-            if isinstance(
-                stream,
-                dict
-            )
+            for stream in streams
+            if isinstance(stream, dict)
         }
 
-        for stream in streams_to_add:
+        for new_stream in new_streams:
 
             if not isinstance(
-                stream,
+                new_stream,
                 dict
             ):
                 continue
 
             channel_name = str(
-                stream.get(
+                new_stream.get(
                     "channel_name",
                     ""
                 )
             ).strip()
 
             stream_url = str(
-                stream.get(
+                new_stream.get(
                     "stream_url",
                     ""
                 )
             ).strip()
 
+            # Empty URL add করা হবে না
             if not channel_name:
-
-                print(
-                    "[WARNING] Manual stream "
-                    "without channel_name skipped."
-                )
-
                 continue
 
             if not stream_url:
-
                 print(
-                    f"[WARNING] Manual stream "
-                    f"{channel_name} has empty URL. "
-                    f"Skipped."
-                )
-
-                continue
-
-            name_key = channel_name.lower()
-
-            # Prevent duplicate channel
-            if name_key in existing_names:
-
-                print(
-                    f"[MANUAL STREAM EXISTS] "
-                    f"{get_event_name(match)} | "
+                    f"[MANUAL] Skipped empty URL: "
                     f"{channel_name}"
                 )
-
                 continue
 
-            existing_streams.append(
-                deepcopy(stream)
+            if (
+                channel_name.lower()
+                in existing_names
+            ):
+                print(
+                    f"[MANUAL] Stream already exists: "
+                    f"{channel_name}"
+                )
+                continue
+
+            streams.append(
+                copy.deepcopy(new_stream)
             )
 
             existing_names.add(
-                name_key
+                channel_name.lower()
             )
 
             added_count += 1
 
             print(
-                f"[ADD STREAM] "
-                f"{get_event_name(match)} | "
+                f"[MANUAL] Stream added | "
+                f"{event_id} | "
                 f"{channel_name}"
             )
+
+        match["streams"] = streams
 
     return added_count
 
 
-# =========================================================
-# ADD NEW EVENTS
-# =========================================================
+# ============================================================
+# ADD MANUAL EVENTS
+# ============================================================
 
 def add_manual_events(
     matches,
     manual_control
 ):
-
     add_events = manual_control.get(
         "add_events",
         []
     )
 
-    if not isinstance(
-        add_events,
-        list
-    ):
+    if not isinstance(add_events, list):
         return 0
 
     existing_ids = {
-        get_event_id(match)
+        str(
+            match.get("id", "")
+        ).strip()
         for match in matches
-        if get_event_id(match)
+        if isinstance(match, dict)
     }
 
     added_count = 0
 
     for event in add_events:
 
-        if not isinstance(
-            event,
-            dict
-        ):
+        if not isinstance(event, dict):
             continue
 
-        event_id = get_event_id(
-            event
-        )
+        event = copy.deepcopy(event)
+
+        event_id = str(
+            event.get("id", "")
+        ).strip()
+
+        # ----------------------------------------------------
+        # Manual event ID না দিলে auto generate
+        # ----------------------------------------------------
 
         if not event_id:
-
-            print(
-                "[WARNING] Manual event "
-                "without id skipped."
+            event_id = generate_event_id(
+                event
             )
 
-            continue
+        original_id = event_id
+        counter = 2
 
-        if event_id in existing_ids:
-
-            print(
-                f"[MANUAL EVENT EXISTS] "
-                f"{get_event_name(event)} "
-                f"(ID={event_id})"
+        while event_id in existing_ids:
+            event_id = (
+                f"{original_id}_manual_{counter}"
             )
+            counter += 1
 
-            continue
+        event["id"] = event_id
 
-        # Ensure streams exists
-        if not isinstance(
-            event.get("streams"),
-            list
-        ):
+        # ----------------------------------------------------
+        # Streams ensure list
+        # ----------------------------------------------------
 
+        streams = event.get(
+            "streams",
+            []
+        )
+
+        if not isinstance(streams, list):
             event["streams"] = []
 
-        matches.append(
-            deepcopy(event)
-        )
-
-        existing_ids.add(
-            event_id
-        )
+        matches.append(event)
+        existing_ids.add(event_id)
 
         added_count += 1
 
         print(
-            f"[ADD EVENT] "
-            f"{get_event_name(event)} "
-            f"(ID={event_id})"
+            f"[MANUAL] Event added | "
+            f"{event_id} | "
+            f"{get_event_name(event)}"
         )
 
     return added_count
 
 
-# =========================================================
-# DRM CONVERSION
-# =========================================================
+# ============================================================
+# DRM KEY CONVERSION
+# ============================================================
 
 def convert_drm_keys(data):
-
     matches = find_matches(data)
 
     converted_count = 0
 
     for match in matches:
 
-        if not isinstance(
-            match,
-            dict
-        ):
+        if not isinstance(match, dict):
             continue
 
         streams = match.get(
@@ -879,18 +879,12 @@ def convert_drm_keys(data):
             []
         )
 
-        if not isinstance(
-            streams,
-            list
-        ):
+        if not isinstance(streams, list):
             continue
 
         for stream in streams:
 
-            if not isinstance(
-                stream,
-                dict
-            ):
+            if not isinstance(stream, dict):
                 continue
 
             kid = stream.get("kid")
@@ -898,10 +892,8 @@ def convert_drm_keys(data):
 
             if (
                 kid is not None
-                and
-                key is not None
+                and key is not None
             ):
-
                 kid = str(kid).strip()
                 key = str(key).strip()
 
@@ -926,9 +918,9 @@ def convert_drm_keys(data):
     return converted_count
 
 
-# =========================================================
+# ============================================================
 # MAIN
-# =========================================================
+# ============================================================
 
 def main():
 
@@ -943,25 +935,20 @@ def main():
     )
 
     print("=" * 70)
-
-    print(
-        "SPORTS DATA UPDATE START"
-    )
-
+    print("SPORTS DATA UPDATE START")
     print(
         "Bangladesh Time:",
         now_bd.strftime(
             "%d/%m/%Y %I:%M:%S %p"
         )
     )
-
     print("=" * 70)
 
     try:
 
-        # -------------------------------------------------
-        # 1. Fetch Main API
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # FETCH SOURCE
+        # ----------------------------------------------------
 
         data = fetch_data()
 
@@ -969,54 +956,48 @@ def main():
             "Main API fetched successfully."
         )
 
-        # -------------------------------------------------
-        # 2. Load Manual Control
-        # -------------------------------------------------
-
-        manual_control = (
-            load_manual_control()
-        )
-
-        print(
-            "Manual control loaded."
-        )
-
-        # -------------------------------------------------
-        # 3. Find Main API matches
-        # -------------------------------------------------
-
-        matches = find_matches(
-            data
-        )
+        matches = find_matches(data)
 
         print(
             "Main API matches:",
             len(matches)
         )
 
-        # -------------------------------------------------
-        # 4. Remove unwanted events
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # AUTO GENERATE EVENT IDS
+        # ----------------------------------------------------
 
-        matches = remove_manual_events(
-            matches,
-            manual_control
+        generated_ids = assign_event_ids(
+            matches
         )
 
-        # -------------------------------------------------
-        # 5. Add manual new events
-        # -------------------------------------------------
+        print(
+            "Auto generated IDs:",
+            generated_ids
+        )
 
-        manual_added_events = (
-            add_manual_events(
+        # ----------------------------------------------------
+        # LOAD MANUAL CONTROL
+        # ----------------------------------------------------
+
+        manual_control = (
+            load_manual_control()
+        )
+
+        # ----------------------------------------------------
+        # REMOVE EVENTS
+        # ----------------------------------------------------
+
+        matches, removed_events = (
+            remove_manual_events(
                 matches,
                 manual_control
             )
         )
 
-        # -------------------------------------------------
-        # 6. Remove manual streams
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # REMOVE STREAMS
+        # ----------------------------------------------------
 
         removed_streams = (
             remove_manual_streams(
@@ -1025,9 +1006,9 @@ def main():
             )
         )
 
-        # -------------------------------------------------
-        # 7. Add manual streams
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # ADD STREAMS
+        # ----------------------------------------------------
 
         added_streams = (
             add_manual_streams(
@@ -1036,9 +1017,26 @@ def main():
             )
         )
 
-        # -------------------------------------------------
-        # 8. Update status
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # ADD NEW EVENTS
+        # ----------------------------------------------------
+
+        added_events = (
+            add_manual_events(
+                matches,
+                manual_control
+            )
+        )
+
+        # ----------------------------------------------------
+        # Re-assign IDs after manual events
+        # ----------------------------------------------------
+
+        assign_event_ids(matches)
+
+        # ----------------------------------------------------
+        # UPDATE STATUS
+        # ----------------------------------------------------
 
         (
             live_count,
@@ -1050,22 +1048,22 @@ def main():
             manual_control
         )
 
-        # -------------------------------------------------
-        # 9. DRM conversion
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # DRM CONVERSION
+        # ----------------------------------------------------
+
+        if isinstance(data, dict):
+            data["matches"] = matches
 
         drm_count = convert_drm_keys(
             data
         )
 
-        # -------------------------------------------------
-        # 10. Top-level information
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # FINAL TOP LEVEL DATA
+        # ----------------------------------------------------
 
-        if isinstance(
-            data,
-            dict
-        ):
+        if isinstance(data, dict):
 
             data["matches"] = matches
 
@@ -1083,9 +1081,9 @@ def main():
                 )
             )
 
-        # -------------------------------------------------
-        # 11. Save final JSON
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # WRITE OUTPUT
+        # ----------------------------------------------------
 
         with open(
             output_file,
@@ -1102,11 +1100,10 @@ def main():
 
             f.write("\n")
 
-        # -------------------------------------------------
-        # 12. Final log
-        # -------------------------------------------------
+        # ----------------------------------------------------
+        # SUMMARY
+        # ----------------------------------------------------
 
-        print()
         print("=" * 70)
         print("FINAL SUMMARY")
         print("=" * 70)
@@ -1132,18 +1129,28 @@ def main():
         )
 
         print(
-            "Manual events added:",
-            manual_added_events
+            "Auto IDs:",
+            generated_ids
         )
 
         print(
-            "Manual streams added:",
+            "Events removed:",
+            removed_events
+        )
+
+        print(
+            "Streams removed:",
+            removed_streams
+        )
+
+        print(
+            "Streams added:",
             added_streams
         )
 
         print(
-            "Manual streams removed:",
-            removed_streams
+            "Events added:",
+            added_events
         )
 
         print(
@@ -1169,8 +1176,7 @@ def main():
         URLError,
         TimeoutError,
         json.JSONDecodeError,
-        OSError,
-        RuntimeError
+        OSError
     ) as exc:
 
         print(
@@ -1182,4 +1188,6 @@ def main():
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    raise SystemExit(
+        main()
+    )
