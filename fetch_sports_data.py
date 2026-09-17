@@ -33,15 +33,190 @@ EVENT_TIME_FORMAT = "%d/%m/%Y %I:%M:%S %p"
 # ============================================================
 
 def fetch_data():
+
+    print()
+    print("=" * 70)
+    print("FETCHING MAIN API")
+    print("=" * 70)
+
+    print("Source URL:")
+    print(SOURCE_URL)
+
     req = Request(
         SOURCE_URL,
         headers={
-            "User-Agent": "sports-data-fetcher/1.0"
-        }
+            "User-Agent": (
+                "Mozilla/5.0 "
+                "(Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 "
+                "(KHTML, like Gecko) "
+                "Chrome/140.0 Safari/537.36"
+            )
+        },
+        method="GET"
     )
 
-    with urlopen(req, timeout=30) as response:
-        return json.load(response)
+    try:
+
+        with urlopen(
+            req,
+            timeout=30
+        ) as response:
+
+            status_code = response.getcode()
+
+            print(
+                "HTTP Status:",
+                status_code
+            )
+
+            raw_data = response.read()
+
+            print(
+                "Response bytes:",
+                len(raw_data)
+            )
+
+            if not raw_data:
+
+                raise RuntimeError(
+                    "Main API returned EMPTY response."
+                )
+
+            try:
+
+                text = raw_data.decode(
+                    "utf-8-sig"
+                )
+
+            except UnicodeDecodeError as exc:
+
+                raise RuntimeError(
+                    f"Failed to decode API response: {exc}"
+                ) from exc
+
+            try:
+
+                data = json.loads(
+                    text
+                )
+
+            except json.JSONDecodeError as exc:
+
+                print()
+                print(
+                    "API response is NOT valid JSON."
+                )
+
+                print(
+                    "First 500 characters:"
+                )
+
+                print(
+                    repr(
+                        text[:500]
+                    )
+                )
+
+                raise RuntimeError(
+                    f"Invalid JSON from Main API: {exc}"
+                ) from exc
+
+            print(
+                "Main API JSON loaded successfully."
+            )
+
+            if isinstance(
+                data,
+                dict
+            ):
+
+                print(
+                    "Top-level keys:",
+                    list(data.keys())
+                )
+
+            elif isinstance(
+                data,
+                list
+            ):
+
+                print(
+                    "API returned a list."
+                )
+
+            else:
+
+                raise RuntimeError(
+                    "Main API returned unsupported JSON type."
+                )
+
+            print("=" * 70)
+            print()
+
+            return data
+
+    except HTTPError as exc:
+
+        print()
+        print("=" * 70)
+        print("HTTP ERROR")
+        print("=" * 70)
+
+        print(
+            "Status:",
+            exc.code
+        )
+
+        print(
+            "Reason:",
+            exc.reason
+        )
+
+        print(
+            "URL:",
+            SOURCE_URL
+        )
+
+        print("=" * 70)
+
+        raise
+
+    except URLError as exc:
+
+        print()
+        print("=" * 70)
+        print("URL ERROR")
+        print("=" * 70)
+
+        print(
+            "Reason:",
+            exc.reason
+        )
+
+        print(
+            "URL:",
+            SOURCE_URL
+        )
+
+        print("=" * 70)
+
+        raise
+
+    except TimeoutError:
+
+        print()
+        print("=" * 70)
+        print("TIMEOUT ERROR")
+        print("=" * 70)
+
+        print(
+            "Main API did not respond within 30 seconds."
+        )
+
+        print("=" * 70)
+
+        raise
 
 
 # ============================================================
@@ -1623,21 +1798,26 @@ def main():
         return 0
 
 
-    except (
-        HTTPError,
-        URLError,
-        TimeoutError,
-        json.JSONDecodeError,
-        OSError
-    ) as exc:
+        except Exception as exc:
+
+        print()
+        print("=" * 70)
+        print("SPORTS DATA UPDATE FAILED")
+        print("=" * 70)
 
         print(
-            f"ERROR: {exc}",
-            file=sys.stderr
+            "Error type:",
+            type(exc).__name__
         )
 
-        return 1
+        print(
+            "Error:",
+            str(exc)
+        )
 
+        print("=" * 70)
+
+        return 1
 
 # ============================================================
 # ENTRY POINT
