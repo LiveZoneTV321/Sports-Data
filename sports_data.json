@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:54:57 AM 19-09-2026",
+  "last_update_time": "04:07:40 AM 19-09-2026",
   "total_matches": 269,
   "live_match": 12,
   "matches": [
@@ -296,32 +296,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Wakefield Trinity Vs Leigh Leopards",
-      "eventInfo": {
-        "teamA": "Wakefield Trinity",
-        "teamB": "Leigh Leopards",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4273/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4235/image",
-        "eventName": "Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
-        "startTime": "19/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORT MIX HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/UNNNAAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_202bd79811ab"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Alianza Atlético de Sullana Vs Comerciantes Unidos",
       "eventInfo": {
@@ -372,6 +346,27 @@
       },
       "streams": [],
       "id": "evt_ff189ae4b471"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Independiente Petrolero Vs CD San Antonio",
+      "eventInfo": {
+        "teamA": "Club Independiente Petrolero",
+        "teamB": "CD San Antonio",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/372975/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/396625/image",
+        "eventName": "División Profesional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16736/image/dark",
+        "startTime": "19/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e7d6575ff10e"
     },
     {
       "status": "LIVE",
@@ -1651,27 +1646,6 @@
         }
       ],
       "id": "evt_7e76eefd94ac"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club Independiente Petrolero Vs CD San Antonio",
-      "eventInfo": {
-        "teamA": "Club Independiente Petrolero",
-        "teamB": "CD San Antonio",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/372975/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/396625/image",
-        "eventName": "División Profesional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/16736/image/dark",
-        "startTime": "19/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_e7d6575ff10e"
     },
     {
       "status": "UPCOMING",
@@ -5883,6 +5857,32 @@
       },
       "streams": [],
       "id": "evt_ca409592a551"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Wakefield Trinity Vs Leigh Leopards",
+      "eventInfo": {
+        "teamA": "Wakefield Trinity",
+        "teamB": "Leigh Leopards",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4273/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4235/image",
+        "eventName": "Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/302/image/dark",
+        "startTime": "19/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORT MIX HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/UNNNAAAAAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_202bd79811ab"
     },
     {
       "status": "ENDED",
