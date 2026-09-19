@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:54:15 PM 19-09-2026",
+  "last_update_time": "03:07:42 PM 19-09-2026",
   "total_matches": 260,
-  "live_match": 8,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -270,6 +270,75 @@
         }
       ],
       "id": "evt_5c15829b47ce"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Cronulla Sharks",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Cronulla Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
+        "eventName": "NRL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
+        "startTime": "19/09/2026 03:50:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        }
+      ],
+      "id": "evt_fc8826010a52"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Badalona Vs Real Sociedad",
+      "eventInfo": {
+        "teamA": "FC Badalona",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "19/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN2 ES HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
+        }
+      ],
+      "id": "evt_ede69f876e07"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Fiji Vs Japan",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
+        "eventName": "IRB Pacific Nations Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1738/image/dark",
+        "startTime": "19/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "SKY2 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
+        }
+      ],
+      "id": "evt_77f6f5564bfc"
     },
     {
       "status": "UPCOMING",
@@ -956,27 +1025,6 @@
         }
       ],
       "id": "evt_38ad778c6232"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Cronulla Sharks",
-      "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Cronulla Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "19/09/2026 03:50:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        }
-      ],
-      "id": "evt_fc8826010a52"
     },
     {
       "status": "UPCOMING",
@@ -3826,27 +3874,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "FC Badalona Vs Real Sociedad",
-      "eventInfo": {
-        "teamA": "FC Badalona",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77893/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "19/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN2 ES HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2es.m3u8"
-        }
-      ],
-      "id": "evt_ede69f876e07"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Real Madrid Vs Valencia",
       "eventInfo": {
         "teamA": "Real Madrid",
@@ -4620,33 +4647,6 @@
         }
       ],
       "id": "evt_d9b5f5599975"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Fiji Vs Japan",
-      "eventInfo": {
-        "teamA": "Fiji",
-        "teamB": "Japan",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7955/image",
-        "eventName": "IRB Pacific Nations Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1738/image/dark",
-        "startTime": "19/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "SKY2 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz5f5az.m3u8"
-        }
-      ],
-      "id": "evt_77f6f5564bfc"
     },
     {
       "status": "UPCOMING",
