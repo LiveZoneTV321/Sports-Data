@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:55:29 PM 19-09-2026",
+  "last_update_time": "05:07:59 PM 19-09-2026",
   "total_matches": 245,
-  "live_match": 21,
+  "live_match": 25,
   "matches": [
     {
       "status": "LIVE",
@@ -102,47 +102,39 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Hawthorn Hawks Vs Brisbane Lions",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
       "eventInfo": {
-        "teamA": "Hawthorn Hawks",
-        "teamB": "Brisbane Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4445/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-        "eventName": "AFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-        "startTime": "19/09/2026 01:15:00 PM"
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "19/09/2026 05:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "channel_name": "SKY3 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
         },
         {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/fsss.m3u8?",
+          "channel_name": "World Series Finals",
+          "stream_url": "http://193.47.62.52/hls/FYYYQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "ITV 4 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
+        },
+        {
+          "channel_name": "ITV SPORTS HD 4",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/itv4.m3u8"
         }
       ],
-      "id": "evt_7d87901f0fa0"
+      "id": "evt_bc2beb8eb4e5"
     },
     {
       "status": "LIVE",
@@ -192,6 +184,81 @@
         }
       ],
       "id": "evt_fc8826010a52"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Holstein Kiel Vs VfL Osnabrück",
+      "eventInfo": {
+        "teamA": "Holstein Kiel",
+        "teamB": "VfL Osnabrück",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+        },
+        {
+          "channel_name": "SKY5 BUNDESLIGA HD ",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        }
+      ],
+      "id": "evt_edb41e3c5862"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "1. FC Kaiserslautern Vs Eintracht Braunschweig",
+      "eventInfo": {
+        "teamA": "1. FC Kaiserslautern",
+        "teamB": "Eintracht Braunschweig",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
+        },
+        {
+          "channel_name": "Sky4 Bundesliga HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+        }
+      ],
+      "id": "evt_0f942bcbe5da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Karlsruher SC Vs 1. FC Nürnberg",
+      "eventInfo": {
+        "teamA": "Karlsruher SC",
+        "teamB": "1. FC Nürnberg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "19/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
+        },
+        {
+          "channel_name": "SKY3 BUNDESLIGA HD",
+          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
+        }
+      ],
+      "id": "evt_48612af77894"
     },
     {
       "status": "LIVE",
@@ -305,39 +372,24 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
+      "Category": "Rugby",
+      "event_name": "Cardiff Rugby Vs Exeter Chiefs",
       "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "Cardiff Rugby",
+        "teamB": "Exeter Chiefs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4215/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43335/image",
+        "eventName": "International Club Friendlies",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24076/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SKY3 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz7X8xg5fv5.m3u8"
-        },
-        {
-          "channel_name": "World Series Finals",
-          "stream_url": "http://193.47.62.52/hls/FYYYQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "ITV 4 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12"
-        },
-        {
-          "channel_name": "ITV SPORTS HD 4",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/itv4.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_bc2beb8eb4e5"
+      "id": "evt_38ad778c6232"
     },
     {
       "status": "LIVE",
@@ -360,6 +412,65 @@
         }
       ],
       "id": "evt_0088a4f78d51"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Osasuna Vs Rayo Vallecano",
+      "eventInfo": {
+        "teamA": "Osasuna",
+        "teamB": "Rayo Vallecano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "D SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "ARABIC 2",
+          "stream_url": "n"
+        }
+      ],
+      "id": "evt_57dc0cd2a959"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Sociedad B Vs Mallorca",
+      "eventInfo": {
+        "teamA": "Real Sociedad B",
+        "teamB": "Mallorca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_7d4526c177c0"
     },
     {
       "status": "LIVE",
@@ -397,77 +508,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Holstein Kiel Vs VfL Osnabrück",
+      "event_name": "FC Bayern München Vs 1. FC Köln",
       "eventInfo": {
-        "teamA": "Holstein Kiel",
-        "teamB": "VfL Osnabrück",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
+        "teamA": "FC Bayern München",
+        "teamB": "1. FC Köln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/229794/image",
+        "eventName": "Frauen-Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
+        "startTime": "19/09/2026 06:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1003/index.m3u8"
+          "channel_name": "DAZN1 DE HD..",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
         },
         {
-          "channel_name": "SKY5 BUNDESLIGA HD ",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
+          "channel_name": "DAZN2 DE HD..",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
         }
       ],
-      "id": "evt_edb41e3c5862"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Kaiserslautern Vs Eintracht Braunschweig",
-      "eventInfo": {
-        "teamA": "1. FC Kaiserslautern",
-        "teamB": "Eintracht Braunschweig",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1256/index.m3u8"
-        },
-        {
-          "channel_name": "Sky4 Bundesliga HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga4.m3u8"
-        }
-      ],
-      "id": "evt_0f942bcbe5da"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Karlsruher SC Vs 1. FC Nürnberg",
-      "eventInfo": {
-        "teamA": "Karlsruher SC",
-        "teamB": "1. FC Nürnberg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "19/09/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1398/index.m3u8"
-        },
-        {
-          "channel_name": "SKY3 BUNDESLIGA HD",
-          "stream_url": "https://tmaxapp.site/ligue6sc6/skybundesliga3.m3u8"
-        }
-      ],
-      "id": "evt_48612af77894"
+      "id": "evt_6bbdf575f84c"
     },
     {
       "status": "LIVE",
@@ -632,6 +693,40 @@
         }
       ],
       "id": "evt_6e2c1921f995"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chelsea FC Vs Birmingham City W.F.C.",
+      "eventInfo": {
+        "teamA": "Chelsea FC",
+        "teamB": "Birmingham City W.F.C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "19/09/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS EPL - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "PREMIER LEAGUE HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
+        },
+        {
+          "channel_name": "SKY9 NZ HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2233/index.m3u8"
+        }
+      ],
+      "id": "evt_6f31dfc5bb2b"
     },
     {
       "status": "UPCOMING",
@@ -1265,27 +1360,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "Cardiff Rugby Vs Exeter Chiefs",
-      "eventInfo": {
-        "teamA": "Cardiff Rugby",
-        "teamB": "Exeter Chiefs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/43335/image",
-        "eventName": "International Club Friendlies",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/24076/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_38ad778c6232"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Warrington Wolves Vs Hull Kingston Rovers",
       "eventInfo": {
         "teamA": "Warrington Wolves",
@@ -1716,49 +1790,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Osasuna Vs Rayo Vallecano",
-      "eventInfo": {
-        "teamA": "Osasuna",
-        "teamB": "Rayo Vallecano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "D SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "ARABIC 2",
-          "stream_url": "n"
-        }
-      ],
-      "id": "evt_57dc0cd2a959"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Sevilla Vs FC Barcelona",
       "eventInfo": {
         "teamA": "Sevilla",
@@ -1869,22 +1900,6 @@
         }
       ],
       "id": "evt_e703a86045cd"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Sociedad B Vs Mallorca",
-      "eventInfo": {
-        "teamA": "Real Sociedad B",
-        "teamB": "Mallorca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_7d4526c177c0"
     },
     {
       "status": "UPCOMING",
@@ -2426,31 +2441,6 @@
         }
       ],
       "id": "evt_fa76d61c69ce"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Bayern München Vs 1. FC Köln",
-      "eventInfo": {
-        "teamA": "FC Bayern München",
-        "teamB": "1. FC Köln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/229794/image",
-        "eventName": "Frauen-Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/232/image/dark",
-        "startTime": "19/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN1 DE HD..",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
-        },
-        {
-          "channel_name": "DAZN2 DE HD..",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn2de.m3u8"
-        }
-      ],
-      "id": "evt_6bbdf575f84c"
     },
     {
       "status": "UPCOMING",
@@ -3940,40 +3930,6 @@
         }
       ],
       "id": "evt_b0ef97861e2e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Chelsea FC Vs Birmingham City W.F.C.",
-      "eventInfo": {
-        "teamA": "Chelsea FC",
-        "teamB": "Birmingham City W.F.C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66766/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "19/09/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "PREMIER LEAGUE HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportspl004545vgb.m3u8"
-        },
-        {
-          "channel_name": "SKY9 NZ HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport9nzcsfgc85v8.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/2233/index.m3u8"
-        }
-      ],
-      "id": "evt_6f31dfc5bb2b"
     },
     {
       "status": "UPCOMING",
@@ -6161,6 +6117,50 @@
         }
       ],
       "id": "evt_ceccef1d290e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Hawthorn Hawks Vs Brisbane Lions",
+      "eventInfo": {
+        "teamA": "Hawthorn Hawks",
+        "teamB": "Brisbane Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4445/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+        "eventName": "AFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "startTime": "19/09/2026 01:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/fsss.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7d87901f0fa0"
     },
     {
       "status": "ENDED",
