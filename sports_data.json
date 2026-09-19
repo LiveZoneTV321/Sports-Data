@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:35:25 AM 19-09-2026",
+  "last_update_time": "06:49:24 AM 19-09-2026",
   "total_matches": 269,
-  "live_match": 26,
+  "live_match": 29,
   "matches": [
     {
       "status": "LIVE",
@@ -222,58 +222,6 @@
     {
       "status": "LIVE",
       "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "19/09/2026 01:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "1 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "2 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_3c671d56b0ab"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
         "teamA": "GOLF EVENTO",
@@ -394,6 +342,38 @@
         }
       ],
       "id": "evt_978e03bc315f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Racing Club Vs Sarmiento",
+      "eventInfo": {
+        "teamA": "Racing Club",
+        "teamB": "Sarmiento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "19/09/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/321/index.m3u8"
+        }
+      ],
+      "id": "evt_b08e3dd0db74"
     },
     {
       "status": "LIVE",
@@ -592,157 +572,6 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "New York Mets Vs Philadelphia Phillies",
-      "eventInfo": {
-        "teamA": "New York Mets",
-        "teamB": "Philadelphia Phillies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "19/09/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/jkzahzadach20.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_734e0023882f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Toronto Tempo Vs Indiana Fever",
-      "eventInfo": {
-        "teamA": "Toronto Tempo",
-        "teamB": "Indiana Fever",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "19/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/sdghjvqazhvg80.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_23bec64a5336"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Minnesota Lynx Vs New York Liberty",
-      "eventInfo": {
-        "teamA": "Minnesota Lynx",
-        "teamB": "New York Liberty",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "19/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD..",
-          "stream_url": "https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_97c372255f41"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Racing Club Vs Sarmiento",
-      "eventInfo": {
-        "teamA": "Racing Club",
-        "teamB": "Sarmiento",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "19/09/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/321/index.m3u8"
-        }
-      ],
-      "id": "evt_b08e3dd0db74"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Puebla Vs Atlante FC",
-      "eventInfo": {
-        "teamA": "Club Puebla",
-        "teamB": "Atlante FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "19/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        }
-      ],
-      "id": "evt_615be4a69169"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Alianza Lima Vs Asociación Deportiva Tarma",
-      "eventInfo": {
-        "teamA": "Alianza Lima",
-        "teamB": "Asociación Deportiva Tarma",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2311/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "19/09/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_92b16fdb507a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
       "event_name": "Texas Rangers Vs Toronto Blue Jays",
       "eventInfo": {
         "teamA": "Texas Rangers",
@@ -818,6 +647,29 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
+      "event_name": "New York Mets Vs Philadelphia Phillies",
+      "eventInfo": {
+        "teamA": "New York Mets",
+        "teamB": "Philadelphia Phillies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "19/09/2026 05:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/jkzahzadach20.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_734e0023882f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
       "event_name": "St. Louis Cardinals Vs Washington Nationals",
       "eventInfo": {
         "teamA": "St. Louis Cardinals",
@@ -837,6 +689,196 @@
         }
       ],
       "id": "evt_395fe439d97e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Toronto Tempo Vs Indiana Fever",
+      "eventInfo": {
+        "teamA": "Toronto Tempo",
+        "teamB": "Indiana Fever",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "19/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/sdghjvqazhvg80.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_23bec64a5336"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Minnesota Lynx Vs New York Liberty",
+      "eventInfo": {
+        "teamA": "Minnesota Lynx",
+        "teamB": "New York Liberty",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "19/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD..",
+          "stream_url": "https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_97c372255f41"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Independiente Medellín Vs Jaguares de Córdoba",
+      "eventInfo": {
+        "teamA": "Independiente Medellín",
+        "teamB": "Jaguares de Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89370/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "19/09/2026 07:10:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2096959328b0"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Puebla Vs Atlante FC",
+      "eventInfo": {
+        "teamA": "Club Puebla",
+        "teamB": "Atlante FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "19/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ],
+      "id": "evt_615be4a69169"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Alianza Lima Vs Asociación Deportiva Tarma",
+      "eventInfo": {
+        "teamA": "Alianza Lima",
+        "teamB": "Asociación Deportiva Tarma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2311/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "19/09/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_92b16fdb507a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "San Diego Padres Vs Miami Marlins",
+      "eventInfo": {
+        "teamA": "San Diego Padres",
+        "teamB": "Miami Marlins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "19/09/2026 07:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD..",
+          "stream_url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_00ed03a2dc9f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Arizona Diamondbacks Vs New York Yankees",
+      "eventInfo": {
+        "teamA": "Arizona Diamondbacks",
+        "teamB": "New York Yankees",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "19/09/2026 07:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "STREAM TV + HD..",
+          "stream_url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/MLB14/index.m3u8"
+        }
+      ],
+      "id": "evt_a3aff0e6c3f6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Los Angeles Angels Vs Minnesota Twins",
+      "eventInfo": {
+        "teamA": "Los Angeles Angels",
+        "teamB": "Minnesota Twins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "19/09/2026 07:38:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_c30fb4a9364b"
     },
     {
       "status": "UPCOMING",
@@ -1111,22 +1153,6 @@
         }
       ],
       "id": "evt_b3db62fcf30c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Independiente Medellín Vs Jaguares de Córdoba",
-      "eventInfo": {
-        "teamA": "Independiente Medellín",
-        "teamB": "Jaguares de Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/89370/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "19/09/2026 07:10:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2096959328b0"
     },
     {
       "status": "UPCOMING",
@@ -1859,29 +1885,6 @@
     {
       "status": "UPCOMING",
       "Category": "Baseball",
-      "event_name": "San Diego Padres Vs Miami Marlins",
-      "eventInfo": {
-        "teamA": "San Diego Padres",
-        "teamB": "Miami Marlins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "19/09/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD..",
-          "stream_url": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_00ed03a2dc9f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
       "event_name": "Los Angeles Dodgers Vs San Francisco Giants",
       "eventInfo": {
         "teamA": "Los Angeles Dodgers",
@@ -1901,61 +1904,6 @@
         }
       ],
       "id": "evt_20393c490667"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Arizona Diamondbacks Vs New York Yankees",
-      "eventInfo": {
-        "teamA": "Arizona Diamondbacks",
-        "teamB": "New York Yankees",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "19/09/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "STREAM TV + HD..",
-          "stream_url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/MLB14/index.m3u8"
-        }
-      ],
-      "id": "evt_a3aff0e6c3f6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Los Angeles Angels Vs Minnesota Twins",
-      "eventInfo": {
-        "teamA": "Los Angeles Angels",
-        "teamB": "Minnesota Twins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "19/09/2026 07:38:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_c30fb4a9364b"
     },
     {
       "status": "UPCOMING",
@@ -5586,6 +5534,58 @@
         }
       ],
       "id": "evt_8164e402a2e1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "19/09/2026 01:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
+        },
+        {
+          "channel_name": "ITV1 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "1 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "2 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_3c671d56b0ab"
     },
     {
       "status": "ENDED",
