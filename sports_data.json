@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:57:00 AM 21-09-2026",
+  "last_update_time": "02:10:43 AM 21-09-2026",
   "total_matches": 115,
-  "live_match": 57,
+  "live_match": 55,
   "matches": [
     {
       "status": "LIVE",
@@ -800,37 +800,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "SC Paderborn 07 Vs TSG Hoffenheim",
-      "eventInfo": {
-        "teamA": "SC Paderborn 07",
-        "teamB": "TSG Hoffenheim",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "20/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "DAZN SPORTS HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56826/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VIIIAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_7d19ded1127e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Olympique de Marseille Vs Paris Saint-Germain",
       "eventInfo": {
         "teamA": "Olympique de Marseille",
@@ -947,6 +916,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Club Atlético Platense Vs Newell's Old Boys",
+      "eventInfo": {
+        "teamA": "Club Atlético Platense",
+        "teamB": "Newell's Old Boys",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36837/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3212/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "21/09/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_fa481246979d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rosario Central Vs Argentinos Juniors",
+      "eventInfo": {
+        "teamA": "Rosario Central",
+        "teamB": "Argentinos Juniors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3216/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "21/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/231/index.m3u8"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_cd91359501a4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "FC Porto Vs Benfica",
       "eventInfo": {
         "teamA": "FC Porto",
@@ -1059,33 +1070,6 @@
         }
       ],
       "id": "evt_e7c693b320f1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Modena Vs Empoli",
-      "eventInfo": {
-        "teamA": "Modena",
-        "teamB": "Empoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2706/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2705/image",
-        "eventName": "Serie B",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "20/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/VIII.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VIII.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_d50eff7624fb"
     },
     {
       "status": "LIVE",
@@ -1552,80 +1536,48 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Connecticut Sun Vs Minnesota Lynx",
+      "event_name": "Indiana Fever Vs Washington Mystics",
       "eventInfo": {
-        "teamA": "Connecticut Sun",
-        "teamB": "Minnesota Lynx",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+        "teamA": "Indiana Fever",
+        "teamB": "Washington Mystics",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
         "eventName": "WNBA",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "20/09/2026 11:00:00 PM"
+        "startTime": "21/09/2026 02:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "WNBA TV HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/56822/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
+          "stream_url": "https://edgestream6.pro/hls/iozauyezaioyur82.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_18a0ed7b35be"
+      "id": "evt_3b307092d8d3"
     },
     {
       "status": "LIVE",
       "Category": "Ice hockey",
-      "event_name": "New Jersey Devils Vs New York Islanders",
+      "event_name": "Anaheim Ducks Vs San Jose Sharks",
       "eventInfo": {
-        "teamA": "New Jersey Devils",
-        "teamB": "New York Islanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "teamA": "Anaheim Ducks",
+        "teamB": "San Jose Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
         "eventName": "NHL Preseason",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "20/09/2026 11:00:00 PM"
+        "startTime": "21/09/2026 02:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/dzaugyvdgazc90.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/fbnjzebjhcazhjg91.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_28472de48fd8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dinamo București Vs FCV Farul Constanța",
-      "eventInfo": {
-        "teamA": "FC Dinamo București",
-        "teamB": "FCV Farul Constanța",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3294/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "20/09/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/VIIIAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VIIIAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_31df9cc69274"
+      "id": "evt_07592798ee51"
     },
     {
       "status": "LIVE",
@@ -1795,48 +1747,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Club Atlético Platense Vs Newell's Old Boys",
-      "eventInfo": {
-        "teamA": "Club Atlético Platense",
-        "teamB": "Newell's Old Boys",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36837/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3212/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "21/09/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_fa481246979d"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Rosario Central Vs Argentinos Juniors",
-      "eventInfo": {
-        "teamA": "Rosario Central",
-        "teamB": "Argentinos Juniors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3216/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "21/09/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/231/index.m3u8"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_cd91359501a4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "ACD Juan Pablo II Vs CD Moquegua",
       "eventInfo": {
         "teamA": "ACD Juan Pablo II",
@@ -1849,6 +1759,29 @@
       },
       "streams": [],
       "id": "evt_413ce9962c00"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chicago Stars FC Vs Washington Spirit",
+      "eventInfo": {
+        "teamA": "Chicago Stars FC",
+        "teamB": "Washington Spirit",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34714/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151012/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "21/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ],
+      "id": "evt_2e77f7be7ba9"
     },
     {
       "status": "LIVE",
@@ -1950,49 +1883,49 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Indiana Fever Vs Washington Mystics",
+      "Category": "Ice hockey",
+      "event_name": "Tampa Bay Lightning Vs Nashville Predators",
       "eventInfo": {
-        "teamA": "Indiana Fever",
-        "teamB": "Washington Mystics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "21/09/2026 02:00:00 AM"
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "21/09/2026 03:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/iozauyezaioyur82.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_3b307092d8d3"
+      "id": "evt_15cfea1b1dd0"
     },
     {
       "status": "LIVE",
       "Category": "Ice hockey",
-      "event_name": "Anaheim Ducks Vs San Jose Sharks",
+      "event_name": "Boston Bruins Vs Washington Capitals",
       "eventInfo": {
-        "teamA": "Anaheim Ducks",
-        "teamB": "San Jose Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamA": "Boston Bruins",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
         "eventName": "NHL Preseason",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 02:00:00 AM"
+        "startTime": "21/09/2026 03:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/fbnjzebjhcazhjg91.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_07592798ee51"
+      "id": "evt_ef76a25d7756"
     },
     {
       "status": "UPCOMING",
@@ -2416,29 +2349,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Chicago Stars FC Vs Washington Spirit",
-      "eventInfo": {
-        "teamA": "Chicago Stars FC",
-        "teamB": "Washington Spirit",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34714/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151012/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "21/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ],
-      "id": "evt_2e77f7be7ba9"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Bay FC Vs Racing Louisville",
       "eventInfo": {
         "teamA": "Bay FC",
@@ -2679,52 +2589,6 @@
         }
       ],
       "id": "evt_e17823a64600"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Tampa Bay Lightning Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_15cfea1b1dd0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Boston Bruins Vs Washington Capitals",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "Washington Capitals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ef76a25d7756"
     },
     {
       "status": "UPCOMING",
@@ -3545,6 +3409,37 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "SC Paderborn 07 Vs TSG Hoffenheim",
+      "eventInfo": {
+        "teamA": "SC Paderborn 07",
+        "teamB": "TSG Hoffenheim",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "20/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "DAZN SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56826/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/2a2734b3-43b4-414a-aef1-9f745d58dba7.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VIIIAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7d19ded1127e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Santa Clara Vs Sporting Braga",
       "eventInfo": {
         "teamA": "Santa Clara",
@@ -3620,6 +3515,33 @@
         }
       ],
       "id": "evt_e58f54239c8a"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Modena Vs Empoli",
+      "eventInfo": {
+        "teamA": "Modena",
+        "teamB": "Empoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2706/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2705/image",
+        "eventName": "Serie B",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "20/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/VIII.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VIII.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_d50eff7624fb"
     },
     {
       "status": "ENDED",
@@ -3750,6 +3672,84 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Connecticut Sun Vs Minnesota Lynx",
+      "eventInfo": {
+        "teamA": "Connecticut Sun",
+        "teamB": "Minnesota Lynx",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "20/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WNBA TV HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/56822/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_18a0ed7b35be"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "New Jersey Devils Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "New Jersey Devils",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "20/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/dzaugyvdgazc90.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_28472de48fd8"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Dinamo București Vs FCV Farul Constanța",
+      "eventInfo": {
+        "teamA": "FC Dinamo București",
+        "teamB": "FCV Farul Constanța",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3294/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "20/09/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/VIIIAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/VIIIAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_31df9cc69274"
     },
     {
       "status": "ENDED",
