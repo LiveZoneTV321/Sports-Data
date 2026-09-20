@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:40:09 PM 20-09-2026",
+  "last_update_time": "04:49:43 PM 20-09-2026",
   "total_matches": 193,
-  "live_match": 15,
+  "live_match": 18,
   "matches": [
     {
       "status": "LIVE",
@@ -229,29 +229,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Brisbane Lions Vs Adelaide Crows",
-      "eventInfo": {
-        "teamA": "Brisbane Lions",
-        "teamB": "Adelaide Crows",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245069/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "20/09/2026 01:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "id": "evt_429e46ec67e1"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Bangladesh Women Vs India Women",
       "eventInfo": {
@@ -286,6 +263,83 @@
         }
       ],
       "id": "evt_8457b7cd0f96"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Fiorentina Vs SSC Napoli",
+      "eventInfo": {
+        "teamA": "Fiorentina",
+        "teamB": "SSC Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+        "eventName": "Serie A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "20/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN1 SPORTSFHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "ESPN1 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
+        },
+        {
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+        }
+      ],
+      "id": "evt_a0035fdd0a38"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Feyenoord Vs FC Utrecht",
+      "eventInfo": {
+        "teamA": "Feyenoord",
+        "teamB": "FC Utrecht",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "20/09/2026 04:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_04974144bc73"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Piast Gliwice Vs Pogoń Szczecin",
+      "eventInfo": {
+        "teamA": "Piast Gliwice",
+        "teamB": "Pogoń Szczecin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3117/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "20/09/2026 04:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beiN ES HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        },
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "id": "evt_b9816cee767e"
     },
     {
       "status": "LIVE",
@@ -359,33 +413,65 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Fiorentina Vs SSC Napoli",
+      "event_name": "Hannover 96 Vs VfL Bochum 1848",
       "eventInfo": {
-        "teamA": "Fiorentina",
-        "teamB": "SSC Napoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-        "eventName": "Serie A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "20/09/2026 04:30:00 PM"
+        "teamA": "Hannover 96",
+        "teamB": "VfL Bochum 1848",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "20/09/2026 05:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "BeIN1 SPORTSFHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "ESPN1 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-          "drm_key": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05"
-        },
-        {
-          "channel_name": "SPORT TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_a0035fdd0a38"
+      "id": "evt_d8a937904065"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Energie Cottbus Vs FC St. Pauli",
+      "eventInfo": {
+        "teamA": "Energie Cottbus",
+        "teamB": "FC St. Pauli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "20/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_b0c5f5b339c8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Arminia Bielefeld Vs 1. FC Heidenheim",
+      "eventInfo": {
+        "teamA": "Arminia Bielefeld",
+        "teamB": "1. FC Heidenheim",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "20/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_52fc55be0c9e"
     },
     {
       "status": "LIVE",
@@ -446,15 +532,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Feyenoord Vs FC Utrecht",
+      "event_name": "Royal Antwerp FC Vs Royale Union Saint-Gilloise",
       "eventInfo": {
-        "teamA": "Feyenoord",
-        "teamB": "FC Utrecht",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "20/09/2026 04:15:00 PM"
+        "teamA": "Royal Antwerp FC",
+        "teamB": "Royale Union Saint-Gilloise",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+        "eventName": "Pro League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
+        "startTime": "20/09/2026 05:30:00 PM"
       },
       "streams": [
         {
@@ -462,32 +548,7 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_04974144bc73"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Piast Gliwice Vs Pogoń Szczecin",
-      "eventInfo": {
-        "teamA": "Piast Gliwice",
-        "teamB": "Pogoń Szczecin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3117/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "20/09/2026 04:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "beiN ES HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        },
-        {
-          "channel_name": "Beix Sports XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        }
-      ],
-      "id": "evt_b9816cee767e"
+      "id": "evt_5e48e892a97e"
     },
     {
       "status": "LIVE",
@@ -1891,69 +1952,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Hannover 96 Vs VfL Bochum 1848",
-      "eventInfo": {
-        "teamA": "Hannover 96",
-        "teamB": "VfL Bochum 1848",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "20/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_d8a937904065"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Energie Cottbus Vs FC St. Pauli",
-      "eventInfo": {
-        "teamA": "Energie Cottbus",
-        "teamB": "FC St. Pauli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "20/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_b0c5f5b339c8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Arminia Bielefeld Vs 1. FC Heidenheim",
-      "eventInfo": {
-        "teamA": "Arminia Bielefeld",
-        "teamB": "1. FC Heidenheim",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "20/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_52fc55be0c9e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Nice Vs Lille",
       "eventInfo": {
         "teamA": "Nice",
@@ -2932,27 +2930,6 @@
         }
       ],
       "id": "evt_e79af2feab95"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Royal Antwerp FC Vs Royale Union Saint-Gilloise",
-      "eventInfo": {
-        "teamA": "Royal Antwerp FC",
-        "teamB": "Royale Union Saint-Gilloise",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-        "eventName": "Pro League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/38/image/dark",
-        "startTime": "20/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5e48e892a97e"
     },
     {
       "status": "UPCOMING",
@@ -4579,6 +4556,29 @@
         }
       ],
       "id": "evt_0d7b60db1794"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Brisbane Lions Vs Adelaide Crows",
+      "eventInfo": {
+        "teamA": "Brisbane Lions",
+        "teamB": "Adelaide Crows",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245151/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245069/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "20/09/2026 01:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "id": "evt_429e46ec67e1"
     },
     {
       "status": "ENDED",
