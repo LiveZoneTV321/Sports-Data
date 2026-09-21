@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:37:32 PM 21-09-2026",
+  "last_update_time": "09:49:12 PM 21-09-2026",
   "total_matches": 62,
-  "live_match": 9,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -192,33 +192,6 @@
         }
       ],
       "id": "evt_1ae4d0179bef"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "South Africa U20 Vs Angola U20",
-      "eventInfo": {
-        "teamA": "South Africa U20",
-        "teamB": "Angola U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35466/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/254629/image",
-        "eventName": "COSAFA U20 Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
-        "startTime": "21/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_a2507024fb05"
     },
     {
       "status": "LIVE",
@@ -587,6 +560,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+          "drm_key": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157"
         },
         {
           "channel_name": "TSN2 SPORTS FHD",
@@ -1886,6 +1864,33 @@
         }
       ],
       "id": "evt_67f19001c971"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "South Africa U20 Vs Angola U20",
+      "eventInfo": {
+        "teamA": "South Africa U20",
+        "teamB": "Angola U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35466/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/254629/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "21/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/guuuAAAAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_a2507024fb05"
     },
     {
       "status": "ENDED",
