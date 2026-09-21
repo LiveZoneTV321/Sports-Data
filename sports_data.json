@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:55:56 AM 21-09-2026",
+  "last_update_time": "06:13:20 AM 21-09-2026",
   "total_matches": 115,
-  "live_match": 27,
+  "live_match": 21,
   "matches": [
     {
       "status": "LIVE",
@@ -171,75 +171,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Arizona Cardinals Vs Seattle Seahawks",
-      "eventInfo": {
-        "teamA": "Arizona Cardinals",
-        "teamB": "Seattle Seahawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-        "eventName": "NFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "21/09/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER+ HD",
-          "stream_url": "https://edgestream6.pro/hls/ijzriafaq41.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e8aef12ced26"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Dallas Cowboys Vs Washington Commanders",
-      "eventInfo": {
-        "teamA": "Dallas Cowboys",
-        "teamB": "Washington Commanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-        "eventName": "NFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "21/09/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER+ HD",
-          "stream_url": "https://edgestream1.pro/hls/wnbcnxbcs42.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_964e2985902f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "San Francisco 49ers Vs Miami Dolphins",
-      "eventInfo": {
-        "teamA": "San Francisco 49ers",
-        "teamB": "Miami Dolphins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4389/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-        "eventName": "NFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "21/09/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER+ HD",
-          "stream_url": "https://edgestream6.pro/hls/poertjnvnev40.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_4c7df1772c5f"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Atlético Belgrano Vs Estudiantes de Río Cuarto",
       "eventInfo": {
@@ -262,18 +193,58 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sportivo Luqueño Vs Recoleta FC",
+      "event_name": "CF Pachuca Vs Club Tijuana",
       "eventInfo": {
-        "teamA": "Sportivo Luqueño",
-        "teamB": "Recoleta FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5998/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "21/09/2026 03:30:00 AM"
+        "teamA": "CF Pachuca",
+        "teamB": "Club Tijuana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "21/09/2026 06:00:00 AM"
       },
-      "streams": [],
-      "id": "evt_c541c81fdfa5"
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_f03e5efa31ed"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CD Toluca Vs Santos Laguna",
+      "eventInfo": {
+        "teamA": "CD Toluca",
+        "teamB": "Santos Laguna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "21/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_ee9fc8f162ad"
     },
     {
       "status": "LIVE",
@@ -332,34 +303,6 @@
         }
       ],
       "id": "evt_e79af2feab95"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Flamengo Vs Red Bull Bragantino",
-      "eventInfo": {
-        "teamA": "Flamengo",
-        "teamB": "Red Bull Bragantino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-        "eventName": "Brasileirão Betano",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "21/09/2026 03:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        },
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ],
-      "id": "evt_2086df1fc58c"
     },
     {
       "status": "LIVE",
@@ -498,48 +441,25 @@
     {
       "status": "LIVE",
       "Category": "Ice hockey",
-      "event_name": "Tampa Bay Lightning Vs Nashville Predators",
+      "event_name": "Calgary Flames Vs Seattle Kraken",
       "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "teamA": "Calgary Flames",
+        "teamB": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
         "eventName": "NHL Preseason",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 03:00:00 AM"
+        "startTime": "21/09/2026 06:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/hpouezruioazd96.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_15cfea1b1dd0"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Boston Bruins Vs Washington Capitals",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "Washington Capitals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ef76a25d7756"
+      "id": "evt_442222cabe92"
     },
     {
       "status": "LIVE",
@@ -673,82 +593,32 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CF Pachuca Vs Club Tijuana",
+      "Category": "Basketball",
+      "event_name": "Las Vegas Aces Vs Seattle Storm",
       "eventInfo": {
-        "teamA": "CF Pachuca",
-        "teamB": "Club Tijuana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "21/09/2026 06:00:00 AM"
+        "teamA": "Las Vegas Aces",
+        "teamB": "Seattle Storm",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "21/09/2026 07:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_f03e5efa31ed"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Toluca Vs Santos Laguna",
-      "eventInfo": {
-        "teamA": "CD Toluca",
-        "teamB": "Santos Laguna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1948/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "21/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_ee9fc8f162ad"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Calgary Flames Vs Seattle Kraken",
-      "eventInfo": {
-        "teamA": "Calgary Flames",
-        "teamB": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "21/09/2026 06:00:00 AM"
-      },
-      "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hpouezruioazd96.m3u8",
+          "stream_url": "https://edgestream6.pro/hls/ioazuryeahrfvzed84.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_442222cabe92"
+      "id": "evt_7ab5760cd61c"
     },
     {
       "status": "UPCOMING",
@@ -992,35 +862,6 @@
       },
       "streams": [],
       "id": "evt_927587966768"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Las Vegas Aces Vs Seattle Storm",
-      "eventInfo": {
-        "teamA": "Las Vegas Aces",
-        "teamB": "Seattle Storm",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "21/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/ioazuryeahrfvzed84.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_7ab5760cd61c"
     },
     {
       "status": "ENDED",
@@ -2098,6 +1939,75 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Arizona Cardinals Vs Seattle Seahawks",
+      "eventInfo": {
+        "teamA": "Arizona Cardinals",
+        "teamB": "Seattle Seahawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+        "eventName": "NFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "21/09/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER+ HD",
+          "stream_url": "https://edgestream6.pro/hls/ijzriafaq41.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e8aef12ced26"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Dallas Cowboys Vs Washington Commanders",
+      "eventInfo": {
+        "teamA": "Dallas Cowboys",
+        "teamB": "Washington Commanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
+        "eventName": "NFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "21/09/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER+ HD",
+          "stream_url": "https://edgestream1.pro/hls/wnbcnxbcs42.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_964e2985902f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "San Francisco 49ers Vs Miami Dolphins",
+      "eventInfo": {
+        "teamA": "San Francisco 49ers",
+        "teamB": "Miami Dolphins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+        "eventName": "NFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "21/09/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER+ HD",
+          "stream_url": "https://edgestream6.pro/hls/poertjnvnev40.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_4c7df1772c5f"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "North Korea U20 Vs Canada U20",
       "eventInfo": {
@@ -2769,6 +2679,22 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Sportivo Luqueño Vs Recoleta FC",
+      "eventInfo": {
+        "teamA": "Sportivo Luqueño",
+        "teamB": "Recoleta FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5998/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "21/09/2026 03:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c541c81fdfa5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "ACD Juan Pablo II Vs CD Moquegua",
       "eventInfo": {
         "teamA": "ACD Juan Pablo II",
@@ -2974,6 +2900,34 @@
         }
       ],
       "id": "evt_66361333ad4f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Flamengo Vs Red Bull Bragantino",
+      "eventInfo": {
+        "teamA": "Flamengo",
+        "teamB": "Red Bull Bragantino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+        "eventName": "Brasileirão Betano",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "21/09/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ],
+      "id": "evt_2086df1fc58c"
     },
     {
       "status": "ENDED",
@@ -3677,6 +3631,29 @@
     {
       "status": "ENDED",
       "Category": "Ice hockey",
+      "event_name": "Tampa Bay Lightning Vs Nashville Predators",
+      "eventInfo": {
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "21/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_15cfea1b1dd0"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
       "event_name": "Anaheim Ducks Vs San Jose Sharks",
       "eventInfo": {
         "teamA": "Anaheim Ducks",
@@ -3696,6 +3673,29 @@
         }
       ],
       "id": "evt_07592798ee51"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "Boston Bruins Vs Washington Capitals",
+      "eventInfo": {
+        "teamA": "Boston Bruins",
+        "teamB": "Washington Capitals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "21/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_ef76a25d7756"
     },
     {
       "status": "ENDED",
