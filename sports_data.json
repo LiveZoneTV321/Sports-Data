@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:56:17 PM 21-09-2026",
+  "last_update_time": "07:09:33 PM 21-09-2026",
   "total_matches": 59,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -94,49 +94,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "China Vs Indonesia",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Indonesia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6400/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/54659/image",
-        "eventName": "Asian Games, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
-        "startTime": "21/09/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/75449d29-87f1-44a5-a96b-77cdab19b14b.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/guuua.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_da5bbaa274ec"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "NFL STREAM Vs NFL STREAM",
-      "eventInfo": {
-        "teamA": "NFL STREAM",
-        "teamB": "NFL STREAM",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "eventName": "NFL STREAM",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "20/09/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_724bfac05d09"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "South Africa U20 Vs Angola U20",
       "eventInfo": {
@@ -161,6 +118,22 @@
         }
       ],
       "id": "evt_a2507024fb05"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "NFL STREAM Vs NFL STREAM",
+      "eventInfo": {
+        "teamA": "NFL STREAM",
+        "teamB": "NFL STREAM",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "eventName": "NFL STREAM",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "20/09/2026 06:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_724bfac05d09"
     },
     {
       "status": "UPCOMING",
@@ -1801,6 +1774,33 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "China Vs Indonesia",
+      "eventInfo": {
+        "teamA": "China",
+        "teamB": "Indonesia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6400/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/54659/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "startTime": "21/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/75449d29-87f1-44a5-a96b-77cdab19b14b.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/guuua.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_da5bbaa274ec"
     }
   ]
 }
