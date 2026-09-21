@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:56:05 AM 22-09-2026",
+  "last_update_time": "04:09:39 AM 22-09-2026",
   "total_matches": 62,
-  "live_match": 7,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -113,49 +113,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "NFL STREAM Vs NFL STREAM",
-      "eventInfo": {
-        "teamA": "NFL STREAM",
-        "teamB": "NFL STREAM",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "eventName": "NFL STREAM",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "20/09/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_724bfac05d09"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Volleyball",
-      "event_name": "Slovenia Vs Serbia",
-      "eventInfo": {
-        "teamA": "Slovenia",
-        "teamB": "Serbia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7513/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6830/image",
-        "eventName": "European Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
-        "startTime": "22/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://netanjahu.hls.st/t/c8ddc92619b21f5b7f90221a8aa784ab/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "ARENA PREMIUM",
-          "stream_url": "https://netanjahu.hls.st/t/5af44ddbe8ee1d6ae8b0c446a647286f/index.m3u8",
-          "referer": "https://iplayer.is/"
-        }
-      ],
-      "id": "evt_992e0f0c7c50"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Barracas Central Vs Independiente Rivadavia",
       "eventInfo": {
@@ -175,6 +132,22 @@
         }
       ],
       "id": "evt_b242b48a0b24"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "NFL STREAM Vs NFL STREAM",
+      "eventInfo": {
+        "teamA": "NFL STREAM",
+        "teamB": "NFL STREAM",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "eventName": "NFL STREAM",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "20/09/2026 06:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_724bfac05d09"
     },
     {
       "status": "LIVE",
@@ -227,6 +200,121 @@
         }
       ],
       "id": "evt_02396e8a56da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Montréal Canadiens Vs Ottawa Senators",
+      "eventInfo": {
+        "teamA": "Montréal Canadiens",
+        "teamB": "Ottawa Senators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "22/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_324e0337f3db"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "New Jersey Devils Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "New Jersey Devils",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "22/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_7fb2f46cbf4c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Columbus Blue Jackets Vs Detroit Red Wings",
+      "eventInfo": {
+        "teamA": "Columbus Blue Jackets",
+        "teamB": "Detroit Red Wings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "22/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_1545b1cdfe4f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Washington Capitals Vs Philadelphia Flyers",
+      "eventInfo": {
+        "teamA": "Washington Capitals",
+        "teamB": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "22/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2c4f6ce14e25"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Pittsburgh Penguins Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Pittsburgh Penguins",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "22/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wxdaztfhd62.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_1aa21fa53816"
     },
     {
       "status": "LIVE",
@@ -709,29 +797,6 @@
     {
       "status": "UPCOMING",
       "Category": "Ice hockey",
-      "event_name": "Montréal Canadiens Vs Ottawa Senators",
-      "eventInfo": {
-        "teamA": "Montréal Canadiens",
-        "teamB": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "22/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_324e0337f3db"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
       "event_name": "Dallas Stars Vs St. Louis Blues",
       "eventInfo": {
         "teamA": "Dallas Stars",
@@ -751,98 +816,6 @@
         }
       ],
       "id": "evt_1c96f6dbae41"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "New Jersey Devils Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "New Jersey Devils",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "22/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wxcgfaiiog63.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_7fb2f46cbf4c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Columbus Blue Jackets Vs Detroit Red Wings",
-      "eventInfo": {
-        "teamA": "Columbus Blue Jackets",
-        "teamB": "Detroit Red Wings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "22/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_1545b1cdfe4f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Washington Capitals Vs Philadelphia Flyers",
-      "eventInfo": {
-        "teamA": "Washington Capitals",
-        "teamB": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "22/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2c4f6ce14e25"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Pittsburgh Penguins Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Pittsburgh Penguins",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "22/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wxdaztfhd62.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_1aa21fa53816"
     },
     {
       "status": "UPCOMING",
@@ -1893,6 +1866,33 @@
         }
       ],
       "id": "evt_b85b794ab1b5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Volleyball",
+      "event_name": "Slovenia Vs Serbia",
+      "eventInfo": {
+        "teamA": "Slovenia",
+        "teamB": "Serbia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7513/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6830/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "22/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://netanjahu.hls.st/t/c8ddc92619b21f5b7f90221a8aa784ab/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "ARENA PREMIUM",
+          "stream_url": "https://netanjahu.hls.st/t/5af44ddbe8ee1d6ae8b0c446a647286f/index.m3u8",
+          "referer": "https://iplayer.is/"
+        }
+      ],
+      "id": "evt_992e0f0c7c50"
     },
     {
       "status": "ENDED",
