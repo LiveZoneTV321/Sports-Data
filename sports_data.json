@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:40:52 AM 21-09-2026",
+  "last_update_time": "09:56:53 AM 21-09-2026",
   "total_matches": 72,
-  "live_match": 6,
+  "live_match": 5,
   "matches": [
     {
       "status": "LIVE",
@@ -214,28 +214,6 @@
         }
       ],
       "id": "evt_f2df4a7303af"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Llaneros FC Vs Atlético Nacional",
-      "eventInfo": {
-        "teamA": "Llaneros FC",
-        "teamB": "Atlético Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "21/09/2026 07:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/vyyyq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_927587966768"
     },
     {
       "status": "LIVE",
@@ -2328,6 +2306,28 @@
         }
       ],
       "id": "evt_f422b8d2427d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Llaneros FC Vs Atlético Nacional",
+      "eventInfo": {
+        "teamA": "Llaneros FC",
+        "teamB": "Atlético Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6106/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "21/09/2026 07:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/vyyyq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_927587966768"
     },
     {
       "status": "ENDED",
