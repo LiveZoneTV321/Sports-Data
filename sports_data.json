@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:39:32 PM 21-09-2026",
-  "total_matches": 59,
-  "live_match": 6,
+  "last_update_time": "08:52:23 PM 21-09-2026",
+  "total_matches": 62,
+  "live_match": 7,
   "matches": [
     {
       "status": "LIVE",
@@ -20,6 +20,11 @@
         "startTime": "21/09/2026 06:40:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
         {
           "channel_name": "TNT1 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
@@ -49,48 +54,12 @@
           "drm_key": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7"
         },
         {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
           "channel_name": " QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/TNNNN.m3u8?",
           "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
         }
       ],
       "id": "evt_a6cb316545df"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Botswana U20 Vs Malawi U20",
-      "eventInfo": {
-        "teamA": "Botswana U20",
-        "teamB": "Malawi U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/305817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/336890/image",
-        "eventName": "COSAFA U20 Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
-        "startTime": "21/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/guuuAAAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/guuuAAAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_67f19001c971"
     },
     {
       "status": "LIVE",
@@ -134,6 +103,33 @@
       },
       "streams": [],
       "id": "evt_724bfac05d09"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Volleyball",
+      "event_name": "Belgium Vs Czechia",
+      "eventInfo": {
+        "teamA": "Belgium",
+        "teamB": "Czechia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7509/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6818/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "21/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://netanjahu.hls.st/t/c8ddc92619b21f5b7f90221a8aa784ab/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "ARENA PREMIUM",
+          "stream_url": "https://netanjahu.hls.st/t/5af44ddbe8ee1d6ae8b0c446a647286f/index.m3u8",
+          "referer": "https://iplayer.is/"
+        }
+      ],
+      "id": "evt_9dc0e3773d09"
     },
     {
       "status": "LIVE",
@@ -256,10 +252,43 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.59/hls/U555AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/U555AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_1ae4d0179bef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Dominica Vs Anguilla",
+      "eventInfo": {
+        "teamA": "Dominica",
+        "teamB": "Anguilla",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21804/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "21/09/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/ZYYYQQa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/ZYYYQQa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_b85b794ab1b5"
     },
     {
       "status": "UPCOMING",
@@ -581,7 +610,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.59/hls/U555AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/U555AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_af54c47e700d"
@@ -599,7 +634,13 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "21/09/2026 11:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/ZYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_3e33bfc72993"
     },
     {
@@ -615,7 +656,13 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "22/09/2026 04:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/ZYYY.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_b242b48a0b24"
     },
     {
@@ -635,6 +682,11 @@
         {
           "channel_name": "DAZN1 DE HD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/dazn1de.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/U555AAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_d401aa703092"
@@ -1224,7 +1276,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.59/hls/U555AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/U555AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_d3c7077225bb"
@@ -1290,6 +1348,27 @@
       },
       "streams": [],
       "id": "evt_b63bf726ba9b"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Volleyball",
+      "event_name": "Slovenia Vs Serbia",
+      "eventInfo": {
+        "teamA": "Slovenia",
+        "teamB": "Serbia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7513/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6830/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "22/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_992e0f0c7c50"
     },
     {
       "status": "ENDED",
@@ -1774,6 +1853,33 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Botswana U20 Vs Malawi U20",
+      "eventInfo": {
+        "teamA": "Botswana U20",
+        "teamB": "Malawi U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/305817/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/336890/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "21/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/guuuAAAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/guuuAAAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_67f19001c971"
     },
     {
       "status": "ENDED",
