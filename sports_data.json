@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:54:34 PM 22-09-2026",
+  "last_update_time": "10:07:58 PM 22-09-2026",
   "total_matches": 146,
-  "live_match": 5,
+  "live_match": 6,
   "matches": [
     {
       "status": "LIVE",
@@ -135,22 +135,6 @@
     {
       "status": "LIVE",
       "Category": "Volleyball",
-      "event_name": "France Vs Romania",
-      "eventInfo": {
-        "teamA": "France",
-        "teamB": "Romania",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6820/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7571/image",
-        "eventName": "European Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
-        "startTime": "22/09/2026 07:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_a726439001c3"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Volleyball",
       "event_name": "Poland Vs Germany",
       "eventInfo": {
         "teamA": "Poland",
@@ -161,15 +145,57 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
         "startTime": "22/09/2026 10:00:00 PM"
       },
+      "streams": [],
+      "id": "evt_c26434c44b4d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Bayern München Vs Manchester City",
+      "eventInfo": {
+        "teamA": "FC Bayern München",
+        "teamB": "Manchester City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "22/09/2026 10:45:00 PM"
+      },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "CBS Sports Network USA",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
         }
       ],
-      "id": "evt_c26434c44b4d"
+      "id": "evt_82731c57089c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Inter Vs BK Häcken FF",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "BK Häcken FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1889/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "22/09/2026 10:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS NETWORK FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_37d9cf726eda"
     },
     {
       "status": "UPCOMING",
@@ -710,55 +736,6 @@
         }
       ],
       "id": "evt_a0e3eca1c686"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Bayern München Vs Manchester City",
-      "eventInfo": {
-        "teamA": "FC Bayern München",
-        "teamB": "Manchester City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "22/09/2026 10:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "CBS Sports Network USA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        }
-      ],
-      "id": "evt_82731c57089c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Inter Vs BK Häcken FF",
-      "eventInfo": {
-        "teamA": "Inter",
-        "teamB": "BK Häcken FF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "22/09/2026 10:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS NETWORK FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "id": "evt_37d9cf726eda"
     },
     {
       "status": "UPCOMING",
@@ -3215,46 +3192,7 @@
         "event_logo": "https://i.ibb.co/4R6j8XK0/WWE-Logo-svg.png",
         "startTime": "22/09/2026 06:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY TV ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/54800/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY WWE",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/K999QQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "channel_name": "WWE SD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/3.m3u8"
-        },
-        {
-          "channel_name": "WWE HD",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/2.m3u8"
-        },
-        {
-          "channel_name": "RAW 1",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "channel_name": "RAW 2",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "RAW 3",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_0b979d3e355a"
     },
     {
@@ -3353,6 +3291,22 @@
         }
       ],
       "id": "evt_93453fb48d4c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Volleyball",
+      "event_name": "France Vs Romania",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Romania",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6820/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7571/image",
+        "eventName": "European Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/624/image/dark",
+        "startTime": "22/09/2026 07:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a726439001c3"
     },
     {
       "status": "ENDED",
