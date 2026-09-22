@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:55:54 PM 22-09-2026",
-  "total_matches": 149,
-  "live_match": 9,
+  "last_update_time": "12:11:42 AM 23-09-2026",
+  "total_matches": 172,
+  "live_match": 36,
   "matches": [
     {
       "status": "LIVE",
@@ -152,6 +152,12 @@
           "drm_key": "c3c9543a74d78a005c82719a6a662db9:2fcf3569cb18f2cf2b4648fb8728b4f9"
         },
         {
+          "channel_name": "FANCODE  FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
           "channel_name": "ESPN2 ARG FHD",
           "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
           "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
@@ -159,6 +165,11 @@
         {
           "channel_name": "CBS Sports Network USA",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "FASTER TV ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4646505.m3u8?txSecret=df6ce4850edf8d8307b8808f944d1bc9&txTime=6AB2C6EA",
+          "referer": "https://player.787200.com/"
         },
         {
           "channel_name": "HD QUALITY",
@@ -209,6 +220,15 @@
           "stream_url": "https://fhlsport722.tm3troops31patrol.ru/token-IkV4yOGSffGG6mMrwPY6nWzXlJrbhinjPXOtl%2FMdGTPz47aeHUFbA5QtqRJWWkoGRnrZ3zVnmv9xdZlOUEQY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/697p3n36nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_827919/index.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "FHD SERVER",
+          "stream_url": "https://live1.dyrur1.com/live/74371782_72cec42dcffe9e3fd2d55282db16cb18_1080p.m3u8?auth_key=1790109625-0-0-b132c91b49d36fe4840e423ae170ef30"
+        },
+        {
+          "channel_name": "FASTER Live",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4646506.m3u8?txSecret=62e44baaa295a3c2899ba4d86afdbbdb&txTime=6AB2C732",
+          "referer": "https://player.787200.com/"
         }
       ],
       "id": "evt_37d9cf726eda"
@@ -251,6 +271,22 @@
         }
       ],
       "id": "evt_0a585de03438"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "San Lorenzo Reserve Vs Huracán Reserve",
+      "eventInfo": {
+        "teamA": "San Lorenzo Reserve",
+        "teamB": "Huracán Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/235857/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/235859/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_9e4b8bb338e6"
     },
     {
       "status": "LIVE",
@@ -306,18 +342,703 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "San Lorenzo Reserve Vs Huracán Reserve",
+      "event_name": "Crewe Alexandra Vs Aston Villa U21",
       "eventInfo": {
-        "teamA": "San Lorenzo Reserve",
-        "teamB": "Huracán Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/235857/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/235859/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "teamA": "Crewe Alexandra",
+        "teamB": "Aston Villa U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/19/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36541/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
         "startTime": "23/09/2026 12:00:00 AM"
       },
-      "streams": [],
-      "id": "evt_9e4b8bb338e6"
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_5dca46b72dbb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wigan Athletic Vs Blackpool",
+      "eventInfo": {
+        "teamA": "Wigan Athletic",
+        "teamB": "Blackpool",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/67/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_34440ea213a1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Accrington Stanley Vs Sunderland U21",
+      "eventInfo": {
+        "teamA": "Accrington Stanley",
+        "teamB": "Sunderland U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36546/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7339037ae0c5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chesterfield Vs Port Vale",
+      "eventInfo": {
+        "teamA": "Chesterfield",
+        "teamB": "Port Vale",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/68/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7c0ef62e05d4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "York City Vs Rotherham United",
+      "eventInfo": {
+        "teamA": "York City",
+        "teamB": "Rotherham United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/73/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/13/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666AAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_915d13ff6875"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Salford City Vs Sheffield Wednesday",
+      "eventInfo": {
+        "teamA": "Salford City",
+        "teamB": "Sheffield Wednesday",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/12/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_b5b93f7f72cb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barnsley Vs Leeds United U21",
+      "eventInfo": {
+        "teamA": "Barnsley",
+        "teamB": "Leeds United U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/202954/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_dbb79353eaee"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Oldham Athletic Vs Fleetwood Town",
+      "eventInfo": {
+        "teamA": "Oldham Athletic",
+        "teamB": "Fleetwood Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/65/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23959/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888AAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_85c1cb5efde1"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Burton Albion Vs Nottingham Forest U21",
+      "eventInfo": {
+        "teamA": "Burton Albion",
+        "teamB": "Nottingham Forest U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/134/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/324738/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444Aa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_e4fd8ada7408"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Notts County Vs Grimsby Town",
+      "eventInfo": {
+        "teamA": "Notts County",
+        "teamB": "Grimsby Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/18/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_3bbf72f3675c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tranmere Rovers Vs Shrewsbury Town",
+      "eventInfo": {
+        "teamA": "Tranmere Rovers",
+        "teamB": "Shrewsbury Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/51/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/82/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_71864833e16f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cheltenham Town Vs Exeter City",
+      "eventInfo": {
+        "teamA": "Cheltenham Town",
+        "teamB": "Exeter City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/69/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/86/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444Aaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7b8c034a6131"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Walsall Vs Stevenage",
+      "eventInfo": {
+        "teamA": "Walsall",
+        "teamB": "Stevenage",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666AAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_fd743254f249"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Luton Town Vs Ipswich Town U21",
+      "eventInfo": {
+        "teamA": "Luton Town",
+        "teamB": "Ipswich Town U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/72/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/325745/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_ff2a041cb2ee"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Rochdale Vs Liverpool U21",
+      "eventInfo": {
+        "teamA": "Rochdale",
+        "teamB": "Liverpool U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36556/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888AAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888AAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_c23a1e34e178"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leicester City Vs Fulham U21",
+      "eventInfo": {
+        "teamA": "Leicester City",
+        "teamB": "Fulham U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36548/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaaaqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_169308518de6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Swindon Town Vs Newport County",
+      "eventInfo": {
+        "teamA": "Swindon Town",
+        "teamB": "Newport County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/79/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_2827b2f4024d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Milton Keynes Dons Vs Crawley Town",
+      "eventInfo": {
+        "teamA": "Milton Keynes Dons",
+        "teamB": "Crawley Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888A.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7f952a03c7b8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Peterborough United Vs Colchester United",
+      "eventInfo": {
+        "teamA": "Peterborough United",
+        "teamB": "Colchester United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_740908d60fda"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Plymouth Argyle Vs Crystal Palace U21",
+      "eventInfo": {
+        "teamA": "Plymouth Argyle",
+        "teamB": "Crystal Palace U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77869/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/f888AAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/f888AAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_d89d77f5a34d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gillingham Vs Cambridge United",
+      "eventInfo": {
+        "teamA": "Gillingham",
+        "teamB": "Cambridge United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/20/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaaaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/a444Aaaaaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_3a0876a06f08"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Juventus Vs Benfica",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Benfica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/297853/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "23/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1587/index.m3u8"
+        }
+      ],
+      "id": "evt_fd11cdf55a6a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Madrid Vs Paris Saint-Germain",
+      "eventInfo": {
+        "teamA": "Real Madrid",
+        "teamB": "Paris Saint-Germain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55505/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "23/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "CBS NETWORK FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_8837580e895a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Arsenal Vs HB Køge",
+      "eventInfo": {
+        "teamA": "Arsenal",
+        "teamB": "HB Køge",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "23/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS Sports Network USA",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1456/index.m3u8"
+        },
+        {
+          "channel_name": "Beix Sports XTRA ",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        }
+      ],
+      "id": "evt_df820c8759b9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "East Kilbride Vs Celtic B U21",
+      "eventInfo": {
+        "teamA": "East Kilbride",
+        "teamB": "Celtic B U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/170622/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/386975/image",
+        "eventName": "Scottish Challenge Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/331/image/dark",
+        "startTime": "23/09/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_0b48735aad27"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bradford City Vs Newcastle United U21",
+      "eventInfo": {
+        "teamA": "Bradford City",
+        "teamB": "Newcastle United U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/43511/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/L666AAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_9960385ea6ed"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bromley Vs Brentford U21",
+      "eventInfo": {
+        "teamA": "Bromley",
+        "teamB": "Brentford U21",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/457809/image",
+        "eventName": "Football League Trophy",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/334/image/dark",
+        "startTime": "23/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/L666AAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_9cc33e3ceb3c"
     },
     {
       "status": "UPCOMING",
@@ -858,84 +1579,6 @@
         }
       ],
       "id": "evt_a0e3eca1c686"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Juventus Vs Benfica",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Benfica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/297853/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "23/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1587/index.m3u8"
-        }
-      ],
-      "id": "evt_fd11cdf55a6a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Madrid Vs Paris Saint-Germain",
-      "eventInfo": {
-        "teamA": "Real Madrid",
-        "teamB": "Paris Saint-Germain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55505/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "23/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
-        },
-        {
-          "channel_name": "CBS NETWORK FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "id": "evt_8837580e895a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Arsenal Vs HB Køge",
-      "eventInfo": {
-        "teamA": "Arsenal",
-        "teamB": "HB Køge",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "23/09/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS Sports Network USA",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1456/index.m3u8"
-        },
-        {
-          "channel_name": "Beix Sports XTRA ",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        }
-      ],
-      "id": "evt_df820c8759b9"
     },
     {
       "status": "UPCOMING",
@@ -2012,6 +2655,10 @@
           "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/f52cc658-1746-41e2-9ae0-f8c0e1e67a78.m3u8"
         }
       ],
       "id": "evt_2dbb59e54e5a"
@@ -2035,6 +2682,10 @@
           "stream_url": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/91db1ad1-7261-4e2b-af1e-f12b024576aa.m3u8"
         }
       ],
       "id": "evt_ffea3de8ef07"
@@ -2058,6 +2709,10 @@
           "stream_url": "https://edgestream2.pro/hls/fdgsqdfawa73.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/d9beeed5-e30e-4a7f-b6aa-94488d5dcf47.m3u8"
         }
       ],
       "id": "evt_331f23f2b47f"
@@ -2104,6 +2759,10 @@
           "stream_url": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/2c060494-d6f2-48f8-95ad-e8a499d0e23c.m3u8"
         }
       ],
       "id": "evt_2ae0de6a5077"
@@ -2337,28 +2996,6 @@
         }
       ],
       "id": "evt_0be9fc9b621b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "East Kilbride Vs Celtic B U21",
-      "eventInfo": {
-        "teamA": "East Kilbride",
-        "teamB": "Celtic B U21",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/170622/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/386975/image",
-        "eventName": "Scottish Challenge Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/331/image/dark",
-        "startTime": "23/09/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_0b48735aad27"
     },
     {
       "status": "UPCOMING",
