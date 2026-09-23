@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:53:55 AM 24-09-2026",
+  "last_update_time": "04:08:03 AM 24-09-2026",
   "total_matches": 133,
-  "live_match": 9,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -101,6 +101,50 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Belgrano Reserve Vs Talleres de Córdoba Reserve",
+      "eventInfo": {
+        "teamA": "Belgrano Reserve",
+        "teamB": "Talleres de Córdoba Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/248683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/251006/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "24/09/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN3 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
+        }
+      ],
+      "id": "evt_e925f8169477"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aruba Vs Antigua and Barbuda",
+      "eventInfo": {
+        "teamA": "Aruba",
+        "teamB": "Antigua and Barbuda",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "24/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_3932042837d6"
+    },
+    {
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Pittsburgh Pirates Vs St. Louis Cardinals",
       "eventInfo": {
@@ -175,25 +219,61 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Belgrano Reserve Vs Talleres de Córdoba Reserve",
+      "Category": "Ice hockey",
+      "event_name": "Toronto Maple Leafs Vs Ottawa Senators",
       "eventInfo": {
-        "teamA": "Belgrano Reserve",
-        "teamB": "Talleres de Córdoba Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/248683/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/251006/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "24/09/2026 04:00:00 AM"
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Ottawa Senators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "24/09/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "ESPN3 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         }
       ],
-      "id": "evt_e925f8169477"
+      "id": "evt_328bd9b79d43"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Ottawa Senators Vs Toronto Maple Leafs",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Toronto Maple Leafs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "24/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_541dce3e855a"
     },
     {
       "status": "UPCOMING",
@@ -1744,28 +1824,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Aruba Vs Antigua and Barbuda",
-      "eventInfo": {
-        "teamA": "Aruba",
-        "teamB": "Antigua and Barbuda",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21806/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21805/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_3932042837d6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Palestine Vs New Zealand",
       "eventInfo": {
         "teamA": "Palestine",
@@ -2529,41 +2587,6 @@
     {
       "status": "UPCOMING",
       "Category": "Ice hockey",
-      "event_name": "Toronto Maple Leafs Vs Ottawa Senators",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_328bd9b79d43"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
       "event_name": "Anaheim Ducks Vs Los Angeles Kings",
       "eventInfo": {
         "teamA": "Anaheim Ducks",
@@ -2583,29 +2606,6 @@
         }
       ],
       "id": "evt_ab871099a58a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Ottawa Senators Vs Toronto Maple Leafs",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Toronto Maple Leafs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "24/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_541dce3e855a"
     },
     {
       "status": "UPCOMING",
