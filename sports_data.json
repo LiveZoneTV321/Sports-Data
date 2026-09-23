@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:26:52 PM 23-09-2026",
+  "last_update_time": "07:41:42 PM 23-09-2026",
   "total_matches": 137,
-  "live_match": 4,
+  "live_match": 5,
   "matches": [
     {
       "status": "LIVE",
@@ -90,6 +90,27 @@
         }
       ],
       "id": "evt_453bf787b507"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Iraq Vs Oman",
+      "eventInfo": {
+        "teamA": "Iraq",
+        "teamB": "Oman",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
+        "eventName": "Gulf Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
+        "startTime": "23/09/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT TV HD",
+          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+        }
+      ],
+      "id": "evt_3079d69607c6"
     },
     {
       "status": "UPCOMING",
@@ -1684,27 +1705,6 @@
         }
       ],
       "id": "evt_cee08cbabdb1"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Iraq Vs Oman",
-      "eventInfo": {
-        "teamA": "Iraq",
-        "teamB": "Oman",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4767/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4787/image",
-        "eventName": "Gulf Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/622/image/dark",
-        "startTime": "23/09/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT TV HD",
-          "stream_url": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
-        }
-      ],
-      "id": "evt_3079d69607c6"
     },
     {
       "status": "UPCOMING",
