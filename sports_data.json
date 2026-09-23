@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:55:28 PM 23-09-2026",
+  "last_update_time": "06:11:04 PM 23-09-2026",
   "total_matches": 137,
-  "live_match": 2,
+  "live_match": 5,
   "matches": [
     {
       "status": "LIVE",
@@ -37,6 +37,75 @@
       },
       "streams": [],
       "id": "evt_37f5271142d6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Zambia U20 Vs Botswana U20",
+      "eventInfo": {
+        "teamA": "Zambia U20",
+        "teamB": "Botswana U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/305817/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "23/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_28b10f2665da"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Malawi U20 Vs Comoros U20",
+      "eventInfo": {
+        "teamA": "Malawi U20",
+        "teamB": "Comoros U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/336890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/336889/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "23/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_0c33754c2085"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Italy U20 Vs Spain U20",
+      "eventInfo": {
+        "teamA": "Italy U20",
+        "teamB": "Spain U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/71900/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/236944/image",
+        "eventName": "U-20 Women's World Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
+        "startTime": "23/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/ssssaAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_453bf787b507"
     },
     {
       "status": "UPCOMING",
@@ -1545,48 +1614,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Zambia U20 Vs Botswana U20",
-      "eventInfo": {
-        "teamA": "Zambia U20",
-        "teamB": "Botswana U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/305817/image",
-        "eventName": "COSAFA U20 Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
-        "startTime": "23/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_28b10f2665da"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Malawi U20 Vs Comoros U20",
-      "eventInfo": {
-        "teamA": "Malawi U20",
-        "teamB": "Comoros U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/336890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/336889/image",
-        "eventName": "COSAFA U20 Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
-        "startTime": "23/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_0c33754c2085"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Gibraltar Vs São Tomé and Príncipe",
       "eventInfo": {
         "teamA": "Gibraltar",
@@ -2047,28 +2074,6 @@
         }
       ],
       "id": "evt_c2a2c868b6ff"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Italy U20 Vs Spain U20",
-      "eventInfo": {
-        "teamA": "Italy U20",
-        "teamB": "Spain U20",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/71900/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/236944/image",
-        "eventName": "U-20 Women's World Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/804/image/dark",
-        "startTime": "23/09/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_453bf787b507"
     },
     {
       "status": "UPCOMING",
