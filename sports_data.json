@@ -2,42 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:39:41 AM 25-09-2026",
-  "total_matches": 186,
-  "live_match": 24,
+  "last_update_time": "05:49:24 AM 25-09-2026",
+  "total_matches": 191,
+  "live_match": 27,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "25/09/2026 02:55:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "ESPN3 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
-        }
-      ],
-      "id": "evt_dfa6ba76db50"
-    },
     {
       "status": "LIVE",
       "Category": "American football",
@@ -53,6 +21,45 @@
       },
       "streams": [],
       "id": "evt_581cc9e2d21e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Coastal Carolina Chanticleers Vs Liberty Flames",
+      "eventInfo": {
+        "teamA": "Coastal Carolina Chanticleers",
+        "teamB": "Liberty Flames",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/46392/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/290824/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "25/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57032/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EIIIQQQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f2a144dbd126"
     },
     {
       "status": "LIVE",
@@ -90,6 +97,39 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
+      "event_name": "Atlanta Braves Vs Cincinnati Reds",
+      "eventInfo": {
+        "teamA": "Atlanta Braves",
+        "teamB": "Cincinnati Reds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 05:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY MLB ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57030/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/jnzkdzjfanch23.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_24b3c4fcfc2f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
       "event_name": "Boston Red Sox Vs Cleveland Guardians",
       "eventInfo": {
         "teamA": "Boston Red Sox",
@@ -101,6 +141,11 @@
         "startTime": "25/09/2026 04:45:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NHL STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57016/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream6.pro/hls/ojzkajnach21.m3u8",
@@ -114,6 +159,40 @@
         }
       ],
       "id": "evt_6ce6a2d6e49e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "New York Yankees Vs Tampa Bay Rays",
+      "eventInfo": {
+        "teamA": "New York Yankees",
+        "teamB": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 05:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "HD QUALITY MLB ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57027/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/ijfnakfidch22.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_0a585de03438"
     },
     {
       "status": "LIVE",
@@ -142,6 +221,11 @@
           "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
+          "channel_name": "HD QUALITY WNBA ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57023/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
           "referer": "https://streame.center",
@@ -149,6 +233,34 @@
         }
       ],
       "id": "evt_07f79608c1ac"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Washington Mystics Vs Chicago Sky",
+      "eventInfo": {
+        "teamA": "Washington Mystics",
+        "teamB": "Chicago Sky",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "25/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WNBA STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57031/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/ztyarueaghj71.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_ac67555445ad"
     },
     {
       "status": "LIVE",
@@ -164,6 +276,11 @@
         "startTime": "25/09/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NHL STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57018/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
@@ -187,6 +304,11 @@
         "startTime": "25/09/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NHL STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57022/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
@@ -234,6 +356,11 @@
       },
       "streams": [
         {
+          "channel_name": "NJL STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57021/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
           "referer": "https://streame.center",
@@ -256,6 +383,11 @@
         "startTime": "25/09/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "NHL STREAM ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57020/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
@@ -280,6 +412,11 @@
       },
       "streams": [
         {
+          "channel_name": "NHL STREAMING ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57017/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
@@ -301,7 +438,13 @@
         "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
         "startTime": "25/09/2026 05:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EEEEE.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_ef1616ed88db"
     },
     {
@@ -329,24 +472,18 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "O'Higgins Vs Deportes Santa Cruz",
+      "event_name": "Everton de Viña del Mar Vs Universidad de Chile",
       "eventInfo": {
-        "teamA": "O'Higgins",
-        "teamB": "Deportes Santa Cruz",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/243490/image",
+        "teamA": "Everton de Viña del Mar",
+        "teamB": "Universidad de Chile",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5032/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
         "eventName": "Copa Chile",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "25/09/2026 03:00:00 AM"
+        "startTime": "25/09/2026 05:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/zkkk.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_f034be2a0cd1"
+      "streams": [],
+      "id": "evt_9d881c07d4ac"
     },
     {
       "status": "LIVE",
@@ -382,94 +519,59 @@
         "event_logo": "https://i.ibb.co/RkFszNyM/20260313-082317.png",
         "startTime": "25/09/2026 06:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_ca409592a551"
     },
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Coastal Carolina Chanticleers Vs Liberty Flames",
+      "event_name": "Green Bay Packers Vs Atlanta Falcons",
       "eventInfo": {
-        "teamA": "Coastal Carolina Chanticleers",
-        "teamB": "Liberty Flames",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46392/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/290824/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "25/09/2026 05:30:00 AM"
+        "teamA": "Green Bay Packers",
+        "teamB": "Atlanta Falcons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4393/image",
+        "eventName": "NFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "25/09/2026 06:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f2a144dbd126"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Atlanta Braves Vs Cincinnati Reds",
-      "eventInfo": {
-        "teamA": "Atlanta Braves",
-        "teamB": "Cincinnati Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/jnzkdzjfanch23.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_24b3c4fcfc2f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "New York Yankees Vs Tampa Bay Rays",
-      "eventInfo": {
-        "teamA": "New York Yankees",
-        "teamB": "Tampa Bay Rays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 05:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "channel_name": "HD QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GEEE.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/ijfnakfidch22.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GEEEQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_0a585de03438"
+      "id": "evt_e5cd713667a9"
     },
     {
       "status": "LIVE",
@@ -486,36 +588,27 @@
       },
       "streams": [
         {
+          "channel_name": "WNBA TV HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57034/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD TV TIKE",
+          "stream_url": "https://www.rtmpcdn.com/live/9a61a997-d902-4ab6-984d-5b27e4290890.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_202272de95b8"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Washington Mystics Vs Chicago Sky",
-      "eventInfo": {
-        "teamA": "Washington Mystics",
-        "teamB": "Chicago Sky",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "25/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/ztyarueaghj71.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ac67555445ad"
     },
     {
       "status": "LIVE",
@@ -532,6 +625,11 @@
       },
       "streams": [
         {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57035/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/poiryezafv56.m3u8",
           "referer": "https://streame.center",
@@ -539,6 +637,36 @@
         }
       ],
       "id": "evt_1f27a1f4db24"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Haiti Vs Trinidad and Tobago",
+      "eventInfo": {
+        "teamA": "Haiti",
+        "teamB": "Trinidad and Tobago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "25/09/2026 06:20:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/55575/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "FOX SOCCER HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
+        }
+      ],
+      "id": "evt_911b2645292f"
     },
     {
       "status": "LIVE",
@@ -562,6 +690,11 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/34109/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_166b7688f284"
@@ -569,18 +702,77 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Everton de Viña del Mar Vs Universidad de Chile",
+      "event_name": "Cayman Islands Vs Dominica",
       "eventInfo": {
-        "teamA": "Everton de Viña del Mar",
-        "teamB": "Universidad de Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5032/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "25/09/2026 05:30:00 AM"
+        "teamA": "Cayman Islands",
+        "teamB": "Dominica",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21811/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "25/09/2026 06:10:00 AM"
       },
-      "streams": [],
-      "id": "evt_9d881c07d4ac"
+      "streams": [
+        {
+          "channel_name": "STREAM TV ",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7bd854d8a802"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Atlético Nacional Vs Millonarios",
+      "eventInfo": {
+        "teamA": "Atlético Nacional",
+        "teamB": "Millonarios",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "25/09/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": " QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_5e9e7274216a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Hong Kong C. Vs Oman",
+      "eventInfo": {
+        "teamA": "Hong Kong C.",
+        "teamB": "Oman",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187774/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/199279/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "25/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVV.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+        }
+      ],
+      "id": "evt_1f66e89b0671"
     },
     {
       "status": "UPCOMING",
@@ -1169,41 +1361,6 @@
         }
       ],
       "id": "evt_458bd22fe7bc"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Green Bay Packers Vs Atlanta Falcons",
-      "eventInfo": {
-        "teamA": "Green Bay Packers",
-        "teamB": "Atlanta Falcons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4393/image",
-        "eventName": "NFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "25/09/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e5cd713667a9"
     },
     {
       "status": "UPCOMING",
@@ -2451,6 +2608,11 @@
           "stream_url": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_a4cd7aa616ce"
@@ -2474,6 +2636,11 @@
           "stream_url": "https://edgestream4.pro/hls/kjhfzua25.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_e570c3956b3c"
@@ -2497,6 +2664,11 @@
           "stream_url": "https://edgestream4.pro/hls/fskjanach24.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_6e0252fbabba"
@@ -2520,6 +2692,11 @@
           "stream_url": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_d983cbe648fd"
@@ -2543,6 +2720,11 @@
           "stream_url": "https://edgestream2.pro/hls/fdgsqdfawa73.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_a645f82bbe12"
@@ -2661,71 +2843,14 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/34109/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVVAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_8bea7c34472d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Haiti Vs Trinidad and Tobago",
-      "eventInfo": {
-        "teamA": "Haiti",
-        "teamB": "Trinidad and Tobago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "25/09/2026 06:20:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/55575/index.m3u8"
-        },
-        {
-          "channel_name": "FOX SOCCER HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/foxsoccer96654sdfss.m3u8"
-        }
-      ],
-      "id": "evt_911b2645292f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cayman Islands Vs Dominica",
-      "eventInfo": {
-        "teamA": "Cayman Islands",
-        "teamB": "Dominica",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21811/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "25/09/2026 06:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SOON",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_7bd854d8a802"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Atlético Nacional Vs Millonarios",
-      "eventInfo": {
-        "teamA": "Atlético Nacional",
-        "teamB": "Millonarios",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "25/09/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_5e9e7274216a"
     },
     {
       "status": "UPCOMING",
@@ -2808,6 +2933,11 @@
         {
           "channel_name": "ASIA CRICKET",
           "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/EVVV.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_2565bb888624"
@@ -3943,6 +4073,108 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Cricket",
+      "event_name": "India Vs West Indies",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "27/09/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_b43cb0559b90"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Auckland Vs Manawatu",
+      "eventInfo": {
+        "teamA": "Auckland",
+        "teamB": "Manawatu",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42722/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "25/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/FOOOAAAQAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f4dc043c40ad"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "South Korea Vs China",
+      "eventInfo": {
+        "teamA": "South Korea",
+        "teamB": "China",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6404/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6400/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "startTime": "25/09/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/FOOOA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FOOOA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_d8170db1ecab"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Basketball",
+      "event_name": "Chinese Taipei Vs Japan",
+      "eventInfo": {
+        "teamA": "Chinese Taipei",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22789/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "startTime": "25/09/2026 04:20:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/FOOO.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/FOOO.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_ea882c87501e"
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Panama Vs New Zealand",
       "eventInfo": {
@@ -4319,6 +4551,38 @@
     },
     {
       "status": "ENDED",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
+      "eventInfo": {
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "25/09/2026 02:55:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "ESPN3 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
+        }
+      ],
+      "id": "evt_dfa6ba76db50"
+    },
+    {
+      "status": "ENDED",
       "Category": "Baseball",
       "event_name": "Kansas City Royals Vs Chicago White Sox",
       "eventInfo": {
@@ -4515,6 +4779,28 @@
         }
       ],
       "id": "evt_0557375c4d0d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "O'Higgins Vs Deportes Santa Cruz",
+      "eventInfo": {
+        "teamA": "O'Higgins",
+        "teamB": "Deportes Santa Cruz",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/243490/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "25/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/zkkk.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f034be2a0cd1"
     },
     {
       "status": "ENDED",
