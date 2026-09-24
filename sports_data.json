@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:07 PM 24-09-2026",
+  "last_update_time": "05:43:59 PM 24-09-2026",
   "total_matches": 179,
   "live_match": 13,
   "matches": [
@@ -108,6 +108,36 @@
         }
       ],
       "id": "evt_dfa6ba76db50"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "England Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "24/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "SPORT CRICKET HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8"
+        }
+      ],
+      "id": "evt_bbb2d3c2242a"
     },
     {
       "status": "LIVE",
@@ -262,6 +292,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "China Vs Maldives",
+      "eventInfo": {
+        "teamA": "China",
+        "teamB": "Maldives",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "24/09/2026 05:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_220bd26f2df2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Palestine Vs New Zealand",
       "eventInfo": {
         "teamA": "Palestine",
@@ -300,57 +351,6 @@
         }
       ],
       "id": "evt_ceaad049d423"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "England Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "24/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        },
-        {
-          "channel_name": "SPORT CRICKET HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8"
-        }
-      ],
-      "id": "evt_bbb2d3c2242a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "China Vs Maldives",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Maldives",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "24/09/2026 05:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_220bd26f2df2"
     },
     {
       "status": "LIVE",
