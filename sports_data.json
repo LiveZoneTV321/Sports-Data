@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:57:59 PM 24-09-2026",
+  "last_update_time": "04:14:06 PM 24-09-2026",
   "total_matches": 179,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -279,6 +279,27 @@
         }
       ],
       "id": "evt_62fffb2ae25d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Korea Vs Ecuador",
+      "eventInfo": {
+        "teamA": "South Korea",
+        "teamB": "Ecuador",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "24/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_ceaad049d423"
     },
     {
       "status": "UPCOMING",
@@ -2792,27 +2813,6 @@
         }
       ],
       "id": "evt_220bd26f2df2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "South Korea Vs Ecuador",
-      "eventInfo": {
-        "teamA": "South Korea",
-        "teamB": "Ecuador",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "24/09/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_ceaad049d423"
     },
     {
       "status": "UPCOMING",
