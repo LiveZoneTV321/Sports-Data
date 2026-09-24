@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:55:50 AM 25-09-2026",
+  "last_update_time": "04:09:22 AM 25-09-2026",
   "total_matches": 186,
-  "live_match": 7,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -90,6 +90,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Racing Reserve Vs CA Independiente Reserve",
+      "eventInfo": {
+        "teamA": "Racing Reserve",
+        "teamB": "CA Independiente Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/235851/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/236797/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "25/09/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN2 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        }
+      ],
+      "id": "evt_2bdec41fcdd6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "O'Higgins Vs Deportes Santa Cruz",
       "eventInfo": {
         "teamA": "O'Higgins",
@@ -165,25 +187,220 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Racing Reserve Vs CA Independiente Reserve",
+      "Category": "Baseball",
+      "event_name": "Boston Red Sox Vs Cleveland Guardians",
       "eventInfo": {
-        "teamA": "Racing Reserve",
-        "teamB": "CA Independiente Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/235851/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/236797/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "25/09/2026 04:00:00 AM"
+        "teamA": "Boston Red Sox",
+        "teamB": "Cleveland Guardians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "25/09/2026 04:45:00 AM"
       },
       "streams": [
         {
-          "channel_name": "ESPN2 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream6.pro/hls/ojzkajnach21.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/zkkkAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_2bdec41fcdd6"
+      "id": "evt_6ce6a2d6e49e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Connecticut Sun Vs Toronto Tempo",
+      "eventInfo": {
+        "teamA": "Connecticut Sun",
+        "teamB": "Toronto Tempo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_07f79608c1ac"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "New York Rangers Vs New Jersey Devils",
+      "eventInfo": {
+        "teamA": "New York Rangers",
+        "teamB": "New Jersey Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_5a36467ad4fd"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Tampa Bay Lightning Vs Florida Panthers",
+      "eventInfo": {
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_ddc9db38a0e3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Columbus Blue Jackets Vs Pittsburgh Penguins",
+      "eventInfo": {
+        "teamA": "Columbus Blue Jackets",
+        "teamB": "Pittsburgh Penguins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/lmdsjkfgv52.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_ec25920eb869"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Carolina Hurricanes Vs Nashville Predators",
+      "eventInfo": {
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Nashville Predators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f7886f44ab7d"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Detroit Red Wings Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_c4be642eea59"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Philadelphia Flyers Vs Boston Bruins",
+      "eventInfo": {
+        "teamA": "Philadelphia Flyers",
+        "teamB": "Boston Bruins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f4a3c3f5fe85"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "Mitchell Vs Musumeci",
+      "eventInfo": {
+        "teamA": "Mitchell",
+        "teamB": "Musumeci",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "eventName": "UFC BJJ 11",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+        "startTime": "25/09/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ef1616ed88db"
     },
     {
       "status": "UPCOMING",
@@ -2134,34 +2351,6 @@
     {
       "status": "UPCOMING",
       "Category": "Baseball",
-      "event_name": "Boston Red Sox Vs Cleveland Guardians",
-      "eventInfo": {
-        "teamA": "Boston Red Sox",
-        "teamB": "Cleveland Guardians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "25/09/2026 04:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/ojzkajnach21.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/zkkkAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_6ce6a2d6e49e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
       "event_name": "New York Yankees Vs Tampa Bay Rays",
       "eventInfo": {
         "teamA": "New York Yankees",
@@ -2260,41 +2449,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "Connecticut Sun Vs Toronto Tempo",
-      "eventInfo": {
-        "teamA": "Connecticut Sun",
-        "teamB": "Toronto Tempo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_07f79608c1ac"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Phoenix Mercury Vs Las Vegas Aces",
       "eventInfo": {
         "teamA": "Phoenix Mercury",
@@ -2360,144 +2514,6 @@
         }
       ],
       "id": "evt_ac67555445ad"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "New York Rangers Vs New Jersey Devils",
-      "eventInfo": {
-        "teamA": "New York Rangers",
-        "teamB": "New Jersey Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_5a36467ad4fd"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Tampa Bay Lightning Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ddc9db38a0e3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Columbus Blue Jackets Vs Pittsburgh Penguins",
-      "eventInfo": {
-        "teamA": "Columbus Blue Jackets",
-        "teamB": "Pittsburgh Penguins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/lmdsjkfgv52.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_ec25920eb869"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Carolina Hurricanes Vs Nashville Predators",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Nashville Predators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f7886f44ab7d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Detroit Red Wings Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_c4be642eea59"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Philadelphia Flyers Vs Boston Bruins",
-      "eventInfo": {
-        "teamA": "Philadelphia Flyers",
-        "teamB": "Boston Bruins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f4a3c3f5fe85"
     },
     {
       "status": "UPCOMING",
@@ -2749,22 +2765,6 @@
         }
       ],
       "id": "evt_d10b9824e2af"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Boxing",
-      "event_name": "Mitchell Vs Musumeci",
-      "eventInfo": {
-        "teamA": "Mitchell",
-        "teamB": "Musumeci",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "eventName": "UFC BJJ 11",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-        "startTime": "25/09/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ef1616ed88db"
     },
     {
       "status": "UPCOMING",
