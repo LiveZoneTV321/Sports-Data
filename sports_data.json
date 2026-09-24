@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:42 PM 24-09-2026",
+  "last_update_time": "04:48:08 PM 24-09-2026",
   "total_matches": 179,
-  "live_match": 10,
+  "live_match": 13,
   "matches": [
     {
       "status": "LIVE",
@@ -241,27 +241,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Palestine Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Palestine",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4788/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "24/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_881bf5c850ae"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Japan Vs Uruguay",
       "eventInfo": {
         "teamA": "Japan",
@@ -283,6 +262,78 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Palestine Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Palestine",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4788/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "24/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_881bf5c850ae"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "England Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "24/09/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "SKY1 NZ HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
+        },
+        {
+          "channel_name": "SPORT CRICKET HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8"
+        }
+      ],
+      "id": "evt_bbb2d3c2242a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "China Vs Maldives",
+      "eventInfo": {
+        "teamA": "China",
+        "teamB": "Maldives",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "24/09/2026 05:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_220bd26f2df2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "South Korea Vs Ecuador",
       "eventInfo": {
         "teamA": "South Korea",
@@ -300,6 +351,22 @@
         }
       ],
       "id": "evt_ceaad049d423"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs Adelaide 36ers",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "Adelaide 36ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "24/09/2026 05:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_95fdcff3f10c"
     },
     {
       "status": "UPCOMING",
@@ -396,36 +463,6 @@
       },
       "streams": [],
       "id": "evt_6ab53bf31a3e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "England Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "24/09/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "SKY1 NZ HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz615866.m3u8"
-        },
-        {
-          "channel_name": "SPORT CRICKET HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportscricket.m3u8"
-        }
-      ],
-      "id": "evt_bbb2d3c2242a"
     },
     {
       "status": "UPCOMING",
@@ -2796,27 +2833,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "China Vs Maldives",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "Maldives",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "24/09/2026 05:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_220bd26f2df2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Norway Vs Denmark",
       "eventInfo": {
         "teamA": "Norway",
@@ -3308,22 +3324,6 @@
         }
       ],
       "id": "evt_d10b9824e2af"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Perth Wildcats Vs Adelaide 36ers",
-      "eventInfo": {
-        "teamA": "Perth Wildcats",
-        "teamB": "Adelaide 36ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "24/09/2026 05:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_95fdcff3f10c"
     },
     {
       "status": "UPCOMING",
