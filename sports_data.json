@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:58:47 AM 26-09-2026",
+  "last_update_time": "05:13:40 AM 26-09-2026",
   "total_matches": 231,
-  "live_match": 25,
+  "live_match": 33,
   "matches": [
     {
       "status": "LIVE",
@@ -32,6 +32,35 @@
         }
       ],
       "id": "evt_64739719626b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "UAB Blazers Vs Navy Midshipmen",
+      "eventInfo": {
+        "teamA": "UAB Blazers",
+        "teamB": "Navy Midshipmen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4377/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4340/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream4.pro/hls/uheyztezgj34.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD.",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "id": "evt_f568f6cd4935"
     },
     {
       "status": "LIVE",
@@ -107,6 +136,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Hartford Athletic Vs Louisville City FC",
+      "eventInfo": {
+        "teamA": "Hartford Athletic",
+        "teamB": "Louisville City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/310968/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/197070/image",
+        "eventName": "USL Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_fd6cae6c600e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Racing Louisville Vs San Diego Wave FC",
       "eventInfo": {
         "teamA": "Racing Louisville",
@@ -166,6 +216,22 @@
         }
       ],
       "id": "evt_87384a9ba0d5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Deportivo Garcilaso Vs Los Chankas CYC",
+      "eventInfo": {
+        "teamA": "Deportivo Garcilaso",
+        "teamB": "Los Chankas CYC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/458584/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_24da44189b0c"
     },
     {
       "status": "LIVE",
@@ -250,88 +316,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UAB Blazers Vs Navy Midshipmen",
-      "eventInfo": {
-        "teamA": "UAB Blazers",
-        "teamB": "Navy Midshipmen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4377/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4340/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream4.pro/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD.",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_f568f6cd4935"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hartford Athletic Vs Louisville City FC",
-      "eventInfo": {
-        "teamA": "Hartford Athletic",
-        "teamB": "Louisville City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/310968/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/197070/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_fd6cae6c600e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Garcilaso Vs Los Chankas CYC",
-      "eventInfo": {
-        "teamA": "Deportivo Garcilaso",
-        "teamB": "Los Chankas CYC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/458584/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_24da44189b0c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Boyacá Chicó FC Vs Deportivo Pasto",
-      "eventInfo": {
-        "teamA": "Boyacá Chicó FC",
-        "teamB": "Deportivo Pasto",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6113/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "26/09/2026 05:10:00 AM"
-      },
-      "streams": [],
-      "id": "evt_002229da3e4e"
-    },
-    {
-      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Washington Nationals Vs New York Mets",
       "eventInfo": {
@@ -352,6 +336,296 @@
         }
       ],
       "id": "evt_f31ecf00ee38"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Washington Capitals Vs Boston Bruins",
+      "eventInfo": {
+        "teamA": "Washington Capitals",
+        "teamB": "Boston Bruins",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM HD + LIVE",
+          "stream_url": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_3a7f49db9768"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Colo-Colo Vs Audax Italiano",
+      "eventInfo": {
+        "teamA": "Colo-Colo",
+        "teamB": "Audax Italiano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3155/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3162/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4391e7d13231"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Rutgers Scarlet Knights Vs Howard Bison",
+      "eventInfo": {
+        "teamA": "Rutgers Scarlet Knights",
+        "teamB": "Howard Bison",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4354/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296508/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "26/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream1.pro/hls/oipozuezeji33.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_726ad4bb48ba"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "SmackDown Vs SmackDown",
+      "eventInfo": {
+        "teamA": "SmackDown",
+        "teamB": "SmackDown",
+        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
+        "eventName": "Friday Night SmackDown",
+        "event_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAM ",
+          "stream_url": "https://edgestream3.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY SMK",
+          "stream_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "HD SERVER",
+          "stream_url": "https://daffodil.demonpvp.fun/wwe.m3u8",
+          "referer": "https://roxiestreams.info"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream1.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "SmackDown HD",
+          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
+        },
+        {
+          "channel_name": "WWE LIVE FHD4",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        },
+        {
+          "channel_name": "WWE LIVE FHD5",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "WWE LIVE FHD6",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+        },
+        {
+          "channel_name": "SPORT CAST FHD5",
+          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "WWE LIVE FHD1",
+          "stream_url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "channel_name": "WWE SMACKDOWN 5",
+          "stream_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "USA TV (US VPN)",
+          "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
+          "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
+        }
+      ],
+      "id": "evt_a21b10ab40cc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Indiana Hoosiers Vs Northwestern Wildcats",
+      "eventInfo": {
+        "teamA": "Indiana Hoosiers",
+        "teamB": "Northwestern Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4375/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4366/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_ec8d5a3e0da3"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Winnipeg Blue Bombers Vs Toronto Argonauts",
+      "eventInfo": {
+        "teamA": "Winnipeg Blue Bombers",
+        "teamB": "Toronto Argonauts",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+        "eventName": "CFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_c46f4872a15a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Japan Vs Nepal",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Nepal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/445296/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ASIA CRICKET",
+          "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+        }
+      ],
+      "id": "evt_505e32c51192"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barbados Vs Saint Lucia",
+      "eventInfo": {
+        "teamA": "Barbados",
+        "teamB": "Saint Lucia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21808/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/25179/index.m3u8"
+        }
+      ],
+      "id": "evt_4f2c96addd43"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Jamaica Vs Guatemala",
+      "eventInfo": {
+        "teamA": "Jamaica",
+        "teamB": "Guatemala",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/27149/index.m3u8"
+        }
+      ],
+      "id": "evt_40290ae366de"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bonaire Vs Saint Kitts and Nevis",
+      "eventInfo": {
+        "teamA": "Bonaire",
+        "teamB": "Saint Kitts and Nevis",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "26/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/26743/index.m3u8"
+        }
+      ],
+      "id": "evt_c7e77aa6c5b6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Boyacá Chicó FC Vs Deportivo Pasto",
+      "eventInfo": {
+        "teamA": "Boyacá Chicó FC",
+        "teamB": "Deportivo Pasto",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6113/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "26/09/2026 05:10:00 AM"
+      },
+      "streams": [],
+      "id": "evt_002229da3e4e"
     },
     {
       "status": "LIVE",
@@ -500,25 +774,25 @@
     {
       "status": "LIVE",
       "Category": "Ice hockey",
-      "event_name": "Washington Capitals Vs Boston Bruins",
+      "event_name": "Minnesota Wild Vs Dallas Stars",
       "eventInfo": {
-        "teamA": "Washington Capitals",
-        "teamB": "Boston Bruins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3691/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamA": "Minnesota Wild",
+        "teamB": "Dallas Stars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
         "eventName": "NHL Preseason",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
+        "startTime": "26/09/2026 06:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM HD + LIVE",
-          "stream_url": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
+          "stream_url": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_3a7f49db9768"
+      "id": "evt_96d6bea3cfb7"
     },
     {
       "status": "LIVE",
@@ -542,45 +816,6 @@
         }
       ],
       "id": "evt_2116aa109b3f"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colo-Colo Vs Audax Italiano",
-      "eventInfo": {
-        "teamA": "Colo-Colo",
-        "teamB": "Audax Italiano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3155/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3162/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_4391e7d13231"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Rutgers Scarlet Knights Vs Howard Bison",
-      "eventInfo": {
-        "teamA": "Rutgers Scarlet Knights",
-        "teamB": "Howard Bison",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4354/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/296508/image",
-        "eventName": "NCAA Interdivisional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
-        "startTime": "26/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream1.pro/hls/oipozuezeji33.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_726ad4bb48ba"
     },
     {
       "status": "UPCOMING",
@@ -652,77 +887,6 @@
         }
       ],
       "id": "evt_8b57d1833d5f"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Boxing",
-      "event_name": "SmackDown Vs SmackDown",
-      "eventInfo": {
-        "teamA": "SmackDown",
-        "teamB": "SmackDown",
-        "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
-        "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
-        "eventName": "Friday Night SmackDown",
-        "event_logo": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAM ",
-          "stream_url": "https://edgestream3.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY SMK",
-          "stream_url": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "HD SERVER",
-          "stream_url": "https://daffodil.demonpvp.fun/wwe.m3u8",
-          "referer": "https://roxiestreams.info"
-        },
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://edgestream1.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "SmackDown HD",
-          "stream_url": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE FHD4",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE FHD5",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE FHD6",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-        },
-        {
-          "channel_name": "SPORT CAST FHD5",
-          "stream_url": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "WWE LIVE FHD1",
-          "stream_url": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8"
-        },
-        {
-          "channel_name": "WWE SMACKDOWN 5",
-          "stream_url": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "USA TV (US VPN)",
-          "stream_url": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd",
-          "drm_key": "58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41"
-        }
-      ],
-      "id": "evt_a21b10ab40cc"
     },
     {
       "status": "UPCOMING",
@@ -1082,63 +1246,6 @@
         }
       ],
       "id": "evt_01fc0e53aa01"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Indiana Hoosiers Vs Northwestern Wildcats",
-      "eventInfo": {
-        "teamA": "Indiana Hoosiers",
-        "teamB": "Northwestern Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4375/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4366/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_ec8d5a3e0da3"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Winnipeg Blue Bombers Vs Toronto Argonauts",
-      "eventInfo": {
-        "teamA": "Winnipeg Blue Bombers",
-        "teamB": "Toronto Argonauts",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-        "eventName": "CFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_c46f4872a15a"
     },
     {
       "status": "UPCOMING",
@@ -2284,27 +2391,6 @@
     {
       "status": "UPCOMING",
       "Category": "Cricket",
-      "event_name": "Japan Vs Nepal",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Nepal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/445296/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ASIA CRICKET",
-          "stream_url": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
-        }
-      ],
-      "id": "evt_505e32c51192"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
       "event_name": "Malaysia Vs Oman",
       "eventInfo": {
         "teamA": "Malaysia",
@@ -2389,27 +2475,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Barbados Vs Saint Lucia",
-      "eventInfo": {
-        "teamA": "Barbados",
-        "teamB": "Saint Lucia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21808/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21820/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/25179/index.m3u8"
-        }
-      ],
-      "id": "evt_4f2c96addd43"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Honduras Vs Suriname",
       "eventInfo": {
         "teamA": "Honduras",
@@ -2453,48 +2518,6 @@
         }
       ],
       "id": "evt_dae54faef073"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Jamaica Vs Guatemala",
-      "eventInfo": {
-        "teamA": "Jamaica",
-        "teamB": "Guatemala",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4769/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/27149/index.m3u8"
-        }
-      ],
-      "id": "evt_40290ae366de"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bonaire Vs Saint Kitts and Nevis",
-      "eventInfo": {
-        "teamA": "Bonaire",
-        "teamB": "Saint Kitts and Nevis",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/180236/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/26743/index.m3u8"
-        }
-      ],
-      "id": "evt_c7e77aa6c5b6"
     },
     {
       "status": "UPCOMING",
@@ -2751,29 +2774,6 @@
         }
       ],
       "id": "evt_57375987a20c"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Minnesota Wild Vs Dallas Stars",
-      "eventInfo": {
-        "teamA": "Minnesota Wild",
-        "teamB": "Dallas Stars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3684/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "26/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM HD + LIVE",
-          "stream_url": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_96d6bea3cfb7"
     },
     {
       "status": "UPCOMING",
