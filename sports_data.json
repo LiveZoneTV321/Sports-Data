@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:52:29 PM 25-09-2026",
+  "last_update_time": "02:08:18 PM 25-09-2026",
   "total_matches": 190,
-  "live_match": 10,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -336,6 +336,27 @@
         }
       ],
       "id": "evt_1f66e89b0671"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bangladesh Vs Malaysia",
+      "eventInfo": {
+        "teamA": "Bangladesh",
+        "teamB": "Malaysia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "25/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_71936a104fb7"
     },
     {
       "status": "UPCOMING",
@@ -2516,27 +2537,6 @@
         }
       ],
       "id": "evt_cc8bd2d15b30"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bangladesh Vs Malaysia",
-      "eventInfo": {
-        "teamA": "Bangladesh",
-        "teamB": "Malaysia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "25/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_71936a104fb7"
     },
     {
       "status": "UPCOMING",
