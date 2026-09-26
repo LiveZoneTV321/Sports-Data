@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:28:41 PM 26-09-2026",
+  "last_update_time": "03:41:02 PM 26-09-2026",
   "total_matches": 197,
   "live_match": 11,
   "matches": [
@@ -209,36 +209,15 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/9464/image/dark",
         "startTime": "26/09/2026 10:00:00 AM"
       },
-      "streams": [],
-      "id": "evt_581cc9e2d21e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Fremantle Dockers Vs Brisbane Lions",
-      "eventInfo": {
-        "teamA": "Fremantle Dockers",
-        "teamB": "Brisbane Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-        "eventName": "AFL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
-        "startTime": "26/09/2026 09:30:00 AM"
-      },
       "streams": [
         {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+          "channel_name": "ESPN STM",
+          "stream_url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_b53f9c225cd0"
+      "id": "evt_581cc9e2d21e"
     },
     {
       "status": "LIVE",
@@ -342,6 +321,27 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Juventus Vs Napoli",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "26/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_5794c19f24a9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "FC Badalona Vs Granada Club de Fútbol",
       "eventInfo": {
         "teamA": "FC Badalona",
@@ -355,7 +355,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/GNNN.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GNNN.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_a419bae7a172"
@@ -376,7 +382,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/GNNNA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GNNNA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_8ba9905d3beb"
@@ -2240,27 +2252,6 @@
         }
       ],
       "id": "evt_4b2ff2f12c7d"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Juventus Vs Napoli",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Napoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "26/09/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5794c19f24a9"
     },
     {
       "status": "UPCOMING",
@@ -4575,6 +4566,34 @@
         }
       ],
       "id": "evt_ca409592a551"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Fremantle Dockers Vs Brisbane Lions",
+      "eventInfo": {
+        "teamA": "Fremantle Dockers",
+        "teamB": "Brisbane Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+        "eventName": "AFL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/656/image/dark",
+        "startTime": "26/09/2026 09:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        }
+      ],
+      "id": "evt_b53f9c225cd0"
     },
     {
       "status": "ENDED",
