@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:39:21 AM 27-09-2026",
+  "last_update_time": "05:49:32 AM 27-09-2026",
   "total_matches": 254,
   "live_match": 69,
   "matches": [
@@ -249,23 +249,107 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Saint Vincent and the Grenadines Vs French Guiana",
+      "event_name": "CF Montréal Vs FC Cincinnati",
       "eventInfo": {
-        "teamA": "Saint Vincent and the Grenadines",
-        "teamB": "French Guiana",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52906/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "27/09/2026 03:00:00 AM"
+        "teamA": "CF Montréal",
+        "teamB": "FC Cincinnati",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/323/index.m3u8"
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/057cc158-52ae-4cfc-af56-18bc218f714e.m3u8"
         }
       ],
-      "id": "evt_9a4f03dcef71"
+      "id": "evt_25181c0554f6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Charlotte FC Vs Chicago Fire",
+      "eventInfo": {
+        "teamA": "Charlotte FC",
+        "teamB": "Chicago Fire",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/70be42a5-4dbe-4dcf-94f3-abe170ab94c9.m3u8"
+        }
+      ],
+      "id": "evt_30e25ec82cac"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Atlanta United Vs New York City FC",
+      "eventInfo": {
+        "teamA": "Atlanta United",
+        "teamB": "New York City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/6ad34c9e-cc45-42ca-80b2-e744b8fc2c0c.m3u8"
+        }
+      ],
+      "id": "evt_b6d52c92b67b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "New York Red Bulls Vs St.Louis City",
+      "eventInfo": {
+        "teamA": "New York Red Bulls",
+        "teamB": "St.Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/9e18dc73-3e73-41bc-a0c9-e0827d6604d6.m3u8"
+        }
+      ],
+      "id": "evt_1c93b5e1f020"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Philadelphia Union Vs Orlando City SC",
+      "eventInfo": {
+        "teamA": "Philadelphia Union",
+        "teamB": "Orlando City SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/e1a43301-6160-4968-bfdd-2ce99ecaf0ad.m3u8"
+        }
+      ],
+      "id": "evt_0b9f950ea9e3"
     },
     {
       "status": "LIVE",
@@ -321,24 +405,41 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Deportivo Pereira Vs Internacional de Bogotá",
+      "event_name": "CD Guadalajara Vs Querétaro FC",
       "eventInfo": {
-        "teamA": "Deportivo Pereira",
-        "teamB": "Internacional de Bogotá",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "27/09/2026 03:00:00 AM"
+        "teamA": "CD Guadalajara",
+        "teamB": "Querétaro FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "27/09/2026 05:07:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+          "channel_name": "NBC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
         }
       ],
-      "id": "evt_681577542fad"
+      "id": "evt_7476db0cc94e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cúcuta Deportivo Vs Llaneros FC",
+      "eventInfo": {
+        "teamA": "Cúcuta Deportivo",
+        "teamB": "Llaneros FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "27/09/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_1bf2e091a78a"
     },
     {
       "status": "LIVE",
@@ -367,109 +468,94 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Washington Nationals Vs New York Mets",
+      "event_name": "Chicago White Sox Vs Colorado Rockies",
       "eventInfo": {
-        "teamA": "Washington Nationals",
-        "teamB": "New York Mets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "teamA": "Chicago White Sox",
+        "teamB": "Colorado Rockies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 02:05:00 AM"
+        "startTime": "27/09/2026 05:10:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_f31ecf00ee38"
+      "id": "evt_1df9e34bd79b"
     },
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Miami Marlins Vs Atlanta Braves",
+      "event_name": "Kansas City Royals Vs Cleveland Guardians",
       "eventInfo": {
-        "teamA": "Miami Marlins",
-        "teamB": "Atlanta Braves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "teamA": "Kansas City Royals",
+        "teamB": "Cleveland Guardians",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 02:10:00 AM"
+        "startTime": "27/09/2026 05:10:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57156/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/bzagLHzach19.m3u8",
+          "stream_url": ".m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_4d5433c28d2e"
+      "id": "evt_40d8bf1b5e6b"
     },
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "San Francisco Giants Vs Los Angeles Dodgers",
+      "event_name": "Milwaukee Brewers Vs St. Louis Cardinals",
       "eventInfo": {
-        "teamA": "San Francisco Giants",
-        "teamB": "Los Angeles Dodgers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "teamA": "Milwaukee Brewers",
+        "teamB": "St. Louis Cardinals",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 02:05:00 AM"
+        "startTime": "27/09/2026 05:10:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57153/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8",
+          "stream_url": "https://edgestream6.pro/hls/jnzkdzjfanch23.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_57375987a20c"
+      "id": "evt_a1cc0d175526"
     },
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Minnesota Twins Vs Texas Rangers",
+      "event_name": "Philadelphia Phillies Vs Tampa Bay Rays",
       "eventInfo": {
-        "teamA": "Minnesota Twins",
-        "teamB": "Texas Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "teamA": "Philadelphia Phillies",
+        "teamB": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 02:10:00 AM"
+        "startTime": "27/09/2026 05:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57154/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/jkzahzadach20.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/fskjanach24.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_94cc636dd8fa"
+      "id": "evt_676d98bb0e47"
     },
     {
       "status": "LIVE",
@@ -651,6 +737,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "New York Islanders Vs New Jersey Devils",
+      "eventInfo": {
+        "teamA": "New York Islanders",
+        "teamB": "New Jersey Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8c7ed2a99b94"
+    },
+    {
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Raul Rosas Jr. Vs Raoni Barcelos",
       "eventInfo": {
@@ -683,34 +792,6 @@
         }
       ],
       "id": "evt_9f09c2ab06ac"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Georgia Southern Eagles Vs Houston Cougars",
-      "eventInfo": {
-        "teamA": "Georgia Southern Eagles",
-        "teamB": "Houston Cougars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/46394/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/61358/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57150/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_dfd247629e21"
     },
     {
       "status": "LIVE",
@@ -1042,30 +1123,117 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "East Carolina Pirates Vs North Carolina Central Eagles",
+      "event_name": "LSU Tigers Vs Texas A&M Aggies",
       "eventInfo": {
-        "teamA": "East Carolina Pirates",
-        "teamB": "North Carolina Central Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4326/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/296561/image",
-        "eventName": "NCAA Interdivisional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
-        "startTime": "27/09/2026 02:00:00 AM"
+        "teamA": "LSU Tigers",
+        "teamB": "Texas A&M Aggies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4284/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4348/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57151/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_092c93fcd60c"
+      "id": "evt_8b6d0e4582d6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "North Carolina State Wolfpack Vs Appalachian State Mountaineers",
+      "eventInfo": {
+        "teamA": "North Carolina State Wolfpack",
+        "teamB": "Appalachian State Mountaineers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46642/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/qsdnajbq32.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2a0a89abf6dc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Utah State Aggies Vs Troy Trojans",
+      "eventInfo": {
+        "teamA": "Utah State Aggies",
+        "teamB": "Troy Trojans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4300/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4283/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2957e6a2d667"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "USC Trojans Vs Oregon Ducks",
+      "eventInfo": {
+        "teamA": "USC Trojans",
+        "teamB": "Oregon Ducks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47372/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_198b70926311"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Washington State Cougars Vs Arizona Wildcats",
+      "eventInfo": {
+        "teamA": "Washington State Cougars",
+        "teamB": "Arizona Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4343/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/ioazuryeahrfvzed84.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2d54183232de"
     },
     {
       "status": "LIVE",
@@ -1135,6 +1303,29 @@
         }
       ],
       "id": "evt_669e4a26e2a5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "North Texas Mean Green Vs Houston Baptist Huskies",
+      "eventInfo": {
+        "teamA": "North Texas Mean Green",
+        "teamB": "Houston Baptist Huskies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4302/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296564/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/sfjnzabacah31.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2287ebee107a"
     },
     {
       "status": "LIVE",
@@ -1286,307 +1477,157 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CF Montréal Vs FC Cincinnati",
+      "event_name": "Austin FC Vs San Diego FC",
       "eventInfo": {
-        "teamA": "CF Montréal",
-        "teamB": "FC Cincinnati",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "teamA": "Austin FC",
+        "teamB": "San Diego FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/377973/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/057cc158-52ae-4cfc-af56-18bc218f714e.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/c6c72c18-69c4-402a-bf1d-69b6dab1dd7b.m3u8"
         }
       ],
-      "id": "evt_25181c0554f6"
+      "id": "evt_f68e9ca9c936"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Charlotte FC Vs Chicago Fire",
+      "event_name": "Seattle Sounders FC Vs Minnesota United",
       "eventInfo": {
-        "teamA": "Charlotte FC",
-        "teamB": "Chicago Fire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "teamA": "Seattle Sounders FC",
+        "teamB": "Minnesota United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/70be42a5-4dbe-4dcf-94f3-abe170ab94c9.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/38773490-6c30-4139-92a5-31cc2a59dd56.m3u8"
         }
       ],
-      "id": "evt_30e25ec82cac"
+      "id": "evt_2865e5835d29"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atlanta United Vs New York City FC",
+      "event_name": "Houston Dynamo Vs Sporting Kansas City",
       "eventInfo": {
-        "teamA": "Atlanta United",
-        "teamB": "New York City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+        "teamA": "Houston Dynamo",
+        "teamB": "Sporting Kansas City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/6ad34c9e-cc45-42ca-80b2-e744b8fc2c0c.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/5df633cf-27b8-4801-8253-55f7ac591587.m3u8"
         }
       ],
-      "id": "evt_b6d52c92b67b"
+      "id": "evt_a6dfde49770e"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "New York Red Bulls Vs St.Louis City",
+      "event_name": "Nashville SC Vs Toronto FC",
       "eventInfo": {
-        "teamA": "New York Red Bulls",
-        "teamB": "St.Louis City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "teamA": "Nashville SC",
+        "teamB": "Toronto FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/9e18dc73-3e73-41bc-a0c9-e0827d6604d6.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/c83fae2f-0011-404d-b75e-f8c402424b1f.m3u8"
         }
       ],
-      "id": "evt_1c93b5e1f020"
+      "id": "evt_7775126b22b4"
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Philadelphia Union Vs Orlando City SC",
+      "event_name": "FC Dallas Vs Los Angeles FC",
       "eventInfo": {
-        "teamA": "Philadelphia Union",
-        "teamB": "Orlando City SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/39833/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "teamA": "FC Dallas",
+        "teamB": "Los Angeles FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
         "eventName": "MLS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/e1a43301-6160-4968-bfdd-2ce99ecaf0ad.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/7b10cebf-c840-445b-bdc3-62492154a9c1.m3u8"
         }
       ],
-      "id": "evt_0b9f950ea9e3"
+      "id": "evt_a20bd1867c14"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Guadalajara Vs Querétaro FC",
+      "Category": "Rugby",
+      "event_name": "Wellington Lions Vs Waikato",
       "eventInfo": {
-        "teamA": "CD Guadalajara",
-        "teamB": "Querétaro FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "27/09/2026 05:07:00 AM"
+        "teamA": "Wellington Lions",
+        "teamB": "Waikato",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42716/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42744/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "27/09/2026 06:05:00 AM"
       },
       "streams": [
         {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_5d8c5d6075c4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "San Diego Padres Vs Arizona Diamondbacks",
+      "eventInfo": {
+        "teamA": "San Diego Padres",
+        "teamB": "Arizona Diamondbacks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "27/09/2026 06:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        }
-      ],
-      "id": "evt_7476db0cc94e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cúcuta Deportivo Vs Llaneros FC",
-      "eventInfo": {
-        "teamA": "Cúcuta Deportivo",
-        "teamB": "Llaneros FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/89374/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "27/09/2026 05:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_1bf2e091a78a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Chicago White Sox Vs Colorado Rockies",
-      "eventInfo": {
-        "teamA": "Chicago White Sox",
-        "teamB": "Colorado Rockies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 05:10:00 AM"
-      },
-      "streams": [
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8",
+          "stream_url": "https://edgestream6.pro/hls/kjhfzua25.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_1df9e34bd79b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Kansas City Royals Vs Cleveland Guardians",
-      "eventInfo": {
-        "teamA": "Kansas City Royals",
-        "teamB": "Cleveland Guardians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": ".m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_40d8bf1b5e6b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Milwaukee Brewers Vs St. Louis Cardinals",
-      "eventInfo": {
-        "teamA": "Milwaukee Brewers",
-        "teamB": "St. Louis Cardinals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 05:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/jnzkdzjfanch23.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_a1cc0d175526"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Philadelphia Phillies Vs Tampa Bay Rays",
-      "eventInfo": {
-        "teamA": "Philadelphia Phillies",
-        "teamB": "Tampa Bay Rays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/fskjanach24.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_676d98bb0e47"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "New York Islanders Vs New Jersey Devils",
-      "eventInfo": {
-        "teamA": "New York Islanders",
-        "teamB": "New Jersey Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3704/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wxqsdafzaengfgu97.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8c7ed2a99b94"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "LSU Tigers Vs Texas A&M Aggies",
-      "eventInfo": {
-        "teamA": "LSU Tigers",
-        "teamB": "Texas A&M Aggies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4284/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4348/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8b6d0e4582d6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "North Carolina State Wolfpack Vs Appalachian State Mountaineers",
-      "eventInfo": {
-        "teamA": "North Carolina State Wolfpack",
-        "teamB": "Appalachian State Mountaineers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/188107/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/46642/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/qsdnajbq32.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2a0a89abf6dc"
+      "id": "evt_921fffc6cbde"
     },
     {
       "status": "LIVE",
@@ -1614,29 +1655,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Utah State Aggies Vs Troy Trojans",
-      "eventInfo": {
-        "teamA": "Utah State Aggies",
-        "teamB": "Troy Trojans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4300/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4283/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2957e6a2d667"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Mississippi State Bulldogs Vs Missouri Tigers",
       "eventInfo": {
         "teamA": "Mississippi State Bulldogs",
@@ -1656,52 +1674,6 @@
         }
       ],
       "id": "evt_7e9cbf65e7b5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "USC Trojans Vs Oregon Ducks",
-      "eventInfo": {
-        "teamA": "USC Trojans",
-        "teamB": "Oregon Ducks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4290/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47372/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_198b70926311"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Washington State Cougars Vs Arizona Wildcats",
-      "eventInfo": {
-        "teamA": "Washington State Cougars",
-        "teamB": "Arizona Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4343/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ioazuryeahrfvzed84.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2d54183232de"
     },
     {
       "status": "LIVE",
@@ -1728,26 +1700,19 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "North Texas Mean Green Vs Houston Baptist Huskies",
+      "Category": "Football",
+      "event_name": "Montevideo City Torque Vs Deportivo Maldonado",
       "eventInfo": {
-        "teamA": "North Texas Mean Green",
-        "teamB": "Houston Baptist Huskies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4302/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/296564/image",
-        "eventName": "NCAA Interdivisional",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "teamA": "Montevideo City Torque",
+        "teamB": "Deportivo Maldonado",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3234/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "27/09/2026 06:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/sfjnzabacah31.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2287ebee107a"
+      "streams": [],
+      "id": "evt_8b527138bfd6"
     },
     {
       "status": "UPCOMING",
@@ -2509,111 +2474,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Austin FC Vs San Diego FC",
-      "eventInfo": {
-        "teamA": "Austin FC",
-        "teamB": "San Diego FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/377973/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/c6c72c18-69c4-402a-bf1d-69b6dab1dd7b.m3u8"
-        }
-      ],
-      "id": "evt_f68e9ca9c936"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Seattle Sounders FC Vs Minnesota United",
-      "eventInfo": {
-        "teamA": "Seattle Sounders FC",
-        "teamB": "Minnesota United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/38773490-6c30-4139-92a5-31cc2a59dd56.m3u8"
-        }
-      ],
-      "id": "evt_2865e5835d29"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Houston Dynamo Vs Sporting Kansas City",
-      "eventInfo": {
-        "teamA": "Houston Dynamo",
-        "teamB": "Sporting Kansas City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/5df633cf-27b8-4801-8253-55f7ac591587.m3u8"
-        }
-      ],
-      "id": "evt_a6dfde49770e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Nashville SC Vs Toronto FC",
-      "eventInfo": {
-        "teamA": "Nashville SC",
-        "teamB": "Toronto FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/c83fae2f-0011-404d-b75e-f8c402424b1f.m3u8"
-        }
-      ],
-      "id": "evt_7775126b22b4"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Dallas Vs Los Angeles FC",
-      "eventInfo": {
-        "teamA": "FC Dallas",
-        "teamB": "Los Angeles FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/7b10cebf-c840-445b-bdc3-62492154a9c1.m3u8"
-        }
-      ],
-      "id": "evt_a20bd1867c14"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "San Jose Earthquakes Vs Portland Timbers",
       "eventInfo": {
         "teamA": "San Jose Earthquakes",
@@ -2844,27 +2704,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Wellington Lions Vs Waikato",
-      "eventInfo": {
-        "teamA": "Wellington Lions",
-        "teamB": "Waikato",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42716/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42744/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "27/09/2026 06:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5d8c5d6075c4"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Athletics Vs Houston Astros",
       "eventInfo": {
@@ -2908,35 +2747,6 @@
         }
       ],
       "id": "evt_6e0252fbabba"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "San Diego Padres Vs Arizona Diamondbacks",
-      "eventInfo": {
-        "teamA": "San Diego Padres",
-        "teamB": "Arizona Diamondbacks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "27/09/2026 06:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream6.pro/hls/kjhfzua25.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_921fffc6cbde"
     },
     {
       "status": "UPCOMING",
@@ -3190,22 +3000,6 @@
         }
       ],
       "id": "evt_4a8ba7e51abd"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Montevideo City Torque Vs Deportivo Maldonado",
-      "eventInfo": {
-        "teamA": "Montevideo City Torque",
-        "teamB": "Deportivo Maldonado",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3234/image",
-        "eventName": "Liga AUF Uruguaya",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/278/image/dark",
-        "startTime": "27/09/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8b527138bfd6"
     },
     {
       "status": "UPCOMING",
@@ -5134,6 +4928,27 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Saint Vincent and the Grenadines Vs French Guiana",
+      "eventInfo": {
+        "teamA": "Saint Vincent and the Grenadines",
+        "teamB": "French Guiana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52906/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "27/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/323/index.m3u8"
+        }
+      ],
+      "id": "evt_9a4f03dcef71"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Kansas City Current Vs Denver Summit FC",
       "eventInfo": {
         "teamA": "Kansas City Current",
@@ -5929,6 +5744,28 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportivo Pereira Vs Internacional de Bogotá",
+      "eventInfo": {
+        "teamA": "Deportivo Pereira",
+        "teamB": "Internacional de Bogotá",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1164534/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "27/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_681577542fad"
+    },
+    {
+      "status": "ENDED",
       "Category": "Rugby",
       "event_name": "France Vs Canada",
       "eventInfo": {
@@ -5960,6 +5797,29 @@
         }
       ],
       "id": "evt_5c6883a6ea17"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Washington Nationals Vs New York Mets",
+      "eventInfo": {
+        "teamA": "Washington Nationals",
+        "teamB": "New York Mets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "27/09/2026 02:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f31ecf00ee38"
     },
     {
       "status": "ENDED",
@@ -6016,6 +5876,90 @@
         }
       ],
       "id": "evt_ea04c5533c01"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Miami Marlins Vs Atlanta Braves",
+      "eventInfo": {
+        "teamA": "Miami Marlins",
+        "teamB": "Atlanta Braves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "27/09/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57156/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/bzagLHzach19.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_4d5433c28d2e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "San Francisco Giants Vs Los Angeles Dodgers",
+      "eventInfo": {
+        "teamA": "San Francisco Giants",
+        "teamB": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "27/09/2026 02:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57153/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_57375987a20c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Minnesota Twins Vs Texas Rangers",
+      "eventInfo": {
+        "teamA": "Minnesota Twins",
+        "teamB": "Texas Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "27/09/2026 02:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57154/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/jkzahzadach20.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_94cc636dd8fa"
     },
     {
       "status": "ENDED",
@@ -6685,6 +6629,62 @@
         }
       ],
       "id": "evt_0af52029ea6d"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Georgia Southern Eagles Vs Houston Cougars",
+      "eventInfo": {
+        "teamA": "Georgia Southern Eagles",
+        "teamB": "Houston Cougars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/46394/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61358/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57150/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/gfsqdqsjhdaiu64.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_dfd247629e21"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "East Carolina Pirates Vs North Carolina Central Eagles",
+      "eventInfo": {
+        "teamA": "East Carolina Pirates",
+        "teamB": "North Carolina Central Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4326/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296561/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "27/09/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57151/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_092c93fcd60c"
     },
     {
       "status": "ENDED",
