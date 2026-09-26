@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:38:45 AM 26-09-2026",
+  "last_update_time": "06:52:40 AM 26-09-2026",
   "total_matches": 231,
-  "live_match": 38,
+  "live_match": 39,
   "matches": [
     {
       "status": "LIVE",
@@ -277,22 +277,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Nacional Asunción Vs Sportivo Ameliano",
-      "eventInfo": {
-        "teamA": "Nacional Asunción",
-        "teamB": "Sportivo Ameliano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/323510/image",
-        "eventName": "Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "26/09/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_493d3cd0c6fe"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Hartford Athletic Vs Louisville City FC",
       "eventInfo": {
         "teamA": "Hartford Athletic",
@@ -335,27 +319,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "River Plate Reserve Vs Boca Juniors Reserve",
-      "eventInfo": {
-        "teamA": "River Plate Reserve",
-        "teamB": "Boca Juniors Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/236803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/237358/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "26/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_31b0e6ca9c3b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Grêmio Novorizontino Vs São Bernardo",
       "eventInfo": {
         "teamA": "Grêmio Novorizontino",
@@ -389,6 +352,27 @@
       },
       "streams": [],
       "id": "evt_24da44189b0c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Seattle Reign FC Vs Boston Legacy FC",
+      "eventInfo": {
+        "teamA": "Seattle Reign FC",
+        "teamB": "Boston Legacy FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
+        "eventName": "NWSL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "26/09/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_8ff16ecde9f6"
     },
     {
       "status": "LIVE",
@@ -634,6 +618,29 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
+      "event_name": "Minnesota Twins Vs Texas Rangers",
+      "eventInfo": {
+        "teamA": "Minnesota Twins",
+        "teamB": "Texas Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "26/09/2026 06:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM HD + LIVE",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_94cc636dd8fa"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
       "event_name": "Milwaukee Brewers Vs St. Louis Cardinals",
       "eventInfo": {
         "teamA": "Milwaukee Brewers",
@@ -722,6 +729,29 @@
         }
       ],
       "id": "evt_2116aa109b3f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Colorado Avalanche Vs Winnipeg Jets",
+      "eventInfo": {
+        "teamA": "Colorado Avalanche",
+        "teamB": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "26/09/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM HD + LIVE",
+          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_1df8d7a220e6"
     },
     {
       "status": "LIVE",
@@ -823,27 +853,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Seattle Reign FC Vs Boston Legacy FC",
-      "eventInfo": {
-        "teamA": "Seattle Reign FC",
-        "teamB": "Boston Legacy FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/151010/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
-        "eventName": "NWSL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "26/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_8ff16ecde9f6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "El Paso Locomotive FC Vs FC Tulsa",
       "eventInfo": {
         "teamA": "El Paso Locomotive FC",
@@ -867,16 +876,61 @@
     },
     {
       "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Minnesota Twins Vs Texas Rangers",
+      "Category": "Football",
+      "event_name": "Once Caldas Vs Atlético Bucaramanga",
       "eventInfo": {
-        "teamA": "Minnesota Twins",
-        "teamB": "Texas Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+        "teamA": "Once Caldas",
+        "teamB": "Atlético Bucaramanga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "26/09/2026 07:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_a92e49291588"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "San Diego Padres Vs Arizona Diamondbacks",
+      "eventInfo": {
+        "teamA": "San Diego Padres",
+        "teamB": "Arizona Diamondbacks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
         "eventName": "MLB",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "26/09/2026 06:10:00 AM"
+        "startTime": "26/09/2026 07:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "STREAM HD + LIVE",
+          "stream_url": "https://edgestream4.pro/hls/hefbafbakx28.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_921fffc6cbde"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Athletics Vs Houston Astros",
+      "eventInfo": {
+        "teamA": "Athletics",
+        "teamB": "Houston Astros",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "26/09/2026 07:40:00 AM"
       },
       "streams": [
         {
@@ -886,30 +940,7 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_94cc636dd8fa"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Colorado Avalanche Vs Winnipeg Jets",
-      "eventInfo": {
-        "teamA": "Colorado Avalanche",
-        "teamB": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "26/09/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM HD + LIVE",
-          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_1df8d7a220e6"
+      "id": "evt_e570c3956b3c"
     },
     {
       "status": "UPCOMING",
@@ -2610,22 +2641,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Once Caldas Vs Atlético Bucaramanga",
-      "eventInfo": {
-        "teamA": "Once Caldas",
-        "teamB": "Atlético Bucaramanga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "26/09/2026 07:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_a92e49291588"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "India Vs West Indies",
       "eventInfo": {
@@ -2667,58 +2682,6 @@
         }
       ],
       "id": "evt_6e0252fbabba"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "San Diego Padres Vs Arizona Diamondbacks",
-      "eventInfo": {
-        "teamA": "San Diego Padres",
-        "teamB": "Arizona Diamondbacks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "26/09/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "STREAM HD + LIVE",
-          "stream_url": "https://edgestream4.pro/hls/hefbafbakx28.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_921fffc6cbde"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "Athletics Vs Houston Astros",
-      "eventInfo": {
-        "teamA": "Athletics",
-        "teamB": "Houston Astros",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "26/09/2026 07:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM HD + LIVE",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e570c3956b3c"
     },
     {
       "status": "UPCOMING",
@@ -5298,6 +5261,43 @@
       },
       "streams": [],
       "id": "evt_ecd404d7c7bc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Nacional Asunción Vs Sportivo Ameliano",
+      "eventInfo": {
+        "teamA": "Nacional Asunción",
+        "teamB": "Sportivo Ameliano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33001/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/323510/image",
+        "eventName": "Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "26/09/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_493d3cd0c6fe"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "River Plate Reserve Vs Boca Juniors Reserve",
+      "eventInfo": {
+        "teamA": "River Plate Reserve",
+        "teamB": "Boca Juniors Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/236803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/237358/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "26/09/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_31b0e6ca9c3b"
     },
     {
       "status": "ENDED",
