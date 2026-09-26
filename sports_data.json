@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:35:58 PM 26-09-2026",
+  "last_update_time": "12:50:54 PM 26-09-2026",
   "total_matches": 226,
-  "live_match": 7,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -288,6 +288,56 @@
         }
       ],
       "id": "evt_8b57d1833d5f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "North Harbour Vs Otago",
+      "eventInfo": {
+        "teamA": "North Harbour",
+        "teamB": "Otago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "26/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_15b2a5d5898e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WORLD SBK Vs WORLD SBK",
+      "eventInfo": {
+        "teamA": "WORLD SBK",
+        "teamB": "WORLD SBK",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "eventName": "WORLD SBK | WORLDSSP",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "startTime": "26/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_0c8766f84d15"
     },
     {
       "status": "UPCOMING",
@@ -3582,33 +3632,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "North Harbour Vs Otago",
-      "eventInfo": {
-        "teamA": "North Harbour",
-        "teamB": "Otago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "26/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_15b2a5d5898e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "France Vs Canada",
       "eventInfo": {
         "teamA": "France",
@@ -4255,29 +4278,6 @@
         }
       ],
       "id": "evt_9f09c2ab06ac"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "WORLD SBK Vs WORLD SBK",
-      "eventInfo": {
-        "teamA": "WORLD SBK",
-        "teamB": "WORLD SBK",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "eventName": "WORLD SBK | WORLDSSP",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "startTime": "26/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_0c8766f84d15"
     },
     {
       "status": "UPCOMING",
