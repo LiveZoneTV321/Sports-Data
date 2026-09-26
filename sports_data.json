@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:54:21 PM 26-09-2026",
-  "total_matches": 197,
-  "live_match": 11,
+  "last_update_time": "04:07:40 PM 26-09-2026",
+  "total_matches": 201,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -221,6 +221,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Canberra Raiders",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Canberra Raiders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/476461/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "26/09/2026 03:50:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_fbe6333beea3"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pakistan Vs Thailand",
       "eventInfo": {
@@ -245,99 +267,6 @@
         }
       ],
       "id": "evt_cc8bd2d15b30"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "North Harbour Vs Otago",
-      "eventInfo": {
-        "teamA": "North Harbour",
-        "teamB": "Otago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "26/09/2026 01:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_15b2a5d5898e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "WORLD SBK Vs WORLD SBK",
-      "eventInfo": {
-        "teamA": "WORLD SBK",
-        "teamB": "WORLD SBK",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "eventName": "WORLD SBK | WORLDSSP",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
-        "startTime": "26/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_0c8766f84d15"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Canberra Raiders",
-      "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Canberra Raiders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/476461/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "26/09/2026 03:50:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_fbe6333beea3"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Juventus Vs Napoli",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Napoli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "26/09/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5794c19f24a9"
     },
     {
       "status": "LIVE",
@@ -392,6 +321,104 @@
         }
       ],
       "id": "evt_8ba9905d3beb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "North Harbour Vs Otago",
+      "eventInfo": {
+        "teamA": "North Harbour",
+        "teamB": "Otago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42720/image",
+        "eventName": "National Provincial Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
+        "startTime": "26/09/2026 01:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_15b2a5d5898e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WORLD SBK Vs WORLD SBK",
+      "eventInfo": {
+        "teamA": "WORLD SBK",
+        "teamB": "WORLD SBK",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "eventName": "WORLD SBK | WORLDSSP",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmSldj-XW0a6fh_Ym5NHUYWzkjqfRSYOVdmxbJbqK3ONLO-ix0BqsRB6k&s=10",
+        "startTime": "26/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_0c8766f84d15"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Juventus Vs Napoli",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Napoli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/354947/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "26/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_5794c19f24a9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Japan Vs South Korea",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22789/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6404/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11343/image/dark",
+        "startTime": "26/09/2026 04:20:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GNNNAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_1f29c989c8ed"
     },
     {
       "status": "UPCOMING",
@@ -741,7 +768,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -764,7 +791,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/qsdnajbq32.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -787,7 +814,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/poertjnvnev40.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -810,7 +837,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/jkhazabcka36.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -833,7 +860,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -856,7 +883,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -879,7 +906,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -902,7 +929,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/ysvbxwnbc38.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -925,7 +952,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/sfjnzabacah31.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -948,104 +975,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/yetehznecs37.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
       "id": "evt_e24d727c433a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Kent State Golden Flashes Vs Ball State Cardinals",
-      "eventInfo": {
-        "teamA": "Kent State Golden Flashes",
-        "teamB": "Ball State Cardinals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4295/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d5aceadbd411_2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Ohio State Buckeyes Vs Illinois Fighting Illini",
-      "eventInfo": {
-        "teamA": "Ohio State Buckeyes",
-        "teamB": "Illinois Fighting Illini",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4352/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4293/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_5266e9f9af08_2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Boston College Eagles Vs Virginia Tech Hokies",
-      "eventInfo": {
-        "teamA": "Boston College Eagles",
-        "teamB": "Virginia Tech Hokies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4288/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4336/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f6bef6ede29e_2"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Louisville Cardinals Vs Wake Forest Demon Deacons",
-      "eventInfo": {
-        "teamA": "Louisville Cardinals",
-        "teamB": "Wake Forest Demon Deacons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4335/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4327/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "26/09/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_da1af43ff2eb_2"
     },
     {
       "status": "UPCOMING",
@@ -1086,7 +1021,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/hezfnezkfzk45.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1109,7 +1044,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/jnfezkbfz43.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1132,7 +1067,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/eyrennte44.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1155,7 +1090,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -4059,7 +3994,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": ".m3u8",
+          "stream_url": "https://edgestream7.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -4316,6 +4251,167 @@
         }
       ],
       "id": "evt_1a2c457ca1df"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Pittsburgh Panthers Vs Bucknell Bison",
+      "eventInfo": {
+        "teamA": "Pittsburgh Panthers",
+        "teamB": "Bucknell Bison",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/319508/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "26/09/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/oipozuezeji33.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_34a2dc7c1f9b"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Eastern Michigan Eagles Vs Lindenwood Lions",
+      "eventInfo": {
+        "teamA": "Eastern Michigan Eagles",
+        "teamB": "Lindenwood Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4349/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/454052/image",
+        "eventName": "NCAA Interdivisional",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32201/image/dark",
+        "startTime": "26/09/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/wnbcnxbcs42.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_1739fc33c78d"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Wyoming Cowboys Vs Hawaii Rainbow Warriors",
+      "eventInfo": {
+        "teamA": "Wyoming Cowboys",
+        "teamB": "Hawaii Rainbow Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4347/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4371/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_bc9230561925"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Florida Gators Vs Ole Miss Rebels",
+      "eventInfo": {
+        "teamA": "Florida Gators",
+        "teamB": "Ole Miss Rebels",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47359/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4385/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/lmdsjkfgv52.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_65244bdb0371"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Georgia Bulldogs Vs Oklahoma Sooners",
+      "eventInfo": {
+        "teamA": "Georgia Bulldogs",
+        "teamB": "Oklahoma Sooners",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47360/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_dcc4d4fe42db"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "UCF Knights Vs TCU Horned Frogs",
+      "eventInfo": {
+        "teamA": "UCF Knights",
+        "teamB": "TCU Horned Frogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4303/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_11a42b281951"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Iowa State Cyclones Vs Utah Utes",
+      "eventInfo": {
+        "teamA": "Iowa State Cyclones",
+        "teamB": "Utah Utes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47352/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_80a07fac8009"
     },
     {
       "status": "UPCOMING",
