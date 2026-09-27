@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:57:44 PM 27-09-2026",
+  "last_update_time": "05:12:33 PM 27-09-2026",
   "total_matches": 125,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -343,22 +343,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs Illawarra Hawks",
-      "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "27/09/2026 02:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_1a2c457ca1df"
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Athletic Club Vs Club Atlético de Madrid",
       "eventInfo": {
@@ -534,6 +518,109 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Inter Vs Fiorentina",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Fiorentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "27/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/YAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_7ea651b7cfdc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Cycling Vs Cycling",
+      "eventInfo": {
+        "teamA": "Cycling",
+        "teamB": "Cycling",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "eventName": "Cycling",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "startTime": "27/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "EUROSPORT FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "TNT1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TNT3 SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "TNT2 SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "EUROSPORT FHD ",
+          "stream_url": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+          "drm_key": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7"
+        },
+        {
+          "channel_name": " QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/TNNNN.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_a6cb316545df"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Seychelles Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Seychelles",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8038/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "27/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_79ef04c12c81"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "China Vs New Zealand",
       "eventInfo": {
         "teamA": "China",
@@ -555,25 +642,44 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Inter Vs Fiorentina",
+      "event_name": "Manchester United Vs West Ham",
       "eventInfo": {
-        "teamA": "Inter",
-        "teamB": "Fiorentina",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "27/09/2026 05:00:00 PM"
+        "teamA": "Manchester United",
+        "teamB": "West Ham",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "27/09/2026 06:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD ",
+          "stream_url": "http://162.251.160.53:8089/5026/index.m3u8"
         }
       ],
-      "id": "evt_7ea651b7cfdc"
+      "id": "evt_b26e656a5775"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Valladolid Vs Córdoba",
+      "eventInfo": {
+        "teamA": "Real Valladolid",
+        "teamB": "Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "27/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD ",
+          "stream_url": "http://162.251.160.53:8089/9066/index.m3u8"
+        }
+      ],
+      "id": "evt_4435a972e5e9"
     },
     {
       "status": "UPCOMING",
@@ -704,61 +810,6 @@
         }
       ],
       "id": "evt_3c671d56b0ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Cycling Vs Cycling",
-      "eventInfo": {
-        "teamA": "Cycling",
-        "teamB": "Cycling",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "eventName": "Cycling",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "startTime": "27/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "EUROSPORT FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "TNT1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TNT3 SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "TNT2 SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "EUROSPORT FHD ",
-          "stream_url": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-          "drm_key": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7"
-        },
-        {
-          "channel_name": " QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/TNNNN.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_a6cb316545df"
     },
     {
       "status": "UPCOMING",
@@ -1341,27 +1392,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Seychelles Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "Seychelles",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8038/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "27/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_79ef04c12c81"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Tajikistan Vs Palestine",
       "eventInfo": {
         "teamA": "Tajikistan",
@@ -1767,27 +1797,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Manchester United Vs West Ham",
-      "eventInfo": {
-        "teamA": "Manchester United",
-        "teamB": "West Ham",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/301455/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/297802/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "27/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD ",
-          "stream_url": "http://162.251.160.53:8089/5026/index.m3u8"
-        }
-      ],
-      "id": "evt_b26e656a5775"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Chelsea FC Vs Arsenal",
       "eventInfo": {
         "teamA": "Chelsea FC",
@@ -2173,27 +2182,6 @@
         }
       ],
       "id": "evt_ab283e784885"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Valladolid Vs Córdoba",
-      "eventInfo": {
-        "teamA": "Real Valladolid",
-        "teamB": "Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "27/09/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD ",
-          "stream_url": "http://162.251.160.53:8089/9066/index.m3u8"
-        }
-      ],
-      "id": "evt_4435a972e5e9"
     },
     {
       "status": "UPCOMING",
@@ -3451,6 +3439,22 @@
         }
       ],
       "id": "evt_d544e16ea6b7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Sydney Kings Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "Sydney Kings",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "27/09/2026 02:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1a2c457ca1df"
     },
     {
       "status": "ENDED",
