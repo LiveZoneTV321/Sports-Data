@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:29:37 PM 27-09-2026",
-  "total_matches": 137,
+  "last_update_time": "03:43:14 PM 27-09-2026",
+  "total_matches": 126,
   "live_match": 15,
   "matches": [
     {
@@ -104,6 +104,53 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
+      "event_name": "England Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "27/09/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd",
+          "drm_key": "e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a"
+        },
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nkjmqg8iq4/out/v1/24a152ae2c1748d2abc692c58f987796/cenc.mpd",
+          "drm_key": "e3a343a16047ccd1663ccd020f9167c9:24095f819d33f24bb51893b43131151a"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/bbbbbAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "SonyLiv (Asia)",
+          "stream_url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/criclive2709/ENG/master.m3u8",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0"
+        },
+        {
+          "channel_name": "SKY CRICKET HD",
+          "stream_url": "https://papacito.cfd/m3u/now49499404/live.m3u8"
+        }
+      ],
+      "id": "evt_bbb2d3c2242a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
       "event_name": "South Africa Vs Australia",
       "eventInfo": {
         "teamA": "South Africa",
@@ -131,6 +178,11 @@
           "drm_key": "a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/bbbbbA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "WILLOW SPORTS HD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
@@ -142,52 +194,6 @@
         }
       ],
       "id": "evt_722e5fd8f782"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "American football Vs American football",
-      "eventInfo": {
-        "teamA": "American football",
-        "teamB": "American football",
-        "teamAFlag": "https://png.pngtree.com/png-clipart/20201229/ourmid/pngtree-exciting-and-fun-ball-sports-rugby-clipart-american-football-png-image_2657931.jpg",
-        "teamBFlag": "https://png.pngtree.com/png-clipart/20201229/ourmid/pngtree-exciting-and-fun-ball-sports-rugby-clipart-american-football-png-image_2657931.jpg",
-        "eventName": "American football",
-        "event_logo": "https://png.pngtree.com/png-clipart/20201229/ourmid/pngtree-exciting-and-fun-ball-sports-rugby-clipart-american-football-png-image_2657931.jpg",
-        "startTime": "26/09/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "COLLEGE GAMEDAY",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/55418/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "NBC TV HD",
-          "stream_url": "https://edgestream3.pro/hls/2rB5nTKlP8mE.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "ESPN2 HD",
-          "stream_url": "https://edgestream4.pro/hls/hefbafbakx28.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "ESPN NEWS HD",
-          "stream_url": "https://edgestream6.pro/hls/hfzljfahzcax29.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "ESPN STM",
-          "stream_url": "https://edgestream2.pro/hls/hefbafbakx28.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_66cbf923ead5"
     },
     {
       "status": "LIVE",
@@ -227,14 +233,33 @@
       },
       "streams": [
         {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vphstwik8p/out/v1/dde4fbca83c24d2a8d5b98060ffdde6c/cenc.mpd",
+          "drm_key": "e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95"
+        },
+        {
           "channel_name": "TNT3UK SPORTS FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
           "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
         },
         {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vphstwik8p/out/v1/dde4fbca83c24d2a8d5b98060ffdde6c/cenc.mpd",
+          "drm_key": "e82afe190e1a2ecc0f3cc2f3e4de056f:fe561b16157b65130a9accb3f8b54e95"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/bbbbbAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "WILLOW SPORTS",
           "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": "https://papacito.cfd/m3u/588010/live.m3u8"
         }
       ],
       "id": "evt_b43cb0559b90"
@@ -301,29 +326,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "FIA WEC Vs FIA WEC",
-      "eventInfo": {
-        "teamA": "FIA WEC",
-        "teamB": "FIA WEC",
-        "teamAFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "teamBFlag": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "eventName": "FIA WEC I  MOTO EVENTO",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "27/09/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ],
-      "id": "evt_695d5d92074c"
-    },
-    {
-      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Inoue Vs Nasukawa 2",
       "eventInfo": {
@@ -337,89 +339,44 @@
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "b"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/bbbbbAAAa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_f643c3538d19"
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hong Kong Vs Laos",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
-        "teamA": "Hong Kong",
-        "teamB": "Laos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187774/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
-        "startTime": "27/09/2026 01:00:00 PM"
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "27/09/2026 04:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.55/hls/bbbbb.m3u8?",
-          "referer": "http://www.fawanews.sc/"
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/bbbbb.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_46510a4228bd"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Boca Juniors Vs Tigers BBC",
-      "eventInfo": {
-        "teamA": "Boca Juniors",
-        "teamB": "Tigers BBC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/125874/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/343350/image",
-        "eventName": "Intercontinental Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1512/image/dark",
-        "startTime": "27/09/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-JEV6mbaQIf6Gvm0pxfY6kWjRlMOG1irjP3P4kvIfRGL2sOaWHUFbA5QtqRJWWkkGRnbd3zVnmv91dZVIVUsY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p125qr8snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_836469/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
         },
         {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-JEV6mbaQIf6Gvm0pxfY6kWjRlMOG1irjP3P4kvIfRGL2sOaWHUFbA5QtqRJWWkkGRnbd3zVnmv91dZVIVUsY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p125qr8snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_836469/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "ESPN3 ARG FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
         }
       ],
-      "id": "evt_e001c9ec3205"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "England Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "27/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_bbb2d3c2242a"
+      "id": "evt_dfa6ba76db50"
     },
     {
       "status": "LIVE",
@@ -437,7 +394,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/BHHHA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHHA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_2afaa3a89247"
@@ -458,10 +421,104 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/BHHHAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHHAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_2af063e03070"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cambodia Vs Myanmar",
+      "eventInfo": {
+        "teamA": "Cambodia",
+        "teamB": "Myanmar",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+        "eventName": "ASEAN Cup",
+        "event_logo": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
+        "startTime": "27/09/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.44/hls/BHHHAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHHAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_c3a2cad1e345"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Australia Vs South Africa",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "South Africa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4223/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4231/image",
+        "eventName": "Int. Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/876/image/dark",
+        "startTime": "27/09/2026 03:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AEEE.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "MOVISTAR HD",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-Jk8tm7XAK%2FGGvjQvl%2FY6kWOClJuBhyrjOXevwKMcQ2TytOaZHUFbA5QtqRJWWkoGQHzBwzNpk%2FpxfZZPXRMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/q3op8088nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_834164/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "CANAL FR",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-JkN6yOHFKaSG7mQql%2FY6mWyAlMPQgC7jaHOsxvVJEjP15LnMHUFbA5QtqRJWWkoGQHzBwzNpk%2FpxfZZMUhMK%2FJFkT0yyN4I%3Da/cfall/s2001/v3b/s7o6ro74nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_834305/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8633c1adc2ac"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ternana Vs FC Como",
+      "eventInfo": {
+        "teamA": "Ternana",
+        "teamB": "FC Como",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/492465/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/404899/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "27/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/BHHHAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHHAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_630934eaec34"
     },
     {
       "status": "UPCOMING",
@@ -588,38 +645,6 @@
         }
       ],
       "id": "evt_3c671d56b0ab"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "27/09/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "ESPN3 ARG FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
-        }
-      ],
-      "id": "evt_dfa6ba76db50"
     },
     {
       "status": "UPCOMING",
@@ -2501,7 +2526,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + MLB",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream7.pro/hls/hfzljfahzcax29.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -2875,13 +2900,113 @@
       },
       "streams": [
         {
-          "channel_name": "NFL REDZONE HD2 ",
+          "channel_name": "NFL REDZONE HD",
           "stream_url": "https://edgestream2.pro/hls/eyrennte44.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
       "id": "evt_6fff843dd536"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Sassuolo Vs AS Roma",
+      "eventInfo": {
+        "teamA": "Sassuolo",
+        "teamB": "AS Roma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "27/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_77f4641f658e"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Inter Vs Fiorentina",
+      "eventInfo": {
+        "teamA": "Inter",
+        "teamB": "Fiorentina",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/264911/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "27/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_7ea651b7cfdc"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "South Africa U20 Vs Mozambique U20",
+      "eventInfo": {
+        "teamA": "South Africa U20",
+        "teamB": "Mozambique U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/35466/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/336931/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "27/09/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_aacdb645718a"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Zambia U20 Vs Namibia U20",
+      "eventInfo": {
+        "teamA": "Zambia U20",
+        "teamB": "Namibia U20",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/191166/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371822/image",
+        "eventName": "COSAFA U20 Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/23669/image/dark",
+        "startTime": "27/09/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_a09aac7b14a5"
     },
     {
       "status": "UPCOMING",
@@ -3252,422 +3377,6 @@
         }
       ],
       "id": "evt_ca409592a551"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Aussie rules",
-      "event_name": "Sydney Swans Vs Brisbane Lions",
-      "eventInfo": {
-        "teamA": "Sydney Swans",
-        "teamB": "Brisbane Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/446334/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245151/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "27/09/2026 11:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ],
-      "id": "evt_204b1d7c7015"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Aussie rules",
-      "event_name": "Adelaide Crows Vs Fremantle Dockers",
-      "eventInfo": {
-        "teamA": "Adelaide Crows",
-        "teamB": "Fremantle Dockers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245069/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "27/09/2026 09:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_a0e3eca1c686"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Penrith Panthers Vs Newcastle Knights",
-      "eventInfo": {
-        "teamA": "Penrith Panthers",
-        "teamB": "Newcastle Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4262/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4260/image",
-        "eventName": "NRL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
-        "startTime": "27/09/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "ASIA 🌏 ",
-          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-J0EqmLOQfKKG6WwhxvY6n23QlMPThyDjbib4wKJOGTbxsrmaHUFbA5QtqRJWWkkGRnbd3zVnmv91dJhNXUEY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/90nrn1n3nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_832777/index.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAAZ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_8acedf68f4c6"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Gold Coast Titans Vs Brisbane Broncos",
-      "eventInfo": {
-        "teamA": "Gold Coast Titans",
-        "teamB": "Brisbane Broncos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/411824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/411821/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "27/09/2026 09:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAAZ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_a2ef3df2653c"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Tigres UANL Vs Club Puebla",
-      "eventInfo": {
-        "teamA": "Tigres UANL",
-        "teamB": "Club Puebla",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "27/09/2026 09:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FZZZQQQQZAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_25d566707489"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Santos Laguna Vs CF Pachuca",
-      "eventInfo": {
-        "teamA": "Santos Laguna",
-        "teamB": "CF Pachuca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1948/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "27/09/2026 09:05:00 AM"
-      },
-      "streams": [],
-      "id": "evt_06f8dfc5a87d"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Hawke's Bay Vs Taranaki",
-      "eventInfo": {
-        "teamA": "Hawke's Bay",
-        "teamB": "Taranaki",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42723/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42718/image",
-        "eventName": "National Provincial Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/797/image/dark",
-        "startTime": "27/09/2026 09:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_06546b83bc35"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Boxing",
-      "event_name": "Raul Rosas Jr. Vs Raoni Barcelos",
-      "eventInfo": {
-        "teamA": "Raul Rosas Jr.",
-        "teamB": "Raoni Barcelos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/470046/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/473948/image",
-        "eventName": "UFC",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "startTime": "27/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa"
-        },
-        {
-          "channel_name": "PARAMOUNT+ ALT",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD (ES)",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD (PT)",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c"
-        },
-        {
-          "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8"
-        },
-        {
-          "channel_name": "HD STREAMING 1",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD STREAMING 2",
-          "stream_url": "https://edgestream2.pro/hls/oeenzgezcz47.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/geee.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_9f09c2ab06ac"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Adelaide 36ers Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "Adelaide 36ers",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "27/09/2026 12:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_55e777ac6f2a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Fresno State Bulldogs Vs Rice Owls",
-      "eventInfo": {
-        "teamA": "Fresno State Bulldogs",
-        "teamB": "Rice Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188442/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FZZZQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_d4a9020afc70"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Washington Huskies Vs Minnesota Golden Gophers",
-      "eventInfo": {
-        "teamA": "Washington Huskies",
-        "teamB": "Minnesota Golden Gophers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4370/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4381/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wnbcnxbcs42.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FZZZQQQQZAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_87bc3a7ee6b2"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Stanford Cardinal Vs Georgia Tech Yellow Jackets",
-      "eventInfo": {
-        "teamA": "Stanford Cardinal",
-        "teamB": "Georgia Tech Yellow Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4379/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4320/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/poertjnvnev40.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FZZZQQQQZAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_e3ed6e548d8a"
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Nevada Wolf Pack Vs Air Force Falcons",
-      "eventInfo": {
-        "teamA": "Nevada Wolf Pack",
-        "teamB": "Air Force Falcons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4331/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4334/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/FZZZQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_4a8ba7e51abd"
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Brumbies Vs Queensland Reds",
-      "eventInfo": {
-        "teamA": "Brumbies",
-        "teamB": "Queensland Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4179/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4180/image",
-        "eventName": "Super Rugby AUS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/29227/image/dark",
-        "startTime": "27/09/2026 10:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_5d1cec17e9dd"
     },
     {
       "status": "ENDED",
