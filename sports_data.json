@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:30:29 PM 27-09-2026",
+  "last_update_time": "02:47:42 PM 27-09-2026",
   "total_matches": 137,
   "live_match": 15,
   "matches": [
@@ -248,6 +248,33 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
+      "event_name": "India Vs West Indies",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "27/09/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_b43cb0559b90"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
       "event_name": "Zimbabwe Women Vs West Indies Women",
       "eventInfo": {
         "teamA": "Zimbabwe Women",
@@ -265,74 +292,6 @@
         }
       ],
       "id": "evt_86c4e4db942e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "Raul Rosas Jr. Vs Raoni Barcelos",
-      "eventInfo": {
-        "teamA": "Raul Rosas Jr.",
-        "teamB": "Raoni Barcelos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/470046/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/473948/image",
-        "eventName": "UFC",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "startTime": "27/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa"
-        },
-        {
-          "channel_name": "PARAMOUNT+ ALT",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD (ES)",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06"
-        },
-        {
-          "channel_name": "PARAMOUNT+ FHD (PT)",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c"
-        },
-        {
-          "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8"
-        },
-        {
-          "channel_name": "HD STREAMING 1",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD STREAMING 2",
-          "stream_url": "https://edgestream2.pro/hls/oeenzgezcz47.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/geee.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_9f09c2ab06ac"
     },
     {
       "status": "LIVE",
@@ -469,29 +428,24 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
-      "event_name": "India Vs West Indies",
+      "event_name": "England Vs Sri Lanka",
       "eventInfo": {
-        "teamA": "India",
-        "teamB": "West Indies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "teamA": "England",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
         "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "27/09/2026 02:30:00 PM"
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "27/09/2026 03:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
         }
       ],
-      "id": "evt_b43cb0559b90"
+      "id": "evt_bbb2d3c2242a"
     },
     {
       "status": "LIVE",
@@ -673,28 +627,6 @@
         }
       ],
       "id": "evt_dfa6ba76db50"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "England Vs Sri Lanka",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "27/09/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_bbb2d3c2242a"
     },
     {
       "status": "UPCOMING",
@@ -3529,6 +3461,74 @@
         }
       ],
       "id": "evt_06546b83bc35"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "Raul Rosas Jr. Vs Raoni Barcelos",
+      "eventInfo": {
+        "teamA": "Raul Rosas Jr.",
+        "teamB": "Raoni Barcelos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/470046/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/473948/image",
+        "eventName": "UFC",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "startTime": "27/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "PARAMOUNT+ FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa"
+        },
+        {
+          "channel_name": "PARAMOUNT+ ALT",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb"
+        },
+        {
+          "channel_name": "PARAMOUNT+ FHD (ES)",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06"
+        },
+        {
+          "channel_name": "PARAMOUNT+ FHD (PT)",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c"
+        },
+        {
+          "channel_name": "SPORTSCAST FHD ",
+          "stream_url": "https://admin2.formaturamaxi.com.br/abbiecadabrii.m3u8"
+        },
+        {
+          "channel_name": "HD STREAMING 1",
+          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD STREAMING 2",
+          "stream_url": "https://edgestream2.pro/hls/oeenzgezcz47.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/geee.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_9f09c2ab06ac"
     },
     {
       "status": "ENDED",
