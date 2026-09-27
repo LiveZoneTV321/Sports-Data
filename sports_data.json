@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:55:35 AM 27-09-2026",
+  "last_update_time": "08:08:50 AM 27-09-2026",
   "total_matches": 250,
-  "live_match": 64,
+  "live_match": 54,
   "matches": [
     {
       "status": "LIVE",
@@ -111,9 +111,19 @@
       },
       "streams": [
         {
+          "channel_name": "AEW TV HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/aew.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
           "channel_name": "FOX SPORTS ",
           "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd",
           "drm_key": "9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ZAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_6ab53bf31a3e"
@@ -219,10 +229,25 @@
           "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         },
         {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
           "channel_name": "TUDN MEXICO FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/dyyyQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "QUALITY + HD ",
+          "stream_url": "https://www.rtmpcdn.com/live/58d01db3-24fa-4b30-86c1-7854038947e7.m3u8"
         }
       ],
       "id": "evt_592b183ef2d2"
@@ -230,107 +255,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CF Montréal Vs FC Cincinnati",
+      "event_name": "Sint Maarten Vs Belize",
       "eventInfo": {
-        "teamA": "CF Montréal",
-        "teamB": "FC Cincinnati",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
+        "teamA": "Sint Maarten",
+        "teamB": "Belize",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "27/09/2026 08:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/057cc158-52ae-4cfc-af56-18bc218f714e.m3u8"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
         }
       ],
-      "id": "evt_25181c0554f6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Charlotte FC Vs Chicago Fire",
-      "eventInfo": {
-        "teamA": "Charlotte FC",
-        "teamB": "Chicago Fire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/70be42a5-4dbe-4dcf-94f3-abe170ab94c9.m3u8"
-        }
-      ],
-      "id": "evt_30e25ec82cac"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlanta United Vs New York City FC",
-      "eventInfo": {
-        "teamA": "Atlanta United",
-        "teamB": "New York City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/6ad34c9e-cc45-42ca-80b2-e744b8fc2c0c.m3u8"
-        }
-      ],
-      "id": "evt_b6d52c92b67b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "New York Red Bulls Vs St.Louis City",
-      "eventInfo": {
-        "teamA": "New York Red Bulls",
-        "teamB": "St.Louis City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/9e18dc73-3e73-41bc-a0c9-e0827d6604d6.m3u8"
-        }
-      ],
-      "id": "evt_1c93b5e1f020"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Philadelphia Union Vs Orlando City SC",
-      "eventInfo": {
-        "teamA": "Philadelphia Union",
-        "teamB": "Orlando City SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/39833/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
-        "eventName": "MLS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "27/09/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://www.rtmpcdn.com/live/e1a43301-6160-4968-bfdd-2ce99ecaf0ad.m3u8"
-        }
-      ],
-      "id": "evt_0b9f950ea9e3"
+      "id": "evt_be557faf175f"
     },
     {
       "status": "LIVE",
@@ -346,6 +287,11 @@
         "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TUUUF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://www.rtmpcdn.com/live/c6c72c18-69c4-402a-bf1d-69b6dab1dd7b.m3u8"
@@ -375,6 +321,11 @@
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://www.rtmpcdn.com/live/38773490-6c30-4139-92a5-31cc2a59dd56.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TUUUFFFQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_2865e5835d29"
@@ -393,6 +344,11 @@
         "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TUUUFFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
         {
           "channel_name": "QUALITY + HD ",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57222/load-playlist?&.m3u8",
@@ -422,6 +378,11 @@
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://www.rtmpcdn.com/live/c83fae2f-0011-404d-b75e-f8c402424b1f.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TUUUFFFQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_7775126b22b4"
@@ -440,6 +401,11 @@
         "startTime": "27/09/2026 06:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/TUUUFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
         {
           "channel_name": "HD QUALITY + LIVE",
           "stream_url": "https://www.rtmpcdn.com/live/7b10cebf-c840-445b-bdc3-62492154a9c1.m3u8"
@@ -512,8 +478,38 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "startTime": "27/09/2026 07:20:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/gagagaAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_6c5aaffc4ffc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Orange County SC Vs Pittsburgh Riverhounds",
+      "eventInfo": {
+        "teamA": "Orange County SC",
+        "teamB": "Pittsburgh Riverhounds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/217781/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23635/image",
+        "eventName": "USL Championship",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark",
+        "startTime": "27/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_b6c5d4d4bc32"
     },
     {
       "status": "LIVE",
@@ -706,100 +702,25 @@
     {
       "status": "LIVE",
       "Category": "Ice hockey",
-      "event_name": "Ottawa Senators Vs Montréal Canadiens",
+      "event_name": "Vegas Golden Knights Vs San Jose Sharks",
       "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "teamA": "Vegas Golden Knights",
+        "teamB": "San Jose Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
         "eventName": "NHL Preseason",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 05:00:00 AM"
+        "startTime": "27/09/2026 08:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "NHL HD TV ",
-          "stream_url": "https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/aetrayytufzrdtvgx99.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_a25e2646f374"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Chicago Blackhawks Vs St. Louis Blues",
-      "eventInfo": {
-        "teamA": "Chicago Blackhawks",
-        "teamB": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hpouezruioazd96.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_be1328a59c47"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Detroit Red Wings Vs Columbus Blue Jackets",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "Columbus Blue Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e938f56e69fc"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Vancouver Canucks Vs Seattle Kraken",
-      "eventInfo": {
-        "teamA": "Vancouver Canucks",
-        "teamB": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_88e97ad14b65"
+      "id": "evt_cfd2c6c48c61"
     },
     {
       "status": "LIVE",
@@ -941,29 +862,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Charlotte 49ers Vs Louisiana Ragin Cajuns",
-      "eventInfo": {
-        "teamA": "Charlotte 49ers",
-        "teamB": "Louisiana Ragin Cajuns",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/196298/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4364/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_314583d31a1e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Arkansas State Red Wolves Vs Kennesaw State Owls",
       "eventInfo": {
         "teamA": "Arkansas State Red Wolves",
@@ -983,29 +881,6 @@
         }
       ],
       "id": "evt_1fbca65c2f2a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Miami Hurricanes Vs Central Michigan Chippewas",
-      "eventInfo": {
-        "teamA": "Miami Hurricanes",
-        "teamB": "Central Michigan Chippewas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47357/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4339/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e66b8922f597"
     },
     {
       "status": "LIVE",
@@ -1355,6 +1230,29 @@
     {
       "status": "LIVE",
       "Category": "American football",
+      "event_name": "Fresno State Bulldogs Vs Rice Owls",
+      "eventInfo": {
+        "teamA": "Fresno State Bulldogs",
+        "teamB": "Rice Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188442/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_d4a9020afc70"
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
       "event_name": "Western Kentucky Hilltoppers Vs Mercyhurst Lakers",
       "eventInfo": {
         "teamA": "Western Kentucky Hilltoppers",
@@ -1413,27 +1311,6 @@
       },
       "streams": [],
       "id": "evt_8b527138bfd6"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sint Maarten Vs Belize",
-      "eventInfo": {
-        "teamA": "Sint Maarten",
-        "teamB": "Belize",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/298263/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "27/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/541/index.m3u8"
-        }
-      ],
-      "id": "evt_be557faf175f"
     },
     {
       "status": "LIVE",
@@ -1500,73 +1377,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Orange County SC Vs Pittsburgh Riverhounds",
-      "eventInfo": {
-        "teamA": "Orange County SC",
-        "teamB": "Pittsburgh Riverhounds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/217781/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23635/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "27/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "id": "evt_b6c5d4d4bc32"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Vegas Golden Knights Vs San Jose Sharks",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "San Jose Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "eventName": "NHL Preseason",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
-        "startTime": "27/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/aetrayytufzrdtvgx99.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_cfd2c6c48c61"
-    },
-    {
-      "status": "LIVE",
       "Category": "American football",
-      "event_name": "Fresno State Bulldogs Vs Rice Owls",
+      "event_name": "Washington Huskies Vs Minnesota Golden Gophers",
       "eventInfo": {
-        "teamA": "Fresno State Bulldogs",
-        "teamB": "Rice Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4298/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188442/image",
+        "teamA": "Washington Huskies",
+        "teamB": "Minnesota Golden Gophers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4370/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4381/image",
         "eventName": "NCAA Division FBS",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 08:00:00 AM"
+        "startTime": "27/09/2026 09:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/wnbcnxbcs42.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_d4a9020afc70"
+      "id": "evt_87bc3a7ee6b2"
     },
     {
       "status": "LIVE",
@@ -2275,7 +2105,13 @@
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/294/image/dark",
         "startTime": "27/09/2026 12:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAAZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
       "id": "evt_8acedf68f4c6"
     },
     {
@@ -2297,6 +2133,11 @@
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAAZ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_a2ef3df2653c"
@@ -2346,6 +2187,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/FZZZQQQQZAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_25d566707489"
@@ -2403,7 +2249,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_06546b83bc35"
@@ -2453,29 +2305,6 @@
         }
       ],
       "id": "evt_1a2c457ca1df"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Washington Huskies Vs Minnesota Golden Gophers",
-      "eventInfo": {
-        "teamA": "Washington Huskies",
-        "teamB": "Minnesota Golden Gophers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4370/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4381/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "27/09/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wnbcnxbcs42.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_87bc3a7ee6b2"
     },
     {
       "status": "UPCOMING",
@@ -4494,6 +4323,111 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "CF Montréal Vs FC Cincinnati",
+      "eventInfo": {
+        "teamA": "CF Montréal",
+        "teamB": "FC Cincinnati",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/057cc158-52ae-4cfc-af56-18bc218f714e.m3u8"
+        }
+      ],
+      "id": "evt_25181c0554f6"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Charlotte FC Vs Chicago Fire",
+      "eventInfo": {
+        "teamA": "Charlotte FC",
+        "teamB": "Chicago Fire",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/70be42a5-4dbe-4dcf-94f3-abe170ab94c9.m3u8"
+        }
+      ],
+      "id": "evt_30e25ec82cac"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlanta United Vs New York City FC",
+      "eventInfo": {
+        "teamA": "Atlanta United",
+        "teamB": "New York City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/243211/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/6ad34c9e-cc45-42ca-80b2-e744b8fc2c0c.m3u8"
+        }
+      ],
+      "id": "evt_b6d52c92b67b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "New York Red Bulls Vs St.Louis City",
+      "eventInfo": {
+        "teamA": "New York Red Bulls",
+        "teamB": "St.Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2506/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/9e18dc73-3e73-41bc-a0c9-e0827d6604d6.m3u8"
+        }
+      ],
+      "id": "evt_1c93b5e1f020"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Philadelphia Union Vs Orlando City SC",
+      "eventInfo": {
+        "teamA": "Philadelphia Union",
+        "teamB": "Orlando City SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52237/image",
+        "eventName": "MLS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "27/09/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY + LIVE",
+          "stream_url": "https://www.rtmpcdn.com/live/e1a43301-6160-4968-bfdd-2ce99ecaf0ad.m3u8"
+        }
+      ],
+      "id": "evt_0b9f950ea9e3"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Washington Spirit Vs Angel City FC",
       "eventInfo": {
         "teamA": "Washington Spirit",
@@ -5758,6 +5692,35 @@
     {
       "status": "ENDED",
       "Category": "Ice hockey",
+      "event_name": "Ottawa Senators Vs Montréal Canadiens",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Montréal Canadiens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/etzrezbfezjhverf93.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "NHL HD TV ",
+          "stream_url": "https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_a25e2646f374"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
       "event_name": "Florida Panthers Vs Tampa Bay Lightning",
       "eventInfo": {
         "teamA": "Florida Panthers",
@@ -5783,6 +5746,75 @@
         }
       ],
       "id": "evt_457b156487d7"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "Chicago Blackhawks Vs St. Louis Blues",
+      "eventInfo": {
+        "teamA": "Chicago Blackhawks",
+        "teamB": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hpouezruioazd96.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_be1328a59c47"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "Detroit Red Wings Vs Columbus Blue Jackets",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/xwcbnfghqscxfghaz92.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e938f56e69fc"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "Vancouver Canucks Vs Seattle Kraken",
+      "eventInfo": {
+        "teamA": "Vancouver Canucks",
+        "teamB": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "eventName": "NHL Preseason",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/957/image/dark",
+        "startTime": "27/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/fgjhvebazfhgazf94.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_88e97ad14b65"
     },
     {
       "status": "ENDED",
@@ -6539,6 +6571,52 @@
         }
       ],
       "id": "evt_c93627cc0eb1"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Charlotte 49ers Vs Louisiana Ragin Cajuns",
+      "eventInfo": {
+        "teamA": "Charlotte 49ers",
+        "teamB": "Louisiana Ragin Cajuns",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/196298/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4364/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sqhdghzavbxu75.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_314583d31a1e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Miami Hurricanes Vs Central Michigan Chippewas",
+      "eventInfo": {
+        "teamA": "Miami Hurricanes",
+        "teamB": "Central Michigan Chippewas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47357/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4339/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "27/09/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/yjtzafghvjza74.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e66b8922f597"
     },
     {
       "status": "ENDED",
