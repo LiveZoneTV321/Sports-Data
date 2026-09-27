@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:28:48 PM 27-09-2026",
-  "total_matches": 125,
-  "live_match": 19,
+  "last_update_time": "05:41:55 PM 27-09-2026",
+  "total_matches": 128,
+  "live_match": 23,
   "matches": [
     {
       "status": "LIVE",
@@ -344,6 +344,37 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "China Vs New Zealand",
+      "eventInfo": {
+        "teamA": "China",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "27/09/2026 05:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.dyrur1.com/live/74297864_3349a5995ff06f5abca3c251053a9af7_1080p.m3u8?auth_key=1790523097-0-0-f7aa812a468140fb49c62d3e67c4102d"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4628910.m3u8?txSecret=f04c30d9e6df2b2c0089300ed52df21f&txTime=6AB911E7",
+          "referer": "https://player.787200.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RAAAAF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_9a0549baaced"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Athletic Club Vs Club Atlético de Madrid",
       "eventInfo": {
         "teamA": "Athletic Club",
@@ -464,11 +495,6 @@
       },
       "streams": [
         {
-          "channel_name": "SKY NZ HD",
-          "stream_url": "https://spch.bondsplive.online/2006097/logosp.webp?&e=.m3u8",
-          "referer": "https://youjizz.com/"
-        },
-        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.50/hls/AEEE.m3u8?",
           "referer": "http://www.fawanews.sc/"
@@ -541,6 +567,85 @@
         }
       ],
       "id": "evt_7ea651b7cfdc"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Richards Bay U23 Vs Milford FC U23",
+      "eventInfo": {
+        "teamA": "Richards Bay U23",
+        "teamB": "Milford FC U23",
+        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "eventName": "South Africa Diski Challeng",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/358/image/dark",
+        "startTime": "27/09/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.41/hls/ZAZAZA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/ZAZAZA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_21bb565e0052"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "27/09/2026 06:01:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SKY RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
+        },
+        {
+          "channel_name": "ITV1 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "1 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "2 TV Use VPN ",
+          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_3c671d56b0ab"
     },
     {
       "status": "LIVE",
@@ -621,27 +726,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "China Vs New Zealand",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4755/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "27/09/2026 05:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_9a0549baaced"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Manchester United Vs West Ham",
       "eventInfo": {
         "teamA": "Manchester United",
@@ -656,6 +740,11 @@
         {
           "channel_name": "TV QUALITY + HD ",
           "stream_url": "http://162.251.160.53:8089/5026/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ZFFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_b26e656a5775"
@@ -677,9 +766,63 @@
         {
           "channel_name": "TV QUALITY + HD ",
           "stream_url": "http://162.251.160.53:8089/9066/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ZFFFAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_4435a972e5e9"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Ireland Vs Japan",
+      "eventInfo": {
+        "teamA": "Ireland",
+        "teamB": "Japan",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164606/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262242/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "27/09/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/RAAAAFF.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_20b200b3ce88"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Shanghai Shenhua Vs Zenit St. Petersburg",
+      "eventInfo": {
+        "teamA": "Shanghai Shenhua",
+        "teamB": "Zenit St. Petersburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3373/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
+        "eventName": "Club Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
+        "startTime": "27/09/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/ZFFFA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/ZFFFA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_8e340f030242"
     },
     {
       "status": "UPCOMING",
@@ -758,58 +901,6 @@
         }
       ],
       "id": "evt_64739719626b"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "27/09/2026 06:01:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "1 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavava.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "2 TV Use VPN ",
-          "stream_url": "http://193.47.62.194/hls/vavavavaq.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_3c671d56b0ab"
     },
     {
       "status": "UPCOMING",
@@ -3064,12 +3155,12 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "stream_url": "http://193.47.62.41/hls/RAAAAFFFF.m3u8?",
           "referer": "http://www.fawanews.sc/"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/BHHH.m3u8?",
+          "stream_url": "http://193.47.62.41/hls/RAAAAFFFF.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ],
