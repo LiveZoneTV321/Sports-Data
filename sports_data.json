@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:38:20 PM 27-09-2026",
-  "total_matches": 134,
-  "live_match": 11,
+  "last_update_time": "01:49:32 PM 27-09-2026",
+  "total_matches": 135,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -92,6 +92,11 @@
           "channel_name": "Tennis Laver Cup",
           "stream_url": "http://193.47.62.50/hls/abbbQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "Tennis WTA Seoul",
+          "stream_url": "http://193.47.62.50/hls/abbbQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_a6252405842b"
@@ -141,6 +146,29 @@
         }
       ],
       "id": "evt_66cbf923ead5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Gold Coast Suns Vs St Kilda Saints",
+      "eventInfo": {
+        "teamA": "Gold Coast Suns",
+        "teamB": "St Kilda Saints",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334440/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "27/09/2026 01:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "id": "evt_d544e16ea6b7"
     },
     {
       "status": "LIVE",
@@ -261,33 +289,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Brumbies Vs Queensland Reds",
-      "eventInfo": {
-        "teamA": "Brumbies",
-        "teamB": "Queensland Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4179/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4180/image",
-        "eventName": "Super Rugby AUS",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/29227/image/dark",
-        "startTime": "27/09/2026 10:35:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_5d1cec17e9dd"
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "FIA WEC Vs FIA WEC",
       "eventInfo": {
@@ -308,6 +309,28 @@
         }
       ],
       "id": "evt_695d5d92074c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hong Kong Vs Laos",
+      "eventInfo": {
+        "teamA": "Hong Kong",
+        "teamB": "Laos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187774/image",
+        "teamBFlag": "b",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "27/09/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/bbbbb.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_f81f0a7fec76"
     },
     {
       "status": "LIVE",
@@ -343,26 +366,30 @@
     },
     {
       "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Gold Coast Suns Vs St Kilda Saints",
+      "Category": "Cricket",
+      "event_name": "India Vs West Indies",
       "eventInfo": {
-        "teamA": "Gold Coast Suns",
-        "teamB": "St Kilda Saints",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334440/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "27/09/2026 01:05:00 PM"
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "27/09/2026 02:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
         }
       ],
-      "id": "evt_d544e16ea6b7"
+      "id": "evt_b43cb0559b90"
     },
     {
       "status": "LIVE",
@@ -1158,33 +1185,6 @@
         }
       ],
       "id": "evt_62c5b70d7a59"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "India Vs West Indies",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "West Indies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "27/09/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_b43cb0559b90"
     },
     {
       "status": "UPCOMING",
@@ -3576,6 +3576,33 @@
         }
       ],
       "id": "evt_4a8ba7e51abd"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Brumbies Vs Queensland Reds",
+      "eventInfo": {
+        "teamA": "Brumbies",
+        "teamB": "Queensland Reds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4179/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4180/image",
+        "eventName": "Super Rugby AUS",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/29227/image/dark",
+        "startTime": "27/09/2026 10:35:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_5d1cec17e9dd"
     },
     {
       "status": "ENDED",
