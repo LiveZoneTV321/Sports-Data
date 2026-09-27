@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:58:18 PM 27-09-2026",
-  "total_matches": 135,
-  "live_match": 12,
+  "last_update_time": "02:14:34 PM 27-09-2026",
+  "total_matches": 137,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -100,6 +100,48 @@
         }
       ],
       "id": "evt_a6252405842b"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "South Africa Vs Australia",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "Australia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "27/09/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd",
+          "drm_key": "a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pxbjna1dxy/out/v1/7da1bc4ba0bb40f6b509aada2b491efe/cenc.mpd",
+          "drm_key": "a6533dcb0dcdfec329a68f177c700810:b6ed085e409ceda3dddfb9b0d1ea8731"
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "SKY SPORTS CRICKET",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ],
+      "id": "evt_722e5fd8f782"
     },
     {
       "status": "LIVE",
@@ -205,6 +247,27 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Women Vs West Indies Women",
+      "eventInfo": {
+        "teamA": "Zimbabwe Women",
+        "teamB": "West Indies Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "eventName": "One Day International Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+        "startTime": "27/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://c8.vfruitfairy.com/WIvsZIM/index.m3u8"
+        }
+      ],
+      "id": "evt_86c4e4db942e"
+    },
+    {
+      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Raul Rosas Jr. Vs Raoni Barcelos",
       "eventInfo": {
@@ -289,6 +352,22 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Sydney Kings Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "Sydney Kings",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "27/09/2026 02:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_1a2c457ca1df"
+    },
+    {
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "FIA WEC Vs FIA WEC",
       "eventInfo": {
@@ -312,15 +391,36 @@
     },
     {
       "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "Inoue Vs Nasukawa 2",
+      "eventInfo": {
+        "teamA": "Inoue",
+        "teamB": "Nasukawa 2",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+        "eventName": "UFC EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
+        "startTime": "27/09/2026 02:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "b"
+        }
+      ],
+      "id": "evt_f643c3538d19"
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Hong Kong Vs Laos",
       "eventInfo": {
         "teamA": "Hong Kong",
         "teamB": "Laos",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/187774/image",
-        "teamBFlag": "b",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg",
         "startTime": "27/09/2026 01:00:00 PM"
       },
       "streams": [
@@ -328,41 +428,43 @@
           "channel_name": "Link 1",
           "stream_url": "http://193.47.62.55/hls/bbbbb.m3u8?",
           "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/bbbbb.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_f81f0a7fec76"
+      "id": "evt_46510a4228bd"
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "South Africa Vs Australia",
+      "Category": "Basketball",
+      "event_name": "Boca Juniors Vs Tigers BBC",
       "eventInfo": {
-        "teamA": "South Africa",
-        "teamB": "Australia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "27/09/2026 02:00:00 PM"
+        "teamA": "Boca Juniors",
+        "teamB": "Tigers BBC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/125874/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/343350/image",
+        "eventName": "Intercontinental Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1512/image/dark",
+        "startTime": "27/09/2026 12:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-JEV6mbaQIf6Gvm0pxfY6kWjRlMOG1irjP3P4kvIfRGL2sOaWHUFbA5QtqRJWWkkGRnbd3zVnmv91dZVIVUsY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p125qr8snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_836469/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "SKY SPORTS CRICKET",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "https://fhlsport954.tm3drop33weeps.ru/token-JEV6mbaQIf6Gvm0pxfY6kWjRlMOG1irjP3P4kvIfRGL2sOaWHUFbA5QtqRJWWkkGRnbd3zVnmv91dZVIVUsY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/p125qr8snUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_836469/index.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_722e5fd8f782"
+      "id": "evt_e001c9ec3205"
     },
     {
       "status": "LIVE",
@@ -393,40 +495,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs Illawarra Hawks",
+      "Category": "Motorsports",
+      "event_name": "WORLD SBK Vs WORLD SBK",
       "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "27/09/2026 02:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_1a2c457ca1df"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "Inoue Vs Nasukawa 2",
-      "eventInfo": {
-        "teamA": "Inoue",
-        "teamB": "Nasukawa 2",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-        "eventName": "UFC EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojAXpDVYQ8eDCnzLF24wvEhrmjMu3xBp9gTvk86MnsQ&s=10",
-        "startTime": "27/09/2026 02:00:00 PM"
+        "teamA": "WORLD SBK",
+        "teamB": "WORLD SBK",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "eventName": "WORLD SBK | WORLDSSP",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
+        "startTime": "27/09/2026 03:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "b"
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         }
       ],
-      "id": "evt_f643c3538d19"
+      "id": "evt_0c8766f84d15"
     },
     {
       "status": "UPCOMING",
@@ -1185,29 +1273,6 @@
         }
       ],
       "id": "evt_62c5b70d7a59"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "WORLD SBK Vs WORLD SBK",
-      "eventInfo": {
-        "teamA": "WORLD SBK",
-        "teamB": "WORLD SBK",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "eventName": "WORLD SBK | WORLDSSP",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuX9s6OBVpX0ABg5CQuoSs9A5vMNIGZ-dgy2K0_IxJrw&s=10",
-        "startTime": "27/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_0c8766f84d15"
     },
     {
       "status": "UPCOMING",
