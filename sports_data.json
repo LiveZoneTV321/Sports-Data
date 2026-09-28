@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:55:17 AM 28-09-2026",
+  "last_update_time": "11:05:56 AM 28-09-2026",
   "total_matches": 65,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -185,32 +185,6 @@
         }
       ],
       "id": "evt_a6252405842b"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Hong Kong C.",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Hong Kong C.",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187774/image",
-        "eventName": "Asian Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
-        "startTime": "28/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
-          "drm_key": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8"
-        }
-      ],
-      "id": "evt_8c470de6f192"
     },
     {
       "status": "LIVE",
@@ -1555,6 +1529,32 @@
         }
       ],
       "id": "evt_0c8766f84d15"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Hong Kong C.",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Hong Kong C.",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187774/image",
+        "eventName": "Asian Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11158/image/dark",
+        "startTime": "28/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/thgxqyztyu/out/v1/4f530bd9dae64942b85a2ddc080823c4/cenc.mpd",
+          "drm_key": "4a2e91842dcb199f01178ea0c3d63b03:482194761e3cb8c3e37d09f246a3aa72"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://stream.ottplus.live/live/ten_1_hd_abr/playlist.m3u8"
+        }
+      ],
+      "id": "evt_8c470de6f192"
     },
     {
       "status": "ENDED",
