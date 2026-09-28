@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:39:25 AM 28-09-2026",
+  "last_update_time": "08:52:37 AM 28-09-2026",
   "total_matches": 65,
-  "live_match": 10,
+  "live_match": 8,
   "matches": [
     {
       "status": "LIVE",
@@ -259,28 +259,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Dominica Vs Puerto Rico",
-      "eventInfo": {
-        "teamA": "Dominica",
-        "teamB": "Puerto Rico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21818/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "28/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BHBHBHAAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_2f6d4ea1575c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Trinidad and Tobago Vs Dominican Republic",
       "eventInfo": {
         "teamA": "Trinidad and Tobago",
@@ -308,54 +286,6 @@
         }
       ],
       "id": "evt_0f33ed5684ae"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Curaçao Vs Nicaragua",
-      "eventInfo": {
-        "teamA": "Curaçao",
-        "teamB": "Nicaragua",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "28/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD ",
-          "stream_url": "http://162.251.160.53:8089/7036/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BHBHBHAAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_02f506e3231e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Tigres UANL W Vs Atlético San Luis W",
-      "eventInfo": {
-        "teamA": "Tigres UANL W",
-        "teamB": "Atlético San Luis W",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
-        "eventName": "Liga MX, Apertura Women's",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "28/09/2026 06:06:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_d4dfe9ce32cc"
     },
     {
       "status": "LIVE",
@@ -390,6 +320,33 @@
         }
       ],
       "id": "evt_d104bd8f3f1a"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Club Necaxa Vs Club América",
+      "eventInfo": {
+        "teamA": "Club Necaxa",
+        "teamB": "Club América",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "28/09/2026 09:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/GRRRRQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_4b3c6c742082"
     },
     {
       "status": "UPCOMING",
@@ -598,33 +555,6 @@
         }
       ],
       "id": "evt_86c4e4db942e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Club Necaxa Vs Club América",
-      "eventInfo": {
-        "teamA": "Club Necaxa",
-        "teamB": "Club América",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "28/09/2026 09:10:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/GRRRRQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_4b3c6c742082"
     },
     {
       "status": "UPCOMING",
@@ -1818,6 +1748,54 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Dominica Vs Puerto Rico",
+      "eventInfo": {
+        "teamA": "Dominica",
+        "teamB": "Puerto Rico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21812/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21818/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "28/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/BHBHBHAAAAAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_2f6d4ea1575c"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Curaçao Vs Nicaragua",
+      "eventInfo": {
+        "teamA": "Curaçao",
+        "teamB": "Nicaragua",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21817/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "28/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD ",
+          "stream_url": "http://162.251.160.53:8089/7036/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/BHBHBHAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_02f506e3231e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Atenas Rio Cuarto Vs San Martín Formosa",
       "eventInfo": {
         "teamA": "Atenas Rio Cuarto",
@@ -1870,6 +1848,28 @@
         }
       ],
       "id": "evt_d41aeaebd995"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Tigres UANL W Vs Atlético San Luis W",
+      "eventInfo": {
+        "teamA": "Tigres UANL W",
+        "teamB": "Atlético San Luis W",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1940/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+        "eventName": "Liga MX, Apertura Women's",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "28/09/2026 06:06:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_d4dfe9ce32cc"
     },
     {
       "status": "ENDED",
