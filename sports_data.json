@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:53:43 AM 29-09-2026",
+  "last_update_time": "03:05:33 AM 29-09-2026",
   "total_matches": 94,
   "live_match": 13,
   "matches": [
@@ -557,32 +557,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Leganés Vs CD Castellón",
-      "eventInfo": {
-        "teamA": "Leganés",
-        "teamB": "CD Castellón",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "29/09/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_1080p.m3u8?auth_key=1790634578-0-0-5f084bca499e6f9d088422929b15409f"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/DIII.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_9b603ec81733"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Botswana Vs Tunisia",
       "eventInfo": {
         "teamA": "Botswana",
@@ -610,6 +584,27 @@
         }
       ],
       "id": "evt_d2edbb30e8fe"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cuba Vs Bonaire",
+      "eventInfo": {
+        "teamA": "Cuba",
+        "teamB": "Bonaire",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+        }
+      ],
+      "id": "evt_41e64e379572"
     },
     {
       "status": "LIVE",
@@ -660,23 +655,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Cuba Vs Bonaire",
+      "event_name": "Suriname Vs Martinique",
       "eventInfo": {
-        "teamA": "Cuba",
-        "teamB": "Bonaire",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/180236/image",
+        "teamA": "Suriname",
+        "teamB": "Martinique",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
         "eventName": "CONCACAF Nations League",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 03:00:00 AM"
+        "startTime": "29/09/2026 04:00:00 AM"
       },
       "streams": [
         {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
           "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
         }
       ],
-      "id": "evt_41e64e379572"
+      "id": "evt_e6607dc7d3b4"
     },
     {
       "status": "UPCOMING",
@@ -1033,32 +1033,6 @@
         }
       ],
       "id": "evt_933325920807"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Suriname Vs Martinique",
-      "eventInfo": {
-        "teamA": "Suriname",
-        "teamB": "Martinique",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/45485/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/1124/index.m3u8"
-        }
-      ],
-      "id": "evt_e6607dc7d3b4"
     },
     {
       "status": "UPCOMING",
@@ -2691,6 +2665,32 @@
         }
       ],
       "id": "evt_0c8766f84d15"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Leganés Vs CD Castellón",
+      "eventInfo": {
+        "teamA": "Leganés",
+        "teamB": "CD Castellón",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "29/09/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.dyrur1.com/live/72477440_af0626786e65fbc0697bf70c1c665701_1080p.m3u8?auth_key=1790634578-0-0-5f084bca499e6f9d088422929b15409f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/DIII.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_9b603ec81733"
     },
     {
       "status": "ENDED",
