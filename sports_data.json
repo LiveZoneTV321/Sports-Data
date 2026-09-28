@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:45:16 PM 28-09-2026",
+  "last_update_time": "02:07:34 PM 28-09-2026",
   "total_matches": 65,
-  "live_match": 2,
+  "live_match": 3,
   "matches": [
     {
       "status": "LIVE",
@@ -126,6 +126,27 @@
         }
       ],
       "id": "evt_10dbd53ec0af"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Singapore Vs Bangladesh",
+      "eventInfo": {
+        "teamA": "Singapore",
+        "teamB": "Bangladesh",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "28/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_6bb4a3d16bea"
     },
     {
       "status": "UPCOMING",
@@ -957,27 +978,6 @@
         }
       ],
       "id": "evt_cf484c15656a"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Singapore Vs Bangladesh",
-      "eventInfo": {
-        "teamA": "Singapore",
-        "teamB": "Bangladesh",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "28/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_6bb4a3d16bea"
     },
     {
       "status": "UPCOMING",
