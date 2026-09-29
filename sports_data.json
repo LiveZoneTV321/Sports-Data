@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:56:08 AM 29-09-2026",
+  "last_update_time": "07:08:41 AM 29-09-2026",
   "total_matches": 94,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -270,6 +270,22 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Ca Lanus Vs Gimnasia (CR)",
+      "eventInfo": {
+        "teamA": "Ca Lanus",
+        "teamB": "Gimnasia (CR)",
+        "teamAFlag": "b",
+        "teamBFlag": "b",
+        "eventName": "Baloncesto Argentina Liga Nacional",
+        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
+        "startTime": "29/09/2026 07:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2ec3bf76c1c2"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Montevideo Wanderers Vs Albion FC",
       "eventInfo": {
         "teamA": "Montevideo Wanderers",
@@ -282,6 +298,32 @@
       },
       "streams": [],
       "id": "evt_37befeb3a56f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Guatemala Vs El Salvador",
+      "eventInfo": {
+        "teamA": "Guatemala",
+        "teamB": "El Salvador",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "29/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY. ",
+          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
+        }
+      ],
+      "id": "evt_1fc9be2b12da"
     },
     {
       "status": "LIVE",
@@ -304,22 +346,6 @@
         }
       ],
       "id": "evt_b4d8d34b00c1"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ca Lanus Vs Gimnasia (CR)",
-      "eventInfo": {
-        "teamA": "Ca Lanus",
-        "teamB": "Gimnasia (CR)",
-        "teamAFlag": "b",
-        "teamBFlag": "b",
-        "eventName": "Baloncesto Argentina Liga Nacional",
-        "event_logo": "https://img.sofascore.com/api/v1/team/4819/image",
-        "startTime": "29/09/2026 07:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2ec3bf76c1c2"
     },
     {
       "status": "UPCOMING",
@@ -484,32 +510,6 @@
         }
       ],
       "id": "evt_0ac4be3512b6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Guatemala Vs El Salvador",
-      "eventInfo": {
-        "teamA": "Guatemala",
-        "teamB": "El Salvador",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4825/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "29/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY. ",
-          "stream_url": "http://162.251.160.53:8089/1012/index.m3u8"
-        }
-      ],
-      "id": "evt_1fc9be2b12da"
     },
     {
       "status": "UPCOMING",
