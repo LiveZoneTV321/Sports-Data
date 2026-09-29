@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:53:01 AM 30-09-2026",
+  "last_update_time": "03:05:12 AM 30-09-2026",
   "total_matches": 110,
-  "live_match": 30,
+  "live_match": 28,
   "matches": [
     {
       "status": "LIVE",
@@ -979,6 +979,32 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "French Guiana Vs Sint Maarten",
+      "eventInfo": {
+        "teamA": "French Guiana",
+        "teamB": "Sint Maarten",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": "http://162.251.160.53:8089/28912/index.m3u8"
+        }
+      ],
+      "id": "evt_28c9754205ca"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Club FC Universitario Vs Guabirá",
       "eventInfo": {
         "teamA": "Club FC Universitario",
@@ -1005,63 +1031,71 @@
     },
     {
       "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Atlanta Braves Vs Philadelphia Phillies",
+      "Category": "Ice hockey",
+      "event_name": "Carolina Hurricanes Vs Florida Panthers",
       "eventInfo": {
-        "teamA": "Atlanta Braves",
-        "teamB": "Philadelphia Phillies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "30/09/2026 12:00:00 AM"
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "MLB SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kkyeynoqm6/out/v1/092fa7e86f5342f3aae7819aadf5f8c7/cenc.mpd",
-          "drm_key": "ddca409cf5e01c109ac70ca75f9bc7f8:f46f3330483c7de99cb494cf53f9fed7"
-        },
-        {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        },
-        {
-          "channel_name": "SPOTV2 FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "CNC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o5ozmlwlrl/out/v1/6d8aed6c8f01479caae451ba0cf0a294/cenc.mpd",
-          "drm_key": "cd86aa2afb00a7e03f6cceeda0d726c6:044a3f27cc2775e656c949f425492364"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57352/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
           "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_0a5da553fa76"
+      "id": "evt_78b0127df1fb"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Houston Astros Vs Chicago White Sox",
+      "eventInfo": {
+        "teamA": "Houston Astros",
+        "teamB": "Chicago White Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "STREAM+ TV",
+          "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_bf8a0e6eb19c"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Deportes Puerto Montt Vs Colo-Colo",
+      "eventInfo": {
+        "teamA": "Deportes Puerto Montt",
+        "teamB": "Colo-Colo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3158/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3155/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_204e792137ce"
     },
     {
       "status": "LIVE",
@@ -1099,69 +1133,6 @@
         }
       ],
       "id": "evt_239532c2fe12"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Fenerbahçe Tarfin Vs Bayern München",
-      "eventInfo": {
-        "teamA": "Fenerbahçe Tarfin",
-        "teamB": "Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "29/09/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://netanjahu.hls.st/t/33470e5e12c618bf4c375a04ff46e810/index.m3u8https://iplayer.is/"
-        },
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/UDDDAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD SERVER ",
-          "stream_url": "https://live.vivo155.com/live/sd-2-3926512.m3u8?txSecret=30272700d259ffb629ae47c81e4aeabc&txTime=6ABC096B",
-          "referer": "https://player.787200.com/"
-        }
-      ],
-      "id": "evt_5a282bf604d4"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "KK Crvena zvezda Vs Hapoel Tel-Aviv",
-      "eventInfo": {
-        "teamA": "KK Crvena zvezda",
-        "teamB": "Hapoel Tel-Aviv",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "30/09/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_1c0668a99bff"
     },
     {
       "status": "LIVE",
@@ -1252,96 +1223,25 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "French Guiana Vs Sint Maarten",
+      "event_name": "Real Potosí Vs Academia de Balompié Boliviano",
       "eventInfo": {
-        "teamA": "French Guiana",
-        "teamB": "Sint Maarten",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/298263/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
+        "teamA": "Real Potosí",
+        "teamB": "Academia de Balompié Boliviano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/423188/image",
+        "eventName": "Copa Bolivia",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19891/image/dark",
+        "startTime": "30/09/2026 04:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUICK ",
-          "stream_url": "http://162.251.160.53:8089/28912/index.m3u8"
-        }
-      ],
-      "id": "evt_28c9754205ca"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Carolina Hurricanes Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_78b0127df1fb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Houston Astros Vs Chicago White Sox",
-      "eventInfo": {
-        "teamA": "Houston Astros",
-        "teamB": "Chicago White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "STREAM+ TV",
-          "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_bf8a0e6eb19c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportes Puerto Montt Vs Colo-Colo",
-      "eventInfo": {
-        "teamA": "Deportes Puerto Montt",
-        "teamB": "Colo-Colo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3158/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3155/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_204e792137ce"
+      "id": "evt_c3e0d4bd45c7"
     },
     {
       "status": "UPCOMING",
@@ -1659,29 +1559,6 @@
         }
       ],
       "id": "evt_7ff5227b77c6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Potosí Vs Academia de Balompié Boliviano",
-      "eventInfo": {
-        "teamA": "Real Potosí",
-        "teamB": "Academia de Balompié Boliviano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/423188/image",
-        "eventName": "Copa Bolivia",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/19891/image/dark",
-        "startTime": "30/09/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_c3e0d4bd45c7"
     },
     {
       "status": "UPCOMING",
@@ -2566,7 +2443,7 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_0a5da553fa76_2"
+      "id": "evt_0a5da553fa76"
     },
     {
       "status": "UPCOMING",
@@ -3469,6 +3346,66 @@
     },
     {
       "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Atlanta Braves Vs Philadelphia Phillies",
+      "eventInfo": {
+        "teamA": "Atlanta Braves",
+        "teamB": "Philadelphia Phillies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "30/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "MLB SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kkyeynoqm6/out/v1/092fa7e86f5342f3aae7819aadf5f8c7/cenc.mpd",
+          "drm_key": "ddca409cf5e01c109ac70ca75f9bc7f8:f46f3330483c7de99cb494cf53f9fed7"
+        },
+        {
+          "channel_name": "NBC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "channel_name": "SPOTV2 FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "channel_name": "CNC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/o5ozmlwlrl/out/v1/6d8aed6c8f01479caae451ba0cf0a294/cenc.mpd",
+          "drm_key": "cd86aa2afb00a7e03f6cceeda0d726c6:044a3f27cc2775e656c949f425492364"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57352/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/UDDDAAAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_0a5da553fa76_2"
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Atletico Rafaela Reserve Vs Ferro Carril Oeste Reserve",
       "eventInfo": {
@@ -3487,6 +3424,42 @@
         }
       ],
       "id": "evt_f09219638c69"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Fenerbahçe Tarfin Vs Bayern München",
+      "eventInfo": {
+        "teamA": "Fenerbahçe Tarfin",
+        "teamB": "Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "29/09/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://netanjahu.hls.st/t/33470e5e12c618bf4c375a04ff46e810/index.m3u8https://iplayer.is/"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+          "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/UDDDAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://live.vivo155.com/live/sd-2-3926512.m3u8?txSecret=30272700d259ffb629ae47c81e4aeabc&txTime=6ABC096B",
+          "referer": "https://player.787200.com/"
+        }
+      ],
+      "id": "evt_5a282bf604d4"
     },
     {
       "status": "ENDED",
@@ -3528,6 +3501,33 @@
         }
       ],
       "id": "evt_a92a6a368e14"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "KK Crvena zvezda Vs Hapoel Tel-Aviv",
+      "eventInfo": {
+        "teamA": "KK Crvena zvezda",
+        "teamB": "Hapoel Tel-Aviv",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "30/09/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/UDDDAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_1c0668a99bff"
     },
     {
       "status": "ENDED",
