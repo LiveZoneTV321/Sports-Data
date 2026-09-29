@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:57:20 PM 29-09-2026",
+  "last_update_time": "07:12:47 PM 29-09-2026",
   "total_matches": 109,
-  "live_match": 9,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -166,33 +166,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Japan Vs South Korea",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21922/image",
-        "eventName": "Asian Games, Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11330/image/dark",
-        "startTime": "29/09/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.55/hls/veeeA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/veeeA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_bd1ad1d394e7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "South Sudan Vs Egypt",
       "eventInfo": {
         "teamA": "South Sudan",
@@ -298,6 +271,48 @@
         }
       ],
       "id": "evt_323ac83d9ca8"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Comoros Vs Namibia",
+      "eventInfo": {
+        "teamA": "Comoros",
+        "teamB": "Namibia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23494/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4832/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "29/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": "http://c8.vfruitfairy.com/1901/index.m3u8"
+        }
+      ],
+      "id": "evt_8699d6561fef"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Madagascar Vs Tanzania",
+      "eventInfo": {
+        "teamA": "Madagascar",
+        "teamB": "Tanzania",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8035/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4835/image",
+        "eventName": "Africa Cup of Nations Qual.",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
+        "startTime": "29/09/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": "http://c8.vfruitfairy.com/2233/index.m3u8"
+        }
+      ],
+      "id": "evt_d54a6c6da895"
     },
     {
       "status": "UPCOMING",
@@ -846,48 +861,6 @@
         }
       ],
       "id": "evt_33b071ed7589"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Comoros Vs Namibia",
-      "eventInfo": {
-        "teamA": "Comoros",
-        "teamB": "Namibia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23494/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4832/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "29/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUICK ",
-          "stream_url": "http://c8.vfruitfairy.com/1901/index.m3u8"
-        }
-      ],
-      "id": "evt_8699d6561fef"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Madagascar Vs Tanzania",
-      "eventInfo": {
-        "teamA": "Madagascar",
-        "teamB": "Tanzania",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-        "eventName": "Africa Cup of Nations Qual.",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1848/image/dark",
-        "startTime": "29/09/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUICK ",
-          "stream_url": "http://c8.vfruitfairy.com/2233/index.m3u8"
-        }
-      ],
-      "id": "evt_d54a6c6da895"
     },
     {
       "status": "UPCOMING",
@@ -2893,6 +2866,33 @@
         }
       ],
       "id": "evt_bb7821e4edea"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Japan Vs South Korea",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21922/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11330/image/dark",
+        "startTime": "29/09/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/veeeA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/veeeA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_bd1ad1d394e7"
     },
     {
       "status": "ENDED",
