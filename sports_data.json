@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:31:33 PM 30-09-2026",
+  "last_update_time": "12:56:31 PM 30-09-2026",
   "total_matches": 78,
-  "live_match": 4,
+  "live_match": 6,
   "matches": [
     {
       "status": "LIVE",
@@ -169,6 +169,43 @@
       "id": "evt_a6cb316545df"
     },
     {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Women Vs West Indies Women",
+      "eventInfo": {
+        "teamA": "Zimbabwe Women",
+        "teamB": "West Indies Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "eventName": "One Day International Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+        "startTime": "30/09/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://c8.vfruitfairy.com/WIvsZIM/index.m3u8"
+        }
+      ],
+      "id": "evt_86c4e4db942e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "New Zealand Breakers Vs Cairns Taipans",
+      "eventInfo": {
+        "teamA": "New Zealand Breakers",
+        "teamB": "Cairns Taipans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "eventName": "NBL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "30/09/2026 01:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_80fd49bad110"
+    },
+    {
       "status": "UPCOMING",
       "Category": "Other",
       "event_name": "Horse Racing Vs Horse Racing",
@@ -287,43 +324,6 @@
         }
       ],
       "id": "evt_b43cb0559b90"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Zimbabwe Women Vs West Indies Women",
-      "eventInfo": {
-        "teamA": "Zimbabwe Women",
-        "teamB": "West Indies Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-        "eventName": "One Day International Women",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
-        "startTime": "30/09/2026 01:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://c8.vfruitfairy.com/WIvsZIM/index.m3u8"
-        }
-      ],
-      "id": "evt_86c4e4db942e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "New Zealand Breakers Vs Cairns Taipans",
-      "eventInfo": {
-        "teamA": "New Zealand Breakers",
-        "teamB": "Cairns Taipans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "eventName": "NBL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "30/09/2026 01:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_80fd49bad110"
     },
     {
       "status": "UPCOMING",
