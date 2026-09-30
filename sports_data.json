@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:27:32 PM 30-09-2026",
+  "last_update_time": "03:44:05 PM 30-09-2026",
   "total_matches": 78,
   "live_match": 8,
   "matches": [
@@ -286,27 +286,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "East Timor Vs Cambodia",
-      "eventInfo": {
-        "teamA": "East Timor",
-        "teamB": "Cambodia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23497/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-        "eventName": "ASEAN Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
-        "startTime": "30/09/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM+ TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_a566725b4e42"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Sydney Kings Vs Brisbane Bullets",
       "eventInfo": {
@@ -326,6 +305,37 @@
         }
       ],
       "id": "evt_14ff96e97484"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "East Timor Vs Cambodia",
+      "eventInfo": {
+        "teamA": "East Timor",
+        "teamB": "Cambodia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23497/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "30/09/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FAST SERVER",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4639762.m3u8?txSecret=aad0878c05db684963f3b436848e4e55&txTime=6ABCE4C6",
+          "referer": "https://player.online909.com/"
+        },
+        {
+          "channel_name": "FAST SERVER 2 ",
+          "stream_url": "https://live1.dyrur1.com/live/74557480_bc0215ab38c282f1c8d6a5e9bf8bb723_1080p.m3u8?auth_key=1790773377-0-0-d48887e5f2f2cf174908e7697b0da5b5"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/ARRRaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_a566725b4e42"
     },
     {
       "status": "UPCOMING",
