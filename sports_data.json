@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:57:41 AM 30-09-2026",
+  "last_update_time": "07:11:34 AM 30-09-2026",
   "total_matches": 110,
-  "live_match": 12,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -51,6 +51,35 @@
       },
       "streams": [],
       "id": "evt_66cbf923ead5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mexico Vs Peru",
+      "eventInfo": {
+        "teamA": "Mexico",
+        "teamB": "Peru",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "30/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ],
+      "id": "evt_e37c9bc28371"
     },
     {
       "status": "LIVE",
@@ -265,51 +294,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Mexico Vs Peru",
-      "eventInfo": {
-        "teamA": "Mexico",
-        "teamB": "Peru",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "30/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        }
-      ],
-      "id": "evt_e37c9bc28371"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Independiente Medellín Vs Millonarios",
-      "eventInfo": {
-        "teamA": "Independiente Medellín",
-        "teamB": "Millonarios",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image",
-        "eventName": "Primera A",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "30/09/2026 07:05:00 AM"
-      },
-      "streams": [],
-      "id": "evt_f806de209761"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Other",
       "event_name": "TENNIS | EVENTO  Vs TENNIS | EVENTO",
       "eventInfo": {
@@ -404,6 +388,100 @@
       "id": "evt_a6252405842b"
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Belize Vs Saint Vincent and the Grenadines",
+      "eventInfo": {
+        "teamA": "Belize",
+        "teamB": "Saint Vincent and the Grenadines",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "30/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUICK ",
+          "stream_url": "http://162.251.160.53:8089/28912/index.m3u8"
+        }
+      ],
+      "id": "evt_7ff5227b77c6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Edmonton Oilers Vs Vancouver Canucks",
+      "eventInfo": {
+        "teamA": "Edmonton Oilers",
+        "teamB": "Vancouver Canucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "eventName": "NHL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8056b984b35f"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "San Diego Padres Vs Chicago Cubs",
+      "eventInfo": {
+        "teamA": "San Diego Padres",
+        "teamB": "Chicago Cubs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "30/09/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "STREAM+ TV",
+          "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_0ac4be3512b6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Independiente Medellín Vs Millonarios",
+      "eventInfo": {
+        "teamA": "Independiente Medellín",
+        "teamB": "Millonarios",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image",
+        "eventName": "Primera A",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "30/09/2026 07:05:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f806de209761"
+    },
+    {
       "status": "UPCOMING",
       "Category": "Cricket",
       "event_name": "South Africa Vs Australia",
@@ -493,55 +571,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Belize Vs Saint Vincent and the Grenadines",
-      "eventInfo": {
-        "teamA": "Belize",
-        "teamB": "Saint Vincent and the Grenadines",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21809/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21821/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "30/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUICK ",
-          "stream_url": "http://162.251.160.53:8089/28912/index.m3u8"
-        }
-      ],
-      "id": "evt_7ff5227b77c6"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Ice hockey",
-      "event_name": "Edmonton Oilers Vs Vancouver Canucks",
-      "eventInfo": {
-        "teamA": "Edmonton Oilers",
-        "teamB": "Vancouver Canucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "eventName": "NHL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8056b984b35f"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Ice hockey",
       "event_name": "Vegas Golden Knights Vs Chicago Blackhawks",
       "eventInfo": {
@@ -562,35 +591,6 @@
         }
       ],
       "id": "evt_201dff07b2b8"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Baseball",
-      "event_name": "San Diego Padres Vs Chicago Cubs",
-      "eventInfo": {
-        "teamA": "San Diego Padres",
-        "teamB": "Chicago Cubs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "30/09/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "STREAM+ TV",
-          "stream_url": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0ac4be3512b6"
     },
     {
       "status": "UPCOMING",
