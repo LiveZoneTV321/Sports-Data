@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:29:26 PM 30-09-2026",
+  "last_update_time": "01:45:38 PM 30-09-2026",
   "total_matches": 78,
-  "live_match": 6,
+  "live_match": 7,
   "matches": [
     {
       "status": "LIVE",
@@ -148,28 +148,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Cycling Vs Cycling",
-      "eventInfo": {
-        "teamA": "Cycling",
-        "teamB": "Cycling",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "eventName": "Cycling",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
-        "startTime": "30/09/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "EUROSPORT",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "id": "evt_a6cb316545df"
-    },
-    {
-      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "Zimbabwe Women Vs West Indies Women",
       "eventInfo": {
@@ -204,6 +182,60 @@
       },
       "streams": [],
       "id": "evt_80fd49bad110"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Cycling Vs Cycling",
+      "eventInfo": {
+        "teamA": "Cycling",
+        "teamB": "Cycling",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "eventName": "Cycling",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vaixfJa-lFwIUiknNdDwDqoj4d1IVTk2dMldB5TkAg&s=10",
+        "startTime": "30/09/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "EUROSPORT",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "id": "evt_a6cb316545df"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India Vs West Indies",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "West Indies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
+        "eventName": "One Day International",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
+        "startTime": "30/09/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "TNT SPORTS HD",
+          "stream_url": "https://papacito.cfd/m3u/588010/live.m3u8"
+        }
+      ],
+      "id": "evt_b43cb0559b90"
     },
     {
       "status": "UPCOMING",
@@ -292,38 +324,6 @@
         }
       ],
       "id": "evt_722e5fd8f782"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "India Vs West Indies",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "West Indies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-        "eventName": "One Day International",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "30/09/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "TNT SPORTS HD",
-          "stream_url": "https://papacito.cfd/m3u/588010/live.m3u8"
-        }
-      ],
-      "id": "evt_b43cb0559b90"
     },
     {
       "status": "UPCOMING",
