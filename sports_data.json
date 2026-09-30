@@ -2,10 +2,40 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:50:14 AM 30-09-2026",
+  "last_update_time": "06:07:28 AM 30-09-2026",
   "total_matches": 110,
-  "live_match": 13,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "WWE NXT Vs WWE NXT",
+      "eventInfo": {
+        "teamA": "WWE NXT",
+        "teamB": "WWE NXT",
+        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "eventName": "WWE NXT",
+        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
+        "startTime": "30/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NXT TV LIVE",
+          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/FIOOOQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "HD QUALITY VI",
+          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+        }
+      ],
+      "id": "evt_41c37aa9edfb"
+    },
     {
       "status": "LIVE",
       "Category": "American football",
@@ -21,6 +51,29 @@
       },
       "streams": [],
       "id": "evt_66cbf923ead5"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "USA Vs Chile",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Chile",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "30/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBC SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
+        }
+      ],
+      "id": "evt_4fa9a53137bc"
     },
     {
       "status": "LIVE",
@@ -70,157 +123,6 @@
         }
       ],
       "id": "evt_c3e0d4bd45c7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Indiana Fever Vs Las Vegas Aces",
-      "eventInfo": {
-        "teamA": "Indiana Fever",
-        "teamB": "Las Vegas Aces",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-        "eventName": "WNBA",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
-        "startTime": "30/09/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_3dc1082eb78e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Carolina Hurricanes Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_78b0127df1fb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Toronto Maple Leafs Vs Montréal Canadiens",
-      "eventInfo": {
-        "teamA": "Toronto Maple Leafs",
-        "teamB": "Montréal Canadiens",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "eventName": "NHL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/09/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d7f230d37532"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Houston Astros Vs Chicago White Sox",
-      "eventInfo": {
-        "teamA": "Houston Astros",
-        "teamB": "Chicago White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "eventName": "MLB",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "30/09/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "STREAM+ TV",
-          "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_bf8a0e6eb19c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "WWE NXT Vs WWE NXT",
-      "eventInfo": {
-        "teamA": "WWE NXT",
-        "teamB": "WWE NXT",
-        "teamAFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "teamBFlag": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "eventName": "WWE NXT",
-        "event_logo": "https://i.ibb.co/jPMHTs55/20260310-202452.png",
-        "startTime": "30/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NXT TV LIVE",
-          "stream_url": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/FIOOOQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "HD QUALITY VI",
-          "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-        }
-      ],
-      "id": "evt_41c37aa9edfb"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "USA Vs Chile",
-      "eventInfo": {
-        "teamA": "USA",
-        "teamB": "Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4754/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "30/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBC SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
-        }
-      ],
-      "id": "evt_4fa9a53137bc"
     },
     {
       "status": "LIVE",
@@ -277,6 +179,104 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Indiana Fever Vs Las Vegas Aces",
+      "eventInfo": {
+        "teamA": "Indiana Fever",
+        "teamB": "Las Vegas Aces",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+        "eventName": "WNBA",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/486/image/dark",
+        "startTime": "30/09/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_3dc1082eb78e"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Boston Bruins Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Boston Bruins",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/09/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/lmdsjkfgv52.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_9d080a0746d6"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Ice hockey",
+      "event_name": "Toronto Maple Leafs Vs Montréal Canadiens",
+      "eventInfo": {
+        "teamA": "Toronto Maple Leafs",
+        "teamB": "Montréal Canadiens",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3693/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "eventName": "NHL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/09/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_d7f230d37532"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mexico Vs Peru",
+      "eventInfo": {
+        "teamA": "Mexico",
+        "teamB": "Peru",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "30/09/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        }
+      ],
+      "id": "evt_e37c9bc28371"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "New York Liberty Vs Minnesota Lynx",
       "eventInfo": {
         "teamA": "New York Liberty",
@@ -314,29 +314,6 @@
         }
       ],
       "id": "evt_b79e7840671e"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Ice hockey",
-      "event_name": "Boston Bruins Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Boston Bruins",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3677/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/09/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/lmdsjkfgv52.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_9d080a0746d6"
     },
     {
       "status": "UPCOMING",
@@ -520,35 +497,6 @@
         }
       ],
       "id": "evt_86c4e4db942e"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mexico Vs Peru",
-      "eventInfo": {
-        "teamA": "Mexico",
-        "teamB": "Peru",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4790/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "30/09/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        }
-      ],
-      "id": "evt_e37c9bc28371"
     },
     {
       "status": "UPCOMING",
@@ -1274,7 +1222,7 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_bf8a0e6eb19c_2"
+      "id": "evt_bf8a0e6eb19c"
     },
     {
       "status": "UPCOMING",
@@ -3264,6 +3212,58 @@
         }
       ],
       "id": "evt_0a5da553fa76_2"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Ice hockey",
+      "event_name": "Carolina Hurricanes Vs Florida Panthers",
+      "eventInfo": {
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_78b0127df1fb"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Houston Astros Vs Chicago White Sox",
+      "eventInfo": {
+        "teamA": "Houston Astros",
+        "teamB": "Chicago White Sox",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+        "eventName": "MLB",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "30/09/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "STREAM+ TV",
+          "stream_url": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_bf8a0e6eb19c_2"
     },
     {
       "status": "ENDED",
