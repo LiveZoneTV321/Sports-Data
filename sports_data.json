@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:38:31 AM 02-10-2026",
+  "last_update_time": "04:52:16 AM 02-10-2026",
   "total_matches": 179,
-  "live_match": 12,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -97,27 +97,6 @@
         }
       ],
       "id": "evt_bf8a0e6eb19c"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "US Virgin Islands Vs Saint Martin",
-      "eventInfo": {
-        "teamA": "US Virgin Islands",
-        "teamB": "Saint Martin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "02/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/3214/index.m3u8"
-        }
-      ],
-      "id": "evt_41457b6a5111"
     },
     {
       "status": "LIVE",
@@ -4712,6 +4691,27 @@
         }
       ],
       "id": "evt_ab6c6ec9ce01"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "US Virgin Islands Vs Saint Martin",
+      "eventInfo": {
+        "teamA": "US Virgin Islands",
+        "teamB": "Saint Martin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33812/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "02/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/3214/index.m3u8"
+        }
+      ],
+      "id": "evt_41457b6a5111"
     }
   ]
 }
