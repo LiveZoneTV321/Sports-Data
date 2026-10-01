@@ -2,58 +2,86 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:56:46 PM 01-10-2026",
+  "last_update_time": "11:09:57 PM 01-10-2026",
   "total_matches": 177,
-  "live_match": 10,
+  "live_match": 13,
   "matches": [
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Snooker Vs Snooker",
+      "Category": "Hockey",
+      "event_name": "Frölunda HC Vs Brynäs IF",
       "eventInfo": {
-        "teamA": "Snooker",
-        "teamB": "Snooker",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "eventName": "Snooker",
-        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "startTime": "01/10/2026 10:05:00 PM"
+        "teamA": "Frölunda HC",
+        "teamB": "Brynäs IF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3734/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3727/image",
+        "eventName": "SHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/261/image/dark",
+        "startTime": "01/10/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_de75bc33f9c4"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "HB Køge Vs Servette FC Chênois Féminin",
+      "eventInfo": {
+        "teamA": "HB Køge",
+        "teamB": "Servette FC Chênois Féminin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/333128/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/305811/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "01/10/2026 10:45:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/897/index.m3u8"
         },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/grrrAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "2 QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/grrrAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "3 QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/grrrA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "4 QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/grrr.m3u8?",
+          "stream_url": "http://193.47.62.41/hls/zfffAAAAAAQQQ.m3u8?",
           "referer": "http://www.fawanews.sc/"
         }
       ],
-      "id": "evt_8164e402a2e1"
+      "id": "evt_8dd0664d4590"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FK Austria Wien Vs Inter",
+      "eventInfo": {
+        "teamA": "FK Austria Wien",
+        "teamB": "Inter",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+        "eventName": "UEFA Women's Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
+        "startTime": "01/10/2026 10:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "ESPN4 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
+          "drm_key": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/675/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_2ddb2785f853"
     },
     {
       "status": "LIVE",
@@ -255,83 +283,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "HB Køge Vs Servette FC Chênois Féminin",
-      "eventInfo": {
-        "teamA": "HB Køge",
-        "teamB": "Servette FC Chênois Féminin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/333128/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/305811/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "01/10/2026 10:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/897/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/zfffAAAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_8dd0664d4590"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FK Austria Wien Vs Inter",
-      "eventInfo": {
-        "teamA": "FK Austria Wien",
-        "teamB": "Inter",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-        "eventName": "UEFA Women's Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/696/image/dark",
-        "startTime": "01/10/2026 10:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "ESPN4 ARGENTINA FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd",
-          "drm_key": "54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4"
-        },
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/675/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_2ddb2785f853"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Frölunda HC Vs Brynäs IF",
-      "eventInfo": {
-        "teamA": "Frölunda HC",
-        "teamB": "Brynäs IF",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3734/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3727/image",
-        "eventName": "SHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/261/image/dark",
-        "startTime": "01/10/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_de75bc33f9c4"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Other",
       "event_name": "DARTS PDC Vs DARTS PDC",
       "eventInfo": {
@@ -347,7 +298,7 @@
       "id": "evt_bc2beb8eb4e5"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Baseball",
       "event_name": "Atlanta Braves Vs Philadelphia Phillies",
       "eventInfo": {
@@ -376,7 +327,7 @@
       "id": "evt_0a5da553fa76"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "CA Independiente Reserve Vs Boca Juniors Reserve",
       "eventInfo": {
@@ -392,7 +343,7 @@
       "id": "evt_a95595aa2083"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "KK Crvena zvezda Vs Anadolu Efes",
       "eventInfo": {
@@ -4563,6 +4514,55 @@
         }
       ],
       "id": "evt_cf6a9fff68ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Other",
+      "event_name": "Snooker Vs Snooker",
+      "eventInfo": {
+        "teamA": "Snooker",
+        "teamB": "Snooker",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "eventName": "Snooker",
+        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "startTime": "01/10/2026 10:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/grrrAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "2 QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/grrrAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "3 QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/grrrA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "4 QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/grrr.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_8164e402a2e1"
     }
   ]
 }
