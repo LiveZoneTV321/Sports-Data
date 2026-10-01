@@ -2,10 +2,52 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:54:22 AM 02-10-2026",
+  "last_update_time": "04:05:01 AM 02-10-2026",
   "total_matches": 179,
-  "live_match": 10,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Curaçao Vs Trinidad and Tobago",
+      "eventInfo": {
+        "teamA": "Curaçao",
+        "teamB": "Trinidad and Tobago",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "02/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/45/index.m3u8"
+        }
+      ],
+      "id": "evt_20456f7c9b83"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Olimpia Vs Sportivo Luqueño",
+      "eventInfo": {
+        "teamA": "Olimpia",
+        "teamB": "Sportivo Luqueño",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5998/image",
+        "eventName": "Copa Paraguay",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13614/image/dark",
+        "startTime": "02/10/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e66a19aebdb0"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -79,55 +121,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Paris Basketball Vs Kauno Žalgiris",
-      "eventInfo": {
-        "teamA": "Paris Basketball",
-        "teamB": "Kauno Žalgiris",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6662/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "02/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/YFFFQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_88f77793136a"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
-      "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "02/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/ZRRRAAAAAx.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Frölunda HC Vs Brynäs IF",
       "eventInfo": {
@@ -182,48 +175,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Curaçao Vs Trinidad and Tobago",
-      "eventInfo": {
-        "teamA": "Curaçao",
-        "teamB": "Trinidad and Tobago",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/55827/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5162/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "02/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/45/index.m3u8"
-        }
-      ],
-      "id": "evt_20456f7c9b83"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Olimpia Vs Sportivo Luqueño",
-      "eventInfo": {
-        "teamA": "Olimpia",
-        "teamB": "Sportivo Luqueño",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5997/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5998/image",
-        "eventName": "Copa Paraguay",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13614/image/dark",
-        "startTime": "02/10/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_e66a19aebdb0"
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Anguilla Vs Antigua and Barbuda",
       "eventInfo": {
         "teamA": "Anguilla",
@@ -243,7 +194,7 @@
       "id": "evt_a803d763bf99"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Columbus Blue Jackets Vs Buffalo Sabres",
       "eventInfo": {
@@ -266,7 +217,7 @@
       "id": "evt_9498ad8a9676"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New York Rangers Vs Tampa Bay Lightning",
       "eventInfo": {
@@ -289,7 +240,7 @@
       "id": "evt_960b9fefe57d"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New Jersey Devils Vs Philadelphia Flyers",
       "eventInfo": {
@@ -4213,6 +4164,28 @@
     },
     {
       "status": "ENDED",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "02/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ZRRRAAAAAx.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_bc2beb8eb4e5"
+    },
+    {
+      "status": "ENDED",
       "Category": "Baseball",
       "event_name": "Atlanta Braves Vs Philadelphia Phillies",
       "eventInfo": {
@@ -4614,6 +4587,33 @@
         }
       ],
       "id": "evt_007c75b472fd"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Paris Basketball Vs Kauno Žalgiris",
+      "eventInfo": {
+        "teamA": "Paris Basketball",
+        "teamB": "Kauno Žalgiris",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6662/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "02/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/b4a89358-777a-49b5-b9d5-321c0046db4b.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YFFFQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_88f77793136a"
     },
     {
       "status": "ENDED",
