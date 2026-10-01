@@ -2,31 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:29:57 PM 01-10-2026",
+  "last_update_time": "02:47:08 PM 01-10-2026",
   "total_matches": 182,
-  "live_match": 5,
+  "live_match": 6,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Panama Vs New Zealand",
-      "eventInfo": {
-        "teamA": "Panama",
-        "teamB": "New Zealand",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "01/10/2026 12:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM+ TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2d36b1c51fe9"
-    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -226,7 +205,7 @@
       "id": "evt_66cbf923ead5"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Carlton Blues Vs Hawthorn Hawks",
       "eventInfo": {
@@ -254,7 +233,7 @@
       "id": "evt_3f0f22a548d8"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Tasmania Jackjumpers Vs Melbourne United",
       "eventInfo": {
@@ -4722,6 +4701,27 @@
         }
       ],
       "id": "evt_d1d342c1230b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Panama Vs New Zealand",
+      "eventInfo": {
+        "teamA": "Panama",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "01/10/2026 12:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM+ TV",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_2d36b1c51fe9"
     }
   ]
 }
