@@ -2,10 +2,31 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:53:46 AM 03-10-2026",
+  "last_update_time": "03:05:43 AM 03-10-2026",
   "total_matches": 261,
-  "live_match": 30,
+  "live_match": 27,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Saint Kitts and Nevis Vs Cuba",
+      "eventInfo": {
+        "teamA": "Saint Kitts and Nevis",
+        "teamB": "Cuba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4824/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "03/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Fox Soccer Plus HD ",
+          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
+        }
+      ],
+      "id": "evt_5a8c275bb3f7"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -716,32 +737,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CD Eldense Vs Real Oviedo",
-      "eventInfo": {
-        "teamA": "CD Eldense",
-        "teamB": "Real Oviedo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "03/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV SPORTS ",
-          "stream_url": "http://162.251.160.53:8089/1031/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_67c126ca4f5e"
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Kosner Baskonia Vs EA7 Emporio Armani Milano",
       "eventInfo": {
@@ -766,33 +761,6 @@
         }
       ],
       "id": "evt_0c18d94a3db3"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sevilla Vs Aston Villa",
-      "eventInfo": {
-        "teamA": "Sevilla",
-        "teamB": "Aston Villa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-        "eventName": "Club Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "startTime": "03/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_11b817168926"
     },
     {
       "status": "LIVE",
@@ -836,87 +804,6 @@
       },
       "streams": [],
       "id": "evt_bc2beb8eb4e5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Bayern München Vs KK Partizan Mozzart Bet",
-      "eventInfo": {
-        "teamA": "Bayern München",
-        "teamB": "KK Partizan Mozzart Bet",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6637/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "03/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/18a99d7e-7772-4e00-a06e-1eb6839ad01b.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/VAAAQa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_25eb519e5b39"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "LDLC ASVEL Lyon-Villeurbanne Vs Valencia Basket",
-      "eventInfo": {
-        "teamA": "LDLC ASVEL Lyon-Villeurbanne",
-        "teamB": "Valencia Basket",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3536/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3545/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "03/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/806b5e7a-9708-4c1a-92e1-13d2e5fe7d7a.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/VAAAQaa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_e1aa554d2cac"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Fenerbahçe Tarfin Vs BC Dubai",
-      "eventInfo": {
-        "teamA": "Fenerbahçe Tarfin",
-        "teamB": "BC Dubai",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/526165/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "02/10/2026 11:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/d3e27d5c-873a-4dee-b4bd-47d11199178f.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/VAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_2c89713a4e0f"
     },
     {
       "status": "LIVE",
@@ -966,27 +853,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Saint Kitts and Nevis Vs Cuba",
-      "eventInfo": {
-        "teamA": "Saint Kitts and Nevis",
-        "teamB": "Cuba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21819/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4824/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "03/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Fox Soccer Plus HD ",
-          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
-        }
-      ],
-      "id": "evt_5a8c275bb3f7"
-    },
-    {
-      "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Dickinson Red Devils Vs Johns Hopkins Blue Jays",
       "eventInfo": {
@@ -1009,7 +875,7 @@
       "id": "evt_da4292425db9"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Suriname Vs Guatemala",
       "eventInfo": {
@@ -6595,6 +6461,140 @@
         }
       ],
       "id": "evt_3c671d56b0ab"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Fenerbahçe Tarfin Vs BC Dubai",
+      "eventInfo": {
+        "teamA": "Fenerbahçe Tarfin",
+        "teamB": "BC Dubai",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3514/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/526165/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "02/10/2026 11:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/d3e27d5c-873a-4dee-b4bd-47d11199178f.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/VAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_2c89713a4e0f"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Bayern München Vs KK Partizan Mozzart Bet",
+      "eventInfo": {
+        "teamA": "Bayern München",
+        "teamB": "KK Partizan Mozzart Bet",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6637/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "03/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/18a99d7e-7772-4e00-a06e-1eb6839ad01b.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/VAAAQa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_25eb519e5b39"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "LDLC ASVEL Lyon-Villeurbanne Vs Valencia Basket",
+      "eventInfo": {
+        "teamA": "LDLC ASVEL Lyon-Villeurbanne",
+        "teamB": "Valencia Basket",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3536/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3545/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "03/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/806b5e7a-9708-4c1a-92e1-13d2e5fe7d7a.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/VAAAQaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_e1aa554d2cac"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "CD Eldense Vs Real Oviedo",
+      "eventInfo": {
+        "teamA": "CD Eldense",
+        "teamB": "Real Oviedo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47321/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "03/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV SPORTS ",
+          "stream_url": "http://162.251.160.53:8089/1031/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaaA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_67c126ca4f5e"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sevilla Vs Aston Villa",
+      "eventInfo": {
+        "teamA": "Sevilla",
+        "teamB": "Aston Villa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+        "eventName": "Club Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/853/image/dark",
+        "startTime": "03/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/VAAAQaaaaa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_11b817168926"
     }
   ]
 }
