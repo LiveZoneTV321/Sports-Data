@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:30:06 PM 02-10-2026",
+  "last_update_time": "02:45:30 PM 02-10-2026",
   "total_matches": 151,
-  "live_match": 8,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -32,33 +32,6 @@
         }
       ],
       "id": "evt_990b59888fe5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "China Vs South Korea",
-      "eventInfo": {
-        "teamA": "China",
-        "teamB": "South Korea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7413/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21922/image",
-        "eventName": "Asian Games, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11330/image/dark",
-        "startTime": "02/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/FEEEa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/FEEEa.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_70440f8797db"
     },
     {
       "status": "LIVE",
@@ -305,7 +278,7 @@
       "id": "evt_ae9052c6caa6"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Aussie rules",
       "event_name": "Richmond Tigers Vs Geelong Cats",
       "eventInfo": {
@@ -333,7 +306,7 @@
       "id": "evt_1339124f8d7b"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Illawarra Hawks Vs Adelaide 36ers",
       "eventInfo": {
@@ -3678,6 +3651,33 @@
       },
       "streams": [],
       "id": "evt_ca409592a551"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "China Vs South Korea",
+      "eventInfo": {
+        "teamA": "China",
+        "teamB": "South Korea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21922/image",
+        "eventName": "Asian Games, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11330/image/dark",
+        "startTime": "02/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/FEEEa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/FEEEa.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_70440f8797db"
     }
   ]
 }
