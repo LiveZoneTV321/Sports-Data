@@ -2,10 +2,82 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:38:54 AM 03-10-2026",
+  "last_update_time": "04:52:36 AM 03-10-2026",
   "total_matches": 261,
   "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Detroit Red Wings Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "03/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_b4aad9918700"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "São Bernardo Vs CRB",
+      "eventInfo": {
+        "teamA": "São Bernardo",
+        "teamB": "CRB",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47504/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22032/image",
+        "eventName": "Brasileirão Série B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
+        "startTime": "03/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
+        }
+      ],
+      "id": "evt_ec48d59d42ae"
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "CA Independiente Vs Instituto De Córdoba",
+      "eventInfo": {
+        "teamA": "CA Independiente",
+        "teamB": "Instituto De Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3209/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4937/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "03/10/2026 04:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "TV SPORTS ",
+          "stream_url": "http://162.251.160.53:8089/2395/index.m3u8"
+        }
+      ],
+      "id": "evt_ca2fc21f9f85"
+    },
     {
       "status": "LIVE",
       "Category": "American football",
@@ -71,22 +143,6 @@
         }
       ],
       "id": "evt_5a8c275bb3f7"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Rionegro Águilas Doradas Vs Fortaleza FC",
-      "eventInfo": {
-        "teamA": "Rionegro Águilas Doradas",
-        "teamB": "Fortaleza FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/89368/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "03/10/2026 02:05:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2bb83c9fcc87"
     },
     {
       "status": "LIVE",
@@ -220,78 +276,6 @@
       },
       "streams": [],
       "id": "evt_66cbf923ead5"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "CA Independiente Vs Instituto De Córdoba",
-      "eventInfo": {
-        "teamA": "CA Independiente",
-        "teamB": "Instituto De Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3209/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4937/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "03/10/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "TV SPORTS ",
-          "stream_url": "http://162.251.160.53:8089/2395/index.m3u8"
-        }
-      ],
-      "id": "evt_ca2fc21f9f85"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Detroit Red Wings Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "03/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_b4aad9918700"
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "São Bernardo Vs CRB",
-      "eventInfo": {
-        "teamA": "São Bernardo",
-        "teamB": "CRB",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47504/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22032/image",
-        "eventName": "Brasileirão Série B",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
-        "startTime": "03/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7"
-        }
-      ],
-      "id": "evt_ec48d59d42ae"
     },
     {
       "status": "LIVE",
@@ -497,7 +481,7 @@
       "id": "evt_e322e6ea1554"
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "MotorGP Vs MotorGP",
       "eventInfo": {
@@ -6595,6 +6579,22 @@
         }
       ],
       "id": "evt_3996ad318a9b"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Rionegro Águilas Doradas Vs Fortaleza FC",
+      "eventInfo": {
+        "teamA": "Rionegro Águilas Doradas",
+        "teamB": "Fortaleza FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89368/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "03/10/2026 02:05:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2bb83c9fcc87"
     }
   ]
 }
