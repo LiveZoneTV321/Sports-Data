@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:28:59 PM 02-10-2026",
-  "total_matches": 162,
-  "live_match": 6,
+  "last_update_time": "08:46:39 PM 02-10-2026",
+  "total_matches": 163,
+  "live_match": 5,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Boxing",
+      "event_name": "PFL MENA 11 Vs PFL MENA 11",
+      "eventInfo": {
+        "teamA": "PFL MENA 11",
+        "teamB": "PFL MENA 11",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "eventName": "PFL MENA 11",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
+        "startTime": "02/10/2026 08:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57433/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_6139c8de425f"
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -24,6 +46,11 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "ESPN2 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
         },
         {
           "channel_name": "FOX SPORTS HD",
@@ -88,27 +115,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Perth Wildcats Vs South East Melbourne Phoenix",
-      "eventInfo": {
-        "teamA": "Perth Wildcats",
-        "teamB": "South East Melbourne Phoenix",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "02/10/2026 05:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_402a432a7f27"
-    },
-    {
-      "status": "LIVE",
       "Category": "Motorsports",
       "event_name": "WRC Rally Vs WRC Rally",
       "eventInfo": {
@@ -162,28 +168,6 @@
       "id": "evt_66cbf923ead5"
     },
     {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "PFL MENA 11 Vs PFL MENA 11",
-      "eventInfo": {
-        "teamA": "PFL MENA 11",
-        "teamB": "PFL MENA 11",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
-        "eventName": "PFL MENA 11",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNz1AjjyGras69k8XQnaRt7IvqqzmLl7dBOV8jcrjr2OfChUb_tFgJwrKa&s=10",
-        "startTime": "02/10/2026 08:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57433/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_6139c8de425f"
-    },
-    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Latvia Vs Montenegro",
@@ -225,7 +209,19 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "02/10/2026 10:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "ESPN2 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+          "drm_key": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
       "id": "evt_56c783aa064a"
     },
     {
@@ -257,12 +253,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "03/10/2026 12:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_67c126ca4f5e"
     },
     {
@@ -572,12 +563,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "startTime": "03/10/2026 04:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_1340e88e0f39"
     },
     {
@@ -593,12 +579,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "03/10/2026 04:15:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_ca2fc21f9f85"
     },
     {
@@ -752,12 +733,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
         "startTime": "03/10/2026 05:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_55d77504e399"
     },
     {
@@ -782,6 +758,22 @@
         }
       ],
       "id": "evt_02c4e11003f7"
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "São Paulo Vs Santos",
+      "eventInfo": {
+        "teamA": "São Paulo",
+        "teamB": "Santos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "03/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e322e6ea1554"
     },
     {
       "status": "UPCOMING",
@@ -978,12 +970,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
         "startTime": "03/10/2026 06:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_0637acf5f8e0"
     },
     {
@@ -1022,12 +1009,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
         "startTime": "03/10/2026 06:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_46f98d08871f"
     },
     {
@@ -1043,12 +1025,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "03/10/2026 06:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_a89e4f0c16a9"
     },
     {
@@ -1064,12 +1041,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "03/10/2026 06:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_097aa2c2202d"
     },
     {
@@ -1563,12 +1535,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "03/10/2026 06:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_fe0f129db21e"
     },
     {
@@ -3973,6 +3940,27 @@
         }
       ],
       "id": "evt_d3848f245cc0"
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Perth Wildcats Vs South East Melbourne Phoenix",
+      "eventInfo": {
+        "teamA": "Perth Wildcats",
+        "teamB": "South East Melbourne Phoenix",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "02/10/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_402a432a7f27"
     },
     {
       "status": "ENDED",
