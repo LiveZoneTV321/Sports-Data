@@ -568,6 +568,56 @@ def sort_matches_by_status(matches):
 
 
 # ============================================================
+# APPLY HOT EVENTS (API থেকে Instant Control)
+# ============================================================
+
+def apply_hot_events(matches, manual_control):
+    """
+    manual_control.json এর hot_events list থেকে Hot ID পড়ে
+    সেই Event গুলোতে isHot: true সেট করে।
+    """
+    hot_ids = manual_control.get("hot_events", [])
+
+    if not isinstance(hot_ids, list):
+        return 0
+
+    hot_ids = {
+        str(event_id).strip()
+        for event_id in hot_ids
+        if str(event_id).strip()
+    }
+
+    if not hot_ids:
+        # ⭐ hot_events খালি → সব Event এ isHot: false
+        for match in matches:
+            if isinstance(match, dict):
+                match["isHot"] = False
+        return 0
+
+    hot_count = 0
+
+    for match in matches:
+        if not isinstance(match, dict):
+            continue
+
+        event_id = str(match.get("id", "")).strip()
+
+        if event_id in hot_ids:
+            match["isHot"] = True
+            hot_count += 1
+
+            print(
+                f"[HOT] {event_id} | "
+                f"{get_event_name(match)} | "
+                f"Marked as HOT"
+            )
+        else:
+            match["isHot"] = False
+
+    return hot_count
+
+
+# ============================================================
 # REMOVE EVENTS
 # ============================================================
 
@@ -1164,6 +1214,20 @@ def main():
         # ----------------------------------------------------
 
         sort_matches_by_status(matches)
+
+        # ----------------------------------------------------
+        # ⭐ APPLY HOT EVENTS — API থেকে Instant Control
+        # ----------------------------------------------------
+
+        hot_count = apply_hot_events(
+            matches,
+            manual_control
+        )
+
+        print(
+            "Hot events:",
+            hot_count
+        )
 
         # ----------------------------------------------------
         # DRM CONVERSION
