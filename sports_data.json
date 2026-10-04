@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:38 PM 04-10-2026",
+  "last_update_time": "02:15:24 PM 04-10-2026",
   "total_matches": 136,
-  "live_match": 12,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -234,32 +234,6 @@
         }
       ],
       "id": "evt_433fc1296211",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Sydney Roosters Vs Brisbane Broncos",
-      "eventInfo": {
-        "teamA": "Sydney Roosters",
-        "teamB": "Brisbane Broncos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/411821/image",
-        "eventName": "NRL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19120/image/dark",
-        "startTime": "04/10/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER PLUS HD ",
-          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORT MIX HD ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
-        }
-      ],
-      "id": "evt_76752288b86b",
       "isHot": false
     },
     {
@@ -3907,6 +3881,32 @@
         }
       ],
       "id": "evt_80e0eac12c96",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Sydney Roosters Vs Brisbane Broncos",
+      "eventInfo": {
+        "teamA": "Sydney Roosters",
+        "teamB": "Brisbane Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/411822/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/411821/image",
+        "eventName": "NRL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19120/image/dark",
+        "startTime": "04/10/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX SOCCER PLUS HD ",
+          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORT MIX HD ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsmix.m3u8"
+        }
+      ],
+      "id": "evt_76752288b86b",
       "isHot": false
     }
   ]
