@@ -2,10 +2,141 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:30:30 PM 04-10-2026",
-  "total_matches": 98,
-  "live_match": 29,
+  "last_update_time": "11:45:25 PM 04-10-2026",
+  "total_matches": 102,
+  "live_match": 31,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Valencia Vs Real Sociedad",
+      "eventInfo": {
+        "teamA": "Valencia",
+        "teamB": "Real Sociedad",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "04/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_1fe0164a98f5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "NJ/NY Gotham FC Vs Angel City FC",
+      "eventInfo": {
+        "teamA": "NJ/NY Gotham FC",
+        "teamB": "Angel City FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34718/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/408169/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "04/10/2026 11:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_29f5dc36b5dc",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Fútbol Club Barcelona Vs Real Madrid",
+      "eventInfo": {
+        "teamA": "Fútbol Club Barcelona",
+        "teamB": "Real Madrid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "04/10/2026 11:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "FANCODE FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
+        },
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        }
+      ],
+      "id": "evt_74f5033f2ba4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Detroit Red Wings Vs Winnipeg Jets",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "04/10/2026 11:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "NHL STREAM HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57592/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f34c4ab2-f55e-4542-a95b-7fe351eb7be0/master.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_364db51ae89f",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "American football",
@@ -22,8 +153,8 @@
       "streams": [
         {
           "channel_name": "NFL GAMEPASS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ybtrwcnwie/out/v1/72e3f309ec3749c7805ec7979f340e28/cenc.mpd",
-          "drm_key": "5fd52482d7806aa6ffb79396682e99ae:7752be99b5ff98c585e981a1d44a2f1f"
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tlg8sbcups/out/v1/600a5b389973496ba283ab05e49ccb17/cenc.mpd",
+          "drm_key": "055bf741de27b01f47126e85dc254645:73b5665d0ce9960b887b2ba6fec5a6ed"
         },
         {
           "channel_name": "NFL SERVER + HD1",
@@ -70,6 +201,11 @@
       },
       "streams": [
         {
+          "channel_name": "NFL GAMEPASS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/khtll6izxk/out/v1/d709cbc5a40a4430a31f8fd1c8ac62c2/cenc.mpd",
+          "drm_key": "c4c1544afb7b4108a4bc7efca73576bd:76f35402a9514005c92bc1912244d584"
+        },
+        {
           "channel_name": "NFL SERVER + HD1",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57587/load-playlist?&.m3u8",
           "referer": "https://gooz.aapmains.net"
@@ -114,9 +250,14 @@
       },
       "streams": [
         {
+          "channel_name": "NFL GAMEPASS + FHD2",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/nqw3xsshoh/out/v1/f55d026ddb524be080100bcff648d544/cenc.mpd",
+          "drm_key": "c1984801106412f99dde3f22805e5659:d086b6e333551e44d4ef4c4ef9dcb556"
+        },
+        {
           "channel_name": "NFL GAMEPASS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mv7xm8bip8/out/v1/f81a1499cc2c4a05a8eecf945507b952/cenc.mpd",
-          "drm_key": "f4f9f67c620b0b9f34f5ba93b47fea39:0b6a3b669eb1ca30a8d45fe5e840fe1f"
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tyyanbfiff/out/v1/27ddc506d5064b789074ab3f3055a8ef/cenc.mpd",
+          "drm_key": "d068a21ce7eb78183f92144c8e8e058b:7dc82386c5803b39a1b58d92f9f85125"
         },
         {
           "channel_name": "NFL SERVER + HD1",
@@ -162,6 +303,11 @@
         "startTime": "04/10/2026 11:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "NFL GAMEPASS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/6k2khyxova/out/v1/dd1842ba37324b588c3be19b5fa2ca00/cenc.mpd",
+          "drm_key": "a2ab34dc2679ac0fd9147f8c1e4b119c:e34f66c286d64f29b7d07a3816adf900"
+        },
         {
           "channel_name": "NFL SERVER + HD1",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57589/load-playlist?&.m3u8",
@@ -214,8 +360,8 @@
         },
         {
           "channel_name": "NFL GAMEPASS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/sudklnpbre/out/v1/582f6305a6b44dfcbb910b6bd66f4bd1/cenc.mpd",
-          "drm_key": "5fd52482d7806aa6ffb79396682e99ae:6641ad88a4ee87a474d87090c3391d0e"
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ezwzsyhei1/out/v1/86b356321ccb49eeb4f6f73a63f71b5a/cenc.mpd",
+          "drm_key": "5fd52482d7806aa6ffb79396682e99ae:541d57101a32b9b351931917287c3efc"
         },
         {
           "channel_name": "TSN3 SPORTS FHD",
@@ -267,6 +413,11 @@
         "startTime": "04/10/2026 11:00:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "NFL GAMEPASS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tyyanbfiff/out/v1/27ddc506d5064b789074ab3f3055a8ef/cenc.mpd",
+          "drm_key": "d068a21ce7eb78183f92144c8e8e058b:7dc82386c5803b39a1b58d92f9f85125"
+        },
         {
           "channel_name": "NFL SERVER + HD1",
           "stream_url": "https://chatgpt.hereisman.net/playlist/57579/load-playlist?&.m3u8",
@@ -352,8 +503,8 @@
       "streams": [
         {
           "channel_name": "NFL GAMEPASS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ybtrwcnwie/out/v1/72e3f309ec3749c7805ec7979f340e28/cenc.mpd",
-          "drm_key": "5fd52482d7806aa6ffb79396682e99ae:7752be99b5ff98c585e981a1d44a2f1f"
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mlpfbze5yg/out/v1/a6316bd17b434c4294888da217ac4774/cenc.mpd",
+          "drm_key": "af3569cd42f7557fff58f3619a92d20e:0071bda066653555a862b68b080b2f37"
         },
         {
           "channel_name": "NFL SERVER 1",
@@ -646,6 +797,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Boston River Vs Juventud de Las Piedras",
+      "eventInfo": {
+        "teamA": "Boston River",
+        "teamB": "Juventud de Las Piedras",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3224/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "04/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/BFFF.m3u8",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_c0e5ee5c75a9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
@@ -870,137 +1044,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "NJ/NY Gotham FC Vs Angel City FC",
-      "eventInfo": {
-        "teamA": "NJ/NY Gotham FC",
-        "teamB": "Angel City FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34718/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/408169/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "04/10/2026 11:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_29f5dc36b5dc",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fútbol Club Barcelona Vs Real Madrid",
-      "eventInfo": {
-        "teamA": "Fútbol Club Barcelona",
-        "teamB": "Real Madrid",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "04/10/2026 11:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "FANCODE FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
-        },
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        }
-      ],
-      "id": "evt_74f5033f2ba4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Detroit Red Wings Vs Winnipeg Jets",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "04/10/2026 11:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "NHL STREAM HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/57592/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/f34c4ab2-f55e-4542-a95b-7fe351eb7be0/master.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_364db51ae89f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Valencia Vs Real Sociedad",
-      "eventInfo": {
-        "teamA": "Valencia",
-        "teamB": "Real Sociedad",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/77909/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/77897/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "04/10/2026 11:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_1fe0164a98f5",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Huracán Vs Aldosivi",
       "eventInfo": {
         "teamA": "Huracán",
@@ -1012,6 +1055,10 @@
         "startTime": "04/10/2026 11:45:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/7891/index.m3u8"
+        },
         {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/BFFFAAAAAAQQQQ.m3u8?",
@@ -1096,6 +1143,23 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "O'Higgins Vs Deportes Concepción",
+      "eventInfo": {
+        "teamA": "O'Higgins",
+        "teamB": "Deportes Concepción",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3160/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "05/10/2026 12:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_42a488068b05",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Greece Vs Germany",
@@ -1143,6 +1207,10 @@
       },
       "streams": [
         {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/537/index.m3u8"
+        },
+        {
           "channel_name": "BBC TWO FHD",
           "stream_url": "https://tmaxapp.site/8wirwjs76erftg/btwo.m3u8"
         },
@@ -1167,7 +1235,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10783/image/dark",
         "startTime": "05/10/2026 12:45:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/278/index.m3u8"
+        }
+      ],
       "id": "evt_94681277edf7",
       "isHot": false
     },
@@ -1339,6 +1412,23 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "CA Cerro Vs Montevideo Wanderers",
+      "eventInfo": {
+        "teamA": "CA Cerro",
+        "teamB": "Montevideo Wanderers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3240/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "05/10/2026 01:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_429dd769518a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "CA Talleres Vs Club Atlético Belgrano",
       "eventInfo": {
         "teamA": "CA Talleres",
@@ -1354,6 +1444,10 @@
           "channel_name": "SportDigital Fussball",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/7891/index.m3u8"
         }
       ],
       "id": "evt_e69271c7bfd4",
@@ -1726,6 +1820,10 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/22367/index.m3u8"
         }
       ],
       "id": "evt_e3c5e1198dfa",
@@ -1790,8 +1888,30 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "05/10/2026 04:15:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/189/index.m3u8"
+        }
+      ],
       "id": "evt_201e45d6559d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Racing de Montevideo Vs Club Atlético Peñarol",
+      "eventInfo": {
+        "teamA": "Racing de Montevideo",
+        "teamB": "Club Atlético Peñarol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25010/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3227/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "05/10/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ad4b63cfb6b2",
       "isHot": false
     },
     {
@@ -1939,6 +2059,10 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/22367/index.m3u8"
         }
       ],
       "id": "evt_6ef02202bf0b",
@@ -2074,7 +2198,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "05/10/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/189/index.m3u8"
+        }
+      ],
       "id": "evt_a7f62f061cac",
       "isHot": false
     },
@@ -2154,6 +2283,10 @@
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/22367/index.m3u8"
         }
       ],
       "id": "evt_02d837f7d51f",
