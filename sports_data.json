@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:30:36 PM 05-10-2026",
-  "total_matches": 68,
-  "live_match": 6,
+  "last_update_time": "08:45:27 PM 05-10-2026",
+  "total_matches": 70,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -67,6 +67,34 @@
         }
       ],
       "id": "evt_eed05e3ad7b5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Uganda Vs DR Congo",
+      "eventInfo": {
+        "teamA": "Uganda",
+        "teamB": "DR Congo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4726/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/vvvv.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/vvvv.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_ed022f8128ea",
       "isHot": false
     },
     {
@@ -143,6 +171,28 @@
         }
       ],
       "id": "evt_dfa9a60bf232",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Zimbabwe Women Vs West Indies Women",
+      "eventInfo": {
+        "teamA": "Zimbabwe Women",
+        "teamB": "West Indies Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "eventName": "T20 International Women",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11221/image/dark",
+        "startTime": "05/10/2026 04:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://c8.vfruitfairy.com/WIvsZIM/index.m3u8"
+        }
+      ],
+      "id": "evt_1fef10dd26a3",
       "isHot": false
     },
     {
@@ -275,7 +325,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "WCL 2026 Vs WCL 2026",
       "eventInfo": {
