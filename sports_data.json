@@ -2,10 +2,38 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:30:33 PM 05-10-2026",
-  "total_matches": 80,
-  "live_match": 4,
+  "last_update_time": "12:45:22 PM 05-10-2026",
+  "total_matches": 84,
+  "live_match": 3,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Ecuador Vs Panama",
+      "eventInfo": {
+        "teamA": "Ecuador",
+        "teamB": "Panama",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "05/10/2026 12:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/7556c0d6-e720-4c18-afc5-602f7be9a84a.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkk.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_1e2e262b359e",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -114,51 +142,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "American football Vs American football",
-      "eventInfo": {
-        "teamA": "American football",
-        "teamB": "American football",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "eventName": "American football",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "startTime": "30/09/2026 10:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
-          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        }
-      ],
-      "id": "evt_66cbf923ead5",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Ecuador Vs Panama",
-      "eventInfo": {
-        "teamA": "Ecuador",
-        "teamB": "Panama",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "05/10/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_1e2e262b359e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "World Championships Vs Judo - Baku",
       "eventInfo": {
@@ -178,6 +161,62 @@
         }
       ],
       "id": "evt_cb31a2651608",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Malaysia Vs Vietnam",
+      "eventInfo": {
+        "teamA": "Malaysia",
+        "teamB": "Vietnam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_567b94da3162",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Malaysia Vs Vietnam",
+      "eventInfo": {
+        "teamA": "Malaysia",
+        "teamB": "Vietnam",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ekkkkA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_567b94da3162_2",
       "isHot": false
     },
     {
@@ -310,6 +349,54 @@
         }
       ],
       "id": "evt_3c671d56b0ab",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Indonesia Vs Thailand",
+      "eventInfo": {
+        "teamA": "Indonesia",
+        "teamB": "Thailand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_eed05e3ad7b5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Indonesia Vs Thailand",
+      "eventInfo": {
+        "teamA": "Indonesia",
+        "teamB": "Thailand",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+        "eventName": "ASEAN Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37824/image/dark",
+        "startTime": "05/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_eed05e3ad7b5_2",
       "isHot": false
     },
     {
@@ -1667,6 +1754,29 @@
         }
       ],
       "id": "evt_3b076cc03098",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "American football Vs American football",
+      "eventInfo": {
+        "teamA": "American football",
+        "teamB": "American football",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "eventName": "American football",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "startTime": "30/09/2026 10:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
+          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
+        }
+      ],
+      "id": "evt_66cbf923ead5",
       "isHot": false
     },
     {
