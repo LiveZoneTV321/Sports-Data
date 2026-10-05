@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:39 AM 05-10-2026",
+  "last_update_time": "07:15:27 AM 05-10-2026",
   "total_matches": 130,
   "live_match": 22,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Vancouver Canucks Vs Vegas Golden Knights",
+      "eventInfo": {
+        "teamA": "Vancouver Canucks",
+        "teamB": "Vegas Golden Knights",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "05/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_efc83118e134",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -318,23 +342,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Racing de Montevideo Vs Club Atlético Peñarol",
-      "eventInfo": {
-        "teamA": "Racing de Montevideo",
-        "teamB": "Club Atlético Peñarol",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25010/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3227/image",
-        "eventName": "Liga AUF Uruguaya",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
-        "startTime": "05/10/2026 04:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ad4b63cfb6b2",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New York Rangers Vs Utah Mammoth",
       "eventInfo": {
@@ -533,30 +540,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Vancouver Canucks Vs Vegas Golden Knights",
-      "eventInfo": {
-        "teamA": "Vancouver Canucks",
-        "teamB": "Vegas Golden Knights",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "05/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_efc83118e134",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Llaneros FC Vs América de Cali",
       "eventInfo": {
@@ -573,7 +556,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Nicaragua Vs Dominican Republic",
       "eventInfo": {
@@ -4214,6 +4197,23 @@
         }
       ],
       "id": "evt_201e45d6559d",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Racing de Montevideo Vs Club Atlético Peñarol",
+      "eventInfo": {
+        "teamA": "Racing de Montevideo",
+        "teamB": "Club Atlético Peñarol",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25010/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3227/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "05/10/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ad4b63cfb6b2",
       "isHot": false
     }
   ]
