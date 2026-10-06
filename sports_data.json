@@ -2,10 +2,38 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:00:40 PM 06-10-2026",
+  "last_update_time": "10:15:33 PM 06-10-2026",
   "total_matches": 120,
-  "live_match": 8,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Russia Vs Nigeria",
+      "eventInfo": {
+        "teamA": "Russia",
+        "teamB": "Nigeria",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "06/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "http://193.47.62.44/hls/kokoko.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kokoko.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_c92d1839e63f",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -427,15 +455,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Russia Vs Nigeria",
+      "event_name": "Jordan Vs Venezuela",
       "eventInfo": {
-        "teamA": "Russia",
-        "teamB": "Nigeria",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
+        "teamA": "Jordan",
+        "teamB": "Venezuela",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
         "eventName": "International Friendly Games",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 10:00:00 PM"
+        "startTime": "06/10/2026 11:00:00 PM"
       },
       "streams": [
         {
@@ -443,7 +471,29 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_c92d1839e63f",
+      "id": "evt_dc76aed1abc4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Algeria Vs Niger",
+      "eventInfo": {
+        "teamA": "Algeria",
+        "teamB": "Niger",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4691/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
+        "eventName": "International Friendly Games",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
+        "startTime": "06/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_fe5d61308402",
       "isHot": false
     },
     {
@@ -468,50 +518,6 @@
         }
       ],
       "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Jordan Vs Venezuela",
-      "eventInfo": {
-        "teamA": "Jordan",
-        "teamB": "Venezuela",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_dc76aed1abc4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Algeria Vs Niger",
-      "eventInfo": {
-        "teamA": "Algeria",
-        "teamB": "Niger",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4691/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
-        "eventName": "International Friendly Games",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/851/image/dark",
-        "startTime": "06/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_fe5d61308402",
       "isHot": false
     },
     {
@@ -1493,7 +1499,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "07/10/2026 06:30:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/2211/index.m3u8"
+        }
+      ],
       "id": "evt_1352bea563b7",
       "isHot": false
     },
