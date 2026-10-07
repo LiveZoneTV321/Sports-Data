@@ -2,10 +2,93 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:42 AM 07-10-2026",
+  "last_update_time": "08:15:26 AM 07-10-2026",
   "total_matches": 126,
-  "live_match": 25,
+  "live_match": 23,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "French Guiana Vs Belize",
+      "eventInfo": {
+        "teamA": "French Guiana",
+        "teamB": "Belize",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
+        "eventName": "CONCACAF Nations League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
+        "startTime": "07/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_2ee4f6fc5201",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Golden State Warriors Vs Los Angeles Lakers",
+      "eventInfo": {
+        "teamA": "Golden State Warriors",
+        "teamB": "Los Angeles Lakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "07/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream6.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream4.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_d1bdfeaab93a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Los Angeles Kings Vs Florida Panthers",
+      "eventInfo": {
+        "teamA": "Los Angeles Kings",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "07/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/earzfddshg58.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_992f68dfcde0",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Hockey",
@@ -366,23 +449,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colo-Colo Vs Deportes Puerto Montt",
-      "eventInfo": {
-        "teamA": "Colo-Colo",
-        "teamB": "Deportes Puerto Montt",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3155/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3158/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "07/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_7d73cbf522d9",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "New York Rangers Vs New York Islanders",
       "eventInfo": {
@@ -444,6 +510,11 @@
           "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
         },
         {
+          "channel_name": "VIX Español FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/p1yl4vuxaw/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd?aws_sessionId=e3fe7c4c-42e4-4c6b-af69-e69f79d585c8",
+          "drm_key": "4e0a38ab0b5afcc1f38472bc3eeadb49:a2abd9135fb2c93e7aa8e817ce9d3e9c"
+        },
+        {
           "channel_name": "SPORT TV FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -456,36 +527,6 @@
         }
       ],
       "id": "evt_f5d1e795a790",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Charlotte Hornets Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Charlotte Hornets",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "07/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0f0f7e0b41c0",
       "isHot": false
     },
     {
@@ -695,89 +736,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "French Guiana Vs Belize",
-      "eventInfo": {
-        "teamA": "French Guiana",
-        "teamB": "Belize",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/52906/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21809/image",
-        "eventName": "CONCACAF Nations League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/14100/image/dark",
-        "startTime": "07/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_2ee4f6fc5201",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Golden State Warriors Vs Los Angeles Lakers",
-      "eventInfo": {
-        "teamA": "Golden State Warriors",
-        "teamB": "Los Angeles Lakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "07/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream6.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d1bdfeaab93a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Los Angeles Kings Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Los Angeles Kings",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "07/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/earzfddshg58.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_992f68dfcde0",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Mexico Vs Chile",
       "eventInfo": {
         "teamA": "Mexico",
@@ -795,6 +753,11 @@
           "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         },
         {
+          "channel_name": "HD QUALITY TV ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/57696/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "TUDN MEXICO FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -804,6 +767,11 @@
           "channel_name": "NBC UNIVERSO [USA-VPN]",
           "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
           "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/fe0b5b41-bbd4-4ed9-99c0-303f3b4b8c0f.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_fa6eeb3d6990",
@@ -4061,6 +4029,53 @@
         }
       ],
       "id": "evt_4e63d5c28139",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Charlotte Hornets Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Charlotte Hornets",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "07/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_0f0f7e0b41c0",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Colo-Colo Vs Deportes Puerto Montt",
+      "eventInfo": {
+        "teamA": "Colo-Colo",
+        "teamB": "Deportes Puerto Montt",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3155/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3158/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "07/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_7d73cbf522d9",
       "isHot": false
     }
   ]
