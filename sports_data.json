@@ -2,46 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:41 PM 07-10-2026",
+  "last_update_time": "12:15:30 PM 07-10-2026",
   "total_matches": 99,
-  "live_match": 1,
+  "live_match": 0,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Boxing",
-      "event_name": "Salhahuddin Everett  Vs Ozzy Martin",
-      "eventInfo": {
-        "teamA": "Salhahuddin Everett ",
-        "teamB": "Ozzy Martin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1275458/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1275459/image",
-        "eventName": "Dana White's Contender Series Week 9",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
-        "startTime": "07/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY 5",
-          "stream_url": "https://edgestream5.pro/hls/zeuryuegn48.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0f8d5a9b6a77",
-      "isHot": false
-    },
     {
       "status": "UPCOMING",
       "Category": "American football",
@@ -2490,6 +2454,42 @@
         }
       ],
       "id": "evt_f5d1e795a790",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Boxing",
+      "event_name": "Salhahuddin Everett  Vs Ozzy Martin",
+      "eventInfo": {
+        "teamA": "Salhahuddin Everett ",
+        "teamB": "Ozzy Martin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1275458/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1275459/image",
+        "eventName": "Dana White's Contender Series Week 9",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19906/image/dark",
+        "startTime": "07/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://edgestream2.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 5",
+          "stream_url": "https://edgestream5.pro/hls/zeuryuegn48.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_0f8d5a9b6a77",
       "isHot": false
     },
     {
