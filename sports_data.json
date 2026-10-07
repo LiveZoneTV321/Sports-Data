@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:35 AM 08-10-2026",
+  "last_update_time": "01:45:28 AM 08-10-2026",
   "total_matches": 105,
-  "live_match": 5,
+  "live_match": 4,
   "matches": [
     {
       "status": "LIVE",
@@ -44,33 +44,6 @@
       },
       "streams": [],
       "id": "evt_5489a86f0add",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Eskişehirspor Vs 1922 Akşehir",
-      "eventInfo": {
-        "teamA": "Eskişehirspor",
-        "teamB": "1922 Akşehir",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6364/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/825633/image",
-        "eventName": "Türkiye Kupası",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/96/image/dark",
-        "startTime": "07/10/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/100098/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/UUUU.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_b28029a24ba4",
       "isHot": false
     },
     {
@@ -3020,6 +2993,33 @@
       },
       "streams": [],
       "id": "evt_ea1289d95bdb_2",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Eskişehirspor Vs 1922 Akşehir",
+      "eventInfo": {
+        "teamA": "Eskişehirspor",
+        "teamB": "1922 Akşehir",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6364/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/825633/image",
+        "eventName": "Türkiye Kupası",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/96/image/dark",
+        "startTime": "07/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/100098/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/UUUU.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_b28029a24ba4",
       "isHot": false
     }
   ]
