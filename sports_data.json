@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:41 AM 08-10-2026",
+  "last_update_time": "12:15:25 AM 08-10-2026",
   "total_matches": 105,
-  "live_match": 8,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -184,6 +184,29 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Paris Basketball Vs LDLC ASVEL Lyon-Villeurbanne",
+      "eventInfo": {
+        "teamA": "Paris Basketball",
+        "teamB": "LDLC ASVEL Lyon-Villeurbanne",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3536/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "08/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        }
+      ],
+      "id": "evt_57cf8b87f1cb",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Los Angeles Rams Vs Buffalo Bills",
@@ -205,29 +228,6 @@
         }
       ],
       "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Paris Basketball Vs LDLC ASVEL Lyon-Villeurbanne",
-      "eventInfo": {
-        "teamA": "Paris Basketball",
-        "teamB": "LDLC ASVEL Lyon-Villeurbanne",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3536/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "08/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-        }
-      ],
-      "id": "evt_57cf8b87f1cb",
       "isHot": false
     },
     {
