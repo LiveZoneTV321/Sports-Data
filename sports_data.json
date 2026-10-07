@@ -2,10 +2,40 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:39 AM 07-10-2026",
+  "last_update_time": "07:15:25 AM 07-10-2026",
   "total_matches": 126,
-  "live_match": 23,
+  "live_match": 25,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Utah Jazz Vs Denver Nuggets",
+      "eventInfo": {
+        "teamA": "Utah Jazz",
+        "teamB": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "07/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream4.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_fe8d6d1d4bc0",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -611,82 +641,6 @@
     {
       "status": "LIVE",
       "Category": "Baseball",
-      "event_name": "Atlanta Braves Vs Los Angeles Dodgers",
-      "eventInfo": {
-        "teamA": "Atlanta Braves",
-        "teamB": "Los Angeles Dodgers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "07/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream3.pro/hls/dazhfiach15.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_09eab19a3d38",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Utah Jazz Vs Denver Nuggets",
-      "eventInfo": {
-        "teamA": "Utah Jazz",
-        "teamB": "Denver Nuggets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "07/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_fe8d6d1d4bc0",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
       "event_name": "San Diego Padres Vs Milwaukee Brewers",
       "eventInfo": {
         "teamA": "San Diego Padres",
@@ -761,31 +715,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Buffalo Bills",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Buffalo Bills",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "13/10/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "French Guiana Vs Belize",
       "eventInfo": {
@@ -808,7 +738,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Golden State Warriors Vs Los Angeles Lakers",
       "eventInfo": {
@@ -838,7 +768,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Los Angeles Kings Vs Florida Panthers",
       "eventInfo": {
@@ -865,6 +795,30 @@
         }
       ],
       "id": "evt_992f68dfcde0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Buffalo Bills",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Buffalo Bills",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "13/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_735b27b789f0",
       "isHot": false
     },
     {
@@ -4044,6 +3998,52 @@
         }
       ],
       "id": "evt_242c7d8967e3",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Atlanta Braves Vs Los Angeles Dodgers",
+      "eventInfo": {
+        "teamA": "Atlanta Braves",
+        "teamB": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "07/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream3.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_09eab19a3d38",
       "isHot": false
     },
     {
