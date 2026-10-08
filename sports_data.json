@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:30 PM 08-10-2026",
+  "last_update_time": "06:45:22 PM 08-10-2026",
   "total_matches": 89,
-  "live_match": 2,
+  "live_match": 3,
   "matches": [
     {
       "status": "LIVE",
@@ -136,6 +136,29 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pamba Vs Geita Gold",
+      "eventInfo": {
+        "teamA": "Pamba",
+        "teamB": "Geita Gold",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/318547/image",
+        "teamBFlag": "m",
+        "eventName": "Tanzanian Premier League",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "08/10/2026 07:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.59/hls/NVVVQ.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_5d38bf1380b1",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "American football",
       "event_name": "Los Angeles Rams Vs Buffalo Bills",
@@ -157,29 +180,6 @@
         }
       ],
       "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Pamba Vs Geita Gold",
-      "eventInfo": {
-        "teamA": "Pamba",
-        "teamB": "Geita Gold",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/318547/image",
-        "teamBFlag": "m",
-        "eventName": "Tanzanian Premier League",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "08/10/2026 07:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.59/hls/NVVVQ.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_5d38bf1380b1",
       "isHot": false
     },
     {
