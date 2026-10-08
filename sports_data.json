@@ -2,10 +2,39 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:34 AM 08-10-2026",
+  "last_update_time": "06:45:24 AM 08-10-2026",
   "total_matches": 106,
-  "live_match": 22,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cruzeiro Vs São Paulo",
+      "eventInfo": {
+        "teamA": "Cruzeiro",
+        "teamB": "São Paulo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "08/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SporTV BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "channel_name": "PREMIERE BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ],
+      "id": "evt_4f5a62585a19",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -585,93 +614,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Coquimbo Unido Vs CD Cobreloa",
-      "eventInfo": {
-        "teamA": "Coquimbo Unido",
-        "teamB": "CD Cobreloa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3165/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3159/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "08/10/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_b776d27883a8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Deportes Antofagasta Vs Universidad de Chile",
-      "eventInfo": {
-        "teamA": "Club Deportes Antofagasta",
-        "teamB": "Universidad de Chile",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5601/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "08/10/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2c72f9d46950",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Cruzeiro Vs São Paulo",
-      "eventInfo": {
-        "teamA": "Cruzeiro",
-        "teamB": "São Paulo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "08/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SporTV BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        },
-        {
-          "channel_name": "PREMIERE BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ],
-      "id": "evt_4f5a62585a19",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Buffalo Bills",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Buffalo Bills",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "13/10/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Golden State Valkyries Vs Las Vegas Aces",
       "eventInfo": {
@@ -710,6 +652,30 @@
         }
       ],
       "id": "evt_513f6c92b77a",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Buffalo Bills",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Buffalo Bills",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "13/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_735b27b789f0",
       "isHot": false
     },
     {
@@ -3056,6 +3022,40 @@
         }
       ],
       "id": "evt_2bddf5226e13",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Coquimbo Unido Vs CD Cobreloa",
+      "eventInfo": {
+        "teamA": "Coquimbo Unido",
+        "teamB": "CD Cobreloa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3165/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3159/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "08/10/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b776d27883a8",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Club Deportes Antofagasta Vs Universidad de Chile",
+      "eventInfo": {
+        "teamA": "Club Deportes Antofagasta",
+        "teamB": "Universidad de Chile",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5601/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "08/10/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2c72f9d46950",
       "isHot": false
     }
   ]
