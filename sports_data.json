@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:30:32 PM 09-10-2026",
+  "last_update_time": "09:36:36 PM 09-10-2026",
   "total_matches": 261,
-  "live_match": 20,
+  "live_match": 25,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Finland Vs Serbia",
+      "eventInfo": {
+        "teamA": "Finland",
+        "teamB": "Serbia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21802/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/38100/image",
+        "eventName": "World Championship Women Qual.",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/780/image/dark",
+        "startTime": "09/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_71c4de29f439",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -19,7 +43,13 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
         "startTime": "09/10/2026 09:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "ARENA SPORTS ",
+          "stream_url": "https://netanjahu.hls.st/t/a2f5590a3b66ebcbcf1143da196a19df/index.m3u8",
+          "referer": "https://iplayer.is/"
+        }
+      ],
       "id": "evt_c88e5c998b71",
       "isHot": false
     },
@@ -50,6 +80,21 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/1200/index.m3u8"
+        },
+        {
+          "channel_name": "DAZN",
+          "stream_url": "https://netanjahu.hls.st/t/ac2c1e0edfe104a579be1829cbe82ac3/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "SPORTV 🇵🇹",
+          "stream_url": "https://netanjahu.hls.st/t/a8994d102c6ae727180b65e4460b0b02/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "SD SERVER ",
+          "stream_url": "http://193.47.62.41/hls/seeeaaaaaqqqqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
         }
       ],
       "id": "evt_b22730333d08",
@@ -83,6 +128,26 @@
         {
           "channel_name": "TV QUALITY ",
           "stream_url": "http://162.251.160.53:8089/1036/index.m3u8"
+        },
+        {
+          "channel_name": "FAST SERVER ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4599609.m3u8?txSecret=92ce0fdac193ff02b06303e2b69265e5&txTime=6AC906C9",
+          "referer": "https://player.online909.com/"
+        },
+        {
+          "channel_name": "SD SERVER ",
+          "stream_url": "http://193.47.62.44/hls/seeeaaaaaqqqqqq.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        },
+        {
+          "channel_name": "DAZN",
+          "stream_url": "https://netanjahu.hls.st/t/3b36849dcd8c25c3754bc49c0a713d2a/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://a85.azplay49.me/hls/streama268670/index.m3u8?cst=e151d51d6f62c4d46636194112c0af0a",
+          "referer": "https://iplayer.is/"
         }
       ],
       "id": "evt_c1f504f67fb1",
@@ -117,10 +182,62 @@
           "channel_name": "WILLOW - ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aiu8gnpwij/out/v1/ecb8a3e4e29d4f58970e6494626a02bd/cenc.mpd",
           "drm_key": "0ddad5a3a8550c203f90b86e0005700b:4dc553c52439eb86922df317a470bccb"
+        },
+        {
+          "channel_name": "STAR SPORTS HIN (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        },
+        {
+          "channel_name": "STAR SPORTS ENG (IND)",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
+          "referer": "https://www.hotstar.com/"
+        },
+        {
+          "channel_name": "HINDI 🇮🇳",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
+          "referer": "https://www.hotstar.com/",
+          "drm_key": "b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774"
+        },
+        {
+          "channel_name": "ENGLISH 🇮🇳",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
+          "referer": "https://www.hotstar.com/",
+          "drm_key": "e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a"
+        },
+        {
+          "channel_name": "TELUGU 🇮🇳",
+          "stream_url": "https://livetv.hotstar.com/mp2/gec-india-1540068280/e8c0ed405e544793a1f827c477839581/index.mpd",
+          "referer": "https://www.hotstar.com/",
+          "drm_key": "4634b32328f242e3be51c3e06cde0000:42e90ab215bf4a438b55851b5e0f50dc"
+        },
+        {
+          "channel_name": "TAMIL 🇮🇳",
+          "stream_url": "https://livetv.hotstar.com/mp2/gec-india-1540068337/9e957d4aa8054fdfa75a02de6c38e8d0/index.mpd?",
+          "referer": "https://www.hotstar.com/",
+          "drm_key": "8cecd7ec1ee04eecb49ddbdc8c420000:499ea72b59f14337a0acb057cd9dffc0"
+        },
+        {
+          "channel_name": "KANNADA 🇮🇳",
+          "stream_url": "https://livetv.hotstar.com/mp1/gec-india-1540068322/6409ab04235d4a0886656913f360c0a7/index.mpd",
+          "referer": "https://www.hotstar.com/",
+          "drm_key": "eb2f9710abf44bb1bcf51400ccc00000:5f29f372823346e78934431f2a924065"
+        },
+        {
+          "channel_name": "Tapmad",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+        },
+        {
+          "channel_name": "Star 4K",
+          "stream_url": "http://198.195.239.50:8095/STAR.SPORTS.4K/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "channel_name": "STAR SPORTS 1 HD",
+          "stream_url": "http://198.195.239.50:8095/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8"
         }
       ],
       "id": "evt_fcc1f7c076d3",
-      "isHot": false
+      "isHot": true
     },
     {
       "status": "LIVE",
@@ -188,10 +305,18 @@
           "channel_name": "WILLOW ALT",
           "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww1up1kwa3/out/v1/08a3df6b117d49e98f46a03c390fe8cb/cenc.mpd",
           "drm_key": "05ba83793e35393ed91ed629c1d97212:41fc43371a32688363cd75c7fdf6cf73"
+        },
+        {
+          "channel_name": "Tapmad",
+          "stream_url": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8"
+        },
+        {
+          "channel_name": "PTV",
+          "stream_url": "http://198.195.239.50:8095/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8"
         }
       ],
       "id": "evt_1e55dbb0e72f",
-      "isHot": false
+      "isHot": true
     },
     {
       "status": "LIVE",
@@ -447,53 +572,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
-      "eventInfo": {
-        "teamA": "SPORTS LIVE",
-        "teamB": "SPORTS LIVE",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "eventName": "SPORTS LIVE",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "startTime": "30/09/2026 10:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
-          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        }
-      ],
-      "id": "evt_cb92eaad2884",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Finland Vs Serbia",
-      "eventInfo": {
-        "teamA": "Finland",
-        "teamB": "Serbia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21802/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38100/image",
-        "eventName": "World Championship Women Qual.",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/780/image/dark",
-        "startTime": "09/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_71c4de29f439",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Wieczysta Kraków Vs Wisła Płock",
       "eventInfo": {
@@ -615,31 +693,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Buffalo Bills",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Buffalo Bills",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "13/10/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Lithuania Vs Sweden",
       "eventInfo": {
@@ -663,7 +717,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Belarus Vs Italy",
       "eventInfo": {
@@ -687,7 +741,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Eintracht Braunschweig Vs Holstein Kiel",
       "eventInfo": {
@@ -715,7 +769,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "1. FC Heidenheim Vs 1. FC Kaiserslautern",
       "eventInfo": {
@@ -747,7 +801,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Rostov Vs Akron Togliatti",
       "eventInfo": {
@@ -769,7 +823,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Greece Vs England",
       "eventInfo": {
@@ -794,6 +848,30 @@
         }
       ],
       "id": "evt_88972c787c68",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Buffalo Bills",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Buffalo Bills",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "13/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_735b27b789f0",
       "isHot": false
     },
     {
@@ -2657,6 +2735,14 @@
         {
           "channel_name": "WILLOW HD",
           "stream_url": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8"
+        },
+        {
+          "channel_name": "Tapmad BD",
+          "stream_url": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+        },
+        {
+          "channel_name": "Tsports HD",
+          "stream_url": "https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8"
         }
       ],
       "id": "evt_2e6a4806103a",
@@ -6276,6 +6362,29 @@
         }
       ],
       "id": "evt_dbc1cb5f810d",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Other",
+      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
+      "eventInfo": {
+        "teamA": "SPORTS LIVE",
+        "teamB": "SPORTS LIVE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "eventName": "SPORTS LIVE",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "startTime": "30/09/2026 10:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL SERVER FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
+          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
+        }
+      ],
+      "id": "evt_cb92eaad2884",
       "isHot": false
     },
     {
