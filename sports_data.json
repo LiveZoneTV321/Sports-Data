@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:30 PM 10-10-2026",
+  "last_update_time": "02:15:19 PM 10-10-2026",
   "total_matches": 292,
-  "live_match": 13,
+  "live_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -518,6 +518,28 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "South Melbourne FC Vs Melbourne Victory",
+      "eventInfo": {
+        "teamA": "South Melbourne FC",
+        "teamB": "Melbourne Victory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "eventName": "Australia Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1786/image/dark",
+        "startTime": "10/10/2026 02:35:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_18b663f9d196",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "Boxing",
       "event_name": "SmackDown Vs SmackDown",
@@ -668,28 +690,6 @@
         }
       ],
       "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "South Melbourne FC Vs Melbourne Victory",
-      "eventInfo": {
-        "teamA": "South Melbourne FC",
-        "teamB": "Melbourne Victory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2944/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "eventName": "Australia Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1786/image/dark",
-        "startTime": "10/10/2026 02:35:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_18b663f9d196",
       "isHot": false
     },
     {
