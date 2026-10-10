@@ -2,10 +2,61 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:25 AM 10-10-2026",
+  "last_update_time": "06:45:20 AM 10-10-2026",
   "total_matches": 228,
-  "live_match": 27,
+  "live_match": 30,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "MotorGP Vs MotorGP",
+      "eventInfo": {
+        "teamA": "MotorGP",
+        "teamB": "MotorGP",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "eventName": "MotoGP Evento",
+        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
+        "startTime": "10/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "TNT2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SPOTV FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "channel_name": "MotoGP FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/duuuAAAAAA.m3u8?",
+          "referer": "http://www.fawanews.sc/"
+        }
+      ],
+      "id": "evt_b794520fe47b",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -593,57 +644,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "MotorGP Vs MotorGP",
-      "eventInfo": {
-        "teamA": "MotorGP",
-        "teamB": "MotorGP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "eventName": "MotoGP Evento",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "10/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "TNT2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "MotoGP FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/duuuAAAAAA.m3u8?",
-          "referer": "http://www.fawanews.sc/"
-        }
-      ],
-      "id": "evt_b794520fe47b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Atlético Unión de Santa Fe Vs Defensa y Justicia",
       "eventInfo": {
@@ -862,31 +862,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Los Angeles Rams Vs Buffalo Bills",
-      "eventInfo": {
-        "teamA": "Los Angeles Rams",
-        "teamB": "Buffalo Bills",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "13/10/2026 06:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_735b27b789f0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Once Caldas Vs Llaneros FC",
       "eventInfo": {
@@ -909,7 +885,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Las Vegas Aces Vs Golden State Valkyries",
       "eventInfo": {
@@ -943,7 +919,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "El Salvador Vs Paraguay",
       "eventInfo": {
@@ -962,6 +938,30 @@
         }
       ],
       "id": "evt_da7f58657fae",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Los Angeles Rams Vs Buffalo Bills",
+      "eventInfo": {
+        "teamA": "Los Angeles Rams",
+        "teamB": "Buffalo Bills",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "13/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_735b27b789f0",
       "isHot": false
     },
     {
