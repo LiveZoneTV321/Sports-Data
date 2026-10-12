@@ -2,10 +2,38 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:00:33 PM 12-10-2026",
-  "total_matches": 95,
+  "last_update_time": "06:15:23 PM 12-10-2026",
+  "total_matches": 101,
   "live_match": 6,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Valladolid Vs Albacete Balompié",
+      "eventInfo": {
+        "teamA": "Real Valladolid",
+        "teamB": "Albacete Balompié",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "12/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/987/index.m3u8"
+        }
+      ],
+      "id": "evt_01e05bf879c3",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -259,28 +287,6 @@
         }
       ],
       "id": "evt_cb92eaad2884",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Valladolid Vs Albacete Balompié",
-      "eventInfo": {
-        "teamA": "Real Valladolid",
-        "teamB": "Albacete Balompié",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "12/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_01e05bf879c3",
       "isHot": false
     },
     {
@@ -1407,6 +1413,30 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
+      "event_name": "Pakhtakor Tashkent Vs Al-Qadsiah",
+      "eventInfo": {
+        "teamA": "Pakhtakor Tashkent",
+        "teamB": "Al-Qadsiah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bb7bf1d6e2e3",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
       "event_name": "Burgos Club de Fútbol Vs Granada",
       "eventInfo": {
         "teamA": "Burgos Club de Fútbol",
@@ -1497,6 +1527,50 @@
         }
       ],
       "id": "evt_7e1f7316b650",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al Wasl Vs Al-Ahli",
+      "eventInfo": {
+        "teamA": "Al Wasl",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_bfa28fceeec5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tractor FC Vs Al Shamal SC",
+      "eventInfo": {
+        "teamA": "Tractor FC",
+        "teamB": "Al Shamal SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e6ee62b99bfd",
       "isHot": false
     },
     {
@@ -1730,6 +1804,72 @@
         }
       ],
       "id": "evt_1272c4f49942",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Quwa Al-Jawiya Vs Al-Ain",
+      "eventInfo": {
+        "teamA": "Al-Quwa Al-Jawiya",
+        "teamB": "Al-Ain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "13/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_261e816fb905",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Nassr Vs Neftchi Fergana",
+      "eventInfo": {
+        "teamA": "Al-Nassr",
+        "teamB": "Neftchi Fergana",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36256/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "13/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_ad1a9c5f2d15",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Al-Gharafa Vs Esteghlal FC",
+      "eventInfo": {
+        "teamA": "Al-Gharafa",
+        "teamB": "Esteghlal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "13/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_d6b1fddd108c",
       "isHot": false
     },
     {
