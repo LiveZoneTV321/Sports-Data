@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:25 AM 13-10-2026",
+  "last_update_time": "04:45:20 AM 13-10-2026",
   "total_matches": 108,
-  "live_match": 11,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chapecoense Vs Athletico",
+      "eventInfo": {
+        "teamA": "Chapecoense",
+        "teamB": "Athletico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "13/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        }
+      ],
+      "id": "evt_ce63c732238d",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -62,40 +86,6 @@
         }
       ],
       "id": "evt_c6beb1221a1b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
-      "eventInfo": {
-        "teamA": "Halifax Wanderers FC",
-        "teamB": "Cavalry FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
-        "eventName": "Canadian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_c6d7d46e35f1",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Ñublense",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Ñublense",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "13/10/2026 02:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_dc5203099458",
       "isHot": false
     },
     {
@@ -244,30 +234,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chapecoense Vs Athletico",
-      "eventInfo": {
-        "teamA": "Chapecoense",
-        "teamB": "Athletico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "13/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
-        }
-      ],
-      "id": "evt_ce63c732238d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Washington Wizards Vs Brooklyn Nets",
       "eventInfo": {
@@ -339,6 +305,29 @@
         }
       ],
       "id": "evt_126192befdc6",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "New York Knicks Vs Minnesota Timberwolves",
+      "eventInfo": {
+        "teamA": "New York Knicks",
+        "teamB": "Minnesota Timberwolves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "13/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?",
+          "referer": "https://streamscenter.online/"
+        }
+      ],
+      "id": "evt_54b119926d65",
       "isHot": false
     },
     {
@@ -2379,29 +2368,6 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "New York Knicks Vs Minnesota Timberwolves",
-      "eventInfo": {
-        "teamA": "New York Knicks",
-        "teamB": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "13/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ],
-      "id": "evt_54b119926d65",
-      "isHot": false
-    },
-    {
       "status": "ENDED",
       "Category": "Other",
       "event_name": "TABEL TENNIS | EVENTO Vs TABEL TENNIS | EVENTO",
@@ -3369,6 +3335,40 @@
         }
       ],
       "id": "evt_71ba82f623ed",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Halifax Wanderers FC Vs Cavalry FC",
+      "eventInfo": {
+        "teamA": "Halifax Wanderers FC",
+        "teamB": "Cavalry FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/309892/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/309889/image",
+        "eventName": "Canadian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c6d7d46e35f1",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Universidad de Chile Vs Ñublense",
+      "eventInfo": {
+        "teamA": "Universidad de Chile",
+        "teamB": "Ñublense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7029/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "13/10/2026 02:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_dc5203099458",
       "isHot": false
     }
   ]
