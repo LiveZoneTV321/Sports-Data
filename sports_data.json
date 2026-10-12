@@ -2,10 +2,45 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:00:36 AM 12-10-2026",
+  "last_update_time": "06:15:21 AM 12-10-2026",
   "total_matches": 152,
-  "live_match": 24,
+  "live_match": 21,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
+      "eventInfo": {
+        "teamA": "Milwaukee Brewers",
+        "teamB": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "12/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://edgestream5.pro/hls/dazhfiach15.m3u8?",
+          "referer": "https://streamscenter.online/"
+        }
+      ],
+      "id": "evt_c6beb1221a1b",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -329,28 +364,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Central Español Vs Nacional",
-      "eventInfo": {
-        "teamA": "Central Español",
-        "teamB": "Nacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3232/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image",
-        "eventName": "Liga AUF Uruguaya",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
-        "startTime": "12/10/2026 03:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_52c9960e9f64",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Washington Capitals Vs Seattle Kraken",
       "eventInfo": {
@@ -376,111 +389,6 @@
         }
       ],
       "id": "evt_dbb3c9b46f7d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Seattle Seahawks Vs San Francisco 49ers",
-      "eventInfo": {
-        "teamA": "Seattle Seahawks",
-        "teamB": "San Francisco 49ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "12/10/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "NFL LIVE + HD",
-          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8?",
-          "referer": "https://streamscenter.online/"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream5.pro/hls/ijzriafaq41.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_a4b37c7a8df7",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Arizona Cardinals Vs Detroit Lions",
-      "eventInfo": {
-        "teamA": "Arizona Cardinals",
-        "teamB": "Detroit Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "12/10/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream5.pro/hls/poertjnvnev40.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_db8d3774b971",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Los Angeles Chargers Vs Denver Broncos",
-      "eventInfo": {
-        "teamA": "Los Angeles Chargers",
-        "teamB": "Denver Broncos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "12/10/2026 02:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/cwxcnbscbsq39.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "TV+ HD",
-          "stream_url": "https://edgestream3.pro/hls/cwxcnbscbsq39.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ],
-      "id": "evt_c713a98bf0be",
       "isHot": false
     },
     {
@@ -613,41 +521,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
-      "eventInfo": {
-        "teamA": "Milwaukee Brewers",
-        "teamB": "Los Angeles Dodgers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "12/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://edgestream5.pro/hls/dazhfiach15.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ],
-      "id": "evt_c6beb1221a1b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "American football",
       "event_name": "Atlanta Falcons Vs Baltimore Ravens",
       "eventInfo": {
@@ -724,6 +597,40 @@
         }
       ],
       "id": "evt_22ef13f46232",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Chicago Bulls",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Chicago Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "eventName": "NBA Preseason",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
+        "startTime": "12/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY NBA",
+          "stream_url": "https://edgestream1.pro/hls/zazezagdgfc98.m3u8?",
+          "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "ESPN3 ARGENTINA FHD",
+          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
+        }
+      ],
+      "id": "evt_2ccdd8879837",
       "isHot": false
     },
     {
@@ -1845,40 +1752,6 @@
         }
       ],
       "id": "evt_98e633c3c537",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Chicago Bulls",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Chicago Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "eventName": "NBA Preseason",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2329/image/dark",
-        "startTime": "12/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY NBA",
-          "stream_url": "https://edgestream1.pro/hls/zazezagdgfc98.m3u8?",
-          "referer": "https://streamscenter.online/"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "ESPN3 ARGENTINA FHD",
-          "stream_url": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
-          "drm_key": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d"
-        }
-      ],
-      "id": "evt_2ccdd8879837",
       "isHot": false
     },
     {
@@ -4742,6 +4615,111 @@
     },
     {
       "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Los Angeles Chargers Vs Denver Broncos",
+      "eventInfo": {
+        "teamA": "Los Angeles Chargers",
+        "teamB": "Denver Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "12/10/2026 02:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream4.pro/hls/cwxcnbscbsq39.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "TV+ HD",
+          "stream_url": "https://edgestream3.pro/hls/cwxcnbscbsq39.m3u8?",
+          "referer": "https://streamscenter.online/"
+        }
+      ],
+      "id": "evt_c713a98bf0be",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Seattle Seahawks Vs San Francisco 49ers",
+      "eventInfo": {
+        "teamA": "Seattle Seahawks",
+        "teamB": "San Francisco 49ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "12/10/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "channel_name": "NFL LIVE + HD",
+          "stream_url": "https://edgestream2.pro/hls/ijzriafaq41.m3u8?",
+          "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream5.pro/hls/ijzriafaq41.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_a4b37c7a8df7",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Arizona Cardinals Vs Detroit Lions",
+      "eventInfo": {
+        "teamA": "Arizona Cardinals",
+        "teamB": "Detroit Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "12/10/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "SERVER + TV",
+          "stream_url": "https://edgestream5.pro/hls/poertjnvnev40.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_db8d3774b971",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Deportes Concepción Vs Unión La Calera",
       "eventInfo": {
@@ -4893,6 +4871,28 @@
       },
       "streams": [],
       "id": "evt_426edacf17db",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Central Español Vs Nacional",
+      "eventInfo": {
+        "teamA": "Central Español",
+        "teamB": "Nacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3232/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+        "eventName": "Liga AUF Uruguaya",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/278/image/dark",
+        "startTime": "12/10/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_52c9960e9f64",
       "isHot": false
     }
   ]
