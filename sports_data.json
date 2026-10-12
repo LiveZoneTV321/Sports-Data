@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:30:25 PM 12-10-2026",
+  "last_update_time": "08:45:20 PM 12-10-2026",
   "total_matches": 90,
-  "live_match": 10,
+  "live_match": 9,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Burgos Club de Fútbol Vs Granada",
+      "eventInfo": {
+        "teamA": "Burgos Club de Fútbol",
+        "teamB": "Granada",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "12/10/2026 08:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_4426b8b2aa5d",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -20,6 +44,16 @@
         "startTime": "12/10/2026 07:45:00 PM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621442.m3u8?txSecret=52c64e31f6bb70b39d64070796d413fa&txTime=6ACCEA27",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4621442.m3u8?txSecret=46d01841ec5048f0569ead98646c3c27&txTime=6ACCEA27",
+          "referer": "https://player.online878.com/"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "http://193.47.62.44/hls/YFFFAAAA.m3u8",
@@ -62,39 +96,6 @@
         }
       ],
       "id": "evt_dfa6ba76db50",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Real Valladolid Vs Albacete Balompié",
-      "eventInfo": {
-        "teamA": "Real Valladolid",
-        "teamB": "Albacete Balompié",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "12/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4567311.m3u8?txSecret=ff6c5aac96c7f8dfb7e6a7139a63ea1a&txTime=6ACCDDE5",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/987/index.m3u8"
-        }
-      ],
-      "id": "evt_01e05bf879c3",
       "isHot": false
     },
     {
@@ -316,30 +317,6 @@
         }
       ],
       "id": "evt_cb92eaad2884",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Burgos Club de Fútbol Vs Granada",
-      "eventInfo": {
-        "teamA": "Burgos Club de Fútbol",
-        "teamB": "Granada",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "12/10/2026 08:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_4426b8b2aa5d",
       "isHot": false
     },
     {
@@ -1978,8 +1955,9 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
       "id": "evt_ad1a9c5f2d15",
@@ -2758,6 +2736,39 @@
         }
       ],
       "id": "evt_cf5ce773c2a0",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Real Valladolid Vs Albacete Balompié",
+      "eventInfo": {
+        "teamA": "Real Valladolid",
+        "teamB": "Albacete Balompié",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "12/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4567311.m3u8?txSecret=ff6c5aac96c7f8dfb7e6a7139a63ea1a&txTime=6ACCDDE5",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/987/index.m3u8"
+        }
+      ],
+      "id": "evt_01e05bf879c3",
       "isHot": false
     }
   ]
