@@ -2,10 +2,51 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:32 AM 13-10-2026",
+  "last_update_time": "03:15:21 AM 13-10-2026",
   "total_matches": 108,
-  "live_match": 19,
+  "live_match": 16,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
+      "eventInfo": {
+        "teamA": "Milwaukee Brewers",
+        "teamB": "Los Angeles Dodgers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "13/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "STREAM TV+ HD",
+          "stream_url": "https://edgestream3.pro/hls/dazhfiach15.m3u8?",
+          "referer": "https://streamscenter.online/"
+        }
+      ],
+      "id": "evt_c6beb1221a1b",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -413,97 +454,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "GKS Katowice Vs Wieczysta Kraków",
-      "eventInfo": {
-        "teamA": "GKS Katowice",
-        "teamB": "Wieczysta Kraków",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3112/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334956/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "13/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "ARENA SPORTS ",
-          "stream_url": "https://netanjahu.hls.st/t/f6a7eaab73f0fa9dffef599123437568/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "BeIN SPORTS EXTRA FHD",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-          "drm_key": "bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab"
-        },
-        {
-          "channel_name": "TVP SPORTS",
-          "stream_url": "https://netanjahu.hls.st/t/da57355b3500b5e822196201f9bd9a5d/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "CANAL +",
-          "stream_url": "https://netanjahu.hls.st/t/0a0322d34ab80da97d394fd9f63b5ba1/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "Ekstraklasa TV",
-          "stream_url": "https://netanjahu.hls.st/t/e9fd73ed1bf31852d047b242d201b5f3/index.m3u8",
-          "referer": "https://iplayer.is/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/A555AAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_1593372eaaa8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Quwa Al-Jawiya Vs Al-Ain",
-      "eventInfo": {
-        "teamA": "Al-Quwa Al-Jawiya",
-        "teamB": "Al-Ain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "13/10/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621474.m3u8?txSecret=1faa4c22d58be3f226e719721fdd560d&txTime=6ACD345F",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4621474.m3u8?txSecret=8e8bfb4844fbd9b7f219e79828c841ed&txTime=6ACD345F",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://www.rtmpcdn.com/live/822aa37c-c26f-4a7b-90af-f6bd6dcf18d6.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/877/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/BEEEAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_261e816fb905",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Al-Nassr Vs Neftchi Fergana",
       "eventInfo": {
         "teamA": "Al-Nassr",
@@ -571,48 +521,6 @@
         }
       ],
       "id": "evt_ad1a9c5f2d15",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Gharafa Vs Esteghlal FC",
-      "eventInfo": {
-        "teamA": "Al-Gharafa",
-        "teamB": "Esteghlal FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "13/10/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621435.m3u8?txSecret=916e94c1f6e2eefdd10707a7ef2c0b9c&txTime=6ACD3493",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://live.vivo155.com/live/sd-1-4621435.m3u8?txSecret=0fee36c32e61ddfa77b401d235863f2f&txTime=6ACD3493",
-          "referer": "https://player.online878.com/"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://www.rtmpcdn.com/live/aa22045b-ed80-4447-92a5-d7326c72318f.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://162.251.160.53:8089/787/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/HHHHa.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_d6b1fddd108c",
       "isHot": false
     },
     {
@@ -685,47 +593,6 @@
         }
       ],
       "id": "evt_193e0c8a6a2b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Milwaukee Brewers Vs Los Angeles Dodgers",
-      "eventInfo": {
-        "teamA": "Milwaukee Brewers",
-        "teamB": "Los Angeles Dodgers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "13/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "STREAM TV+ HD",
-          "stream_url": "https://edgestream3.pro/hls/dazhfiach15.m3u8?",
-          "referer": "https://streamscenter.online/"
-        }
-      ],
-      "id": "evt_c6beb1221a1b",
       "isHot": false
     },
     {
@@ -3369,6 +3236,139 @@
         }
       ],
       "id": "evt_1272c4f49942",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al-Quwa Al-Jawiya Vs Al-Ain",
+      "eventInfo": {
+        "teamA": "Al-Quwa Al-Jawiya",
+        "teamB": "Al-Ain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213877/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "13/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621474.m3u8?txSecret=1faa4c22d58be3f226e719721fdd560d&txTime=6ACD345F",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4621474.m3u8?txSecret=8e8bfb4844fbd9b7f219e79828c841ed&txTime=6ACD345F",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://www.rtmpcdn.com/live/822aa37c-c26f-4a7b-90af-f6bd6dcf18d6.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/877/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BEEEAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_261e816fb905",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Al-Gharafa Vs Esteghlal FC",
+      "eventInfo": {
+        "teamA": "Al-Gharafa",
+        "teamB": "Esteghlal FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34312/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34316/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "13/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://live.vivo155.com/live/hd-en-1-4621435.m3u8?txSecret=916e94c1f6e2eefdd10707a7ef2c0b9c&txTime=6ACD3493",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4621435.m3u8?txSecret=0fee36c32e61ddfa77b401d235863f2f&txTime=6ACD3493",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://www.rtmpcdn.com/live/aa22045b-ed80-4447-92a5-d7326c72318f.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://162.251.160.53:8089/787/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/HHHHa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d6b1fddd108c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "GKS Katowice Vs Wieczysta Kraków",
+      "eventInfo": {
+        "teamA": "GKS Katowice",
+        "teamB": "Wieczysta Kraków",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3112/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334956/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "13/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "ARENA SPORTS ",
+          "stream_url": "https://netanjahu.hls.st/t/f6a7eaab73f0fa9dffef599123437568/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "BeIN SPORTS EXTRA FHD",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+          "drm_key": "bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab"
+        },
+        {
+          "channel_name": "TVP SPORTS",
+          "stream_url": "https://netanjahu.hls.st/t/da57355b3500b5e822196201f9bd9a5d/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "CANAL +",
+          "stream_url": "https://netanjahu.hls.st/t/0a0322d34ab80da97d394fd9f63b5ba1/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "Ekstraklasa TV",
+          "stream_url": "https://netanjahu.hls.st/t/e9fd73ed1bf31852d047b242d201b5f3/index.m3u8",
+          "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/A555AAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_1593372eaaa8",
       "isHot": false
     }
   ]
