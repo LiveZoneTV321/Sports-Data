@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:32 PM 12-10-2026",
+  "last_update_time": "08:15:23 PM 12-10-2026",
   "total_matches": 90,
-  "live_match": 8,
+  "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pakhtakor Tashkent Vs Al-Qadsiah",
+      "eventInfo": {
+        "teamA": "Pakhtakor Tashkent",
+        "teamB": "Al-Qadsiah",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 07:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bb7bf1d6e2e3",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -297,30 +321,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Pakhtakor Tashkent Vs Al-Qadsiah",
-      "eventInfo": {
-        "teamA": "Pakhtakor Tashkent",
-        "teamB": "Al-Qadsiah",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "12/10/2026 07:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/YFFFAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_bb7bf1d6e2e3",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Burgos Club de Fútbol Vs Granada",
       "eventInfo": {
         "teamA": "Burgos Club de Fútbol",
@@ -331,8 +331,59 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "12/10/2026 08:15:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/YFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_4426b8b2aa5d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
+      "eventInfo": {
+        "teamA": "FC Argeș Pitești",
+        "teamB": "CFR 1907 Cluj",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_b9a2ca65254f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "PAOK Vs PS Kalamata",
+      "eventInfo": {
+        "teamA": "PAOK",
+        "teamB": "PS Kalamata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
+        "eventName": "Stoiximan Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_7b14cab58f2c",
       "isHot": false
     },
     {
@@ -810,7 +861,7 @@
         },
         {
           "channel_name": "SERVER + TV",
-          "stream_url": "https://edgestream4.pro/hls/wnbcnxbcs42.m3u8?",
+          "stream_url": "https://edgestream4.pro/hls/JHDAJBDnjdna30.m3u8?",
           "referer": "https://streamscenter.online/"
         }
       ],
@@ -1134,6 +1185,12 @@
           "channel_name": "STREAM TV+ HD",
           "stream_url": "https://edgestream6.pro/hls/lmdsjkfgv52.m3u8?",
           "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream3.pro/hls/lmdsjkfgv5.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
       "id": "evt_2848eb6728cc",
@@ -1538,50 +1595,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
-      "eventInfo": {
-        "teamA": "FC Argeș Pitești",
-        "teamB": "CFR 1907 Cluj",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_b9a2ca65254f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "PAOK Vs PS Kalamata",
-      "eventInfo": {
-        "teamA": "PAOK",
-        "teamB": "PS Kalamata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
-        "eventName": "Stoiximan Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_7b14cab58f2c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Radomiak Radom Vs Motor Lublin",
       "eventInfo": {
         "teamA": "Radomiak Radom",
@@ -1806,12 +1819,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "12/10/2026 11:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_db585b26cfd0",
       "isHot": false
     },
@@ -1828,12 +1836,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "12/10/2026 11:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_d624f26ec824",
       "isHot": false
     },
@@ -1883,6 +1886,12 @@
           "channel_name": "STREAM TV+ HD",
           "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8?",
           "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream6.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
       "id": "evt_193e0c8a6a2b",
@@ -2096,6 +2105,12 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://edgestream2.pro/hls/377qj1h2727.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
       "id": "evt_aea1c9cbd76e",
