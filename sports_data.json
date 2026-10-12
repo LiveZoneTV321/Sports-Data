@@ -2,10 +2,54 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:00:32 PM 12-10-2026",
+  "last_update_time": "09:15:23 PM 12-10-2026",
   "total_matches": 90,
-  "live_match": 9,
+  "live_match": 12,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
+      "eventInfo": {
+        "teamA": "FC Argeș Pitești",
+        "teamB": "CFR 1907 Cluj",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_b9a2ca65254f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "PAOK Vs PS Kalamata",
+      "eventInfo": {
+        "teamA": "PAOK",
+        "teamB": "PS Kalamata",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
+        "eventName": "Stoiximan Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
+        "startTime": "12/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_7b14cab58f2c",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -322,37 +366,44 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FC Argeș Pitești Vs CFR 1907 Cluj",
+      "event_name": "Radomiak Radom Vs Motor Lublin",
       "eventInfo": {
-        "teamA": "FC Argeș Pitești",
-        "teamB": "CFR 1907 Cluj",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/116221/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5287/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
+        "teamA": "Radomiak Radom",
+        "teamB": "Motor Lublin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7295/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7915/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "12/10/2026 10:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "BeIN SPORTS EXTRA FHD",
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+          "drm_key": "bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab"
         }
       ],
-      "id": "evt_b9a2ca65254f",
+      "id": "evt_7e1f7316b650",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "PAOK Vs PS Kalamata",
+      "event_name": "Al Wasl Vs Al-Ahli",
       "eventInfo": {
-        "teamA": "PAOK",
-        "teamB": "PS Kalamata",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3251/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/412056/image",
-        "eventName": "Stoiximan Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
-        "startTime": "12/10/2026 09:00:00 PM"
+        "teamA": "Al Wasl",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 10:00:00 PM"
       },
       "streams": [
         {
@@ -360,7 +411,29 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_7b14cab58f2c",
+      "id": "evt_bfa28fceeec5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tractor FC Vs Al Shamal SC",
+      "eventInfo": {
+        "teamA": "Tractor FC",
+        "teamB": "Al Shamal SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "12/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e6ee62b99bfd",
       "isHot": false
     },
     {
@@ -1567,79 +1640,6 @@
         }
       ],
       "id": "evt_98e633c3c537",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Radomiak Radom Vs Motor Lublin",
-      "eventInfo": {
-        "teamA": "Radomiak Radom",
-        "teamB": "Motor Lublin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7295/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7915/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "12/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "BeIN SPORTS EXTRA FHD",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-          "drm_key": "bc1ba12f4bf63bdd174fa9d781619371:0612fbf17cca145bf907cceffed162ab"
-        }
-      ],
-      "id": "evt_7e1f7316b650",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al Wasl Vs Al-Ahli",
-      "eventInfo": {
-        "teamA": "Al Wasl",
-        "teamB": "Al-Ahli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "12/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_bfa28fceeec5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Tractor FC Vs Al Shamal SC",
-      "eventInfo": {
-        "teamA": "Tractor FC",
-        "teamB": "Al Shamal SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "12/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_e6ee62b99bfd",
       "isHot": false
     },
     {
