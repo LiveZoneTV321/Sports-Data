@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:30 AM 14-10-2026",
+  "last_update_time": "04:45:21 AM 14-10-2026",
   "total_matches": 105,
-  "live_match": 12,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -27,6 +27,72 @@
         }
       ],
       "id": "evt_cb92eaad2884",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Montréal Canadiens Vs Buffalo Sabres",
+      "eventInfo": {
+        "teamA": "Montréal Canadiens",
+        "teamB": "Buffalo Sabres",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "14/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/lmdsjkfgv52.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_cc86ab594067",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Columbus Blue Jackets Vs Florida Panthers",
+      "eventInfo": {
+        "teamA": "Columbus Blue Jackets",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "14/10/2026 04:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_5002573ee135",
       "isHot": false
     },
     {
@@ -100,30 +166,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Corinthians U17 Vs Flamengo U17",
-      "eventInfo": {
-        "teamA": "Corinthians U17",
-        "teamB": "Flamengo U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/504366/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/342892/image",
-        "eventName": "U17 Campeonato Brasileiro",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/22794/image/dark",
-        "startTime": "14/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ],
-      "id": "evt_46243b2cc91b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Toronto Raptors Vs New York Knicks",
       "eventInfo": {
@@ -191,42 +233,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Montréal Canadiens Vs Buffalo Sabres",
-      "eventInfo": {
-        "teamA": "Montréal Canadiens",
-        "teamB": "Buffalo Sabres",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/lmdsjkfgv52.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_cc86ab594067",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Philadelphia Flyers Vs Seattle Kraken",
       "eventInfo": {
         "teamA": "Philadelphia Flyers",
@@ -262,36 +268,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Columbus Blue Jackets Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Columbus Blue Jackets",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/10/2026 04:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_5002573ee135",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Carolina Hurricanes Vs Washington Capitals",
       "eventInfo": {
         "teamA": "Carolina Hurricanes",
@@ -321,6 +297,72 @@
     },
     {
       "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Ottawa Senators Vs St. Louis Blues",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "St. Louis Blues",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "14/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/poiryezafv56.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_28641232352d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "New York Rangers Vs Tampa Bay Lightning",
+      "eventInfo": {
+        "teamA": "New York Rangers",
+        "teamB": "Tampa Bay Lightning",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "14/10/2026 05:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_960b9fefe57d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Spain Women's Vs USA Women's",
       "eventInfo": {
@@ -334,6 +376,47 @@
       },
       "streams": [],
       "id": "evt_16ddeb668b9d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brazil Women's Vs Argentina Women's",
+      "eventInfo": {
+        "teamA": "Brazil Women's",
+        "teamB": "Argentina Women's",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+        "eventName": "Women's Friendly Match",
+        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
+        "startTime": "14/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ],
+      "id": "evt_06f97b21141f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Atlético Bucaramanga Vs Rionegro Águilas Doradas",
+      "eventInfo": {
+        "teamA": "Atlético Bucaramanga",
+        "teamB": "Rionegro Águilas Doradas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "14/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_44fb034b3a35",
       "isHot": false
     },
     {
@@ -1434,42 +1517,6 @@
     {
       "status": "UPCOMING",
       "Category": "Hockey",
-      "event_name": "Ottawa Senators Vs St. Louis Blues",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "St. Louis Blues",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3695/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream1.pro/hls/poiryezafv56.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_28641232352d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Winnipeg Jets Vs Minnesota Wild",
       "eventInfo": {
         "teamA": "Winnipeg Jets",
@@ -1501,36 +1548,6 @@
         }
       ],
       "id": "evt_2608dd9e29a5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "New York Rangers Vs Tampa Bay Lightning",
-      "eventInfo": {
-        "teamA": "New York Rangers",
-        "teamB": "Tampa Bay Lightning",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "14/10/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream7.pro/hls/sdezqfza55.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_960b9fefe57d",
       "isHot": false
     },
     {
@@ -1765,47 +1782,6 @@
         }
       ],
       "id": "evt_23a7cd737197",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brazil Women's Vs Argentina Women's",
-      "eventInfo": {
-        "teamA": "Brazil Women's",
-        "teamB": "Argentina Women's",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-        "eventName": "Women's Friendly Match",
-        "event_logo": "https://pbs.twimg.com/profile_images/683411718987476993/lZKQkOal_400x400.jpg",
-        "startTime": "14/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ],
-      "id": "evt_06f97b21141f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Atlético Bucaramanga Vs Rionegro Águilas Doradas",
-      "eventInfo": {
-        "teamA": "Atlético Bucaramanga",
-        "teamB": "Rionegro Águilas Doradas",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6103/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/48244/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "14/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_44fb034b3a35",
       "isHot": false
     },
     {
@@ -3492,6 +3468,30 @@
         }
       ],
       "id": "evt_1cc054839873",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Corinthians U17 Vs Flamengo U17",
+      "eventInfo": {
+        "teamA": "Corinthians U17",
+        "teamB": "Flamengo U17",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/504366/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/342892/image",
+        "eventName": "U17 Campeonato Brasileiro",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/22794/image/dark",
+        "startTime": "14/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ],
+      "id": "evt_46243b2cc91b",
       "isHot": false
     },
     {
