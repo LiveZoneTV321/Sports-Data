@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:30:30 PM 14-10-2026",
+  "last_update_time": "11:45:23 PM 14-10-2026",
   "total_matches": 86,
-  "live_match": 18,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -50,8 +50,8 @@
         },
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd",
-          "drm_key": "3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd",
+          "drm_key": "de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493"
         },
         {
           "channel_name": "FANCODE2 FHD",
@@ -262,6 +262,36 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Anadolu Efes Vs Bayern München",
+      "eventInfo": {
+        "teamA": "Anadolu Efes",
+        "teamB": "Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "14/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/088a2775-adff-4275-9b2f-b9204139a1ac.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/O666AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_755030aa1498",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "Hapoel Tel-Aviv Vs Beşiktaş JK",
       "eventInfo": {
         "teamA": "Hapoel Tel-Aviv",
@@ -275,9 +305,13 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "https://www.rtmpcdn.com/live/eb04f743-29aa-4a99-a07a-c57117a69512.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/T888AAAAQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_677c062c918f",
@@ -314,9 +348,20 @@
           "drm_key": "23c68026a4a92a82c03b3d7e7924b342:0811239285fd4778d325e1d63a66bb2b"
         },
         {
+          "channel_name": "DAZN SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58029/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "STAN SPORTS HD",
           "stream_url": "https://netanjahu.hls.st/t/d69d420a1fae56d6f80bfb580d0ac48b/index.m3u8?",
           "referer": "https://iplayer.is/"
+        },
+        {
+          "channel_name": "TUDN SPORTS HD",
+          "stream_url": "https://edgestream1.pro/hls/377qj1h2727.m3u8",
+          "referer": "https%3A%2F%2Fstreame.center",
+          "user_agent": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36"
         },
         {
           "channel_name": "PARAMOUNT+ HD",
@@ -366,6 +411,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "CBS SPORTS HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58028/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -544,26 +594,24 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Anadolu Efes Vs Bayern München",
+      "Category": "Football",
+      "event_name": "Al Faisaly SC Vs Al Nahda SC",
       "eventInfo": {
-        "teamA": "Anadolu Efes",
-        "teamB": "Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3515/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "14/10/2026 11:30:00 PM"
+        "teamA": "Al Faisaly SC",
+        "teamB": "Al Nahda SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47482/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40648/image",
+        "eventName": "AFC Champions League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
+        "startTime": "15/10/2026 12:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
         }
       ],
-      "id": "evt_755030aa1498",
+      "id": "evt_c98d34fd4575",
       "isHot": false
     },
     {
@@ -1353,28 +1401,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Al Faisaly SC Vs Al Nahda SC",
-      "eventInfo": {
-        "teamA": "Al Faisaly SC",
-        "teamB": "Al Nahda SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47482/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40648/image",
-        "eventName": "AFC Champions League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/668/image/dark",
-        "startTime": "15/10/2026 12:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/109/index.m3u8"
-        }
-      ],
-      "id": "evt_c98d34fd4575",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Lincoln City Vs West Ham United",
       "eventInfo": {
         "teamA": "Lincoln City",
@@ -1395,6 +1421,12 @@
         {
           "channel_name": "TV QUALITY + HD",
           "stream_url": "http://162.251.160.53:8089/2710/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_e46a7409c9b7",
@@ -1417,6 +1449,12 @@
         {
           "channel_name": "TV QUALITY + HD",
           "stream_url": "http://162.251.160.53:8089/2587/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_90a42ee4b788",
@@ -1487,9 +1525,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_047210dcc42d",
@@ -1512,6 +1556,12 @@
         {
           "channel_name": "TV QUALITY + HD",
           "stream_url": "http://162.251.160.53:8089/2646/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_70d167eebbf2",
@@ -2247,9 +2297,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/BGBGBGAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_8d0171d5a526",
@@ -2269,6 +2325,17 @@
         "startTime": "15/10/2026 01:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "CBS NETWORK FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y8csztrnlv/out/v1/e48799ec18b041eabdb969bcc780360a/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "38860f7afdae191a91be6ec3de367010:9beffbfff68efb289f2a556070057a7e"
+        },
+        {
+          "channel_name": "TV QUALITY + LIVE",
+          "stream_url": "http://c8.vfruitfairy.com/20022/index.m3u8"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -2292,7 +2359,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "startTime": "15/10/2026 01:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + LIVE",
+          "stream_url": "http://c8.vfruitfairy.com/22055/index.m3u8"
+        }
+      ],
       "id": "evt_a3d012e39032",
       "isHot": false
     },
@@ -2310,6 +2382,10 @@
         "startTime": "15/10/2026 01:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TV QUALITY + LIVE",
+          "stream_url": "http://c8.vfruitfairy.com/19010/index.m3u8"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -2333,7 +2409,12 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/7/image/dark",
         "startTime": "15/10/2026 01:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + LIVE",
+          "stream_url": "http://c8.vfruitfairy.com/23066/index.m3u8"
+        }
+      ],
       "id": "evt_86c8a4aeb605",
       "isHot": false
     },
