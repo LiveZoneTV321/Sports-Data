@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:26 AM 15-10-2026",
+  "last_update_time": "06:45:22 AM 15-10-2026",
   "total_matches": 107,
   "live_match": 30,
   "matches": [
@@ -202,37 +202,15 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sarmiento Vs River Plate",
+      "event_name": "Fluminense Vs Palmeiras",
       "eventInfo": {
-        "teamA": "Sarmiento",
-        "teamB": "River Plate",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "15/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV QUALITY + HD",
-          "stream_url": "http://162.251.160.53:8089/2366/index.m3u8"
-        }
-      ],
-      "id": "evt_36f627ca7dd1",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlético Mineiro Vs Montevideo City Torque",
-      "eventInfo": {
-        "teamA": "Atlético Mineiro",
-        "teamB": "Montevideo City Torque",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174972/image",
-        "eventName": "CONMEBOL Sudamericana",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "startTime": "15/10/2026 04:00:00 AM"
+        "teamA": "Fluminense",
+        "teamB": "Palmeiras",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+        "eventName": "CONMEBOL Libertadores",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
+        "startTime": "15/10/2026 06:30:00 AM"
       },
       "streams": [
         {
@@ -242,18 +220,12 @@
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
           "channel_name": "SportDigital Fussball",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
           "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
-      "id": "evt_66e4d83c6d58",
+      "id": "evt_1e160fe52b14",
       "isHot": false
     },
     {
@@ -289,6 +261,28 @@
         }
       ],
       "id": "evt_4eb03486f263",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Chicago Fire Vs Philadelphia Union",
+      "eventInfo": {
+        "teamA": "Chicago Fire",
+        "teamB": "Philadelphia Union",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8"
+        }
+      ],
+      "id": "evt_a7ca91ed8d22",
       "isHot": false
     },
     {
@@ -405,6 +399,72 @@
         }
       ],
       "id": "evt_b96ed38c76c0",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Nashville SC Vs Sporting Kansas City",
+      "eventInfo": {
+        "teamA": "Nashville SC",
+        "teamB": "Sporting Kansas City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8"
+        }
+      ],
+      "id": "evt_9cc527f7cf0d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Dallas Vs Seattle Sounders FC",
+      "eventInfo": {
+        "teamA": "FC Dallas",
+        "teamB": "Seattle Sounders FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8"
+        }
+      ],
+      "id": "evt_edf3830181cb",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "St.Louis City Vs Vancouver Whitecaps",
+      "eventInfo": {
+        "teamA": "St.Louis City",
+        "teamB": "Vancouver Whitecaps",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8"
+        }
+      ],
+      "id": "evt_343fffcb24a0",
       "isHot": false
     },
     {
@@ -672,123 +732,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Fluminense Vs Palmeiras",
-      "eventInfo": {
-        "teamA": "Fluminense",
-        "teamB": "Palmeiras",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-        "eventName": "CONMEBOL Libertadores",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/384/image/dark",
-        "startTime": "15/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "id": "evt_1e160fe52b14",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chicago Fire Vs Philadelphia Union",
-      "eventInfo": {
-        "teamA": "Chicago Fire",
-        "teamB": "Philadelphia Union",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8"
-        }
-      ],
-      "id": "evt_a7ca91ed8d22",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Nashville SC Vs Sporting Kansas City",
-      "eventInfo": {
-        "teamA": "Nashville SC",
-        "teamB": "Sporting Kansas City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8"
-        }
-      ],
-      "id": "evt_9cc527f7cf0d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dallas Vs Seattle Sounders FC",
-      "eventInfo": {
-        "teamA": "FC Dallas",
-        "teamB": "Seattle Sounders FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8"
-        }
-      ],
-      "id": "evt_edf3830181cb",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "St.Louis City Vs Vancouver Whitecaps",
-      "eventInfo": {
-        "teamA": "St.Louis City",
-        "teamB": "Vancouver Whitecaps",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8"
-        }
-      ],
-      "id": "evt_343fffcb24a0",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Colorado Avalanche Vs Dallas Stars",
       "eventInfo": {
@@ -820,6 +763,56 @@
         }
       ],
       "id": "evt_d9b15a93ffea",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Real Salt Lake Vs San Jose Earthquakes",
+      "eventInfo": {
+        "teamA": "Real Salt Lake",
+        "teamB": "San Jose Earthquakes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_56f63f99_ea6e_4651_8658_6de9409282ac/index.m3u8"
+        }
+      ],
+      "id": "evt_bd792a4da00f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Colorado Rapids Vs Minnesota United",
+      "eventInfo": {
+        "teamA": "Colorado Rapids",
+        "teamB": "Minnesota United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "15/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "MLS QUALITY + TV",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ccd5536b_49c9_40fc_bfb3_6b52e1304cc1/index.m3u8"
+        }
+      ],
+      "id": "evt_8043e00c1a3f",
       "isHot": false
     },
     {
@@ -1490,56 +1483,6 @@
         }
       ],
       "id": "evt_cc0aa5888e26",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Salt Lake Vs San Jose Earthquakes",
-      "eventInfo": {
-        "teamA": "Real Salt Lake",
-        "teamB": "San Jose Earthquakes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5133/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_56f63f99_ea6e_4651_8658_6de9409282ac/index.m3u8"
-        }
-      ],
-      "id": "evt_bd792a4da00f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Colorado Rapids Vs Minnesota United",
-      "eventInfo": {
-        "teamA": "Colorado Rapids",
-        "teamB": "Minnesota United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "15/10/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "MLS QUALITY + TV",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ccd5536b_49c9_40fc_bfb3_6b52e1304cc1/index.m3u8"
-        }
-      ],
-      "id": "evt_8043e00c1a3f",
       "isHot": false
     },
     {
@@ -2607,6 +2550,63 @@
         }
       ],
       "id": "evt_70d167eebbf2",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sarmiento Vs River Plate",
+      "eventInfo": {
+        "teamA": "Sarmiento",
+        "teamB": "River Plate",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "15/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV QUALITY + HD",
+          "stream_url": "http://162.251.160.53:8089/2366/index.m3u8"
+        }
+      ],
+      "id": "evt_36f627ca7dd1",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlético Mineiro Vs Montevideo City Torque",
+      "eventInfo": {
+        "teamA": "Atlético Mineiro",
+        "teamB": "Montevideo City Torque",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174972/image",
+        "eventName": "CONMEBOL Sudamericana",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
+        "startTime": "15/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "id": "evt_66e4d83c6d58",
       "isHot": false
     },
     {
