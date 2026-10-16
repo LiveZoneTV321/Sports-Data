@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:34 PM 16-10-2026",
+  "last_update_time": "03:15:23 PM 16-10-2026",
   "total_matches": 100,
   "live_match": 8,
   "matches": [
@@ -210,6 +210,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sydney FC Vs Western Sydney Wanderers",
+      "eventInfo": {
+        "teamA": "Sydney FC",
+        "teamB": "Western Sydney Wanderers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/72926/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "16/10/2026 03:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        }
+      ],
+      "id": "evt_aeb2fe8193f2",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Samoa Vs France",
       "eventInfo": {
@@ -236,30 +260,6 @@
         }
       ],
       "id": "evt_23d1d13ea836",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sydney FC Vs Western Sydney Wanderers",
-      "eventInfo": {
-        "teamA": "Sydney FC",
-        "teamB": "Western Sydney Wanderers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/72926/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "16/10/2026 03:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        }
-      ],
-      "id": "evt_aeb2fe8193f2",
       "isHot": false
     },
     {
