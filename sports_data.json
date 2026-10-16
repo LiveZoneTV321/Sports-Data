@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:32 AM 17-10-2026",
+  "last_update_time": "12:15:21 AM 17-10-2026",
   "total_matches": 95,
-  "live_match": 28,
+  "live_match": 32,
   "matches": [
     {
       "status": "LIVE",
@@ -198,6 +198,40 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "SC Heerenveen Vs Excelsior",
+      "eventInfo": {
+        "teamA": "SC Heerenveen",
+        "teamB": "Excelsior",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3d0f744151f2",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sport Huancayo Vs Cusco FC",
+      "eventInfo": {
+        "teamA": "Sport Huancayo",
+        "teamB": "Cusco FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_9ef11c4bff23",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Wieczysta Kraków Vs Raków Częstochowa",
       "eventInfo": {
         "teamA": "Wieczysta Kraków",
@@ -327,6 +361,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ittihad Vs Al-Shabab",
+      "eventInfo": {
+        "teamA": "Al-Ittihad",
+        "teamB": "Al-Shabab",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_dc6192cdbb1f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Beşiktaş JK Vs Bayern München",
       "eventInfo": {
@@ -356,6 +413,28 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "KK Crvena zvezda Vs Paris Basketball",
+      "eventInfo": {
+        "teamA": "KK Crvena zvezda",
+        "teamB": "Paris Basketball",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_556f05085a96",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "Kauno Žalgiris Vs Anadolu Efes",
       "eventInfo": {
         "teamA": "Kauno Žalgiris",
@@ -379,6 +458,23 @@
         }
       ],
       "id": "evt_814c760f7fea",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC Eindhoven Vs Vitesse",
+      "eventInfo": {
+        "teamA": "FC Eindhoven",
+        "teamB": "Vitesse",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2994/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2958/image",
+        "eventName": "Eerste Divisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/131/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_5d72690d5236",
       "isHot": false
     },
     {
@@ -448,6 +544,52 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "FC Dinamo București Vs FC Botoșani",
+      "eventInfo": {
+        "teamA": "FC Dinamo București",
+        "teamB": "FC Botoșani",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24798/image",
+        "eventName": "SuperLiga României",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
+        "startTime": "17/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DYYYYAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0744763d7cdf",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Le Mans Vs Toulouse",
+      "eventInfo": {
+        "teamA": "Le Mans",
+        "teamB": "Toulouse",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+        "eventName": "Ligue 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "17/10/2026 12:45:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f01d9a26eef4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Eintracht Frankfurt Vs 1. FC Köln",
       "eventInfo": {
         "teamA": "Eintracht Frankfurt",
@@ -472,35 +614,29 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "SC Heerenveen Vs Excelsior",
+      "event_name": "Frosinone Vs Sassuolo",
       "eventInfo": {
-        "teamA": "SC Heerenveen",
-        "teamB": "Excelsior",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
+        "teamA": "Frosinone",
+        "teamB": "Sassuolo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "17/10/2026 12:45:00 AM"
       },
-      "streams": [],
-      "id": "evt_3d0f744151f2",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sport Huancayo Vs Cusco FC",
-      "eventInfo": {
-        "teamA": "Sport Huancayo",
-        "teamB": "Cusco FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33895/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/63760/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_9ef11c4bff23",
+      "streams": [
+        {
+          "channel_name": "BEIN1 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        }
+      ],
+      "id": "evt_6b2fc9c7dce7",
       "isHot": false
     },
     {
@@ -550,24 +686,24 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Al-Ittihad Vs Al-Shabab",
+      "event_name": "Deportivo de A Coruña Vs Levante UD",
       "eventInfo": {
-        "teamA": "Al-Ittihad",
-        "teamB": "Al-Shabab",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
+        "teamA": "Deportivo de A Coruña",
+        "teamB": "Levante UD",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2832/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         }
       ],
-      "id": "evt_dc6192cdbb1f",
+      "id": "evt_8df0429a53ec",
       "isHot": false
     },
     {
@@ -585,6 +721,37 @@
       },
       "streams": [],
       "id": "evt_ef003fd898ad",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Burnley Vs Wolverhampton",
+      "eventInfo": {
+        "teamA": "Burnley",
+        "teamB": "Wolverhampton",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_fd0a38f7f2de",
       "isHot": false
     },
     {
@@ -652,74 +819,6 @@
         }
       ],
       "id": "evt_3f7303094daa",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "KK Crvena zvezda Vs Paris Basketball",
-      "eventInfo": {
-        "teamA": "KK Crvena zvezda",
-        "teamB": "Paris Basketball",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_556f05085a96",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Eindhoven Vs Vitesse",
-      "eventInfo": {
-        "teamA": "FC Eindhoven",
-        "teamB": "Vitesse",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2994/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2958/image",
-        "eventName": "Eerste Divisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/131/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_5d72690d5236",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Dinamo București Vs FC Botoșani",
-      "eventInfo": {
-        "teamA": "FC Dinamo București",
-        "teamB": "FC Botoșani",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3292/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24798/image",
-        "eventName": "SuperLiga României",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/152/image/dark",
-        "startTime": "17/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DYYYYAAAAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_0744763d7cdf",
       "isHot": false
     },
     {
@@ -796,52 +895,6 @@
         }
       ],
       "id": "evt_a21b10ab40cc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "MotorGP Vs MotorGP",
-      "eventInfo": {
-        "teamA": "MotorGP",
-        "teamB": "MotorGP",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
-        "eventName": "WorldWCR | Round 6 | Spain Superpole",
-        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
-        "startTime": "23/10/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "MotoGP FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        }
-      ],
-      "id": "evt_420cc15168bf",
       "isHot": false
     },
     {
@@ -1273,23 +1326,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Le Mans Vs Toulouse",
-      "eventInfo": {
-        "teamA": "Le Mans",
-        "teamB": "Toulouse",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-        "eventName": "Ligue 1",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "startTime": "17/10/2026 12:45:00 AM"
-      },
-      "streams": [],
-      "id": "evt_f01d9a26eef4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "FC Supra Du Quebec Vs Inter Toronto",
       "eventInfo": {
         "teamA": "FC Supra Du Quebec",
@@ -1361,34 +1397,6 @@
         }
       ],
       "id": "evt_9b4b0f32667e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Frosinone Vs Sassuolo",
-      "eventInfo": {
-        "teamA": "Frosinone",
-        "teamB": "Sassuolo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-        "eventName": "Serie A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "17/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN1 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        }
-      ],
-      "id": "evt_6b2fc9c7dce7",
       "isHot": false
     },
     {
@@ -1691,60 +1699,6 @@
         }
       ],
       "id": "evt_638800932a92",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Deportivo de A Coruña Vs Levante UD",
-      "eventInfo": {
-        "teamA": "Deportivo de A Coruña",
-        "teamB": "Levante UD",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "17/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        }
-      ],
-      "id": "evt_8df0429a53ec",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Burnley Vs Wolverhampton",
-      "eventInfo": {
-        "teamA": "Burnley",
-        "teamB": "Wolverhampton",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "17/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "id": "evt_fd0a38f7f2de",
       "isHot": false
     },
     {
@@ -2508,6 +2462,52 @@
         }
       ],
       "id": "evt_0504e67d3f76",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Motorsports",
+      "event_name": "MotorGP Vs MotorGP",
+      "eventInfo": {
+        "teamA": "MotorGP",
+        "teamB": "MotorGP",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_edH54wS35dUnT7EWMWImcprIRvpU0pFFJ0wArz-gQ&s=10",
+        "eventName": "WorldWCR | Round 6 | Spain Superpole",
+        "event_logo": "https://i.ibb.co/CKKNc9gD/car-1.png",
+        "startTime": "23/10/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "MotoGP FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "SPOTV FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        }
+      ],
+      "id": "evt_420cc15168bf",
       "isHot": false
     },
     {
