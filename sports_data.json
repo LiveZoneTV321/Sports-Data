@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:30:28 AM 17-10-2026",
-  "total_matches": 95,
-  "live_match": 32,
+  "last_update_time": "12:45:21 AM 17-10-2026",
+  "total_matches": 102,
+  "live_match": 37,
   "matches": [
     {
       "status": "LIVE",
@@ -168,6 +168,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Eintracht Frankfurt Vs 1. FC Köln",
+      "eventInfo": {
+        "teamA": "Eintracht Frankfurt",
+        "teamB": "1. FC Köln",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "17/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SporTV BR FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream5.pro/hls/ueyeztrazb4.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/c03a3e8b-ff7f-4afc-9d70-ef279a67849a.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/4HHHAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_21b94e2d7569",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Energie Cottbus Vs 1. FC Nürnberg",
       "eventInfo": {
         "teamA": "Energie Cottbus",
@@ -208,7 +250,19 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "17/10/2026 12:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4552219.m3u8?txSecret=d231bc19e3da54cb39e4e7c437172987&txTime=6AD27933",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/Z666AAAA.m3u8",
+          "referer": "http://www.fawanews.sc/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
       "id": "evt_3d0f744151f2",
       "isHot": false
     },
@@ -232,23 +286,29 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Wieczysta Kraków Vs Raków Częstochowa",
+      "event_name": "Widzew Łódź Vs Wisła Kraków",
       "eventInfo": {
-        "teamA": "Wieczysta Kraków",
-        "teamB": "Raków Częstochowa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+        "teamA": "Widzew Łódź",
+        "teamB": "Wisła Kraków",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3115/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3111/image",
         "eventName": "Ekstraklasa",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "16/10/2026 10:00:00 PM"
+        "startTime": "17/10/2026 12:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "beiN ESPANOL HD",
           "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/4HHHAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_33f787bde118",
+      "id": "evt_6d8c4e37151a",
       "isHot": false
     },
     {
@@ -284,31 +344,25 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "APR FC Vs Zamalek SC",
+      "event_name": "Hellas Verona Vs Catanzaro",
       "eventInfo": {
-        "teamA": "APR FC",
-        "teamB": "Zamalek SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/191189/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42368/image",
-        "eventName": "CAF Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-        "startTime": "16/10/2026 10:00:00 PM"
+        "teamA": "Hellas Verona",
+        "teamB": "Catanzaro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2796/image",
+        "eventName": "Serie B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
+        "startTime": "17/10/2026 12:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.59/hls/HHHHWQAAQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/HHHHWQAAQQQ.m3u8",
+          "channel_name": "FOX SOCCER PLUS HD ",
+          "stream_url": "http://193.47.62.59/hls/4HHH.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_f6e57897308c",
+      "id": "evt_f90aba96ab94",
       "isHot": false
     },
     {
@@ -384,6 +438,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leganés Vs Córdoba",
+      "eventInfo": {
+        "teamA": "Leganés",
+        "teamB": "Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "17/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/4HHHAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ef003fd898ad",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Beşiktaş JK Vs Bayern München",
       "eventInfo": {
@@ -413,6 +491,101 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Virtus Bologna Vs Kosner Baskonia",
+      "eventInfo": {
+        "teamA": "Virtus Bologna",
+        "teamB": "Kosner Baskonia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5621/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3553/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "17/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/3941d127-f0df-4667-93c9-f9b6880c9862.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/6NNNA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_b79117caf618",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Barça Basket Vs Olympiacos BC",
+      "eventInfo": {
+        "teamA": "Barça Basket",
+        "teamB": "Olympiacos BC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3501/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "17/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/c872b155-f24f-4ad2-9e71-949b036e5050.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/5BBBA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_866527a88c08",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Panathinaikos BC Vs Hapoel Tel-Aviv",
+      "eventInfo": {
+        "teamA": "Panathinaikos BC",
+        "teamB": "Hapoel Tel-Aviv",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3508/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "17/10/2026 12:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/af09078a-c938-41d4-9a52-4f93e15124d0.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/5BBB.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3f7303094daa",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "KK Crvena zvezda Vs Paris Basketball",
       "eventInfo": {
         "teamA": "KK Crvena zvezda",
@@ -426,7 +599,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://www.rtmpcdn.com/live/c949ebef-d2ed-45f7-924f-f376d75b7d34.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/Z666AAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_556f05085a96",
@@ -514,36 +695,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Geita Gold Vs Dodoma Jiji",
-      "eventInfo": {
-        "teamA": "Geita Gold",
-        "teamB": "Dodoma Jiji",
-        "teamAFlag": "m",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "eventName": "Tanzania Ligi Kuu Bara",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "16/10/2026 10:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.41/hls/DUUUAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DUUUAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c09d05aba997",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "FC Dinamo București Vs FC Botoșani",
       "eventInfo": {
         "teamA": "FC Dinamo București",
@@ -572,6 +723,39 @@
     },
     {
       "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
+      "eventInfo": {
+        "teamA": "NASCAR CUP SERIES",
+        "teamB": "NASCAR CUP SERIES",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "eventName": "NASCAR",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
+        "startTime": "17/10/2026 01:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "USA NETWROK HD",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
+        }
+      ],
+      "id": "evt_64739719626b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Le Mans Vs Toulouse",
       "eventInfo": {
@@ -583,32 +767,27 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "startTime": "17/10/2026 12:45:00 AM"
       },
-      "streams": [],
-      "id": "evt_f01d9a26eef4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Eintracht Frankfurt Vs 1. FC Köln",
-      "eventInfo": {
-        "teamA": "Eintracht Frankfurt",
-        "teamB": "1. FC Köln",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-        "eventName": "Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
-      },
       "streams": [
         {
-          "channel_name": "SporTV BR FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/dza5z8f69.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/74dfa1a3-987b-4808-9b36-8a8264bfa777.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_21b94e2d7569",
+      "id": "evt_f01d9a26eef4",
       "isHot": false
     },
     {
@@ -634,53 +813,32 @@
           "channel_name": "SPORT1 CZ FHD",
           "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
           "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58099/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/7b537799-ef43-4c21-a96c-539ccd5c9faf.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_6b2fc9c7dce7",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Widzew Łódź Vs Wisła Kraków",
-      "eventInfo": {
-        "teamA": "Widzew Łódź",
-        "teamB": "Wisła Kraków",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3115/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3111/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "beiN ESPANOL HD",
-          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
-        }
-      ],
-      "id": "evt_6d8c4e37151a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Hellas Verona Vs Catanzaro",
-      "eventInfo": {
-        "teamA": "Hellas Verona",
-        "teamB": "Catanzaro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2796/image",
-        "eventName": "Serie B",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/53/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX SOCCER PLUS HD ",
-          "stream_url": "https://tmaxapp.site/foxsoccerplus.m3u8"
-        }
-      ],
-      "id": "evt_f90aba96ab94",
       "isHot": false
     },
     {
@@ -701,26 +859,27 @@
           "channel_name": "BeIN2 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "ESPN DEPORTES HD",
+          "stream_url": "https://edgestream5.pro/hls/377qj1h2727.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY4",
+          "stream_url": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_8df0429a53ec",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Leganés Vs Córdoba",
-      "eventInfo": {
-        "teamA": "Leganés",
-        "teamB": "Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ef003fd898ad",
       "isHot": false
     },
     {
@@ -749,6 +908,23 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58100/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_fd0a38f7f2de",
@@ -756,69 +932,194 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Virtus Bologna Vs Kosner Baskonia",
+      "Category": "Football",
+      "event_name": "Chaves Vs CF Marialvas",
       "eventInfo": {
-        "teamA": "Virtus Bologna",
-        "teamB": "Kosner Baskonia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5621/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3553/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
+        "teamA": "Chaves",
+        "teamB": "CF Marialvas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3025/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/370459/image",
+        "eventName": "Taça de Portugal",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/336/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_b79117caf618",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Barça Basket Vs Olympiacos BC",
-      "eventInfo": {
-        "teamA": "Barça Basket",
-        "teamB": "Olympiacos BC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3543/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3501/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "17/10/2026 12:30:00 AM"
-      },
-      "streams": [
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
         {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_866527a88c08",
+      "id": "evt_3b845a6d9af3",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Panathinaikos BC Vs Hapoel Tel-Aviv",
+      "Category": "Football",
+      "event_name": "Academia de Balompié Boliviano Vs Real Potosí",
       "eventInfo": {
-        "teamA": "Panathinaikos BC",
-        "teamB": "Hapoel Tel-Aviv",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3508/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/82179/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "17/10/2026 12:15:00 AM"
+        "teamA": "Academia de Balompié Boliviano",
+        "teamB": "Real Potosí",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/423188/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7060/image",
+        "eventName": "División Profesional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/16736/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8FFFFQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_3f7303094daa",
+      "id": "evt_ada7b6933a7d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Biarritz Olympique Vs SA XV Charente",
+      "eventInfo": {
+        "teamA": "Biarritz Olympique",
+        "teamB": "SA XV Charente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5749/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/228614/image",
+        "eventName": "France - Pro D2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1147/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/SUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/SUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c65df331db3f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "USON Nevers Vs SU Agen",
+      "eventInfo": {
+        "teamA": "USON Nevers",
+        "teamB": "SU Agen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/262916/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5747/image",
+        "eventName": "France - Pro D2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1147/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/SUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/SUUUA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3ceb54d0d84e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Dragons Vs US Arlequins Perpignanais",
+      "eventInfo": {
+        "teamA": "Dragons",
+        "teamB": "US Arlequins Perpignanais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8084/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4220/image",
+        "eventName": "European Rugby Challenge Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/752/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/SUUUAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bdec122d0aad",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Edinburgh Rugby Vs RC Toulon",
+      "eventInfo": {
+        "teamA": "Edinburgh Rugby",
+        "teamB": "RC Toulon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5760/image",
+        "eventName": "European Rugby Challenge Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/752/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/SUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e263570b989a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Gloucester Rugby Vs Union Bordeaux Bègles",
+      "eventInfo": {
+        "teamA": "Gloucester Rugby",
+        "teamB": "Union Bordeaux Bègles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4202/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52813/image",
+        "eventName": "European Rugby Champions Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/401/image/dark",
+        "startTime": "17/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/SUUUAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_b6a9621f16cc",
       "isHot": false
     },
     {
@@ -895,39 +1196,6 @@
         }
       ],
       "id": "evt_a21b10ab40cc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES",
-      "eventInfo": {
-        "teamA": "NASCAR CUP SERIES",
-        "teamB": "NASCAR CUP SERIES",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "eventName": "NASCAR",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfOeG9TGJiz9rMn-n50BXYx-Z0O0L31Qb125w2wJw9yQ&s=10",
-        "startTime": "17/10/2026 01:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "USA NETWROK HD",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/usanetwodfgsdfsark.m3u8"
-        }
-      ],
-      "id": "evt_64739719626b",
       "isHot": false
     },
     {
@@ -2626,6 +2894,58 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Wieczysta Kraków Vs Raków Częstochowa",
+      "eventInfo": {
+        "teamA": "Wieczysta Kraków",
+        "teamB": "Raków Częstochowa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/35268/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "16/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "beiN ESPANOL HD",
+          "stream_url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8"
+        }
+      ],
+      "id": "evt_33f787bde118",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "APR FC Vs Zamalek SC",
+      "eventInfo": {
+        "teamA": "APR FC",
+        "teamB": "Zamalek SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/191189/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42368/image",
+        "eventName": "CAF Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+        "startTime": "16/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.59/hls/HHHHWQAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/HHHHWQAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_f6e57897308c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "El Merriekh Bentiu Vs Pyramids FC",
       "eventInfo": {
         "teamA": "El Merriekh Bentiu",
@@ -2720,6 +3040,36 @@
         }
       ],
       "id": "evt_2daaa2cd548c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Geita Gold Vs Dodoma Jiji",
+      "eventInfo": {
+        "teamA": "Geita Gold",
+        "teamB": "Dodoma Jiji",
+        "teamAFlag": "m",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "16/10/2026 10:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.41/hls/DUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DUUUAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c09d05aba997",
       "isHot": false
     },
     {
