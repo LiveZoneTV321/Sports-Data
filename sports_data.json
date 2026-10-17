@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:25 PM 17-10-2026",
+  "last_update_time": "01:45:25 PM 17-10-2026",
   "total_matches": 202,
-  "live_match": 16,
+  "live_match": 17,
   "matches": [
     {
       "status": "LIVE",
@@ -266,36 +266,6 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "Papua New Guinea Vs Lebanon",
-      "eventInfo": {
-        "teamA": "Papua New Guinea",
-        "teamB": "Lebanon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/234307/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "17/10/2026 10:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_ec5626e4ec00",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
       "event_name": "England Vs Wales",
       "eventInfo": {
         "teamA": "England",
@@ -549,6 +519,53 @@
         }
       ],
       "id": "evt_a971c80d5b60",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Sydney Kings Vs Perth Wildcats",
+      "eventInfo": {
+        "teamA": "Sydney Kings",
+        "teamB": "Perth Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "17/10/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_f0a1291a521c",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "West Coast Eagles Vs Geelong Cats",
+      "eventInfo": {
+        "teamA": "West Coast Eagles",
+        "teamB": "Geelong Cats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "17/10/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_ba11b9305189",
       "isHot": false
     },
     {
@@ -985,30 +1002,6 @@
         }
       ],
       "id": "evt_c7db33270e6e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Sydney Kings Vs Perth Wildcats",
-      "eventInfo": {
-        "teamA": "Sydney Kings",
-        "teamB": "Perth Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "17/10/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_f0a1291a521c",
       "isHot": false
     },
     {
@@ -4464,29 +4457,6 @@
     {
       "status": "UPCOMING",
       "Category": "Aussie rules",
-      "event_name": "West Coast Eagles Vs Geelong Cats",
-      "eventInfo": {
-        "teamA": "West Coast Eagles",
-        "teamB": "Geelong Cats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "17/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_ba11b9305189",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
       "event_name": "Collingwood Magpies Vs Sydney Swans",
       "eventInfo": {
         "teamA": "Collingwood Magpies",
@@ -5130,6 +5100,36 @@
         }
       ],
       "id": "evt_638800932a92",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Papua New Guinea Vs Lebanon",
+      "eventInfo": {
+        "teamA": "Papua New Guinea",
+        "teamB": "Lebanon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24241/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/234307/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "17/10/2026 10:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/HTTTA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ec5626e4ec00",
       "isHot": false
     },
     {
