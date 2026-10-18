@@ -2,10 +2,34 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:30:27 PM 18-10-2026",
+  "last_update_time": "03:45:21 PM 18-10-2026",
   "total_matches": 161,
-  "live_match": 15,
+  "live_match": 19,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Snooker Vs Snooker",
+      "eventInfo": {
+        "teamA": "Snooker",
+        "teamB": "Snooker",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "eventName": "Snooker",
+        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "startTime": "18/10/2026 03:03:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_8164e402a2e1",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -255,9 +279,18 @@
       },
       "streams": [
         {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+          "drm_key": "012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+          "drm_key": "012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8"
         }
       ],
       "id": "evt_0411ec57803d",
@@ -497,26 +530,58 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Snooker Vs Snooker",
+      "Category": "Football",
+      "event_name": "PEC Zwolle Vs Go Ahead Eagles",
       "eventInfo": {
-        "teamA": "Snooker",
-        "teamB": "Snooker",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "eventName": "Snooker",
-        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "startTime": "18/10/2026 03:03:00 PM"
+        "teamA": "PEC Zwolle",
+        "teamB": "Go Ahead Eagles",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "18/10/2026 04:15:00 PM"
+      },
+      "streams": [],
+      "id": "evt_e2e38145c0fa",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Udinese Vs Lecce",
+      "eventInfo": {
+        "teamA": "Udinese",
+        "teamB": "Lecce",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "18/10/2026 04:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_ddd46bf90b91",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kasımpaşa Vs Samsunspor",
+      "eventInfo": {
+        "teamA": "Kasımpaşa",
+        "teamB": "Samsunspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "18/10/2026 04:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_8164e402a2e1",
+      "id": "evt_7f2c613c7b45",
       "isHot": false
     },
     {
@@ -541,6 +606,29 @@
         }
       ],
       "id": "evt_d41ce34c0674",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Juventus Vs Como",
+      "eventInfo": {
+        "teamA": "Juventus",
+        "teamB": "Como",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1114927/image",
+        "eventName": "Serie A Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
+        "startTime": "18/10/2026 04:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS2 + FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        }
+      ],
+      "id": "evt_d1c2153fbe84",
       "isHot": false
     },
     {
@@ -1037,23 +1125,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "PEC Zwolle Vs Go Ahead Eagles",
-      "eventInfo": {
-        "teamA": "PEC Zwolle",
-        "teamB": "Go Ahead Eagles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-        "eventName": "VriendenLoterij Eredivisie",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
-        "startTime": "18/10/2026 04:15:00 PM"
-      },
-      "streams": [],
-      "id": "evt_e2e38145c0fa",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "SC Cambuur Vs AZ Alkmaar",
       "eventInfo": {
         "teamA": "SC Cambuur",
@@ -1345,23 +1416,6 @@
       },
       "streams": [],
       "id": "evt_3d278b86fbb5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Udinese Vs Lecce",
-      "eventInfo": {
-        "teamA": "Udinese",
-        "teamB": "Lecce",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-        "eventName": "Serie A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "18/10/2026 04:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_ddd46bf90b91",
       "isHot": false
     },
     {
@@ -2259,28 +2313,6 @@
         }
       ],
       "id": "evt_008eeb79ca14",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kasımpaşa Vs Samsunspor",
-      "eventInfo": {
-        "teamA": "Kasımpaşa",
-        "teamB": "Samsunspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "18/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_7f2c613c7b45",
       "isHot": false
     },
     {
@@ -3461,29 +3493,6 @@
         }
       ],
       "id": "evt_360181c2027e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Juventus Vs Como",
-      "eventInfo": {
-        "teamA": "Juventus",
-        "teamB": "Como",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1114927/image",
-        "eventName": "Serie A Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10640/image/dark",
-        "startTime": "18/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS2 + FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-          "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
-        }
-      ],
-      "id": "evt_d1c2153fbe84",
       "isHot": false
     },
     {
