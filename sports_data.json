@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:27 PM 18-10-2026",
+  "last_update_time": "01:45:21 PM 18-10-2026",
   "total_matches": 161,
-  "live_match": 15,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -472,7 +472,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
         "startTime": "18/10/2026 12:00:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/GSSSA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_96ba0abe5c63",
       "isHot": false
     },
@@ -507,6 +514,34 @@
         }
       ],
       "id": "evt_5785e599eb03",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Australia Women Vs New Zealand Women",
+      "eventInfo": {
+        "teamA": "Australia Women",
+        "teamB": "New Zealand Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+        "eventName": "Twenty20 International Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+        "startTime": "18/10/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW SPORTS",
+          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        }
+      ],
+      "id": "evt_d3c9146dad3c",
       "isHot": false
     },
     {
@@ -1079,34 +1114,6 @@
       },
       "streams": [],
       "id": "evt_a1c0f5859a4a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Australia Women Vs New Zealand Women",
-      "eventInfo": {
-        "teamA": "Australia Women",
-        "teamB": "New Zealand Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-        "eventName": "Twenty20 International Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "startTime": "18/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW SPORTS",
-          "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        }
-      ],
-      "id": "evt_d3c9146dad3c",
       "isHot": false
     },
     {
