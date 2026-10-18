@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:31 PM 18-10-2026",
+  "last_update_time": "03:15:22 PM 18-10-2026",
   "total_matches": 161,
   "live_match": 15,
   "matches": [
@@ -497,30 +497,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Melbourne United Vs Illawarra Hawks",
-      "eventInfo": {
-        "teamA": "Melbourne United",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "18/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/GSSSA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_96ba0abe5c63",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -541,6 +517,30 @@
         }
       ],
       "id": "evt_8164e402a2e1",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Casademont Zaragoza Vs Força Lleida CE",
+      "eventInfo": {
+        "teamA": "Casademont Zaragoza",
+        "teamB": "Força Lleida CE",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25134/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3557/image",
+        "eventName": "Liga ACB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/264/image/dark",
+        "startTime": "18/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        }
+      ],
+      "id": "evt_d41ce34c0674",
       "isHot": false
     },
     {
@@ -3282,30 +3282,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Casademont Zaragoza Vs Força Lleida CE",
-      "eventInfo": {
-        "teamA": "Casademont Zaragoza",
-        "teamB": "Força Lleida CE",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25134/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3557/image",
-        "eventName": "Liga ACB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/264/image/dark",
-        "startTime": "18/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        }
-      ],
-      "id": "evt_d41ce34c0674",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Alianza Atlético de Sullana Vs Universitario de Deportes",
       "eventInfo": {
@@ -4421,6 +4397,30 @@
         }
       ],
       "id": "evt_a0b9fdefdfe4",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Melbourne United Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "Melbourne United",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "18/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/GSSSA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_96ba0abe5c63",
       "isHot": false
     },
     {
