@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:30 AM 19-10-2026",
+  "last_update_time": "03:15:21 AM 19-10-2026",
   "total_matches": 94,
   "live_match": 22,
   "matches": [
@@ -322,6 +322,63 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "FC Cincinnati Vs Columbus Crew",
+      "eventInfo": {
+        "teamA": "FC Cincinnati",
+        "teamB": "Columbus Crew",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_5d4bc242e259",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Estudiantes de Río Cuarto Vs Aldosivi",
+      "eventInfo": {
+        "teamA": "Estudiantes de Río Cuarto",
+        "teamB": "Aldosivi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/266694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_f4dd1e87d2d4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Estudiantes de La Plata Vs San Lorenzo",
+      "eventInfo": {
+        "teamA": "Estudiantes de La Plata",
+        "teamB": "San Lorenzo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3201/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        }
+      ],
+      "id": "evt_e00ec5754ed4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Grêmio Vs Cruzeiro",
       "eventInfo": {
         "teamA": "Grêmio",
@@ -369,6 +426,87 @@
         }
       ],
       "id": "evt_10894549df5d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Baseball",
+      "event_name": "Cleveland Guardians Vs Tampa Bay Rays",
+      "eventInfo": {
+        "teamA": "Cleveland Guardians",
+        "teamB": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream5.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "MLB TV HD ",
+          "stream_url": "https://admin.formaturamaxi.com.br/mlb.m3u8"
+        }
+      ],
+      "id": "evt_8e0c5878995a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bay FC Vs Portland Thorns FC",
+      "eventInfo": {
+        "teamA": "Bay FC",
+        "teamB": "Portland Thorns FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/505655/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151008/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ],
+      "id": "evt_ee18e841b65f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Atlético Bucaramanga Vs América de Cali",
+      "eventInfo": {
+        "teamA": "Atlético Bucaramanga",
+        "teamB": "América de Cali",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6102/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "19/10/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4d38ded12453",
       "isHot": false
     },
     {
@@ -480,80 +618,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "FC Cajamarca Vs CD Moquegua",
-      "eventInfo": {
-        "teamA": "FC Cajamarca",
-        "teamB": "CD Moquegua",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1082002/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/492848/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "19/10/2026 12:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_bec9ed901bf8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "FC Cincinnati Vs Columbus Crew",
-      "eventInfo": {
-        "teamA": "FC Cincinnati",
-        "teamB": "Columbus Crew",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_5d4bc242e259",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Estudiantes de Río Cuarto Vs Aldosivi",
-      "eventInfo": {
-        "teamA": "Estudiantes de Río Cuarto",
-        "teamB": "Aldosivi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/266694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_f4dd1e87d2d4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Estudiantes de La Plata Vs San Lorenzo",
-      "eventInfo": {
-        "teamA": "Estudiantes de La Plata",
-        "teamB": "San Lorenzo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3206/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3201/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_e00ec5754ed4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Bahia Vs Flamengo",
       "eventInfo": {
         "teamA": "Bahia",
@@ -581,83 +645,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Cleveland Guardians Vs Tampa Bay Rays",
+      "Category": "Hockey",
+      "event_name": "Minnesota Wild Vs Columbus Blue Jackets",
       "eventInfo": {
-        "teamA": "Cleveland Guardians",
-        "teamB": "Tampa Bay Rays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
+        "teamA": "Minnesota Wild",
+        "teamB": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "19/10/2026 04:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/dazhfiach15.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "MLB TV HD ",
-          "stream_url": "https://admin.formaturamaxi.com.br/mlb.m3u8"
         }
       ],
-      "id": "evt_8e0c5878995a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Bay FC Vs Portland Thorns FC",
-      "eventInfo": {
-        "teamA": "Bay FC",
-        "teamB": "Portland Thorns FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/505655/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/151008/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ],
-      "id": "evt_ee18e841b65f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Atlético Bucaramanga Vs América de Cali",
-      "eventInfo": {
-        "teamA": "Atlético Bucaramanga",
-        "teamB": "América de Cali",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6103/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6102/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "19/10/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_4d38ded12453",
+      "id": "evt_7c2fc8a8a9c1",
       "isHot": false
     },
     {
@@ -1231,30 +1238,6 @@
         }
       ],
       "id": "evt_c6beb1221a1b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Minnesota Wild Vs Columbus Blue Jackets",
-      "eventInfo": {
-        "teamA": "Minnesota Wild",
-        "teamB": "Columbus Blue Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3689/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "19/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_7c2fc8a8a9c1",
       "isHot": false
     },
     {
@@ -2413,6 +2396,23 @@
         }
       ],
       "id": "evt_47b34acf275c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "FC Cajamarca Vs CD Moquegua",
+      "eventInfo": {
+        "teamA": "FC Cajamarca",
+        "teamB": "CD Moquegua",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1082002/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/492848/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "19/10/2026 12:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_bec9ed901bf8",
       "isHot": false
     },
     {
