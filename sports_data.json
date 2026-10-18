@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:30:26 PM 18-10-2026",
+  "last_update_time": "12:45:21 PM 18-10-2026",
   "total_matches": 161,
-  "live_match": 15,
+  "live_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -205,36 +205,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Oregon Ducks Vs Nebraska Cornhuskers",
-      "eventInfo": {
-        "teamA": "Oregon Ducks",
-        "teamB": "Nebraska Cornhuskers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47372/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "18/10/2026 09:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/V555AQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_24784e5d621d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Mixed Martial Arts",
       "event_name": "Daniel Dubois Vs Fabio Wardley",
       "eventInfo": {
@@ -410,6 +380,35 @@
     {
       "status": "LIVE",
       "Category": "Aussie rules",
+      "event_name": "Fremantle Dockers Vs St Kilda Saints",
+      "eventInfo": {
+        "teamA": "Fremantle Dockers",
+        "teamB": "St Kilda Saints",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "18/10/2026 12:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_a6225915387d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
       "event_name": "Essendon Bombers Vs North Melbourne",
       "eventInfo": {
         "teamA": "Essendon Bombers",
@@ -492,35 +491,6 @@
       },
       "streams": [],
       "id": "evt_2d607bacdfa4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Fremantle Dockers Vs St Kilda Saints",
-      "eventInfo": {
-        "teamA": "Fremantle Dockers",
-        "teamB": "St Kilda Saints",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "18/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_a6225915387d",
       "isHot": false
     },
     {
@@ -4318,6 +4288,36 @@
         }
       ],
       "id": "evt_21a840116ebd",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Oregon Ducks Vs Nebraska Cornhuskers",
+      "eventInfo": {
+        "teamA": "Oregon Ducks",
+        "teamB": "Nebraska Cornhuskers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47372/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4282/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "18/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/jkhfsgqghjqsd85.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/V555AQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_24784e5d621d",
       "isHot": false
     },
     {
