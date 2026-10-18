@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:30:28 AM 18-10-2026",
+  "last_update_time": "11:45:19 AM 18-10-2026",
   "total_matches": 165,
-  "live_match": 27,
+  "live_match": 25,
   "matches": [
     {
       "status": "LIVE",
@@ -165,92 +165,25 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Cruz Azul Vs FC Juárez",
+      "event_name": "Sydney FC Vs Adelaide United",
       "eventInfo": {
-        "teamA": "Cruz Azul",
-        "teamB": "FC Juárez",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "18/10/2026 09:10:00 AM"
+        "teamA": "Sydney FC",
+        "teamB": "Adelaide United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174106/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "18/10/2026 11:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/TPPPAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         }
       ],
-      "id": "evt_92924e868536",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Baseball",
-      "event_name": "Cleveland Guardians Vs Tampa Bay Rays",
-      "eventInfo": {
-        "teamA": "Cleveland Guardians",
-        "teamB": "Tampa Bay Rays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-        "eventName": "MLB",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
-        "startTime": "18/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "SportsNet FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b"
-        },
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58211/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "MLB TV HD ",
-          "stream_url": "https://admin.formaturamaxi.com.br/mlb.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY+ LIVE ",
-          "stream_url": "https://edgestream4.pro/hls/dazhfiach15.m3u8?",
-          "referer": "https://streamscenter.online/"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/SSSSAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_8e0c5878995a",
+      "id": "evt_6669c35f994c",
       "isHot": false
     },
     {
@@ -585,30 +518,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Sacramento State Hornets Vs Ohio Bobcats",
-      "eventInfo": {
-        "teamA": "Sacramento State Hornets",
-        "teamB": "Ohio Bobcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4350/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "18/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_49abacaaefbc",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Mixed Martial Arts",
       "event_name": "Daniel Dubois Vs Fabio Wardley",
       "eventInfo": {
@@ -843,6 +752,30 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
+      "event_name": "Fiji Vs Cook Islands",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "Cook Islands",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24237/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52805/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "18/10/2026 11:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_5f881fdd9679",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
       "event_name": "Canterbury Vs Taranaki",
       "eventInfo": {
         "teamA": "Canterbury",
@@ -889,50 +822,31 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sydney FC Vs Adelaide United",
+      "Category": "Aussie rules",
+      "event_name": "Fremantle Dockers Vs St Kilda Saints",
       "eventInfo": {
-        "teamA": "Sydney FC",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174076/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "18/10/2026 11:30:00 AM"
+        "teamA": "Fremantle Dockers",
+        "teamB": "St Kilda Saints",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "18/10/2026 12:05:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_6669c35f994c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Fiji Vs Cook Islands",
-      "eventInfo": {
-        "teamA": "Fiji",
-        "teamB": "Cook Islands",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24237/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52805/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "18/10/2026 11:05:00 AM"
-      },
-      "streams": [
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         }
       ],
-      "id": "evt_5f881fdd9679",
+      "id": "evt_a6225915387d",
       "isHot": false
     },
     {
@@ -948,14 +862,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
         "startTime": "18/10/2026 12:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
+      "streams": [],
       "id": "evt_96ba0abe5c63",
       "isHot": false
     },
@@ -1810,12 +1717,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "startTime": "18/10/2026 07:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_e1d95fde4744",
       "isHot": false
     },
@@ -1832,12 +1734,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "startTime": "18/10/2026 07:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_4e7677f45b7c",
       "isHot": false
     },
@@ -1877,12 +1774,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "startTime": "18/10/2026 09:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_3d278b86fbb5",
       "isHot": false
     },
@@ -1899,12 +1791,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
         "startTime": "18/10/2026 04:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_ddd46bf90b91",
       "isHot": false
     },
@@ -2016,12 +1903,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "startTime": "18/10/2026 07:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_6ec61f314956",
       "isHot": false
     },
@@ -2038,12 +1920,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "startTime": "18/10/2026 09:15:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_d6bd9d4f994b",
       "isHot": false
     },
@@ -2060,12 +1937,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "startTime": "18/10/2026 09:15:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_13f3a1cb0194",
       "isHot": false
     },
@@ -2082,12 +1954,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
         "startTime": "18/10/2026 09:15:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_b740f639b26c",
       "isHot": false
     },
@@ -2128,12 +1995,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "18/10/2026 07:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_facd70c511f7",
       "isHot": false
     },
@@ -2320,12 +2182,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
         "startTime": "19/10/2026 03:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_5d4bc242e259",
       "isHot": false
     },
@@ -2965,12 +2822,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
         "startTime": "19/10/2026 12:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_b3fd562036ef",
       "isHot": false
     },
@@ -3004,12 +2856,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "18/10/2026 08:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_ba987cfd9e7f",
       "isHot": false
     },
@@ -3026,12 +2873,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "18/10/2026 06:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_b642299cc217",
       "isHot": false
     },
@@ -3048,12 +2890,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "18/10/2026 06:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_cdf935472142",
       "isHot": false
     },
@@ -3070,12 +2907,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "18/10/2026 08:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_af3ec54bf922",
       "isHot": false
     },
@@ -3092,12 +2924,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
         "startTime": "18/10/2026 08:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_b0b0e73f128b",
       "isHot": false
     },
@@ -3132,7 +2959,7 @@
           "stream_url": "https://admin.formaturamaxi.com.br/mlb.m3u8"
         }
       ],
-      "id": "evt_8e0c5878995a_2",
+      "id": "evt_8e0c5878995a",
       "isHot": false
     },
     {
@@ -3231,35 +3058,6 @@
         }
       ],
       "id": "evt_a043f1c54abb",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
-      "event_name": "Fremantle Dockers Vs St Kilda Saints",
-      "eventInfo": {
-        "teamA": "Fremantle Dockers",
-        "teamB": "St Kilda Saints",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334438/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "18/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_a6225915387d",
       "isHot": false
     },
     {
@@ -4104,8 +3902,8 @@
       "eventInfo": {
         "teamA": "GOAL RUSH",
         "teamB": "GOAL RUSH",
-        "teamAFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "eventName": "Premier League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
         "startTime": "18/10/2026 06:55:00 PM"
@@ -4304,6 +4102,41 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Cruz Azul Vs FC Juárez",
+      "eventInfo": {
+        "teamA": "Cruz Azul",
+        "teamB": "FC Juárez",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "18/10/2026 09:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/TPPPAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_92924e868536",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "LA Galaxy Vs San Diego FC",
       "eventInfo": {
         "teamA": "LA Galaxy",
@@ -4476,6 +4309,62 @@
     },
     {
       "status": "ENDED",
+      "Category": "Baseball",
+      "event_name": "Cleveland Guardians Vs Tampa Bay Rays",
+      "eventInfo": {
+        "teamA": "Cleveland Guardians",
+        "teamB": "Tampa Bay Rays",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+        "eventName": "MLB",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11205/image/dark",
+        "startTime": "18/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "SportsNet FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b"
+        },
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58211/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MLB TV HD ",
+          "stream_url": "https://admin.formaturamaxi.com.br/mlb.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY+ LIVE ",
+          "stream_url": "https://edgestream4.pro/hls/dazhfiach15.m3u8?",
+          "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/SSSSAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8e0c5878995a_2",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Orange County SC Vs Phoenix Rising FC",
       "eventInfo": {
@@ -4632,6 +4521,30 @@
         }
       ],
       "id": "evt_fb953e9a8167",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Sacramento State Hornets Vs Ohio Bobcats",
+      "eventInfo": {
+        "teamA": "Sacramento State Hornets",
+        "teamB": "Ohio Bobcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296547/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4350/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "18/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_49abacaaefbc",
       "isHot": false
     },
     {
