@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:28 AM 19-10-2026",
+  "last_update_time": "04:45:22 AM 19-10-2026",
   "total_matches": 94,
-  "live_match": 16,
+  "live_match": 19,
   "matches": [
     {
       "status": "LIVE",
@@ -183,6 +183,29 @@
         }
       ],
       "id": "evt_e00ec5754ed4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Remo Vs Red Bull Bragantino",
+      "eventInfo": {
+        "teamA": "Remo",
+        "teamB": "Red Bull Bragantino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "19/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER4 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
+          "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
+        }
+      ],
+      "id": "evt_a0b50f42c45c",
       "isHot": false
     },
     {
@@ -452,24 +475,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Remo Vs Red Bull Bragantino",
+      "event_name": "Club Atlético Belgrano Vs River Plate",
       "eventInfo": {
-        "teamA": "Remo",
-        "teamB": "Red Bull Bragantino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "19/10/2026 04:30:00 AM"
+        "teamA": "Club Atlético Belgrano",
+        "teamB": "River Plate",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "19/10/2026 05:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERER4 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd",
-          "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94"
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
         }
       ],
-      "id": "evt_a0b50f42c45c",
+      "id": "evt_dfdde8987c13",
       "isHot": false
     },
     {
@@ -494,6 +523,40 @@
         }
       ],
       "id": "evt_ef4715da4820",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Llaneros FC Vs Independiente Santa Fe",
+      "eventInfo": {
+        "teamA": "Llaneros FC",
+        "teamB": "Independiente Santa Fe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "19/10/2026 05:05:00 AM"
+      },
+      "streams": [],
+      "id": "evt_6c52ab68b4c1",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Cienciano Vs Universidad Técnica de Cajamarca",
+      "eventInfo": {
+        "teamA": "Cienciano",
+        "teamB": "Universidad Técnica de Cajamarca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/87854/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "19/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_e4a950139336",
       "isHot": false
     },
     {
@@ -946,35 +1009,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Club Atlético Belgrano Vs River Plate",
-      "eventInfo": {
-        "teamA": "Club Atlético Belgrano",
-        "teamB": "River Plate",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "19/10/2026 05:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_dfdde8987c13",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "CF Monterrey Vs CF Pachuca",
       "eventInfo": {
         "teamA": "CF Monterrey",
@@ -1078,23 +1112,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Llaneros FC Vs Independiente Santa Fe",
-      "eventInfo": {
-        "teamA": "Llaneros FC",
-        "teamB": "Independiente Santa Fe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "19/10/2026 05:05:00 AM"
-      },
-      "streams": [],
-      "id": "evt_6c52ab68b4c1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Deportivo Cali Vs Junior Barranquilla",
       "eventInfo": {
         "teamA": "Deportivo Cali",
@@ -1161,23 +1178,6 @@
         }
       ],
       "id": "evt_b5b0655303fe",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Cienciano Vs Universidad Técnica de Cajamarca",
-      "eventInfo": {
-        "teamA": "Cienciano",
-        "teamB": "Universidad Técnica de Cajamarca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2301/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/87854/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "19/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_e4a950139336",
       "isHot": false
     },
     {
