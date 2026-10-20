@@ -2,10 +2,32 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:30 AM 21-10-2026",
+  "last_update_time": "04:45:20 AM 21-10-2026",
   "total_matches": 66,
-  "live_match": 12,
+  "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Londrina Vs Cuiabá",
+      "eventInfo": {
+        "teamA": "Londrina",
+        "teamB": "Cuiabá",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2022/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/49202/image",
+        "eventName": "Brasileirão Série B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
+        "startTime": "21/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_2d1065d5ed72",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -77,28 +99,6 @@
         }
       ],
       "id": "evt_70c08e4295e9",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Londrina Vs Cuiabá",
-      "eventInfo": {
-        "teamA": "Londrina",
-        "teamB": "Cuiabá",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2022/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/49202/image",
-        "eventName": "Brasileirão Série B",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
-        "startTime": "21/10/2026 04:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2d1065d5ed72",
       "isHot": false
     },
     {
@@ -279,6 +279,42 @@
         }
       ],
       "id": "evt_52f856e29350",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Marshall Thundering Herd Vs South Alabama Jaguars",
+      "eventInfo": {
+        "teamA": "Marshall Thundering Herd",
+        "teamB": "South Alabama Jaguars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4337/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188131/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "21/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/qsdnajbq32.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2d329322a8d5",
       "isHot": false
     },
     {
@@ -1240,42 +1276,6 @@
         }
       ],
       "id": "evt_2ce89f819354",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Marshall Thundering Herd Vs South Alabama Jaguars",
-      "eventInfo": {
-        "teamA": "Marshall Thundering Herd",
-        "teamB": "South Alabama Jaguars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4337/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188131/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "21/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/qsdnajbq32.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2d329322a8d5",
       "isHot": false
     },
     {
