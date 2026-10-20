@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:27 PM 20-10-2026",
-  "total_matches": 60,
-  "live_match": 9,
+  "last_update_time": "06:45:23 PM 20-10-2026",
+  "total_matches": 63,
+  "live_match": 10,
   "matches": [
     {
       "status": "LIVE",
@@ -346,6 +346,40 @@
     },
     {
       "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India Women Vs Zimbabwe Women",
+      "eventInfo": {
+        "teamA": "India Women",
+        "teamB": "Zimbabwe Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "eventName": "Twenty20 International Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
+        "startTime": "20/10/2026 07:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
+          "drm_key": "0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f"
+        },
+        {
+          "channel_name": "TNT SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
+          "drm_key": "0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f"
+        }
+      ],
+      "id": "evt_73fa2b108202",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC 15 de Agosto de Akonibe Vs Simba SC",
       "eventInfo": {
@@ -535,40 +569,6 @@
         }
       ],
       "id": "evt_38747064c422",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "India Women Vs Zimbabwe Women",
-      "eventInfo": {
-        "teamA": "India Women",
-        "teamB": "Zimbabwe Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "eventName": "Twenty20 International Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11222/image/dark",
-        "startTime": "20/10/2026 07:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drm_key": "0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f"
-        },
-        {
-          "channel_name": "TNT SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd",
-          "drm_key": "0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f"
-        }
-      ],
-      "id": "evt_73fa2b108202",
       "isHot": false
     },
     {
@@ -1272,7 +1272,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1296,7 +1296,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1566,6 +1566,78 @@
         }
       ],
       "id": "evt_2ce89f819354",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Marshall Thundering Herd Vs South Alabama Jaguars",
+      "eventInfo": {
+        "teamA": "Marshall Thundering Herd",
+        "teamB": "South Alabama Jaguars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4337/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188131/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "21/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/qsdnajbq32.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2d329322a8d5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Florida Intl Golden Panthers Vs Middle Tennessee Blue Raiders",
+      "eventInfo": {
+        "teamA": "Florida Intl Golden Panthers",
+        "teamB": "Middle Tennessee Blue Raiders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47353/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4360/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "21/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_86c7d3298429",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "Delaware Blue Hens Vs Missouri State Bears",
+      "eventInfo": {
+        "teamA": "Delaware Blue Hens",
+        "teamB": "Missouri State Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/46643/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296497/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "21/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_51dbd431250d",
       "isHot": false
     },
     {
