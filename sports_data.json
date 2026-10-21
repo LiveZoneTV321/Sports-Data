@@ -2,53 +2,10 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:30:28 AM 22-10-2026",
+  "last_update_time": "04:45:21 AM 22-10-2026",
   "total_matches": 73,
-  "live_match": 12,
+  "live_match": 16,
   "matches": [
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "21/10/2026 11:03:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "SKY RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
-        },
-        {
-          "channel_name": "ITV1 FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
-        }
-      ],
-      "id": "evt_3c671d56b0ab",
-      "isHot": false
-    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -70,30 +27,6 @@
         }
       ],
       "id": "evt_0186aa9de2ea",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Chelsea Vs Aston Villa",
-      "eventInfo": {
-        "teamA": "Chelsea",
-        "teamB": "Aston Villa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "22/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_b8376728483e",
       "isHot": false
     },
     {
@@ -151,6 +84,55 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Real Potosí Vs Bolívar",
+      "eventInfo": {
+        "teamA": "Real Potosí",
+        "teamB": "Bolívar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+        "eventName": "Copa Bolivia",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19891/image/dark",
+        "startTime": "22/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_b35d956aff43",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brooklyn FC Vs Birmingham Legion FC",
+      "eventInfo": {
+        "teamA": "Brooklyn FC",
+        "teamB": "Birmingham Legion FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1158835/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/310967/image",
+        "eventName": "USL Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13363/image/dark",
+        "startTime": "22/10/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_2fdda9288273",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "River Plate Reserve Vs Vélez Sarsfield Reserve",
       "eventInfo": {
         "teamA": "River Plate Reserve",
@@ -191,25 +173,143 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Real Potosí Vs Bolívar",
+      "event_name": "Llaneros FC Vs Deportivo Cali",
       "eventInfo": {
-        "teamA": "Real Potosí",
-        "teamB": "Bolívar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7060/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image",
-        "eventName": "Copa Bolivia",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19891/image/dark",
-        "startTime": "22/10/2026 04:30:00 AM"
+        "teamA": "Llaneros FC",
+        "teamB": "Deportivo Cali",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6112/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "22/10/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_0291140350d5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Buffalo Sabres Vs Philadelphia Flyers",
+      "eventInfo": {
+        "teamA": "Buffalo Sabres",
+        "teamB": "Philadelphia Flyers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/10/2026 05:30:00 AM"
       },
       "streams": [
         {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_b35d956aff43",
+      "id": "evt_81c4e0796b39",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Ottawa Senators Vs Florida Panthers",
+      "eventInfo": {
+        "teamA": "Ottawa Senators",
+        "teamB": "Florida Panthers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "22/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_8f51ac615549",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Brooklyn Nets Vs Charlotte Hornets",
+      "eventInfo": {
+        "teamA": "Brooklyn Nets",
+        "teamB": "Charlotte Hornets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_127c6e6c03bc",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Toronto Raptors Vs Chicago Bulls",
+      "eventInfo": {
+        "teamA": "Toronto Raptors",
+        "teamB": "Chicago Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_e6868f801642",
       "isHot": false
     },
     {
@@ -262,27 +362,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Brooklyn FC Vs Birmingham Legion FC",
+      "Category": "Basketball",
+      "event_name": "Miami Heat Vs Minnesota Timberwolves",
       "eventInfo": {
-        "teamA": "Brooklyn FC",
-        "teamB": "Birmingham Legion FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1158835/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/310967/image",
-        "eventName": "USL Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/13363/image/dark",
-        "startTime": "22/10/2026 04:30:00 AM"
+        "teamA": "Miami Heat",
+        "teamB": "Minnesota Timberwolves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "22/10/2026 05:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_2fdda9288273",
+      "id": "evt_71ffd8891d03",
       "isHot": false
     },
     {
@@ -920,23 +1019,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Llaneros FC Vs Deportivo Cali",
-      "eventInfo": {
-        "teamA": "Llaneros FC",
-        "teamB": "Deportivo Cali",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/89374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6112/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "22/10/2026 05:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_0291140350d5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Palmeiras Vs Fluminense",
       "eventInfo": {
         "teamA": "Palmeiras",
@@ -991,155 +1073,6 @@
         }
       ],
       "id": "evt_a7ac9fc4c221",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Buffalo Sabres Vs Philadelphia Flyers",
-      "eventInfo": {
-        "teamA": "Buffalo Sabres",
-        "teamB": "Philadelphia Flyers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3678/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3699/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_81c4e0796b39",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Ottawa Senators Vs Florida Panthers",
-      "eventInfo": {
-        "teamA": "Ottawa Senators",
-        "teamB": "Florida Panthers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3687/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "22/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8f51ac615549",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Brooklyn Nets Vs Charlotte Hornets",
-      "eventInfo": {
-        "teamA": "Brooklyn Nets",
-        "teamB": "Charlotte Hornets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_127c6e6c03bc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Toronto Raptors Vs Chicago Bulls",
-      "eventInfo": {
-        "teamA": "Toronto Raptors",
-        "teamB": "Chicago Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_e6868f801642",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Miami Heat Vs Minnesota Timberwolves",
-      "eventInfo": {
-        "teamA": "Miami Heat",
-        "teamB": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "22/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_71ffd8891d03",
       "isHot": false
     },
     {
@@ -1584,6 +1517,49 @@
         }
       ],
       "id": "evt_8164e402a2e1",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "21/10/2026 11:03:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "SKY RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://tmaxapp.site/8wirwjs76erftg/skysportsracing.m3u8"
+        },
+        {
+          "channel_name": "ITV1 FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144"
+        }
+      ],
+      "id": "evt_3c671d56b0ab",
       "isHot": false
     },
     {
@@ -2291,6 +2267,30 @@
         }
       ],
       "id": "evt_0b1f16c00377",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Chelsea Vs Aston Villa",
+      "eventInfo": {
+        "teamA": "Chelsea",
+        "teamB": "Aston Villa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "22/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_b8376728483e",
       "isHot": false
     },
     {
