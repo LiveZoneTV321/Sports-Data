@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:30:29 AM 22-10-2026",
-  "total_matches": 81,
+  "last_update_time": "12:45:21 AM 22-10-2026",
+  "total_matches": 73,
   "live_match": 20,
   "matches": [
     {
@@ -276,9 +276,45 @@
           "channel_name": "D SPORTS + FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
           "drm_key": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504"
+        },
+        {
+          "channel_name": "CazéTV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ajjjQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_0b1f16c00377",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
+      "eventInfo": {
+        "teamA": "Charlton Athletic WFC",
+        "teamB": "Bristol City WFC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
+        "eventName": "FA Women's League Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "22/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_61c2dfa0265f",
       "isHot": false
     },
     {
@@ -296,12 +332,6 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
@@ -316,6 +346,12 @@
           "channel_name": "D SPORTS +- FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
           "drm_key": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ajjj.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_b61da3583f57",
@@ -334,7 +370,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
         "startTime": "22/10/2026 12:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ajjjQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_e3cf6f82c787",
       "isHot": false
     },
@@ -480,6 +523,12 @@
         {
           "channel_name": "TV QUALITY 2",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hmjhtt9w/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/RGRGRGqq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_a2613fd24b74",
@@ -546,6 +595,12 @@
         {
           "channel_name": "TV QUALITY2",
           "stream_url": "http://162.251.160.53:8089/prime_us_b0hmh5723h/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/RGRGRGqqq.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_ac3d6435b08d",
@@ -612,30 +667,6 @@
         }
       ],
       "id": "evt_cf27185ac13c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
-      "eventInfo": {
-        "teamA": "Charlton Athletic WFC",
-        "teamB": "Bristol City WFC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "22/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_61c2dfa0265f",
       "isHot": false
     },
     {
@@ -2221,219 +2252,6 @@
         }
       ],
       "id": "evt_bc2beb8eb4e5",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Inter U20 Vs Shakhtar Donetsk U19",
-      "eventInfo": {
-        "teamA": "Inter U20",
-        "teamB": "Shakhtar Donetsk U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/826804/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/107723/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_90b299797ada",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Real Madrid U19 Vs RB Leipzig U19",
-      "eventInfo": {
-        "teamA": "Real Madrid U19",
-        "teamB": "RB Leipzig U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/120854/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/136294/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 08:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_de377ec979df",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Lille U19 Vs Galatasaray U19",
-      "eventInfo": {
-        "teamA": "Lille U19",
-        "teamB": "Galatasaray U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296213/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/120868/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_d4f52d0c9857",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Aston Villa U19 Vs Viking FK U19",
-      "eventInfo": {
-        "teamA": "Aston Villa U19",
-        "teamB": "Viking FK U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 07:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e07aa6a6714d",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Canada U17 Vs Norway U17",
-      "eventInfo": {
-        "teamA": "Canada U17",
-        "teamB": "Norway U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/44564/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38066/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "21/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_bb5c13220d0d",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Japan U17 Vs France U17",
-      "eventInfo": {
-        "teamA": "Japan U17",
-        "teamB": "France U17",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36913/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37866/image",
-        "eventName": "U17 Women's World Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/827/image/dark",
-        "startTime": "21/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_1fe3934a612b",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Basketball",
-      "event_name": "Tasmania Jackjumpers Vs Brisbane Bullets",
-      "eventInfo": {
-        "teamA": "Tasmania Jackjumpers",
-        "teamB": "Brisbane Bullets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "21/10/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_6eeed0abd419",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "FC 15 de Agosto de Akonibe Vs Simba SC",
-      "eventInfo": {
-        "teamA": "FC 15 de Agosto de Akonibe",
-        "teamB": "Simba SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/550481/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/212409/image",
-        "eventName": "CAF Champions League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1054/image/dark",
-        "startTime": "21/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_be7a714943d6",
       "isHot": false
     }
   ]
