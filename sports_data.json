@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:28 AM 21-10-2026",
+  "last_update_time": "06:45:23 AM 21-10-2026",
   "total_matches": 66,
   "live_match": 20,
   "matches": [
@@ -50,6 +50,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "CD Guadalajara Vs Club Necaxa",
+      "eventInfo": {
+        "teamA": "CD Guadalajara",
+        "teamB": "Club Necaxa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "21/10/2026 06:07:00 AM"
+      },
+      "streams": [],
+      "id": "evt_ba05bb334583",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Londrina Vs Cuiabá",
       "eventInfo": {
         "teamA": "Londrina",
@@ -72,23 +89,36 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atlético Mineiro Vs Internacional",
+      "event_name": "Vasco da Gama Vs Boca Juniors",
       "eventInfo": {
-        "teamA": "Atlético Mineiro",
-        "teamB": "Internacional",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/312546/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/311632/image",
-        "eventName": "Copa do Brasil, Feminino",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
-        "startTime": "21/10/2026 04:00:00 AM"
+        "teamA": "Vasco da Gama",
+        "teamB": "Boca Juniors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+        "eventName": "CONMEBOL Sudamericana",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
+        "startTime": "21/10/2026 06:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "BEIN SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
-      "id": "evt_2a8c26b40e4a",
+      "id": "evt_5bd58f110f1f",
       "isHot": false
     },
     {
@@ -470,23 +500,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "CD Guadalajara Vs Club Necaxa",
-      "eventInfo": {
-        "teamA": "CD Guadalajara",
-        "teamB": "Club Necaxa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "21/10/2026 06:07:00 AM"
-      },
-      "streams": [],
-      "id": "evt_ba05bb334583",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "FC Juárez Vs Atlante FC",
       "eventInfo": {
         "teamA": "FC Juárez",
@@ -509,37 +522,32 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Vasco da Gama Vs Boca Juniors",
+      "Category": "Basketball",
+      "event_name": "San Antonio Spurs Vs Oklahoma City Thunder",
       "eventInfo": {
-        "teamA": "Vasco da Gama",
-        "teamB": "Boca Juniors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
-        "eventName": "CONMEBOL Sudamericana",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "startTime": "21/10/2026 06:30:00 AM"
+        "teamA": "San Antonio Spurs",
+        "teamB": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "21/10/2026 07:30:00 AM"
       },
       "streams": [
         {
-          "channel_name": "BEIN SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_5bd58f110f1f",
+      "id": "evt_0638d97a3da7",
       "isHot": false
     },
     {
@@ -1105,36 +1113,6 @@
         }
       ],
       "id": "evt_3fa111b5eb71",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "San Antonio Spurs Vs Oklahoma City Thunder",
-      "eventInfo": {
-        "teamA": "San Antonio Spurs",
-        "teamB": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "21/10/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_0638d97a3da7",
       "isHot": false
     },
     {
@@ -1845,6 +1823,28 @@
         }
       ],
       "id": "evt_75f819dc2821",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlético Mineiro Vs Internacional",
+      "eventInfo": {
+        "teamA": "Atlético Mineiro",
+        "teamB": "Internacional",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/312546/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/311632/image",
+        "eventName": "Copa do Brasil, Feminino",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
+        "startTime": "21/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_2a8c26b40e4a",
       "isHot": false
     },
     {
