@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:34 AM 22-10-2026",
+  "last_update_time": "03:15:23 AM 22-10-2026",
   "total_matches": 73,
-  "live_match": 13,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -564,30 +564,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
-      "eventInfo": {
-        "teamA": "Charlton Athletic WFC",
-        "teamB": "Bristol City WFC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
-        "eventName": "FA Women's League Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "22/10/2026 12:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_61c2dfa0265f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Liverpool M Vs Cerro Largo",
       "eventInfo": {
         "teamA": "Liverpool M",
@@ -666,6 +642,98 @@
         }
       ],
       "id": "evt_70c08e4295e9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "São Paulo Vs EC Bahia",
+      "eventInfo": {
+        "teamA": "São Paulo",
+        "teamB": "EC Bahia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/312545/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/342756/image",
+        "eventName": "Copa do Brasil, Feminino",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
+        "startTime": "22/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        }
+      ],
+      "id": "evt_0186aa9de2ea",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Universidad de Chile Vs Club Deportes Antofagasta",
+      "eventInfo": {
+        "teamA": "Universidad de Chile",
+        "teamB": "Club Deportes Antofagasta",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5601/image",
+        "eventName": "Copa Chile",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
+        "startTime": "22/10/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_4fea7d80c3c3",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Montevideo City Torque Vs Atlético Mineiro",
+      "eventInfo": {
+        "teamA": "Montevideo City Torque",
+        "teamB": "Atlético Mineiro",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+        "eventName": "CONMEBOL Sudamericana",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
+        "startTime": "22/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "beIN ENGLISH FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "id": "evt_1254ed10e2bd",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "River Plate Reserve Vs Vélez Sarsfield Reserve",
+      "eventInfo": {
+        "teamA": "River Plate Reserve",
+        "teamB": "Vélez Sarsfield Reserve",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/236803/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/250779/image",
+        "eventName": "Campeonato de Reserva de Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
+        "startTime": "22/10/2026 04:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_9ceb1101f1aa",
       "isHot": false
     },
     {
@@ -1262,29 +1330,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "São Paulo Vs EC Bahia",
-      "eventInfo": {
-        "teamA": "São Paulo",
-        "teamB": "EC Bahia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/312545/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/342756/image",
-        "eventName": "Copa do Brasil, Feminino",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/26768/image/dark",
-        "startTime": "22/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        }
-      ],
-      "id": "evt_0186aa9de2ea",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Independiente Santa Fe Vs Jaguares de Córdoba",
       "eventInfo": {
         "teamA": "Independiente Santa Fe",
@@ -1314,23 +1359,6 @@
       },
       "streams": [],
       "id": "evt_0291140350d5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Club Deportes Antofagasta",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Club Deportes Antofagasta",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5601/image",
-        "eventName": "Copa Chile",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1221/image/dark",
-        "startTime": "22/10/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_4fea7d80c3c3",
       "isHot": false
     },
     {
@@ -1366,41 +1394,6 @@
         }
       ],
       "id": "evt_608f4155374e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Montevideo City Torque Vs Atlético Mineiro",
-      "eventInfo": {
-        "teamA": "Montevideo City Torque",
-        "teamB": "Atlético Mineiro",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174972/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-        "eventName": "CONMEBOL Sudamericana",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/480/image/dark",
-        "startTime": "22/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "beIN ENGLISH FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "id": "evt_1254ed10e2bd",
       "isHot": false
     },
     {
@@ -2065,23 +2058,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "River Plate Reserve Vs Vélez Sarsfield Reserve",
-      "eventInfo": {
-        "teamA": "River Plate Reserve",
-        "teamB": "Vélez Sarsfield Reserve",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/236803/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/250779/image",
-        "eventName": "Campeonato de Reserva de Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18817/image/dark",
-        "startTime": "22/10/2026 04:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_9ceb1101f1aa",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Basketball",
       "event_name": "Illawarra Hawks Vs Sydney Kings",
       "eventInfo": {
@@ -2375,6 +2351,30 @@
         }
       ],
       "id": "evt_0b1f16c00377",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Charlton Athletic WFC Vs Bristol City WFC",
+      "eventInfo": {
+        "teamA": "Charlton Athletic WFC",
+        "teamB": "Bristol City WFC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/234203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/55503/image",
+        "eventName": "FA Women's League Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "22/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_61c2dfa0265f",
       "isHot": false
     },
     {
