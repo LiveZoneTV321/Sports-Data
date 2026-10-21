@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:00:37 PM 21-10-2026",
-  "total_matches": 82,
-  "live_match": 6,
+  "last_update_time": "06:15:24 PM 21-10-2026",
+  "total_matches": 86,
+  "live_match": 9,
   "matches": [
     {
       "status": "LIVE",
@@ -180,7 +180,7 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
         "eventName": "TEST International",
         "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11190/image/dark",
-        "startTime": "21/10/2026 02:00:00 PM"
+        "startTime": "21/10/2026 01:44:00 PM"
       },
       "streams": [
         {
@@ -251,8 +251,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
-          "drm_key": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
+          "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
         },
         {
           "channel_name": "FANCODE FHD",
@@ -262,8 +262,8 @@
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd",
-          "drm_key": "d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db"
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iplwybp0pk/out/v1/d71f03d9635c4fc0b1c911f743f98519/cenc.mpd",
+          "drm_key": "a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582"
         },
         {
           "channel_name": "WILLOW SPORTS",
@@ -282,6 +282,95 @@
         }
       ],
       "id": "evt_e1ce43dc1c48",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Lille U19 Vs Galatasaray U19",
+      "eventInfo": {
+        "teamA": "Lille U19",
+        "teamB": "Galatasaray U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296213/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/120868/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d4f52d0c9857",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "FC 15 de Agosto de Akonibe Vs Simba SC",
+      "eventInfo": {
+        "teamA": "FC 15 de Agosto de Akonibe",
+        "teamB": "Simba SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/550481/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/212409/image",
+        "eventName": "CAF Champions League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1054/image/dark",
+        "startTime": "21/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/AAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_be7a714943d6",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Aston Villa U19 Vs Viking FK U19",
+      "eventInfo": {
+        "teamA": "Aston Villa U19",
+        "teamB": "Viking FK U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 07:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e07aa6a6714d",
       "isHot": false
     },
     {
@@ -1057,24 +1146,61 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Aston Villa U19 Vs Viking FK U19",
+      "event_name": "Inter U20 Vs Shakhtar Donetsk U19",
       "eventInfo": {
-        "teamA": "Aston Villa U19",
-        "teamB": "Viking FK U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/262177/image",
+        "teamA": "Inter U20",
+        "teamB": "Shakhtar Donetsk U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/826804/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/107723/image",
         "eventName": "UEFA Youth League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "21/10/2026 07:00:00 PM"
+        "startTime": "21/10/2026 08:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_e07aa6a6714d",
+      "id": "evt_90b299797ada",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Real Madrid U19 Vs RB Leipzig U19",
+      "eventInfo": {
+        "teamA": "Real Madrid U19",
+        "teamB": "RB Leipzig U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/120854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/136294/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "21/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/KYYYQQQQQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_de377ec979df",
       "isHot": false
     },
     {
