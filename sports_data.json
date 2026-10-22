@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:35 AM 23-10-2026",
+  "last_update_time": "02:15:24 AM 23-10-2026",
   "total_matches": 77,
   "live_match": 33,
   "matches": [
@@ -383,6 +383,12 @@
       },
       "streams": [
         {
+          "channel_name": "PARAMOUNT+ FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/flsodcfwod/out/v1/156cef2563f74863a10fb42946347933/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "5a0b5ce35ce4dc3f1589f4e828322f07:103a1207576822a4232e30476e75c210"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://live1.quickscoreboardz.com/live/channel9.m3u8",
           "referer": "https://xlz.domainkqt.cc/",
@@ -393,6 +399,12 @@
           "stream_url": "http://193.47.62.55/hls/D111AAAAQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SonyLiv (Asia) ",
+          "stream_url": "https://sonymtmnew.akamaized.net/hls/live/2118676/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792715180~acl=/*~id=25029118503491533116734949005709~hmac=ea5462b55c1c775ad01858bfd9bc5f8040cfed41b86dc9133d8cc1aa1b8023da",
+          "referer": "https://www.sonyliv.com/",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0"
         }
       ],
       "id": "evt_f46fd719db94",
@@ -1146,6 +1158,41 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Real Madrid Vs Barcelona",
+      "eventInfo": {
+        "teamA": "Real Madrid",
+        "teamB": "Barcelona",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "26/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "PREMIER SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "BEIN SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "id": "evt_658612b6f223",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Motorsports",
       "event_name": "Formula 1 Vs Formula 1",
       "eventInfo": {
@@ -1444,30 +1491,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Mount Pleasant FA Vs Club Sando Moruga",
-      "eventInfo": {
-        "teamA": "Mount Pleasant FA",
-        "teamB": "Club Sando Moruga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/298573/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/246027/image",
-        "eventName": "CONCACAF Caribbean Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/20931/image/dark",
-        "startTime": "23/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_54ac05549979",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "FC Motagua Vs LD Alajuelense",
       "eventInfo": {
         "teamA": "FC Motagua",
@@ -1572,7 +1595,7 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
@@ -1650,9 +1673,9 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream5.pro/hls/mlkijfezag65.m3u8",
           "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ],
       "id": "evt_d55a34db6074",
@@ -1674,9 +1697,9 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8",
           "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ],
       "id": "evt_258d2363554a",
@@ -1696,6 +1719,12 @@
         "startTime": "23/10/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -1727,6 +1756,12 @@
           "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream6.pro/hls/hjksgdfauzy51.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1752,9 +1787,9 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://edgestream1.pro/hls/uyopzarf50.m3u8",
           "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ],
       "id": "evt_a66d8dfa14e0",
@@ -1787,6 +1822,12 @@
           "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
         },
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1810,6 +1851,12 @@
         "startTime": "23/10/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -1835,6 +1882,12 @@
       },
       "streams": [
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream6.pro/hls/poiryezafv56.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1858,6 +1911,12 @@
         "startTime": "23/10/2026 08:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream5.pro/hls/cwxvbnfghq60.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -1883,6 +1942,12 @@
       },
       "streams": [
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream1.pro/hls/sdezqfza55.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1906,6 +1971,12 @@
         "startTime": "23/10/2026 08:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -1937,6 +2008,12 @@
           "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
         },
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream3.pro/hls/rzavbdyua57.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1966,6 +2043,12 @@
           "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         },
         {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream7.pro/hls/earzfddshg58.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -1989,6 +2072,12 @@
         "startTime": "23/10/2026 07:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "FASTER TV+ HD ",
+          "stream_url": "https://edgestream5.pro/hls/bvnzadfvyt59.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
