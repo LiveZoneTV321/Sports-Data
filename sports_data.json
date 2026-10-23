@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:30:31 AM 23-10-2026",
-  "total_matches": 77,
+  "last_update_time": "07:45:23 AM 23-10-2026",
+  "total_matches": 112,
   "live_match": 25,
   "matches": [
     {
@@ -70,12 +70,19 @@
         "teamA": "Atlético Nacional",
         "teamB": "Deportivo Pasto",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6113/image",
         "eventName": "Primera A",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
         "startTime": "23/10/2026 07:00:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": " QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/CDDDAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_4579b2a750e0",
       "isHot": false
     },
@@ -309,6 +316,35 @@
     },
     {
       "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Oklahoma City Thunder Vs Denver Nuggets",
+      "eventInfo": {
+        "teamA": "Oklahoma City Thunder",
+        "teamB": "Denver Nuggets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "23/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA TV HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58436/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_258d2363554a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Pittsburgh Penguins Vs Florida Panthers",
       "eventInfo": {
@@ -326,6 +362,10 @@
           "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/82de1995-f2c0-4673-be92-1bc1f80ef767/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -360,6 +400,10 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream4.pro/hls/hjksgdfauzy51.m3u8?",
           "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/96526cf8-9424-46d4-9734-a71c34b89c3e/master.m3u8"
         }
       ],
       "id": "evt_c18d814e177d",
@@ -383,6 +427,10 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream5.pro/hls/uyopzarf50.m3u8?",
           "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/337b5880-fdfb-4a95-bc7c-d0781a43aeec/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + ",
@@ -427,6 +475,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/bdef0456-8fd3-4c4d-822f-a2e4e1bc8863/master.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?",
           "referer": "https://streamscenter.online/"
@@ -454,6 +506,10 @@
           "stream_url": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3cd7b7b5-54b6-4fa8-8fb3-44e14046a6bd/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -485,6 +541,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1b111c6b-2e81-44f7-8eb1-d58407151717/master.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream5.pro/hls/poiryezafv56.m3u8?",
           "referer": "https://streamscenter.online/"
@@ -512,6 +572,10 @@
           "stream_url": "https://edgestream1.pro/hls/sdezqfza55.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/31c6f555-1725-4e72-b6ea-ce09e4b9e5d0/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -546,6 +610,10 @@
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream4.pro/hls/rzavbdyua57.m3u8?",
           "referer": "https://streamscenter.online/"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0436b400-9f9e-47e9-b8b4-7e88824716d3/master.m3u8"
         }
       ],
       "id": "evt_cb6d7f5946ab",
@@ -577,6 +645,10 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e103c772-ced3-4ad9-9f1c-d617d46533e2/master.m3u8"
+        },
+        {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
           "referer": "https://streame.center",
@@ -605,6 +677,10 @@
           "stream_url": "https://edgestream5.pro/hls/bvnzadfvyt59.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b6b1ec85-6c87-41ab-968e-9c43617403a8/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -711,35 +787,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Oklahoma City Thunder Vs Denver Nuggets",
-      "eventInfo": {
-        "teamA": "Oklahoma City Thunder",
-        "teamB": "Denver Nuggets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "23/10/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA TV HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58436/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_258d2363554a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Seattle Kraken Vs Utah Mammoth",
       "eventInfo": {
@@ -757,6 +804,10 @@
           "stream_url": "https://edgestream5.pro/hls/cwxvbnfghq60.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3afc659e-bb25-4144-ae5b-691a5ae1692a/master.m3u8"
         },
         {
           "channel_name": "STREAM TV + HD",
@@ -789,10 +840,8 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         },
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+          "channel_name": "SPORTSCAST + FHD",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c3ed4f07-ac57-4da5-8d20-81ce6aa36bba/master.m3u8"
         }
       ],
       "id": "evt_402feda56145",
@@ -1082,6 +1131,780 @@
         }
       ],
       "id": "evt_72721a379900",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Granada Vs Real Valladolid",
+      "eventInfo": {
+        "teamA": "Granada",
+        "teamB": "Real Valladolid",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "24/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_20178e726145",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Deportivo Alavés Vs Málaga CF",
+      "eventInfo": {
+        "teamA": "Deportivo Alavés",
+        "teamB": "Málaga CF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "24/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream1.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_143073cb1869",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Ipswich Town Vs Nottingham Forest",
+      "eventInfo": {
+        "teamA": "Ipswich Town",
+        "teamB": "Nottingham Forest",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "24/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_a385545b23ff",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Akhmat Grozny Vs Orenburg",
+      "eventInfo": {
+        "teamA": "Akhmat Grozny",
+        "teamB": "Orenburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5131/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24118/image",
+        "eventName": "Russian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
+        "startTime": "23/10/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_8e9362166d71",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Torino Vs Monza",
+      "eventInfo": {
+        "teamA": "Torino",
+        "teamB": "Monza",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_91f22ce2d41b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Stade Brestois Vs Nice",
+      "eventInfo": {
+        "teamA": "Stade Brestois",
+        "teamB": "Nice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "eventName": "Ligue 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_87c034c5c7ad",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Darmstadt 98 Vs FC St. Pauli",
+      "eventInfo": {
+        "teamA": "Darmstadt 98",
+        "teamB": "FC St. Pauli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "23/10/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_853a17733bb4",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "VfB Stuttgart Vs Borussia M'gladbach",
+      "eventInfo": {
+        "teamA": "VfB Stuttgart",
+        "teamB": "Borussia M'gladbach",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+        "eventName": "Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
+        "startTime": "24/10/2026 12:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_fcf551a74f53",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "VfL Bochum 1848 Vs VfL Wolfsburg",
+      "eventInfo": {
+        "teamA": "VfL Bochum 1848",
+        "teamB": "VfL Wolfsburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "23/10/2026 10:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_7db507d6df3b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Universidad Técnica de Cajamarca Vs Melgar",
+      "eventInfo": {
+        "teamA": "Universidad Técnica de Cajamarca",
+        "teamB": "Melgar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/87854/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2308/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e15ca25d191b",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Atlético Grau Vs Asociación Deportiva Tarma",
+      "eventInfo": {
+        "teamA": "Club Atlético Grau",
+        "teamB": "Asociación Deportiva Tarma",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/282538/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/335557/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "24/10/2026 02:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_febc820636de",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gimnasia y Esgrima Mendoza Vs Club Atlético Platense",
+      "eventInfo": {
+        "teamA": "Gimnasia y Esgrima Mendoza",
+        "teamB": "Club Atlético Platense",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/188441/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36837/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "24/10/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_97879e7a1655",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Tigre Vs Atlético Tucumán",
+      "eventInfo": {
+        "teamA": "Tigre",
+        "teamB": "Atlético Tucumán",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36833/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "24/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_fd16a098bf5d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Gimnasia y Esgrima Vs Sarmiento",
+      "eventInfo": {
+        "teamA": "Gimnasia y Esgrima",
+        "teamB": "Sarmiento",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3205/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "24/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_0bde20808fa0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vitória SC Vs CS Marítimo",
+      "eventInfo": {
+        "teamA": "Vitória SC",
+        "teamB": "CS Marítimo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+        "eventName": "Liga Portugal Betclic",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
+        "startTime": "24/10/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_ac1dae37240f",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Atlético de Madrid Vs Valencia",
+      "eventInfo": {
+        "teamA": "Club Atlético de Madrid",
+        "teamB": "Valencia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/77879/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/77909/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "23/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_26c36a0b63ff",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Boluspor Vs Vanspor FK",
+      "eventInfo": {
+        "teamA": "Boluspor",
+        "teamB": "Vanspor FK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24750/image",
+        "eventName": "Trendyol 1.Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/98/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_d32fce232722",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Alanyaspor Vs Kocaelispor",
+      "eventInfo": {
+        "teamA": "Alanyaspor",
+        "teamB": "Kocaelispor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_3601e2a5b46e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Go Ahead Eagles Vs SC Telstar",
+      "eventInfo": {
+        "teamA": "Go Ahead Eagles",
+        "teamB": "SC Telstar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2972/image",
+        "eventName": "VriendenLoterij Eredivisie",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/37/image/dark",
+        "startTime": "24/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_366105b5b035",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Atlante FC Vs Atlético San Luis",
+      "eventInfo": {
+        "teamA": "Atlante FC",
+        "teamB": "Atlético San Luis",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "24/10/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e6b2c3050d64",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Club Necaxa Vs FC Juárez",
+      "eventInfo": {
+        "teamA": "Club Necaxa",
+        "teamB": "FC Juárez",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "24/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_5f3621045814",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Adelaide United Vs Perth Glory",
+      "eventInfo": {
+        "teamA": "Adelaide United",
+        "teamB": "Perth Glory",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174076/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "24/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_d32bbd1ec148",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Central Coast Mariners Vs Canberra United",
+      "eventInfo": {
+        "teamA": "Central Coast Mariners",
+        "teamB": "Canberra United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/488881/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174098/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "24/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_47e1d4803c81",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Western Sydney Wanderers Vs Auckland FC",
+      "eventInfo": {
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Auckland FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/72926/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/800224/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 12:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_7837a09bc1d2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Melbourne City",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Melbourne City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 02:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_3aec0f52bda2",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Western Sydney Wanderers Vs Brisbane Roar",
+      "eventInfo": {
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Brisbane Roar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174078/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "24/10/2026 09:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_203fc7a1ea61",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Newcastle Jets Vs Macarthur FC",
+      "eventInfo": {
+        "teamA": "Newcastle Jets",
+        "teamB": "Macarthur FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_4b30b235a3c0",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "IF Elfsborg Vs Malmö FF",
+      "eventInfo": {
+        "teamA": "IF Elfsborg",
+        "teamB": "Malmö FF",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1762/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1892/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_efed1d5c7a31",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Västerås SK Vs Halmstads BK",
+      "eventInfo": {
+        "teamA": "Västerås SK",
+        "teamB": "Halmstads BK",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1775/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1767/image",
+        "eventName": "Allsvenskan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/40/image/dark",
+        "startTime": "23/10/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_20d0473b7f61",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Portland Thorns FC Vs North Carolina Courage",
+      "eventInfo": {
+        "teamA": "Portland Thorns FC",
+        "teamB": "North Carolina Courage",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/151008/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/49787/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "24/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_59e43f62c5b5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Chicago Stars FC Vs Houston Dash",
+      "eventInfo": {
+        "teamA": "Chicago Stars FC",
+        "teamB": "Houston Dash",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34714/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151006/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "24/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_24d62af483fb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Utah Royals FC Vs Seattle Reign FC",
+      "eventInfo": {
+        "teamA": "Utah Royals FC",
+        "teamB": "Seattle Reign FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/278067/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/151010/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "24/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_0be7989ce4af",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Cruzeiro Vs Remo",
+      "eventInfo": {
+        "teamA": "Cruzeiro",
+        "teamB": "Remo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_e6cf09dd6626",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Junior Barranquilla Vs Rionegro Águilas Doradas",
+      "eventInfo": {
+        "teamA": "Junior Barranquilla",
+        "teamB": "Rionegro Águilas Doradas",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6105/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/48244/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "24/10/2026 07:10:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_82a92d9f5018",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Boyacá Chicó FC Vs Atlético Bucaramanga",
+      "eventInfo": {
+        "teamA": "Boyacá Chicó FC",
+        "teamB": "Atlético Bucaramanga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_bf2b8ead3095",
       "isHot": false
     },
     {
