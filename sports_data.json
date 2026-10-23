@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:34 AM 24-10-2026",
+  "last_update_time": "04:15:21 AM 24-10-2026",
   "total_matches": 111,
-  "live_match": 14,
+  "live_match": 20,
   "matches": [
     {
       "status": "LIVE",
@@ -263,42 +263,77 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Gloucester Rugby Vs Bath Rugby",
+      "Category": "Football",
+      "event_name": "Cruzeiro Vs Remo",
       "eventInfo": {
-        "teamA": "Gloucester Rugby",
-        "teamB": "Bath Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4202/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4196/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
+        "teamA": "Cruzeiro",
+        "teamB": "Remo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
         }
       ],
-      "id": "evt_5cab9542e69d",
+      "id": "evt_e6cf09dd6626",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Newcastle Red Bulls Vs Sale Sharks",
+      "Category": "Football",
+      "event_name": "Boyacá Chicó FC Vs Atlético Bucaramanga",
       "eventInfo": {
-        "teamA": "Newcastle Red Bulls",
-        "teamB": "Sale Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4192/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4195/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
+        "teamA": "Boyacá Chicó FC",
+        "teamB": "Atlético Bucaramanga",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_bf2b8ead3095",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Toronto Argonauts Vs Montreal Alouettes",
+      "eventInfo": {
+        "teamA": "Toronto Argonauts",
+        "teamB": "Montreal Alouettes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+        "eventName": "CFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://edgestream2.pro/hls/.m3u8",
@@ -306,100 +341,246 @@
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_03becf690011",
+      "id": "evt_49137176167b",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Cardiff Rugby Vs Sharks",
+      "Category": "American football",
+      "event_name": "Connecticut Huskies Vs Massachusetts Minutemen",
       "eventInfo": {
-        "teamA": "Cardiff Rugby",
-        "teamB": "Sharks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4187/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
+        "teamA": "Connecticut Huskies",
+        "teamB": "Massachusetts Minutemen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4382/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188095/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "stream_url": "https://cdn.streame.center/hls/sfjnzabacah31.m3u8",
           "referer": "https://streame.center",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_dd03b4f123b5",
+      "id": "evt_fc5e17d7fee0",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Connacht Rugby Vs Zebre Rugby",
+      "Category": "American football",
+      "event_name": "Virginia Cavaliers Vs Duke Blue Devils",
       "eventInfo": {
-        "teamA": "Connacht Rugby",
-        "teamB": "Zebre Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/8083/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/75331/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
+        "teamA": "Virginia Cavaliers",
+        "teamB": "Duke Blue Devils",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/61356/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4296/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://cdn.streame.center/hls/JHDAJBDnjdna30.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_fbe373cdb1d8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Edinburgh Rugby Vs Fidelity ADT Lions",
-      "eventInfo": {
-        "teamA": "Edinburgh Rugby",
-        "teamB": "Fidelity ADT Lions",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4206/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4184/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_9efd37a9c4ad",
+      "id": "evt_d964d6ef7864",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Paris Basketball Vs Valencia Basket",
+      "event_name": "Boston Celtics Vs New York Knicks",
       "eventInfo": {
-        "teamA": "Paris Basketball",
-        "teamB": "Valencia Basket",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3545/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "24/10/2026 12:45:00 AM"
+        "teamA": "Boston Celtics",
+        "teamB": "New York Knicks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
       },
       "streams": [
         {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://cdn.streame.center/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
         }
       ],
-      "id": "evt_074691a3db99",
+      "id": "evt_8fc87604d8a3",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Indiana Pacers Vs Dallas Mavericks",
+      "eventInfo": {
+        "teamA": "Indiana Pacers",
+        "teamB": "Dallas Mavericks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://cdn.streame.center/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_546850081f77",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Orlando Magic Vs Minnesota Timberwolves",
+      "eventInfo": {
+        "teamA": "Orlando Magic",
+        "teamB": "Minnesota Timberwolves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://cdn.streame.center/hls/zeafwqvhfe69.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_dd35726b996c",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Charlotte Hornets Vs Atlanta Hawks",
+      "eventInfo": {
+        "teamA": "Charlotte Hornets",
+        "teamB": "Atlanta Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://cdn.streame.center/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_be42465f0bed",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Washington Wizards Vs Toronto Raptors",
+      "eventInfo": {
+        "teamA": "Washington Wizards",
+        "teamB": "Toronto Raptors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD STREAMING ",
+          "stream_url": "https://cdn.streame.center/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_2fe81fe88cd9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Audax Italiano Vs Huachipato",
+      "eventInfo": {
+        "teamA": "Audax Italiano",
+        "teamB": "Huachipato",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3162/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3164/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2b90335ca522",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Canada Vs England",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/164600/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/164602/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "24/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        }
+      ],
+      "id": "evt_7051afca347a",
       "isHot": false
     },
     {
@@ -885,30 +1066,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Cruzeiro Vs Remo",
-      "eventInfo": {
-        "teamA": "Cruzeiro",
-        "teamB": "Remo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ],
-      "id": "evt_e6cf09dd6626",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Junior Barranquilla Vs Rionegro Águilas Doradas",
       "eventInfo": {
         "teamA": "Junior Barranquilla",
@@ -931,23 +1088,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Boyacá Chicó FC Vs Atlético Bucaramanga",
-      "eventInfo": {
-        "teamA": "Boyacá Chicó FC",
-        "teamB": "Atlético Bucaramanga",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6107/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6103/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_bf2b8ead3095",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "TRA United SC Vs Young Africans SC",
       "eventInfo": {
         "teamA": "TRA United SC",
@@ -965,72 +1105,6 @@
         }
       ],
       "id": "evt_8fb224e3ba05",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Toronto Argonauts Vs Montreal Alouettes",
-      "eventInfo": {
-        "teamA": "Toronto Argonauts",
-        "teamB": "Montreal Alouettes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-        "eventName": "CFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_49137176167b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Connecticut Huskies Vs Massachusetts Minutemen",
-      "eventInfo": {
-        "teamA": "Connecticut Huskies",
-        "teamB": "Massachusetts Minutemen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4382/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188095/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cdn.streame.center/hls/sfjnzabacah31.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_fc5e17d7fee0",
       "isHot": false
     },
     {
@@ -1079,30 +1153,6 @@
         }
       ],
       "id": "evt_6c774c15b860",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Virginia Cavaliers Vs Duke Blue Devils",
-      "eventInfo": {
-        "teamA": "Virginia Cavaliers",
-        "teamB": "Duke Blue Devils",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/61356/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4296/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cdn.streame.center/hls/JHDAJBDnjdna30.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_d964d6ef7864",
       "isHot": false
     },
     {
@@ -1215,126 +1265,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "Boston Celtics Vs New York Knicks",
-      "eventInfo": {
-        "teamA": "Boston Celtics",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://cdn.streame.center/hls/wfazgsqtrezu66.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_8fc87604d8a3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Indiana Pacers Vs Dallas Mavericks",
-      "eventInfo": {
-        "teamA": "Indiana Pacers",
-        "teamB": "Dallas Mavericks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://cdn.streame.center/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_546850081f77",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Orlando Magic Vs Minnesota Timberwolves",
-      "eventInfo": {
-        "teamA": "Orlando Magic",
-        "teamB": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://cdn.streame.center/hls/zeafwqvhfe69.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_dd35726b996c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Charlotte Hornets Vs Atlanta Hawks",
-      "eventInfo": {
-        "teamA": "Charlotte Hornets",
-        "teamB": "Atlanta Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://cdn.streame.center/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_be42465f0bed",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Miami Heat Vs Detroit Pistons",
       "eventInfo": {
         "teamA": "Miami Heat",
@@ -1420,36 +1350,6 @@
         }
       ],
       "id": "evt_7f2270f62dc9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Washington Wizards Vs Toronto Raptors",
-      "eventInfo": {
-        "teamA": "Washington Wizards",
-        "teamB": "Toronto Raptors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD STREAMING ",
-          "stream_url": "https://cdn.streame.center/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_2fe81fe88cd9",
       "isHot": false
     },
     {
@@ -1820,23 +1720,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Audax Italiano Vs Huachipato",
-      "eventInfo": {
-        "teamA": "Audax Italiano",
-        "teamB": "Huachipato",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3162/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3164/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2b90335ca522",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "New Zealand Vs France",
       "eventInfo": {
@@ -1857,30 +1740,6 @@
         }
       ],
       "id": "evt_4ea58507b35a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Canada Vs England",
-      "eventInfo": {
-        "teamA": "Canada",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/164600/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/164602/image",
-        "eventName": "WXV, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "startTime": "24/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        }
-      ],
-      "id": "evt_7051afca347a",
       "isHot": false
     },
     {
@@ -3097,6 +2956,125 @@
     },
     {
       "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Gloucester Rugby Vs Bath Rugby",
+      "eventInfo": {
+        "teamA": "Gloucester Rugby",
+        "teamB": "Bath Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4202/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4196/image",
+        "eventName": "Prem Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "id": "evt_5cab9542e69d",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Newcastle Red Bulls Vs Sale Sharks",
+      "eventInfo": {
+        "teamA": "Newcastle Red Bulls",
+        "teamB": "Sale Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4192/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4195/image",
+        "eventName": "Prem Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_03becf690011",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Cardiff Rugby Vs Sharks",
+      "eventInfo": {
+        "teamA": "Cardiff Rugby",
+        "teamB": "Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4215/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4187/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://streame.center",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+        }
+      ],
+      "id": "evt_dd03b4f123b5",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Connacht Rugby Vs Zebre Rugby",
+      "eventInfo": {
+        "teamA": "Connacht Rugby",
+        "teamB": "Zebre Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8083/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/75331/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_fbe373cdb1d8",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "Edinburgh Rugby Vs Fidelity ADT Lions",
+      "eventInfo": {
+        "teamA": "Edinburgh Rugby",
+        "teamB": "Fidelity ADT Lions",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4206/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4184/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_9efd37a9c4ad",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Kauno Žalgiris Vs LDLC ASVEL Lyon-Villeurbanne",
       "eventInfo": {
@@ -3123,6 +3101,28 @@
         }
       ],
       "id": "evt_786e50f0f8ad",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Paris Basketball Vs Valencia Basket",
+      "eventInfo": {
+        "teamA": "Paris Basketball",
+        "teamB": "Valencia Basket",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/295374/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3545/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "24/10/2026 12:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_074691a3db99",
       "isHot": false
     },
     {
