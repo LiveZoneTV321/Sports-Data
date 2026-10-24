@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:30:31 PM 24-10-2026",
-  "total_matches": 212,
-  "live_match": 18,
+  "last_update_time": "03:45:24 PM 24-10-2026",
+  "total_matches": 197,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -239,24 +239,30 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "England Vs France",
+      "event_name": "Australia Vs England",
       "eventInfo": {
-        "teamA": "England",
-        "teamB": "France",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24236/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24238/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "24/10/2026 12:35:00 PM"
+        "teamA": "Australia",
+        "teamB": "England",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/272012/image",
+        "eventName": "World Cup, Women ",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "startTime": "24/10/2026 03:05:00 PM"
       },
       "streams": [
         {
           "channel_name": "PREMIER1 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
           "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/hlll.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_83974b3edb0e",
+      "id": "evt_1fe2c1c34319",
       "isHot": false
     },
     {
@@ -397,6 +403,28 @@
     },
     {
       "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Japan Vs Wales",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Wales",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/262242/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/164620/image",
+        "eventName": "WXV, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
+        "startTime": "24/10/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_dc0039102f7e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "ALPINE SKI Vs ALPINE SKI",
       "eventInfo": {
@@ -427,58 +455,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "V8 Supercars Vs V8 Supercars",
-      "eventInfo": {
-        "teamA": "V8 Supercars",
-        "teamB": "V8 Supercars",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg",
-        "eventName": "V8 Supercars Championship",
-        "event_logo": "https://pbs.twimg.com/profile_images/1803953210887147520/R41yZ5VI_400x400.jpg",
-        "startTime": "24/10/2026 11:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/fddd.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e107fc9e5a38",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Japan Vs Venezuela",
-      "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Venezuela",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7418/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
-        "eventName": "WORLD FRIENDLY",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/853/image/dark",
-        "startTime": "24/10/2026 11:50:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "bein 5ar"
-        }
-      ],
-      "id": "evt_433ee7823b71",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "South East Melbourne Phoenix Vs Adelaide 36ers",
       "eventInfo": {
@@ -496,42 +472,24 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Illawarra Hawks Vs Brisbane Bullets",
+      "Category": "Football",
+      "event_name": "Eyüpspor Vs Kasımpaşa",
       "eventInfo": {
-        "teamA": "Illawarra Hawks",
-        "teamB": "Brisbane Bullets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "24/10/2026 12:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_1226eff50b28",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Australia Vs England",
-      "eventInfo": {
-        "teamA": "Australia",
-        "teamB": "England",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272011/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/272012/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "24/10/2026 03:05:00 PM"
+        "teamA": "Eyüpspor",
+        "teamB": "Kasımpaşa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "24/10/2026 04:30:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_1fe2c1c34319",
+      "id": "evt_427d590d3bdd",
       "isHot": false
     },
     {
@@ -580,24 +538,24 @@
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Japan Vs Wales",
+      "Category": "Football",
+      "event_name": "Piast Gliwice Vs KS Cracovia",
       "eventInfo": {
-        "teamA": "Japan",
-        "teamB": "Wales",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/262242/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/164620/image",
-        "eventName": "WXV, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/21299/image/dark",
-        "startTime": "24/10/2026 03:30:00 PM"
+        "teamA": "Piast Gliwice",
+        "teamB": "KS Cracovia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "24/10/2026 04:15:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
         }
       ],
-      "id": "evt_dc0039102f7e",
+      "id": "evt_eec15b9ee26b",
       "isHot": false
     },
     {
@@ -2085,28 +2043,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Eyüpspor Vs Kasımpaşa",
-      "eventInfo": {
-        "teamA": "Eyüpspor",
-        "teamB": "Kasımpaşa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "24/10/2026 04:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_427d590d3bdd",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Huddersfield Town Vs Wigan Athletic",
       "eventInfo": {
         "teamA": "Huddersfield Town",
@@ -3127,28 +3063,6 @@
         }
       ],
       "id": "evt_586ea6b1eaf2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Piast Gliwice Vs KS Cracovia",
-      "eventInfo": {
-        "teamA": "Piast Gliwice",
-        "teamB": "KS Cracovia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7918/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4901/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "24/10/2026 04:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-        }
-      ],
-      "id": "evt_eec15b9ee26b",
       "isHot": false
     },
     {
@@ -4934,377 +4848,19 @@
     },
     {
       "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Atlante FC Vs Atlético San Luis",
+      "Category": "Basketball",
+      "event_name": "Illawarra Hawks Vs Brisbane Bullets",
       "eventInfo": {
-        "teamA": "Atlante FC",
-        "teamB": "Atlético San Luis",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1943/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "24/10/2026 09:00:00 AM"
+        "teamA": "Illawarra Hawks",
+        "teamB": "Brisbane Bullets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "24/10/2026 12:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/CVVV.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e6b2c3050d64",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Adelaide United Vs Perth Glory",
-      "eventInfo": {
-        "teamA": "Adelaide United",
-        "teamB": "Perth Glory",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174076/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174104/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "24/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R9999A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_d32bbd1ec148",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Central Coast Mariners Vs Canberra United",
-      "eventInfo": {
-        "teamA": "Central Coast Mariners",
-        "teamB": "Canberra United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/488881/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174098/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "24/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R555Q.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_47e1d4803c81",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Auckland FC",
-      "eventInfo": {
-        "teamA": "Western Sydney Wanderers",
-        "teamB": "Auckland FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/72926/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/800224/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "24/10/2026 12:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R9999.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7837a09bc1d2",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Western Sydney Wanderers Vs Brisbane Roar",
-      "eventInfo": {
-        "teamA": "Western Sydney Wanderers",
-        "teamB": "Brisbane Roar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174108/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174078/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "24/10/2026 09:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R555.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_203fc7a1ea61",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Newcastle Jets Vs Macarthur FC",
-      "eventInfo": {
-        "teamA": "Newcastle Jets",
-        "teamB": "Macarthur FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/371682/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "24/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/R555QQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_4b30b235a3c0",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "Stanford Cardinal Vs North Carolina State Wolfpack",
-      "eventInfo": {
-        "teamA": "Stanford Cardinal",
-        "teamB": "North Carolina State Wolfpack",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4379/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188107/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "24/10/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY + LIVE",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58483/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://edgestream2.pro/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://cdn.streame.center/hls/uheyztezgj34.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/JUUUQQQAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_77ab0b4eb766",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "American football",
-      "event_name": "BC Lions Vs Winnipeg Blue Bombers",
-      "eventInfo": {
-        "teamA": "BC Lions",
-        "teamB": "Winnipeg Blue Bombers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4435/image",
-        "eventName": "CFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11208/image/dark",
-        "startTime": "24/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_719088b6e698",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Papua New Guinea Vs Fiji",
-      "eventInfo": {
-        "teamA": "Papua New Guinea",
-        "teamB": "Fiji",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/272013/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/494723/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "24/10/2026 08:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/hlll.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/hlll.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_ca3a7d5c56ef",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Rugby",
-      "event_name": "Papua New Guinea Vs Samoa",
-      "eventInfo": {
-        "teamA": "Papua New Guinea",
-        "teamB": "Samoa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24241/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24242/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "24/10/2026 10:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/hlll.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9c21b8bef335",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Aussie rules",
-      "event_name": "Geelong Cats Vs Fremantle Dockers",
-      "eventInfo": {
-        "teamA": "Geelong Cats",
-        "teamB": "Fremantle Dockers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245077/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "24/10/2026 10:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_a621de84d568",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Aussie rules",
-      "event_name": "Gold Coast Suns Vs Richmond Tigers",
-      "eventInfo": {
-        "teamA": "Gold Coast Suns",
-        "teamB": "Richmond Tigers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334440/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/334441/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "24/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        }
-      ],
-      "id": "evt_9bb7315ef238",
+      "streams": [],
+      "id": "evt_1226eff50b28",
       "isHot": false
     }
   ]
