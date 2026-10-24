@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:00:34 PM 24-10-2026",
-  "total_matches": 197,
-  "live_match": 28,
+  "last_update_time": "05:15:21 PM 24-10-2026",
+  "total_matches": 198,
+  "live_match": 34,
   "matches": [
     {
       "status": "LIVE",
@@ -209,35 +209,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Melbourne City",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Melbourne City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "24/10/2026 02:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "id": "evt_3aec0f52bda2",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Australia Vs England",
       "eventInfo": {
@@ -404,6 +375,100 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "1. FC Heidenheim Vs Energie Cottbus",
+      "eventInfo": {
+        "teamA": "1. FC Heidenheim",
+        "teamB": "Energie Cottbus",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_6a3091da2fb5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hertha BSC Vs Arminia Bielefeld",
+      "eventInfo": {
+        "teamA": "Hertha BSC",
+        "teamB": "Arminia Bielefeld",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566537.m3u8?txSecret=ac6979d34cb35cca289040289b0a756f&txTime=6ADCA01D",
+          "referer": "https://player.online878.com/"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel14.m3u8",
+          "referer": "https://xlz.domainkqt.cc/"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_95862e8a3565",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "1. FC Magdeburg Vs Karlsruher SC",
+      "eventInfo": {
+        "teamA": "1. FC Magdeburg",
+        "teamB": "Karlsruher SC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+        "eventName": "2. Bundesliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_67bd1e18a0a2",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Eyüpspor Vs Kasımpaşa",
       "eventInfo": {
         "teamA": "Eyüpspor",
@@ -450,7 +515,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/H777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/H777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_e89b7665d1dc",
@@ -472,7 +545,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/H777AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/H777AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_cd095b519333",
@@ -495,6 +576,12 @@
         {
           "channel_name": "STREAM TV + HD",
           "stream_url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/H777AAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_eec15b9ee26b",
@@ -516,7 +603,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/JJJJAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/JJJJAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_dc0039102f7e",
@@ -571,6 +666,101 @@
     },
     {
       "status": "LIVE",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Darts European Championship",
+          "stream_url": "http://193.47.62.44/hls/F555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bc2beb8eb4e5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Migori Vs Mathare Utd",
+      "eventInfo": {
+        "teamA": "Migori",
+        "teamB": "Mathare Utd",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "eventName": "Kenya Premier League",
+        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "startTime": "24/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/ITTTAAAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_67b04b146584",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "Snooker Vs Snooker",
+      "eventInfo": {
+        "teamA": "Snooker",
+        "teamB": "Snooker",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "eventName": "Snooker",
+        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
+        "startTime": "24/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "1 QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/PTTTA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "2 QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/PTTTAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8164e402a2e1",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Aston Villa Vs Manchester City",
       "eventInfo": {
@@ -596,6 +786,12 @@
           "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
         },
         {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/GG555.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "TNT FHD (XTRA TIME)",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -608,67 +804,48 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "1. FC Heidenheim Vs Energie Cottbus",
+      "event_name": "Rayo Vallecano Vs Elche",
       "eventInfo": {
-        "teamA": "1. FC Heidenheim",
-        "teamB": "Energie Cottbus",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
+        "teamA": "Rayo Vallecano",
+        "teamB": "Elche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "24/10/2026 06:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "CAZE TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
         }
       ],
-      "id": "evt_6a3091da2fb5",
+      "id": "evt_6fb5eedf6ba9",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Hertha BSC Vs Arminia Bielefeld",
+      "event_name": "Córdoba Vs Eibar",
       "eventInfo": {
-        "teamA": "Hertha BSC",
-        "teamB": "Arminia Bielefeld",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
+        "teamA": "Córdoba",
+        "teamB": "Eibar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+        "eventName": "LaLiga 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
+        "startTime": "24/10/2026 06:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_95862e8a3565",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "1. FC Magdeburg Vs Karlsruher SC",
-      "eventInfo": {
-        "teamA": "1. FC Magdeburg",
-        "teamB": "Karlsruher SC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-        "eventName": "2. Bundesliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/44/image/dark",
-        "startTime": "24/10/2026 05:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_67bd1e18a0a2",
+      "streams": [],
+      "id": "evt_93add96535f9",
       "isHot": false
     },
     {
@@ -719,6 +896,12 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_8273502b2444",
@@ -740,7 +923,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_b118c3cc0ccf",
@@ -762,7 +953,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_3811813a538c",
@@ -784,7 +983,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_ef6cc875fff8",
@@ -806,7 +1013,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.50/hls/YYYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_b97ec491e61b",
@@ -827,8 +1042,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_bea0395af1d3",
@@ -854,6 +1071,66 @@
         }
       ],
       "id": "evt_25a7a3087252",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Vodacom Bulls XV Vs Ulster Rugby",
+      "eventInfo": {
+        "teamA": "Vodacom Bulls XV",
+        "teamB": "Ulster Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4211/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "24/10/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8d554f9c9e77",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Tottenham FC Vs Arsenal",
+      "eventInfo": {
+        "teamA": "Tottenham FC",
+        "teamB": "Arsenal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "24/10/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BBC ONE",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYYAAAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_3e550296355e",
       "isHot": false
     },
     {
@@ -889,53 +1166,6 @@
         }
       ],
       "id": "evt_658612b6f223",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "Snooker Vs Snooker",
-      "eventInfo": {
-        "teamA": "Snooker",
-        "teamB": "Snooker",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "eventName": "Snooker",
-        "event_logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg",
-        "startTime": "24/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "1 QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/PTTTA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "2 QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/PTTTAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_8164e402a2e1",
       "isHot": false
     },
     {
@@ -1335,36 +1565,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Rayo Vallecano Vs Elche",
-      "eventInfo": {
-        "teamA": "Rayo Vallecano",
-        "teamB": "Elche",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "24/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "CAZE TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        }
-      ],
-      "id": "evt_6fb5eedf6ba9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Valencia Vs Villarreal",
       "eventInfo": {
         "teamA": "Valencia",
@@ -1430,23 +1630,6 @@
       },
       "streams": [],
       "id": "evt_93036930ad5f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Córdoba Vs Eibar",
-      "eventInfo": {
-        "teamA": "Córdoba",
-        "teamB": "Eibar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-        "eventName": "LaLiga 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
-        "startTime": "24/10/2026 06:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_93add96535f9",
       "isHot": false
     },
     {
@@ -3362,30 +3545,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "Vodacom Bulls XV Vs Ulster Rugby",
-      "eventInfo": {
-        "teamA": "Vodacom Bulls XV",
-        "teamB": "Ulster Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4211/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "24/10/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_8d554f9c9e77",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Leinster Rugby Vs Munster",
       "eventInfo": {
         "teamA": "Leinster Rugby",
@@ -4484,30 +4643,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Tottenham FC Vs Arsenal",
-      "eventInfo": {
-        "teamA": "Tottenham FC",
-        "teamB": "Arsenal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/273547/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "24/10/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BBC ONE",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        }
-      ],
-      "id": "evt_3e550296355e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "FC Argeș Pitești Vs UTA Arad",
       "eventInfo": {
         "teamA": "FC Argeș Pitești",
@@ -4618,23 +4753,6 @@
         }
       ],
       "id": "evt_9206f7f6eee4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
-      "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "startTime": "24/10/2026 11:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_bc2beb8eb4e5",
       "isHot": false
     },
     {
@@ -4855,6 +4973,35 @@
         }
       ],
       "id": "evt_a21b10ab40cc",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Melbourne City",
+      "eventInfo": {
+        "teamA": "Melbourne Victory",
+        "teamB": "Melbourne City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 02:40:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
+        }
+      ],
+      "id": "evt_3aec0f52bda2",
       "isHot": false
     },
     {
