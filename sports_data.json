@@ -2,10 +2,55 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:32 PM 24-10-2026",
+  "last_update_time": "02:12:05 PM 24-10-2026",
   "total_matches": 212,
-  "live_match": 18,
+  "live_match": 19,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "WRC Rally Vs WRC Rally",
+      "eventInfo": {
+        "teamA": "WRC Rally",
+        "teamB": "WRC Rally",
+        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
+        "eventName": "WRC Rally",
+        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
+        "startTime": "24/10/2026 01:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RALLY TV HD",
+          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        }
+      ],
+      "id": "evt_43c3d7bebef0",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Other",
@@ -444,8 +489,8 @@
         },
         {
           "channel_name": "Prime English",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ma3cynyzgo/out/v1/f457058f2efb43bcb2e22045bf7470dc/cenc.mpd",
-          "drm_key": "cbfbd270193c2a674960b47427453daf:41912c92e12ecab217442960ea673af1"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/di53wexuc7/out/v1/40b0a31c1c5b4f4aa41286cb1313cf87/cenc.mpd",
+          "drm_key": "01501c3401dabab0e68c1d58b2ed5bde:4c1167220c5d1358d630245281ceba58"
         },
         {
           "channel_name": "Star Sports 1",
@@ -589,28 +634,18 @@
     },
     {
       "status": "LIVE",
-      "Category": "Motorsports",
-      "event_name": "WRC Rally Vs WRC Rally",
+      "Category": "Football",
+      "event_name": "Melbourne Victory Vs Melbourne City",
       "eventInfo": {
-        "teamA": "WRC Rally",
-        "teamB": "WRC Rally",
-        "teamAFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/category/84/image",
-        "eventName": "WRC Rally",
-        "event_logo": "https://img.sofascore.com/api/v1/category/84/image",
-        "startTime": "24/10/2026 01:45:00 PM"
+        "teamA": "Melbourne Victory",
+        "teamB": "Melbourne City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "24/10/2026 02:40:00 PM"
       },
       "streams": [
-        {
-          "channel_name": "RALLY TV HD",
-          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
         {
           "channel_name": "TNT4UK SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
@@ -618,18 +653,12 @@
           "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         },
         {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+          "channel_name": "SportDigital Fussball",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
         }
       ],
-      "id": "evt_43c3d7bebef0",
+      "id": "evt_3aec0f52bda2",
       "isHot": false
     },
     {
@@ -882,35 +911,6 @@
         }
       ],
       "id": "evt_b658c4c69c21",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Melbourne Victory Vs Melbourne City",
-      "eventInfo": {
-        "teamA": "Melbourne Victory",
-        "teamB": "Melbourne City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/42210/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "24/10/2026 02:40:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "SportDigital Fussball",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-          "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-        }
-      ],
-      "id": "evt_3aec0f52bda2",
       "isHot": false
     },
     {
