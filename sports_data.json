@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:32 PM 25-10-2026",
+  "last_update_time": "01:45:24 PM 25-10-2026",
   "total_matches": 168,
-  "live_match": 11,
+  "live_match": 13,
   "matches": [
     {
       "status": "LIVE",
@@ -493,6 +493,63 @@
       "isHot": false
     },
     {
+      "status": "LIVE",
+      "Category": "Motorsports",
+      "event_name": "ERC Rally Vs ERC Rally",
+      "eventInfo": {
+        "teamA": "ERC Rally",
+        "teamB": "ERC Rally",
+        "teamAFlag": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
+        "teamBFlag": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
+        "eventName": "WRC I  ERC Rally",
+        "event_logo": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
+        "startTime": "25/10/2026 02:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "RALLY TV HD",
+          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+        },
+        {
+          "channel_name": "TNT2UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ],
+      "id": "evt_0106f5fdf185",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "India Women Vs Zimbabwe Women",
+      "eventInfo": {
+        "teamA": "India Women",
+        "teamB": "Zimbabwe Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+        "eventName": "ICC Women's Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
+        "startTime": "25/10/2026 02:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_5e332ce5450a",
+      "isHot": false
+    },
+    {
       "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Real Madrid Vs Barcelona",
@@ -750,70 +807,6 @@
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/tppdoitn9n/out/v1/9828b56372fb434fafdcf88c72052d01/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "85f340146e46533b39d1415d90746352:448aafcc613ddfd448f14d9275eda19b"
-        },
-        {
-          "channel_name": "NFL RedZone HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58259/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "REDZONE HD Live",
-          "stream_url": "https://hls.dptv.info/live/evt-1792318238559/index.m3u8?",
-          "referer": "https://play1.cyberbingo.cfd/"
-        },
-        {
-          "channel_name": "REDZONE + HD ",
-          "stream_url": "https://edgestream7.pro/hls/wnbcnxbcs42.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58259/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/VAAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58260/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58261/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "SKY SPORTS ACTION - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "NFL NETWORK HD",
-          "stream_url": "https://edgestream2.pro/hls/jnfezkbfz43.m3u8",
-          "referer": "https://streame.center",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
-        },
-        {
-          "channel_name": "NFL RedZone",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58280/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD SERVER NFL",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58260/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
         }
       ],
       "id": "evt_6fff843dd536",
@@ -3466,63 +3459,6 @@
         }
       ],
       "id": "evt_82294653ef1f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Motorsports",
-      "event_name": "ERC Rally Vs ERC Rally",
-      "eventInfo": {
-        "teamA": "ERC Rally",
-        "teamB": "ERC Rally",
-        "teamAFlag": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
-        "teamBFlag": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
-        "eventName": "WRC I  ERC Rally",
-        "event_logo": "https://play-lh.googleusercontent.com/n5PG51lO0x_6jtqvDKdzS9Eobhhl17t2Q_wRStTXKf-0-CzbB-Bd1EhqDjT1tiU90VQcStdN2L3XUMr6LWSdGQ",
-        "startTime": "25/10/2026 02:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "RALLY TV HD",
-          "stream_url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-        },
-        {
-          "channel_name": "TNT2UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-        },
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_0106f5fdf185",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "India Women Vs Zimbabwe Women",
-      "eventInfo": {
-        "teamA": "India Women",
-        "teamB": "Zimbabwe Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-        "eventName": "ICC Women's Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18793/image/dark",
-        "startTime": "25/10/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_5e332ce5450a",
       "isHot": false
     },
     {
