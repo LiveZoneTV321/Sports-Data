@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:30:30 AM 25-10-2026",
+  "last_update_time": "07:45:22 AM 25-10-2026",
   "total_matches": 150,
   "live_match": 59,
   "matches": [
@@ -275,6 +275,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Universitario de Deportes Vs ACD Juan Pablo II",
+      "eventInfo": {
+        "teamA": "Universitario de Deportes",
+        "teamB": "ACD Juan Pablo II",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2305/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/511206/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "25/10/2026 07:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_a80e14dfcbfa",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Atlanta United Vs Chicago Fire",
       "eventInfo": {
         "teamA": "Atlanta United",
@@ -407,6 +424,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Real Salt Lake Vs St.Louis City",
+      "eventInfo": {
+        "teamA": "Real Salt Lake",
+        "teamB": "St.Louis City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5133/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_238366d8_1bc3_4551_98fe_df48d7f7eaea/index.m3u8"
+        }
+      ],
+      "id": "evt_1286d8edafb6",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Philadelphia Union Vs New England Revolution",
       "eventInfo": {
         "teamA": "Philadelphia Union",
@@ -429,6 +468,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Colorado Rapids Vs Vancouver Whitecaps",
+      "eventInfo": {
+        "teamA": "Colorado Rapids",
+        "teamB": "Vancouver Whitecaps",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 07:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_50413571_e69b_4fc0_87fd_8dbea98b02d8/index.m3u8"
+        }
+      ],
+      "id": "evt_098c79664f71",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "CF Monterrey Vs CD Guadalajara",
       "eventInfo": {
         "teamA": "CF Monterrey",
@@ -441,23 +502,6 @@
       },
       "streams": [],
       "id": "evt_bb4f8776b53c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club León Vs CD Toluca",
-      "eventInfo": {
-        "teamA": "Club León",
-        "teamB": "CD Toluca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "25/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_3af87bc18f4b",
       "isHot": false
     },
     {
@@ -504,28 +548,6 @@
         }
       ],
       "id": "evt_de793a8ea588",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "O'Higgins Vs Cobresal",
-      "eventInfo": {
-        "teamA": "O'Higgins",
-        "teamB": "Cobresal",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3167/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "25/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_0160f7e409e8",
       "isHot": false
     },
     {
@@ -1085,18 +1107,18 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "América de Cali Vs Cúcuta Deportivo",
+      "event_name": "Once Caldas Vs Deportivo Pereira",
       "eventInfo": {
-        "teamA": "América de Cali",
-        "teamB": "Cúcuta Deportivo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6102/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6108/image",
+        "teamA": "Once Caldas",
+        "teamB": "Deportivo Pereira",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6109/image",
         "eventName": "Primera A",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "25/10/2026 05:05:00 AM"
+        "startTime": "25/10/2026 07:15:00 AM"
       },
       "streams": [],
-      "id": "evt_8b3a165f5252",
+      "id": "evt_8da2d0112d94",
       "isHot": false
     },
     {
@@ -1315,30 +1337,6 @@
     {
       "status": "LIVE",
       "Category": "American football",
-      "event_name": "Washington State Cougars Vs Boise State Broncos",
-      "eventInfo": {
-        "teamA": "Washington State Cougars",
-        "teamB": "Boise State Broncos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4279/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "25/10/2026 04:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream6.pro/hls/nbekiurtghjhfza83.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_46de1e838ff2",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
       "event_name": "Tulane Green Wave Vs UTSA Roadrunners",
       "eventInfo": {
         "teamA": "Tulane Green Wave",
@@ -1459,62 +1457,45 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Universitario de Deportes Vs ACD Juan Pablo II",
+      "event_name": "San Diego FC Vs Seattle Sounders FC",
       "eventInfo": {
-        "teamA": "Universitario de Deportes",
-        "teamB": "ACD Juan Pablo II",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2305/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/511206/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "25/10/2026 07:30:00 AM"
+        "teamA": "San Diego FC",
+        "teamB": "Seattle Sounders FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "25/10/2026 08:30:00 AM"
       },
-      "streams": [],
-      "id": "evt_a80e14dfcbfa",
+      "streams": [
+        {
+          "channel_name": "TV LIVE + HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b7ab4ca2_a8e1_49a1_bd16_b03e962be860/index.m3u8"
+        }
+      ],
+      "id": "evt_99ba3982a1dc",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Real Salt Lake Vs St.Louis City",
+      "event_name": "Portland Timbers Vs Charlotte FC",
       "eventInfo": {
-        "teamA": "Real Salt Lake",
-        "teamB": "St.Louis City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5133/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+        "teamA": "Portland Timbers",
+        "teamB": "Charlotte FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image",
         "eventName": "MLS",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 07:30:00 AM"
+        "startTime": "25/10/2026 08:30:00 AM"
       },
       "streams": [
         {
           "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_238366d8_1bc3_4551_98fe_df48d7f7eaea/index.m3u8"
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_4a62dc7d_7cfd_48f0_bded_79667a9f598d/index.m3u8"
         }
       ],
-      "id": "evt_1286d8edafb6",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Colorado Rapids Vs Vancouver Whitecaps",
-      "eventInfo": {
-        "teamA": "Colorado Rapids",
-        "teamB": "Vancouver Whitecaps",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2510/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 07:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_50413571_e69b_4fc0_87fd_8dbea98b02d8/index.m3u8"
-        }
-      ],
-      "id": "evt_098c79664f71",
+      "id": "evt_179c3f966747",
       "isHot": false
     },
     {
@@ -1539,6 +1520,23 @@
         }
       ],
       "id": "evt_e2dde27c2d28",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "North Melbourne Vs Adelaide Crows",
+      "eventInfo": {
+        "teamA": "North Melbourne",
+        "teamB": "Adelaide Crows",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307631/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245069/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "25/10/2026 08:05:00 AM"
+      },
+      "streams": [],
+      "id": "evt_21fcde524533",
       "isHot": false
     },
     {
@@ -1638,23 +1636,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Once Caldas Vs Deportivo Pereira",
-      "eventInfo": {
-        "teamA": "Once Caldas",
-        "teamB": "Deportivo Pereira",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6118/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "25/10/2026 07:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8da2d0112d94",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "American football",
       "event_name": "New Mexico Lobos Vs North Dakota State Bison",
       "eventInfo": {
@@ -1675,6 +1656,30 @@
         }
       ],
       "id": "evt_2882589b2243",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Utah Utes Vs Houston Cougars",
+      "eventInfo": {
+        "teamA": "Utah Utes",
+        "teamB": "Houston Cougars",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/47352/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61358/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "25/10/2026 08:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_577ea9dfe4f2",
       "isHot": false
     },
     {
@@ -1923,50 +1928,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "San Diego FC Vs Seattle Sounders FC",
-      "eventInfo": {
-        "teamA": "San Diego FC",
-        "teamB": "Seattle Sounders FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/22009/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b7ab4ca2_a8e1_49a1_bd16_b03e962be860/index.m3u8"
-        }
-      ],
-      "id": "evt_99ba3982a1dc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Portland Timbers Vs Charlotte FC",
-      "eventInfo": {
-        "teamA": "Portland Timbers",
-        "teamB": "Charlotte FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "25/10/2026 08:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV LIVE + HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_4a62dc7d_7cfd_48f0_bded_79667a9f598d/index.m3u8"
-        }
-      ],
-      "id": "evt_179c3f966747",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Pumas UNAM Vs Tigres UANL",
       "eventInfo": {
         "teamA": "Pumas UNAM",
@@ -2027,23 +1988,6 @@
         }
       ],
       "id": "evt_8225da2d8c40",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
-      "event_name": "North Melbourne Vs Adelaide Crows",
-      "eventInfo": {
-        "teamA": "North Melbourne",
-        "teamB": "Adelaide Crows",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307631/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245069/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "25/10/2026 08:05:00 AM"
-      },
-      "streams": [],
-      "id": "evt_21fcde524533",
       "isHot": false
     },
     {
@@ -2241,30 +2185,6 @@
         }
       ],
       "id": "evt_9206f7f6eee4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Utah Utes Vs Houston Cougars",
-      "eventInfo": {
-        "teamA": "Utah Utes",
-        "teamB": "Houston Cougars",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/47352/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/61358/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "25/10/2026 08:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://edgestream2.pro/hls/hgfdshkjsqkda95.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_577ea9dfe4f2",
       "isHot": false
     },
     {
@@ -2982,6 +2902,23 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Club León Vs CD Toluca",
+      "eventInfo": {
+        "teamA": "Club León",
+        "teamB": "CD Toluca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36534/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "25/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3af87bc18f4b",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "ADO Den Haag Vs SC Heerenveen",
       "eventInfo": {
         "teamA": "ADO Den Haag",
@@ -3218,6 +3155,28 @@
         }
       ],
       "id": "evt_771a409a29d0",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "O'Higgins Vs Cobresal",
+      "eventInfo": {
+        "teamA": "O'Higgins",
+        "teamB": "Cobresal",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3163/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3167/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "25/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_0160f7e409e8",
       "isHot": false
     },
     {
@@ -3571,6 +3530,23 @@
         }
       ],
       "id": "evt_34d72685d635",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "América de Cali Vs Cúcuta Deportivo",
+      "eventInfo": {
+        "teamA": "América de Cali",
+        "teamB": "Cúcuta Deportivo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6102/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6108/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "25/10/2026 05:05:00 AM"
+      },
+      "streams": [],
+      "id": "evt_8b3a165f5252",
       "isHot": false
     },
     {
@@ -4407,6 +4383,30 @@
         }
       ],
       "id": "evt_93125cc94843",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Washington State Cougars Vs Boise State Broncos",
+      "eventInfo": {
+        "teamA": "Washington State Cougars",
+        "teamB": "Boise State Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4358/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4279/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "25/10/2026 04:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://edgestream6.pro/hls/nbekiurtghjhfza83.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_46de1e838ff2",
       "isHot": false
     }
   ]
