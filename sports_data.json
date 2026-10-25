@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:30:28 PM 25-10-2026",
+  "last_update_time": "12:45:23 PM 25-10-2026",
   "total_matches": 168,
-  "live_match": 14,
+  "live_match": 12,
   "matches": [
     {
       "status": "LIVE",
@@ -217,36 +217,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sydney FC Vs Adelaide United",
-      "eventInfo": {
-        "teamA": "Sydney FC",
-        "teamB": "Adelaide United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "25/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/DRRRRQQQQAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_8225da2d8c40",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Mixed Martial Arts",
       "event_name": "Alexander Volkanovski Vs Movsar Evloev",
       "eventInfo": {
@@ -407,24 +377,30 @@
     {
       "status": "LIVE",
       "Category": "Aussie rules",
-      "event_name": "Hawthorn Hawks Vs Essendon Bombers",
+      "event_name": "Carlton Blues Vs GWS Giants",
       "eventInfo": {
-        "teamA": "Hawthorn Hawks",
-        "teamB": "Essendon Bombers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/446333/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446332/image",
+        "teamA": "Carlton Blues",
+        "teamB": "GWS Giants",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245028/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
         "eventName": "AFL, Women",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "25/10/2026 10:05:00 AM"
+        "startTime": "25/10/2026 12:05:00 PM"
       },
       "streams": [
         {
           "channel_name": "FOX2 SPORTS FHD ",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
           "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         }
       ],
-      "id": "evt_5a9b90cb7818",
+      "id": "evt_ab8de5b0283d",
       "isHot": false
     },
     {
@@ -537,35 +513,6 @@
         }
       ],
       "id": "evt_5cfd80e6506b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Carlton Blues Vs GWS Giants",
-      "eventInfo": {
-        "teamA": "Carlton Blues",
-        "teamB": "GWS Giants",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245028/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245070/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "25/10/2026 12:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "id": "evt_ab8de5b0283d",
       "isHot": false
     },
     {
@@ -4296,6 +4243,36 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sydney FC Vs Adelaide United",
+      "eventInfo": {
+        "teamA": "Sydney FC",
+        "teamB": "Adelaide United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5971/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2946/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "25/10/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/DRRRRQQQQAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8225da2d8c40",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Aussie rules",
       "event_name": "North Melbourne Vs Adelaide Crows",
       "eventInfo": {
@@ -4792,6 +4769,29 @@
         }
       ],
       "id": "evt_2404d9ef62e2",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Aussie rules",
+      "event_name": "Hawthorn Hawks Vs Essendon Bombers",
+      "eventInfo": {
+        "teamA": "Hawthorn Hawks",
+        "teamB": "Essendon Bombers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/446333/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446332/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "25/10/2026 10:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        }
+      ],
+      "id": "evt_5a9b90cb7818",
       "isHot": false
     }
   ]
