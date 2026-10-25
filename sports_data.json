@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:00:33 PM 25-10-2026",
+  "last_update_time": "05:15:22 PM 25-10-2026",
   "total_matches": 146,
-  "live_match": 12,
+  "live_match": 16,
   "matches": [
     {
       "status": "LIVE",
@@ -268,6 +268,30 @@
     },
     {
       "status": "LIVE",
+      "Category": "Other",
+      "event_name": "DARTS PDC Vs DARTS PDC",
+      "eventInfo": {
+        "teamA": "DARTS PDC",
+        "teamB": "DARTS PDC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "eventName": "DARTS PDC",
+        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "startTime": "25/10/2026 05:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Darts European Championship",
+          "stream_url": "http://193.47.62.44/hls/F555AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_bc2beb8eb4e5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Rugby",
       "event_name": "Australia Vs Fiji",
       "eventInfo": {
@@ -365,26 +389,56 @@
     },
     {
       "status": "LIVE",
-      "Category": "Other",
-      "event_name": "DARTS PDC Vs DARTS PDC",
+      "Category": "Football",
+      "event_name": "3K FC Vs Muranga",
       "eventInfo": {
-        "teamA": "DARTS PDC",
-        "teamB": "DARTS PDC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
-        "eventName": "DARTS PDC",
-        "event_logo": "https://img.sofascore.com/api/v1/unique-tournament/751/image",
+        "teamA": "3K FC",
+        "teamB": "Muranga",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
+        "eventName": "Kenya Premier League",
+        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
         "startTime": "25/10/2026 05:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "Darts European Championship",
-          "stream_url": "http://193.47.62.44/hls/F555AA.m3u8",
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.50/hls/D222.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_bc2beb8eb4e5",
+      "id": "evt_9ecd7558a8b9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Crystal Palace Vs Chelsea FC",
+      "eventInfo": {
+        "teamA": "Crystal Palace",
+        "teamB": "Chelsea FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/234204/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+        "eventName": "Women's Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
+        "startTime": "25/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "SPORTSCAST HD",
+          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        }
+      ],
+      "id": "evt_1b48c118e1d6",
       "isHot": false
     },
     {
@@ -430,6 +484,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Real Club Deportivo de A Coruña Vs Deportivo Alavés",
+      "eventInfo": {
+        "teamA": "Real Club Deportivo de A Coruña",
+        "teamB": "Deportivo Alavés",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/262253/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/388473/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "25/10/2026 05:45:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_27767b197fbd",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Fortuna Sittard Vs Excelsior",
       "eventInfo": {
         "teamA": "Fortuna Sittard",
@@ -454,25 +530,49 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "3K FC Vs Muranga",
+      "event_name": "Hibernian Vs Celtic",
       "eventInfo": {
-        "teamA": "3K FC",
-        "teamB": "Muranga",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "eventName": "Kenya Premier League",
-        "event_logo": "https://pbs.twimg.com/profile_images/1546980409699102720/gU1veo3__400x400.jpg",
-        "startTime": "25/10/2026 05:00:00 PM"
+        "teamA": "Hibernian",
+        "teamB": "Celtic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "25/10/2026 06:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.50/hls/D222.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         }
       ],
-      "id": "evt_9ecd7558a8b9",
+      "id": "evt_3b051d7e9dd5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Exeter Vs Hashtag",
+      "eventInfo": {
+        "teamA": "Exeter",
+        "teamB": "Hashtag",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/371772/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/399179/image",
+        "eventName": "Women's FA Cup",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11667/image/dark",
+        "startTime": "25/10/2026 06:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
+        }
+      ],
+      "id": "evt_c3b125432747",
       "isHot": false
     },
     {
@@ -821,36 +921,6 @@
       },
       "streams": [],
       "id": "evt_c0a88495ab55",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Crystal Palace Vs Chelsea FC",
-      "eventInfo": {
-        "teamA": "Crystal Palace",
-        "teamB": "Chelsea FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/234204/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-        "eventName": "Women's Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1044/image/dark",
-        "startTime": "25/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "SPORTSCAST HD",
-          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        }
-      ],
-      "id": "evt_1b48c118e1d6",
       "isHot": false
     },
     {
@@ -1495,28 +1565,6 @@
         }
       ],
       "id": "evt_4fbb1e0fe8d7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Real Club Deportivo de A Coruña Vs Deportivo Alavés",
-      "eventInfo": {
-        "teamA": "Real Club Deportivo de A Coruña",
-        "teamB": "Deportivo Alavés",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/262253/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/388473/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "25/10/2026 05:45:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_27767b197fbd",
       "isHot": false
     },
     {
@@ -2171,30 +2219,6 @@
         }
       ],
       "id": "evt_963205eec350",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hibernian Vs Celtic",
-      "eventInfo": {
-        "teamA": "Hibernian",
-        "teamB": "Celtic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "25/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        }
-      ],
-      "id": "evt_3b051d7e9dd5",
       "isHot": false
     },
     {
@@ -3447,30 +3471,6 @@
         }
       ],
       "id": "evt_87637e66c6e8",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Exeter Vs Hashtag",
-      "eventInfo": {
-        "teamA": "Exeter",
-        "teamB": "Hashtag",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/371772/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/399179/image",
-        "eventName": "Women's FA Cup",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/11667/image/dark",
-        "startTime": "25/10/2026 06:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "id": "evt_c3b125432747",
       "isHot": false
     },
     {
