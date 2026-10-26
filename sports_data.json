@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:30:28 AM 26-10-2026",
+  "last_update_time": "07:45:22 AM 26-10-2026",
   "total_matches": 80,
-  "live_match": 23,
+  "live_match": 18,
   "matches": [
     {
       "status": "LIVE",
@@ -197,18 +197,18 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atlético Nacional Vs Independiente Medellín",
+      "event_name": "Deportes Tolima Vs Deportivo Pasto",
       "eventInfo": {
-        "teamA": "Atlético Nacional",
-        "teamB": "Independiente Medellín",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+        "teamA": "Deportes Tolima",
+        "teamB": "Deportivo Pasto",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6113/image",
         "eventName": "Primera A",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "26/10/2026 05:10:00 AM"
+        "startTime": "26/10/2026 07:15:00 AM"
       },
       "streams": [],
-      "id": "evt_b12ad7e768e2",
+      "id": "evt_e9a093e92f5e",
       "isHot": false
     },
     {
@@ -236,23 +236,31 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "San Diego Wave FC Vs Boston Legacy FC",
+      "event_name": "Club América Vs CF Pachuca",
       "eventInfo": {
-        "teamA": "San Diego Wave FC",
-        "teamB": "Boston Legacy FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/408170/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
-        "eventName": "NWSL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
-        "startTime": "26/10/2026 05:00:00 AM"
+        "teamA": "Club América",
+        "teamB": "CF Pachuca",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "26/10/2026 07:05:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         }
       ],
-      "id": "evt_13aee6dc754c",
+      "id": "evt_254b682853b9",
       "isHot": false
     },
     {
@@ -288,36 +296,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Atlas FC Vs Club Puebla",
-      "eventInfo": {
-        "teamA": "Atlas FC",
-        "teamB": "Club Puebla",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1949/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "26/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_d1bb9c5f2079",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Central Córdoba Vs Vélez Sarsfield",
       "eventInfo": {
         "teamA": "Central Córdoba",
@@ -347,40 +325,6 @@
       },
       "streams": [],
       "id": "evt_8eca5fb97da1",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Garcilaso Vs Los Chankas CYC",
-      "eventInfo": {
-        "teamA": "Deportivo Garcilaso",
-        "teamB": "Los Chankas CYC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/458584/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "26/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_24da44189b0c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Universidad de Concepción Vs Deportes Limache",
-      "eventInfo": {
-        "teamA": "Universidad de Concepción",
-        "teamB": "Deportes Limache",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5034/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/331131/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "26/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_8fe0bc315126",
       "isHot": false
     },
     {
@@ -628,53 +572,6 @@
         }
       ],
       "id": "evt_d74685645555",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportes Tolima Vs Deportivo Pasto",
-      "eventInfo": {
-        "teamA": "Deportes Tolima",
-        "teamB": "Deportivo Pasto",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6111/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6113/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "26/10/2026 07:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_e9a093e92f5e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club América Vs CF Pachuca",
-      "eventInfo": {
-        "teamA": "Club América",
-        "teamB": "CF Pachuca",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "26/10/2026 07:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_254b682853b9",
       "isHot": false
     },
     {
@@ -1828,6 +1725,23 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Atlético Nacional Vs Independiente Medellín",
+      "eventInfo": {
+        "teamA": "Atlético Nacional",
+        "teamB": "Independiente Medellín",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "26/10/2026 05:10:00 AM"
+      },
+      "streams": [],
+      "id": "evt_b12ad7e768e2",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Udinese Vs AC Milan",
       "eventInfo": {
         "teamA": "Udinese",
@@ -1939,6 +1853,58 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "San Diego Wave FC Vs Boston Legacy FC",
+      "eventInfo": {
+        "teamA": "San Diego Wave FC",
+        "teamB": "Boston Legacy FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/408170/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1165118/image",
+        "eventName": "NWSL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1690/image/dark",
+        "startTime": "26/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_13aee6dc754c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Atlas FC Vs Club Puebla",
+      "eventInfo": {
+        "teamA": "Atlas FC",
+        "teamB": "Club Puebla",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1949/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "26/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_d1bb9c5f2079",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Sporting CP Vs Académico Viseu FC",
       "eventInfo": {
         "teamA": "Sporting CP",
@@ -2038,6 +2004,23 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Deportivo Garcilaso Vs Los Chankas CYC",
+      "eventInfo": {
+        "teamA": "Deportivo Garcilaso",
+        "teamB": "Los Chankas CYC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/458584/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/252254/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "26/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_24da44189b0c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Sport Boys Vs FC Cajamarca",
       "eventInfo": {
         "teamA": "Sport Boys",
@@ -2067,6 +2050,23 @@
       },
       "streams": [],
       "id": "evt_16ab6e8df206",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Universidad de Concepción Vs Deportes Limache",
+      "eventInfo": {
+        "teamA": "Universidad de Concepción",
+        "teamB": "Deportes Limache",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5034/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/331131/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "26/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_8fe0bc315126",
       "isHot": false
     },
     {
