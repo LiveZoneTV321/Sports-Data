@@ -2,10 +2,56 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:00:35 AM 27-10-2026",
+  "last_update_time": "02:15:22 AM 27-10-2026",
   "total_matches": 50,
-  "live_match": 14,
+  "live_match": 15,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Sevilla Vs Osasuna",
+      "eventInfo": {
+        "teamA": "Sevilla",
+        "teamB": "Osasuna",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "27/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "CazéTV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream6.pro/hls/377qj1h2727.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_1f070fed8fa3",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -186,6 +232,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Walsall Vs Salford City",
+      "eventInfo": {
+        "teamA": "Walsall",
+        "teamB": "Salford City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image",
+        "eventName": "League Two",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
+        "startTime": "27/10/2026 02:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        }
+      ],
+      "id": "evt_81037a1a66eb",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Other",
       "event_name": "Snooker Vs Snooker",
       "eventInfo": {
@@ -359,6 +428,28 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Montpellier Vs Red Star FC",
+      "eventInfo": {
+        "teamA": "Montpellier",
+        "teamB": "Red Star FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1642/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/52874/image",
+        "eventName": "Ligue 2",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/182/image/dark",
+        "startTime": "27/10/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkyxqzz9/index.m3u8"
+        }
+      ],
+      "id": "evt_8cef17c9f4d5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Messi Cup 2026 Vs Messi Cup 2026",
       "eventInfo": {
         "teamA": "Messi Cup 2026",
@@ -389,92 +480,18 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Sevilla Vs Osasuna",
+      "event_name": "Universidad de Chile Vs Everton de Viña del Mar",
       "eventInfo": {
-        "teamA": "Sevilla",
-        "teamB": "Osasuna",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "27/10/2026 02:00:00 AM"
+        "teamA": "Universidad de Chile",
+        "teamB": "Everton de Viña del Mar",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5032/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "27/10/2026 03:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "CazéTV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        },
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream6.pro/hls/377qj1h2727.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_1f070fed8fa3",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Walsall Vs Salford City",
-      "eventInfo": {
-        "teamA": "Walsall",
-        "teamB": "Salford City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/26/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/37998/image",
-        "eventName": "League Two",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/25/image/dark",
-        "startTime": "27/10/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        }
-      ],
-      "id": "evt_81037a1a66eb",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Montpellier Vs Red Star FC",
-      "eventInfo": {
-        "teamA": "Montpellier",
-        "teamB": "Red Star FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1642/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/52874/image",
-        "eventName": "Ligue 2",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/182/image/dark",
-        "startTime": "27/10/2026 01:45:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TV + QUALITY",
-          "stream_url": "http://162.251.160.53:8089/prime_us_b0hkyxqzz9/index.m3u8"
-        }
-      ],
-      "id": "evt_8cef17c9f4d5",
+      "streams": [],
+      "id": "evt_1129381eea96",
       "isHot": false
     },
     {
@@ -795,23 +812,6 @@
       },
       "streams": [],
       "id": "evt_6f34502c8c49",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Universidad de Chile Vs Everton de Viña del Mar",
-      "eventInfo": {
-        "teamA": "Universidad de Chile",
-        "teamB": "Everton de Viña del Mar",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3161/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5032/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "27/10/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_1129381eea96",
       "isHot": false
     },
     {
