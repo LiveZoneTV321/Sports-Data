@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:00:32 AM 26-10-2026",
+  "last_update_time": "06:15:23 AM 26-10-2026",
   "total_matches": 80,
-  "live_match": 26,
+  "live_match": 24,
   "matches": [
     {
       "status": "LIVE",
@@ -329,45 +329,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Utah Jazz Vs Los Angeles Lakers",
-      "eventInfo": {
-        "teamA": "Utah Jazz",
-        "teamB": "Los Angeles Lakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/10/2026 03:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY NBA",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58675/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 4",
-          "stream_url": "https://www.rtmpcdn.com/live/ed87012a-cc32-441a-8595-8d7c9b1c6a58.m3u8"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/EIIIAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_0295f34fe723",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Minnesota Timberwolves Vs Toronto Raptors",
       "eventInfo": {
         "teamA": "Minnesota Timberwolves",
@@ -510,6 +471,35 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Nashville Predators Vs Colorado Avalanche",
+      "eventInfo": {
+        "teamA": "Nashville Predators",
+        "teamB": "Colorado Avalanche",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "26/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_82c8c250043c",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Winnipeg Jets Vs Montréal Canadiens",
       "eventInfo": {
         "teamA": "Winnipeg Jets",
@@ -582,162 +572,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Detroit Lions Vs Green Bay Packers",
-      "eventInfo": {
-        "teamA": "Detroit Lions",
-        "teamB": "Green Bay Packers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "20/10/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL Gamepass FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n6apkgascf/out/v1/03f0cb669fb34c7c9e7815ee4187274a/cenc.mpd",
-          "drm_key": "1d03b7709953411f12f05d3b96b5b497:5053314444e9e1f1a051835833c95999"
-        },
-        {
-          "channel_name": "SPORTV2 BR FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
-          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
-        },
-        {
-          "channel_name": "NFL SERVER HD ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58673/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "NFL SERVER TV",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58657/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 1",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58658/load-playlist-multi?.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58657/load-playlist-multi?.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/hmmmAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_47fe09dfe9c8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Arizona Cardinals Vs Denver Broncos",
-      "eventInfo": {
-        "teamA": "Arizona Cardinals",
-        "teamB": "Denver Broncos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "20/10/2026 02:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58660/load-playlist-multi?.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "NFL BACKUP",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58672/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58659/load-playlist-multi?.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ysvbxwnbc38.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/YDDDD.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "SERVER HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58659/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_f748c178bed7",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "Las Vegas Raiders Vs Los Angeles Rams",
-      "eventInfo": {
-        "teamA": "Las Vegas Raiders",
-        "teamB": "Los Angeles Rams",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-        "eventName": "NFL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "20/10/2026 02:25:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58661/load-playlist-multi?.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "NFL Backup",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58674/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/poertjnvnev40.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/YDDDDA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_59aec5f51af0",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sportivo San Lorenzo Vs Cerro Porteño",
       "eventInfo": {
@@ -763,25 +597,53 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Aucas Vs Barcelona SC",
+      "event_name": "Los Angeles FC Vs LA Galaxy",
       "eventInfo": {
-        "teamA": "Aucas",
-        "teamB": "Barcelona SC",
-        "teamAFlag": "j",
-        "teamBFlag": "j",
-        "eventName": "Ecuador Liga Pro",
-        "event_logo": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
-        "startTime": "26/10/2026 03:30:00 AM"
+        "teamA": "Los Angeles FC",
+        "teamB": "LA Galaxy",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2513/image",
+        "eventName": "MLS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
+        "startTime": "26/10/2026 07:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.55/hls/EIIIAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "MLS TV HD",
+          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ff416d05_5116_4c7f_bc8f_e0cf25f3b811/index.m3u8"
         }
       ],
-      "id": "evt_36d021bc2cc1",
+      "id": "evt_0ec155eb0a7a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Querétaro FC Vs Cruz Azul",
+      "eventInfo": {
+        "teamA": "Querétaro FC",
+        "teamB": "Cruz Azul",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "26/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ],
+      "id": "evt_0a8ec4bdc1cc",
       "isHot": false
     },
     {
@@ -820,31 +682,26 @@
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Nashville Predators Vs Colorado Avalanche",
+      "Category": "Basketball",
+      "event_name": "Sacramento Kings Vs Memphis Grizzlies",
       "eventInfo": {
-        "teamA": "Nashville Predators",
-        "teamB": "Colorado Avalanche",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3705/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "26/10/2026 06:00:00 AM"
+        "teamA": "Sacramento Kings",
+        "teamB": "Memphis Grizzlies",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/10/2026 07:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
         }
       ],
-      "id": "evt_82c8c250043c",
+      "id": "evt_a7fbe83356b3",
       "isHot": false
     },
     {
@@ -1157,28 +1014,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Los Angeles FC Vs LA Galaxy",
-      "eventInfo": {
-        "teamA": "Los Angeles FC",
-        "teamB": "LA Galaxy",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2513/image",
-        "eventName": "MLS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/242/image/dark",
-        "startTime": "26/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "MLS TV HD",
-          "stream_url": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_ff416d05_5116_4c7f_bc8f_e0cf25f3b811/index.m3u8"
-        }
-      ],
-      "id": "evt_0ec155eb0a7a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Club Tijuana Vs Santos Laguna",
       "eventInfo": {
         "teamA": "Club Tijuana",
@@ -1234,60 +1069,6 @@
         }
       ],
       "id": "evt_254b682853b9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Querétaro FC Vs Cruz Azul",
-      "eventInfo": {
-        "teamA": "Querétaro FC",
-        "teamB": "Cruz Azul",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1947/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "26/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        }
-      ],
-      "id": "evt_0a8ec4bdc1cc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Sacramento Kings Vs Memphis Grizzlies",
-      "eventInfo": {
-        "teamA": "Sacramento Kings",
-        "teamB": "Memphis Grizzlies",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "26/10/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_a7fbe83356b3",
       "isHot": false
     },
     {
@@ -2388,6 +2169,45 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Utah Jazz Vs Los Angeles Lakers",
+      "eventInfo": {
+        "teamA": "Utah Jazz",
+        "teamB": "Los Angeles Lakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "26/10/2026 03:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY NBA",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58675/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/ed87012a-cc32-441a-8595-8d7c9b1c6a58.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/EIIIAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_0295f34fe723",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Florida Panthers",
       "eventInfo": {
@@ -2412,6 +2232,162 @@
         }
       ],
       "id": "evt_ac3b91b1963c",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Detroit Lions Vs Green Bay Packers",
+      "eventInfo": {
+        "teamA": "Detroit Lions",
+        "teamB": "Green Bay Packers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "20/10/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NFL Gamepass FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/n6apkgascf/out/v1/03f0cb669fb34c7c9e7815ee4187274a/cenc.mpd",
+          "drm_key": "1d03b7709953411f12f05d3b96b5b497:5053314444e9e1f1a051835833c95999"
+        },
+        {
+          "channel_name": "SPORTV2 BR FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
+          "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
+        },
+        {
+          "channel_name": "NFL SERVER HD ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58673/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL SERVER TV",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58657/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 1",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58658/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58657/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/cwxcnbscbsq39.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/hmmmAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_47fe09dfe9c8",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Arizona Cardinals Vs Denver Broncos",
+      "eventInfo": {
+        "teamA": "Arizona Cardinals",
+        "teamB": "Denver Broncos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "20/10/2026 02:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58660/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL BACKUP",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58672/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58659/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/ysvbxwnbc38.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/YDDDD.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "SERVER HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58659/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_f748c178bed7",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "Las Vegas Raiders Vs Los Angeles Rams",
+      "eventInfo": {
+        "teamA": "Las Vegas Raiders",
+        "teamB": "Los Angeles Rams",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+        "eventName": "NFL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
+        "startTime": "20/10/2026 02:25:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58661/load-playlist-multi?.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL Backup",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58674/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/poertjnvnev40.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/YDDDDA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_59aec5f51af0",
       "isHot": false
     },
     {
@@ -2442,6 +2418,30 @@
         }
       ],
       "id": "evt_eb8bd975972f",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Aucas Vs Barcelona SC",
+      "eventInfo": {
+        "teamA": "Aucas",
+        "teamB": "Barcelona SC",
+        "teamAFlag": "j",
+        "teamBFlag": "j",
+        "eventName": "Ecuador Liga Pro",
+        "event_logo": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg",
+        "startTime": "26/10/2026 03:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/EIIIAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_36d021bc2cc1",
       "isHot": false
     }
   ]
