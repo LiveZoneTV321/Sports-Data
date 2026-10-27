@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:32 AM 27-10-2026",
+  "last_update_time": "08:15:23 AM 27-10-2026",
   "total_matches": 50,
-  "live_match": 18,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -36,7 +36,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "27/10/2026 06:15:00 AM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/CACACAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_4e374142f26b",
       "isHot": false
     },
@@ -66,6 +73,11 @@
           "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
         },
         {
+          "channel_name": "HD QUALITY MLB ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58721/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
           "referer": "https://embedcenter.st",
@@ -90,6 +102,11 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58719/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream4.pro/hls/zeafwqvhfe69.m3u8",
           "referer": "https://embedcenter.st",
@@ -97,6 +114,35 @@
         }
       ],
       "id": "evt_19524f1bd91b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Denver Nuggets Vs Golden State Warriors",
+      "eventInfo": {
+        "teamA": "Denver Nuggets",
+        "teamB": "Golden State Warriors",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY NBA",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58733/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_d1e092c3b33c",
       "isHot": false
     },
     {
@@ -113,6 +159,11 @@
         "startTime": "27/10/2026 07:00:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "HD QUALITY NBA ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58729/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8",
@@ -138,6 +189,11 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58716/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8",
           "referer": "https://embedcenter.st",
@@ -162,6 +218,11 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58725/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream4.pro/hls/ztyarueaghj71.m3u8",
           "referer": "https://embedcenter.st",
@@ -169,30 +230,6 @@
         }
       ],
       "id": "evt_630597dfd0a1",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Cleveland Cavaliers Vs Minnesota Timberwolves",
-      "eventInfo": {
-        "teamA": "Cleveland Cavaliers",
-        "teamB": "Minnesota Timberwolves",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream5.pro/hls/wfazgsqtrezu66.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_b54e25a2a115",
       "isHot": false
     },
     {
@@ -216,10 +253,27 @@
           "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
         },
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58718/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream5.pro/hls/sdghjvqazhvg80.m3u8",
           "referer": "https://embedcenter.st",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        },
+        {
+          "channel_name": "HD QUALITY 4",
+          "stream_url": "https://www.rtmpcdn.com/live/77b00f5d-0a84-4521-9063-18d883a7b007.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/SASASA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_34bc2141efd7",
@@ -239,6 +293,11 @@
         "startTime": "27/10/2026 05:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58710/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
@@ -264,6 +323,11 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58711/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8",
           "referer": "https://embedcenter.st",
@@ -271,30 +335,6 @@
         }
       ],
       "id": "evt_84f3f4c4b058",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Charlotte Hornets Vs Washington Wizards",
-      "eventInfo": {
-        "teamA": "Charlotte Hornets",
-        "teamB": "Washington Wizards",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_14f39a1db0e7",
       "isHot": false
     },
     {
@@ -311,6 +351,15 @@
         "startTime": "27/10/2026 07:30:00 AM"
       },
       "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58731/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/dfbb8d17-042a-4372-8be2-8cca5e2b40af/master.m3u8"
+        },
         {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
@@ -336,6 +385,15 @@
       },
       "streams": [
         {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58724/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/e62295d7-ae7a-4ddb-853f-250c7dcd47cd/master.m3u8"
+        },
+        {
           "channel_name": "HD QUALITY",
           "stream_url": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
           "referer": "https://embedcenter.st",
@@ -343,30 +401,6 @@
         }
       ],
       "id": "evt_20d819b36bbe",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "New York Rangers Vs Los Angeles Kings",
-      "eventInfo": {
-        "teamA": "New York Rangers",
-        "teamB": "Los Angeles Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "27/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream7.pro/hls/uyopzarf50.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_4a779fba6966",
       "isHot": false
     },
     {
@@ -380,15 +414,9 @@
         "teamBFlag": "https://img.sofascore.com/api/v1/team/4392/image",
         "eventName": "NFL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/9464/image/dark",
-        "startTime": "27/10/2026 06:15:00 AM"
+        "startTime": "18/10/2026 06:15:00 AM"
       },
       "streams": [
-        {
-          "channel_name": "TSN1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
-        },
         {
           "channel_name": "TSN3 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
@@ -402,6 +430,12 @@
           "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
         },
         {
+          "channel_name": "TSN1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d"
+        },
+        {
           "channel_name": "SPORTV2 BR FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
           "drm_key": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3"
@@ -411,6 +445,33 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e"
+        },
+        {
+          "channel_name": "NFL STREAM HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58708/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "MANNING SERVER ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58723/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "NFL BACKUP",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58722/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/YYYY.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "2.LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/YYYYA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "HD QUALITY",
@@ -437,12 +498,23 @@
       },
       "streams": [
         {
-          "channel_name": "WWE HD",
-          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58315/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
         },
         {
-          "channel_name": "HD TIME + ",
+          "channel_name": "HD TIME + WWE",
           "stream_url": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/CACACAQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "WWE HD",
+          "stream_url": "https://admin2.formaturamaxi.com.br/wwe.m3u8"
         },
         {
           "channel_name": "WWE HD",
@@ -451,30 +523,6 @@
         }
       ],
       "id": "evt_c3a162aa9f82",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Denver Nuggets Vs Golden State Warriors",
-      "eventInfo": {
-        "teamA": "Denver Nuggets",
-        "teamB": "Golden State Warriors",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "27/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY",
-          "stream_url": "https://edgestream1.pro/hls/fdgsqdfawa73.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_d1e092c3b33c",
       "isHot": false
     },
     {
@@ -1320,6 +1368,92 @@
         }
       ],
       "id": "evt_81037a1a66eb",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Cleveland Cavaliers Vs Minnesota Timberwolves",
+      "eventInfo": {
+        "teamA": "Cleveland Cavaliers",
+        "teamB": "Minnesota Timberwolves",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58712/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY2",
+          "stream_url": "https://edgestream5.pro/hls/wfazgsqtrezu66.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_b54e25a2a115",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Charlotte Hornets Vs Washington Wizards",
+      "eventInfo": {
+        "teamA": "Charlotte Hornets",
+        "teamB": "Washington Wizards",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "27/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream4.pro/hls/mlkijfezag65.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_14f39a1db0e7",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "New York Rangers Vs Los Angeles Kings",
+      "eventInfo": {
+        "teamA": "New York Rangers",
+        "teamB": "Los Angeles Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3688/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "27/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY NHL ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58704/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/212f5817-b2d4-4704-9ec7-63ae0aa72111/master.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY",
+          "stream_url": "https://edgestream7.pro/hls/uyopzarf50.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_4a779fba6966",
       "isHot": false
     },
     {
