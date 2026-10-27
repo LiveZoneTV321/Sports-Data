@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:28 AM 28-10-2026",
+  "last_update_time": "05:45:23 AM 28-10-2026",
   "total_matches": 68,
   "live_match": 15,
   "matches": [
@@ -28,6 +28,28 @@
         }
       ],
       "id": "evt_7dc49b00ba56",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Boston Celtics Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Boston Celtics",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "28/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA FHD",
+          "stream_url": "https://vix.cdnfan.site/event/nba1.m3u8"
+        }
+      ],
+      "id": "evt_7fae99484048",
       "isHot": false
     },
     {
@@ -224,28 +246,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Boston Celtics Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Boston Celtics",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "28/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA FHD",
-          "stream_url": "https://vix.cdnfan.site/event/nba1.m3u8"
-        }
-      ],
-      "id": "evt_7fae99484048",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Chicago Blackhawks Vs Los Angeles Kings",
       "eventInfo": {
@@ -409,7 +409,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.55/hls/JGGGAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/JGGGAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_8e6163ae84c8",
