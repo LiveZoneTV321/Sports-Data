@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:15:24 PM 27-10-2026",
+  "last_update_time": "03:30:28 PM 27-10-2026",
   "total_matches": 76,
-  "live_match": 7,
+  "live_match": 11,
   "matches": [
     {
       "status": "LIVE",
@@ -56,8 +56,8 @@
       "streams": [
         {
           "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
-          "drm_key": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b"
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd",
+          "drm_key": "bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96"
         },
         {
           "channel_name": "FANCODE FHD",
@@ -71,8 +71,8 @@
         },
         {
           "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2jx5hrl31t/out/v1/9b12bcffb3eb4f95a4b1809826d1d020/cenc.mpd",
-          "drm_key": "0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b"
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yi1ah9sgsj/out/v1/ffe37797429b4ed28810e8d7735124fc/cenc.mpd",
+          "drm_key": "bdc52b31dcf25b0515a61fb9d0f444a2:468ae45daef1021713e7ea869a340f96"
         },
         {
           "channel_name": "WILLOW SPORTS HD",
@@ -344,6 +344,110 @@
         }
       ],
       "id": "evt_0411ec57803d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Johor Darul Ta'zim Vs Port FC",
+      "eventInfo": {
+        "teamA": "Johor Darul Ta'zim",
+        "teamB": "Port FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "27/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2399/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_5008c8375350",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Daejeon Hana Citizen Vs Vissel Kobe",
+      "eventInfo": {
+        "teamA": "Daejeon Hana Citizen",
+        "teamB": "Vissel Kobe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3146/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "27/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_773f5fc5c89c",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Shanghai Port Vs Công An Hà Nội",
+      "eventInfo": {
+        "teamA": "Shanghai Port",
+        "teamB": "Công An Hà Nội",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "27/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2189/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_2cb3cf190fa9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kyoto Sanga FC Vs Newcastle Jets",
+      "eventInfo": {
+        "teamA": "Kyoto Sanga FC",
+        "teamB": "Newcastle Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "eventName": "AFC Champions League Elite",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
+        "startTime": "27/10/2026 04:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "TV + QUALITY",
+          "stream_url": "http://162.251.160.53:8089/2234/index.m3u8"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?",
+          "referer": "https://xoilac.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_3a01b487b95f",
       "isHot": false
     },
     {
@@ -649,94 +753,6 @@
         }
       ],
       "id": "evt_702b9867a868",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Johor Darul Ta'zim Vs Port FC",
-      "eventInfo": {
-        "teamA": "Johor Darul Ta'zim",
-        "teamB": "Port FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "27/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5008c8375350",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Daejeon Hana Citizen Vs Vissel Kobe",
-      "eventInfo": {
-        "teamA": "Daejeon Hana Citizen",
-        "teamB": "Vissel Kobe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "27/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_773f5fc5c89c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Shanghai Port Vs Công An Hà Nội",
-      "eventInfo": {
-        "teamA": "Shanghai Port",
-        "teamB": "Công An Hà Nội",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "27/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2cb3cf190fa9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Kyoto Sanga FC Vs Newcastle Jets",
-      "eventInfo": {
-        "teamA": "Kyoto Sanga FC",
-        "teamB": "Newcastle Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-        "eventName": "AFC Champions League Elite",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/463/image/dark",
-        "startTime": "27/10/2026 04:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_3a01b487b95f",
       "isHot": false
     },
     {
