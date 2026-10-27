@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:30:31 PM 27-10-2026",
+  "last_update_time": "09:45:24 PM 27-10-2026",
   "total_matches": 109,
   "live_match": 9,
   "matches": [
@@ -170,6 +170,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Young Africans Vs Mashujaa",
+      "eventInfo": {
+        "teamA": "Young Africans",
+        "teamB": "Mashujaa",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/134320/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
+        "eventName": "Tanzania Ligi Kuu Bara",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
+        "startTime": "27/10/2026 09:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "http://193.47.62.55/hls/VAVAVA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_af6a40ea861d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Progresul Spartac Vs Petrolul",
       "eventInfo": {
         "teamA": "Progresul Spartac",
@@ -261,30 +285,6 @@
         }
       ],
       "id": "evt_57b7e65dc5ff",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Young Africans Vs Mashujaa",
-      "eventInfo": {
-        "teamA": "Young Africans",
-        "teamB": "Mashujaa",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/134320/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/376323/image",
-        "eventName": "Tanzania Ligi Kuu Bara",
-        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/2353/image/dark",
-        "startTime": "27/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "http://193.47.62.55/hls/VAVAVA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_af6a40ea861d",
       "isHot": false
     },
     {
