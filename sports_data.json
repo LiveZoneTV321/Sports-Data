@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:33 AM 28-10-2026",
+  "last_update_time": "07:15:23 AM 28-10-2026",
   "total_matches": 68,
-  "live_match": 18,
+  "live_match": 21,
   "matches": [
     {
       "status": "LIVE",
@@ -461,6 +461,32 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
+      "event_name": "Utah Mammoth Vs Minnesota Wild",
+      "eventInfo": {
+        "teamA": "Utah Mammoth",
+        "teamB": "Minnesota Wild",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/10/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NHL HD",
+          "stream_url": "https://vix.cdnfan.site/event/nhl8.m3u8"
+        },
+        {
+          "channel_name": "SPORTSCAST FHD ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8"
+        }
+      ],
+      "id": "evt_766f78451fa1",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
       "event_name": "Winnipeg Jets Vs Florida Panthers",
       "eventInfo": {
         "teamA": "Winnipeg Jets",
@@ -616,27 +642,90 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Utah Mammoth Vs Minnesota Wild",
+      "event_name": "Anaheim Ducks Vs Vancouver Canucks",
       "eventInfo": {
-        "teamA": "Utah Mammoth",
-        "teamB": "Minnesota Wild",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3689/image",
+        "teamA": "Anaheim Ducks",
+        "teamB": "Vancouver Canucks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
         "eventName": "NHL",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/10/2026 07:00:00 AM"
+        "startTime": "28/10/2026 08:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "NHL HD",
-          "stream_url": "https://vix.cdnfan.site/event/nhl8.m3u8"
+          "stream_url": "https://vix.cdnfan.site/event/nhl10.m3u8"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/48637341-f903-44be-b068-8bb37c4ed61d/master.m3u8"
+        }
+      ],
+      "id": "evt_a353507e8633",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Vegas Golden Knights Vs Ottawa Senators",
+      "eventInfo": {
+        "teamA": "Vegas Golden Knights",
+        "teamB": "Ottawa Senators",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "28/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        },
+        {
+          "channel_name": "NHL HD",
+          "stream_url": "https://vix.cdnfan.site/event/nhl9.m3u8"
         },
         {
           "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a11b1dc9-eb27-4766-8000-6a9e40758175/master.m3u8"
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7c20b1d-9dfc-4d17-9faa-f005e020c483/master.m3u8"
         }
       ],
-      "id": "evt_766f78451fa1",
+      "id": "evt_e7b4d31b41f9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Alianza FC Vs CD Marathon",
+      "eventInfo": {
+        "teamA": "Alianza FC",
+        "teamB": "CD Marathon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24383/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/25355/image",
+        "eventName": "CONCACAF Central American Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/20695/image/dark",
+        "startTime": "28/10/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/nnnnaA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e72c3c666322",
       "isHot": false
     },
     {
@@ -1099,64 +1188,6 @@
     {
       "status": "UPCOMING",
       "Category": "Hockey",
-      "event_name": "Anaheim Ducks Vs Vancouver Canucks",
-      "eventInfo": {
-        "teamA": "Anaheim Ducks",
-        "teamB": "Vancouver Canucks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3675/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3692/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NHL HD",
-          "stream_url": "https://vix.cdnfan.site/event/nhl10.m3u8"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/48637341-f903-44be-b068-8bb37c4ed61d/master.m3u8"
-        }
-      ],
-      "id": "evt_a353507e8633",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Vegas Golden Knights Vs Ottawa Senators",
-      "eventInfo": {
-        "teamA": "Vegas Golden Knights",
-        "teamB": "Ottawa Senators",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3700/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "28/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        },
-        {
-          "channel_name": "NHL HD",
-          "stream_url": "https://vix.cdnfan.site/event/nhl9.m3u8"
-        },
-        {
-          "channel_name": "SPORTSCAST FHD ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/b7c20b1d-9dfc-4d17-9faa-f005e020c483/master.m3u8"
-        }
-      ],
-      "id": "evt_e7b4d31b41f9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "San Jose Sharks Vs Buffalo Sabres",
       "eventInfo": {
         "teamA": "San Jose Sharks",
@@ -1206,37 +1237,6 @@
         }
       ],
       "id": "evt_e63a3bab33fc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Alianza FC Vs CD Marathon",
-      "eventInfo": {
-        "teamA": "Alianza FC",
-        "teamB": "CD Marathon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24383/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/25355/image",
-        "eventName": "CONCACAF Central American Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/20695/image/dark",
-        "startTime": "28/10/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/nnnnaA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e72c3c666322",
       "isHot": false
     },
     {
