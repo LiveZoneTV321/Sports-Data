@@ -2,7 +2,7 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:30:32 PM 29-10-2026",
+  "last_update_time": "08:34:35 PM 29-10-2026",
   "total_matches": 134,
   "live_match": 20,
   "matches": [
@@ -31,6 +31,18 @@
           "stream_url": "http://193.47.62.59/hls/6HHHA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Tapmad",
+          "stream_url": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8"
+        },
+        {
+          "channel_name": "Star 4K",
+          "stream_url": "http://198.195.239.50:8095/STAR.SPORTS.4K/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "channel_name": "STAR SPORTS 1 HD",
+          "stream_url": "https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8"
         }
       ],
       "id": "evt_68188c561d80",
@@ -336,6 +348,32 @@
     {
       "status": "LIVE",
       "Category": "Cricket",
+      "event_name": "Afghanistan Vs Zimbabwe",
+      "eventInfo": {
+        "teamA": "Afghanistan",
+        "teamB": "Zimbabwe",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+        "eventName": "T20 International",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
+        "startTime": "29/10/2026 08:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
+        },
+        {
+          "channel_name": "STAR SPORTS HD",
+          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
+        }
+      ],
+      "id": "evt_dd2ed21ac15f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
       "event_name": "Bangladesh Vs West Indies",
       "eventInfo": {
         "teamA": "Bangladesh",
@@ -428,6 +466,28 @@
         }
       ],
       "id": "evt_56daf4524c49",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Ain Vs Ajman",
+      "eventInfo": {
+        "teamA": "Al-Ain",
+        "teamB": "Ajman",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/58687/image",
+        "eventName": "UAE Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/971/image/dark",
+        "startTime": "29/10/2026 08:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_27d771b1a1c4",
       "isHot": false
     },
     {
@@ -597,32 +657,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Afghanistan Vs Zimbabwe",
-      "eventInfo": {
-        "teamA": "Afghanistan",
-        "teamB": "Zimbabwe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-        "eventName": "T20 International",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11191/image/dark",
-        "startTime": "29/10/2026 08:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "http://103.151.60.162:2122/play/a030/index.m3u8?hls"
-        },
-        {
-          "channel_name": "STAR SPORTS HD",
-          "stream_url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8"
-        }
-      ],
-      "id": "evt_dd2ed21ac15f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Nigeria U17 Vs Mexico U17",
       "eventInfo": {
@@ -681,28 +715,6 @@
         }
       ],
       "id": "evt_52dd0a65d46e",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Ain Vs Ajman",
-      "eventInfo": {
-        "teamA": "Al-Ain",
-        "teamB": "Ajman",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37082/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/58687/image",
-        "eventName": "UAE Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/971/image/dark",
-        "startTime": "29/10/2026 08:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_27d771b1a1c4",
       "isHot": false
     },
     {
