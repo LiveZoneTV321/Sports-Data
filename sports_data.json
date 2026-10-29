@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:36 AM 30-10-2026",
+  "last_update_time": "04:15:25 AM 30-10-2026",
   "total_matches": 97,
-  "live_match": 17,
+  "live_match": 22,
   "matches": [
     {
       "status": "LIVE",
@@ -508,34 +508,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "KK Crvena zvezda Vs Bayern München",
-      "eventInfo": {
-        "teamA": "KK Crvena zvezda",
-        "teamB": "Bayern München",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "30/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://www.rtmpcdn.com/live/0878dbdc-3098-4580-a89a-e28aabdcf8b3.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/7777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_eaefd42cda61",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Real Madrid Vs Fenerbahçe Tarfin",
       "eventInfo": {
         "teamA": "Real Madrid",
@@ -616,6 +588,29 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Vasco da Gama Vs Flamengo",
+      "eventInfo": {
+        "teamA": "Vasco da Gama",
+        "teamB": "Flamengo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_de429f63e10d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Atlético Mineiro Vs Cruzeiro",
       "eventInfo": {
         "teamA": "Atlético Mineiro",
@@ -645,6 +640,118 @@
         }
       ],
       "id": "evt_065b1951f703",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Tampa Bay Lightning Vs Winnipeg Jets",
+      "eventInfo": {
+        "teamA": "Tampa Bay Lightning",
+        "teamB": "Winnipeg Jets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_975530ecaa28",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Pittsburgh Penguins Vs Utah Mammoth",
+      "eventInfo": {
+        "teamA": "Pittsburgh Penguins",
+        "teamB": "Utah Mammoth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_02e08b3a8a23",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Carolina Hurricanes Vs Columbus Blue Jackets",
+      "eventInfo": {
+        "teamA": "Carolina Hurricanes",
+        "teamB": "Columbus Blue Jackets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_33c4c5c557ef",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Miles Golden Bears Vs Fort Valley State Wildcats",
+      "eventInfo": {
+        "teamA": "Miles Golden Bears",
+        "teamB": "Fort Valley State Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/453935/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/454024/image",
+        "eventName": "NCAA, Regular Season",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_1886b4b67ea4",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "Morgan State Bears Vs South Carolina State Bulldogs",
+      "eventInfo": {
+        "teamA": "Morgan State Bears",
+        "teamB": "South Carolina State Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296532/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/296514/image",
+        "eventName": "NCAA Division FCS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32200/image/dark",
+        "startTime": "30/10/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_08d97e870313",
       "isHot": false
     },
     {
@@ -1289,29 +1396,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Vasco da Gama Vs Flamengo",
-      "eventInfo": {
-        "teamA": "Vasco da Gama",
-        "teamB": "Flamengo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_de429f63e10d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Grêmio Vs Athletico",
       "eventInfo": {
         "teamA": "Grêmio",
@@ -1628,70 +1712,6 @@
     {
       "status": "UPCOMING",
       "Category": "Hockey",
-      "event_name": "Tampa Bay Lightning Vs Winnipeg Jets",
-      "eventInfo": {
-        "teamA": "Tampa Bay Lightning",
-        "teamB": "Winnipeg Jets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3694/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3676/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_975530ecaa28",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Pittsburgh Penguins Vs Utah Mammoth",
-      "eventInfo": {
-        "teamA": "Pittsburgh Penguins",
-        "teamB": "Utah Mammoth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3697/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/530472/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_02e08b3a8a23",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
-      "event_name": "Carolina Hurricanes Vs Columbus Blue Jackets",
-      "eventInfo": {
-        "teamA": "Carolina Hurricanes",
-        "teamB": "Columbus Blue Jackets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3683/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_33c4c5c557ef",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Hockey",
       "event_name": "Nashville Predators Vs Washington Capitals",
       "eventInfo": {
         "teamA": "Nashville Predators",
@@ -1790,30 +1810,6 @@
     {
       "status": "UPCOMING",
       "Category": "American football",
-      "event_name": "Miles Golden Bears Vs Fort Valley State Wildcats",
-      "eventInfo": {
-        "teamA": "Miles Golden Bears",
-        "teamB": "Fort Valley State Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/453935/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/454024/image",
-        "eventName": "NCAA, Regular Season",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/19510/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_1886b4b67ea4",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
       "event_name": "James Madison Dukes Vs Troy Trojans",
       "eventInfo": {
         "teamA": "James Madison Dukes",
@@ -1833,30 +1829,6 @@
         }
       ],
       "id": "evt_a7727c63a70a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "American football",
-      "event_name": "Morgan State Bears Vs South Carolina State Bulldogs",
-      "eventInfo": {
-        "teamA": "Morgan State Bears",
-        "teamB": "South Carolina State Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296532/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/296514/image",
-        "eventName": "NCAA Division FCS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32200/image/dark",
-        "startTime": "30/10/2026 05:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_08d97e870313",
       "isHot": false
     },
     {
@@ -2902,6 +2874,34 @@
         }
       ],
       "id": "evt_3ef713d3ac67",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "KK Crvena zvezda Vs Bayern München",
+      "eventInfo": {
+        "teamA": "KK Crvena zvezda",
+        "teamB": "Bayern München",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/57183/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/26071/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "30/10/2026 01:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://www.rtmpcdn.com/live/0878dbdc-3098-4580-a89a-e28aabdcf8b3.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/7777A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_eaefd42cda61",
       "isHot": false
     },
     {
