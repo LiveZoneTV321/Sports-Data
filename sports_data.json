@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:31 AM 30-10-2026",
+  "last_update_time": "05:45:22 AM 30-10-2026",
   "total_matches": 97,
-  "live_match": 25,
+  "live_match": 26,
   "matches": [
     {
       "status": "LIVE",
@@ -182,35 +182,58 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Benfica Vs Gil Vicente",
+      "event_name": "Deportivo Pereira Vs Deportes Tolima",
       "eventInfo": {
-        "teamA": "Benfica",
-        "teamB": "Gil Vicente",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-        "eventName": "Taça da Liga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/327/image/dark",
-        "startTime": "30/10/2026 02:45:00 AM"
+        "teamA": "Deportivo Pereira",
+        "teamB": "Deportes Tolima",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "30/10/2026 05:15:00 AM"
+      },
+      "streams": [],
+      "id": "evt_96f99c4e3978",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "América de Cali Vs Fortaleza FC",
+      "eventInfo": {
+        "teamA": "América de Cali",
+        "teamB": "Fortaleza FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6102/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89368/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "30/10/2026 05:15:00 AM"
       },
       "streams": [
         {
-          "channel_name": "D SPORTS + FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
-        },
-        {
-          "channel_name": "TV QUALITY ",
-          "stream_url": "http://162.251.160.53:8089/341/index.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/EIIIQQA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "FOX DEPORTES FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
         }
       ],
-      "id": "evt_8145b376cdf3",
+      "id": "evt_cdf884ecba4e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Detroit Red Wings Vs Chicago Blackhawks",
+      "eventInfo": {
+        "teamA": "Detroit Red Wings",
+        "teamB": "Chicago Blackhawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "30/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3d9043460e9a",
       "isHot": false
     },
     {
@@ -304,6 +327,30 @@
     {
       "status": "LIVE",
       "Category": "American football",
+      "event_name": "James Madison Dukes Vs Troy Trojans",
+      "eventInfo": {
+        "teamA": "James Madison Dukes",
+        "teamB": "Troy Trojans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/296503/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4283/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "30/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_a7727c63a70a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
       "event_name": "Morgan State Bears Vs South Carolina State Bulldogs",
       "eventInfo": {
         "teamA": "Morgan State Bears",
@@ -323,6 +370,30 @@
         }
       ],
       "id": "evt_08d97e870313",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "North Texas Mean Green Vs Florida Atlantic Owls",
+      "eventInfo": {
+        "teamA": "North Texas Mean Green",
+        "teamB": "Florida Atlantic Owls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4302/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/188055/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "30/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://edgestream2.pro/hls/.m3u8",
+          "referer": "https://embedcenter.st",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
+        }
+      ],
+      "id": "evt_4a2c8526e65f",
       "isHot": false
     },
     {
@@ -462,41 +533,47 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Deportivo Pereira Vs Deportes Tolima",
+      "event_name": "Grêmio Vs Athletico",
       "eventInfo": {
-        "teamA": "Deportivo Pereira",
-        "teamB": "Deportes Tolima",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "30/10/2026 05:15:00 AM"
+        "teamA": "Grêmio",
+        "teamB": "Athletico",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+        "eventName": "Campeonato Brasileiro Série A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
+        "startTime": "30/10/2026 06:30:00 AM"
       },
-      "streams": [],
-      "id": "evt_96f99c4e3978",
+      "streams": [
+        {
+          "channel_name": "PREMIERER3 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
+          "drm_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
+        },
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ],
+      "id": "evt_65ad285dcede",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "América de Cali Vs Fortaleza FC",
+      "event_name": "Melgar Vs Comerciantes Unidos",
       "eventInfo": {
-        "teamA": "América de Cali",
-        "teamB": "Fortaleza FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6102/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/89368/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "30/10/2026 05:15:00 AM"
+        "teamA": "Melgar",
+        "teamB": "Comerciantes Unidos",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2308/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "30/10/2026 06:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "FOX DEPORTES FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-          "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811"
-        }
-      ],
-      "id": "evt_cdf884ecba4e",
+      "streams": [],
+      "id": "evt_e4bf153b4ec1",
       "isHot": false
     },
     {
@@ -595,23 +672,6 @@
     {
       "status": "LIVE",
       "Category": "Hockey",
-      "event_name": "Detroit Red Wings Vs Chicago Blackhawks",
-      "eventInfo": {
-        "teamA": "Detroit Red Wings",
-        "teamB": "Chicago Blackhawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3681/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "30/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_3d9043460e9a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
       "event_name": "Nashville Predators Vs Washington Capitals",
       "eventInfo": {
         "teamA": "Nashville Predators",
@@ -641,54 +701,6 @@
       },
       "streams": [],
       "id": "evt_55af6eec6a2c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "James Madison Dukes Vs Troy Trojans",
-      "eventInfo": {
-        "teamA": "James Madison Dukes",
-        "teamB": "Troy Trojans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/296503/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4283/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "30/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_a7727c63a70a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "North Texas Mean Green Vs Florida Atlantic Owls",
-      "eventInfo": {
-        "teamA": "North Texas Mean Green",
-        "teamB": "Florida Atlantic Owls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4302/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/188055/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "30/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://edgestream2.pro/hls/.m3u8",
-          "referer": "https://embedcenter.st",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"
-        }
-      ],
-      "id": "evt_4a2c8526e65f",
       "isHot": false
     },
     {
@@ -1194,52 +1206,6 @@
         }
       ],
       "id": "evt_f8587ff12ed5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Grêmio Vs Athletico",
-      "eventInfo": {
-        "teamA": "Grêmio",
-        "teamB": "Athletico",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-        "eventName": "Campeonato Brasileiro Série A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/325/image/dark",
-        "startTime": "30/10/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERER3 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd",
-          "drm_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8"
-        },
-        {
-          "channel_name": "SPORT TV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
-        }
-      ],
-      "id": "evt_65ad285dcede",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Melgar Vs Comerciantes Unidos",
-      "eventInfo": {
-        "teamA": "Melgar",
-        "teamB": "Comerciantes Unidos",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2308/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/213609/image",
-        "eventName": "Liga 1 Te Apuesto",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
-        "startTime": "30/10/2026 06:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_e4bf153b4ec1",
       "isHot": false
     },
     {
@@ -2751,6 +2717,40 @@
         }
       ],
       "id": "evt_bea890d3a354",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Benfica Vs Gil Vicente",
+      "eventInfo": {
+        "teamA": "Benfica",
+        "teamB": "Gil Vicente",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+        "eventName": "Taça da Liga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/327/image/dark",
+        "startTime": "30/10/2026 02:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
+        },
+        {
+          "channel_name": "TV QUALITY ",
+          "stream_url": "http://162.251.160.53:8089/341/index.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/EIIIQQA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8145b376cdf3",
       "isHot": false
     },
     {
