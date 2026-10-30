@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:29 AM 31-10-2026",
+  "last_update_time": "05:45:25 AM 31-10-2026",
   "total_matches": 228,
-  "live_match": 29,
+  "live_match": 30,
   "matches": [
     {
       "status": "LIVE",
@@ -280,19 +280,60 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportivo Pereira Vs Jaguares de Córdoba",
+      "Category": "Basketball",
+      "event_name": "Philadelphia 76ers Vs New York Knicks",
       "eventInfo": {
-        "teamA": "Deportivo Pereira",
-        "teamB": "Jaguares de Córdoba",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/89370/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "31/10/2026 03:00:00 AM"
+        "teamA": "Philadelphia 76ers",
+        "teamB": "New York Knicks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
       },
       "streams": [],
-      "id": "evt_fb6d513da227",
+      "id": "evt_8cd93a1fc23a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Boston Celtics Vs Chicago Bulls",
+      "eventInfo": {
+        "teamA": "Boston Celtics",
+        "teamB": "Chicago Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN5 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
+        }
+      ],
+      "id": "evt_8433cf27f14c",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Toronto Raptors Vs Orlando Magic",
+      "eventInfo": {
+        "teamA": "Toronto Raptors",
+        "teamB": "Orlando Magic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_2eba33e16cf9",
       "isHot": false
     },
     {
@@ -310,6 +351,23 @@
       },
       "streams": [],
       "id": "evt_99f50562e1d6",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Brooklyn Nets Vs Detroit Pistons",
+      "eventInfo": {
+        "teamA": "Brooklyn Nets",
+        "teamB": "Detroit Pistons",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_a2452ba5ee8c",
       "isHot": false
     },
     {
@@ -358,6 +416,30 @@
         }
       ],
       "id": "evt_3cd33db16ff9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "American football",
+      "event_name": "UCF Knights Vs Baylor Bears",
+      "eventInfo": {
+        "teamA": "UCF Knights",
+        "teamB": "Baylor Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4359/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ],
+      "id": "evt_c225e34b7102",
       "isHot": false
     },
     {
@@ -580,43 +662,36 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Philadelphia 76ers Vs New York Knicks",
+      "Category": "Football",
+      "event_name": "Racing Club Vs Aldosivi",
       "eventInfo": {
-        "teamA": "Philadelphia 76ers",
-        "teamB": "New York Knicks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3420/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
+        "teamA": "Racing Club",
+        "teamB": "Aldosivi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "31/10/2026 06:15:00 AM"
       },
       "streams": [],
-      "id": "evt_8cd93a1fc23a",
+      "id": "evt_7f5087078d23",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Boston Celtics Vs Chicago Bulls",
+      "Category": "Football",
+      "event_name": "Sarmiento Vs Rosario Central",
       "eventInfo": {
-        "teamA": "Boston Celtics",
-        "teamB": "Chicago Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
+        "teamA": "Sarmiento",
+        "teamB": "Rosario Central",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "31/10/2026 06:15:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "TSN5 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8"
-        }
-      ],
-      "id": "evt_8433cf27f14c",
+      "streams": [],
+      "id": "evt_d45898c9b883",
       "isHot": false
     },
     {
@@ -634,23 +709,6 @@
       },
       "streams": [],
       "id": "evt_fa20f94b0746",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Toronto Raptors Vs Orlando Magic",
-      "eventInfo": {
-        "teamA": "Toronto Raptors",
-        "teamB": "Orlando Magic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_2eba33e16cf9",
       "isHot": false
     },
     {
@@ -689,23 +747,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brooklyn Nets Vs Detroit Pistons",
-      "eventInfo": {
-        "teamA": "Brooklyn Nets",
-        "teamB": "Detroit Pistons",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_a2452ba5ee8c",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Calgary Flames Vs Seattle Kraken",
       "eventInfo": {
@@ -725,30 +766,6 @@
         }
       ],
       "id": "evt_92e361fe4b8a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UCF Knights Vs Baylor Bears",
-      "eventInfo": {
-        "teamA": "UCF Knights",
-        "teamB": "Baylor Bears",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4359/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        }
-      ],
-      "id": "evt_c225e34b7102",
       "isHot": false
     },
     {
@@ -2446,23 +2463,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Racing Club Vs Aldosivi",
-      "eventInfo": {
-        "teamA": "Racing Club",
-        "teamB": "Aldosivi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/10/2026 06:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_7f5087078d23",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Deportivo Riestra Vs CA Talleres",
       "eventInfo": {
         "teamA": "Deportivo Riestra",
@@ -2480,23 +2480,6 @@
         }
       ],
       "id": "evt_53465bd8c1c7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Sarmiento Vs Rosario Central",
-      "eventInfo": {
-        "teamA": "Sarmiento",
-        "teamB": "Rosario Central",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/10/2026 06:15:00 AM"
-      },
-      "streams": [],
-      "id": "evt_d45898c9b883",
       "isHot": false
     },
     {
@@ -5469,6 +5452,23 @@
         }
       ],
       "id": "evt_cb8b02452a3d",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportivo Pereira Vs Jaguares de Córdoba",
+      "eventInfo": {
+        "teamA": "Deportivo Pereira",
+        "teamB": "Jaguares de Córdoba",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6109/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/89370/image",
+        "eventName": "Primera A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
+        "startTime": "31/10/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_fb6d513da227",
       "isHot": false
     },
     {
