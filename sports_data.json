@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:00:36 AM 31-10-2026",
+  "last_update_time": "12:15:24 AM 31-10-2026",
   "total_matches": 231,
-  "live_match": 19,
+  "live_match": 20,
   "matches": [
     {
       "status": "LIVE",
@@ -298,6 +298,66 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Nice Vs Stade Rennais",
+      "eventInfo": {
+        "teamA": "Nice",
+        "teamB": "Stade Rennais",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+        "eventName": "Ligue 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "31/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/IFFFAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_5d41626e01ad",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Le Havre Vs Paris Saint-Germain",
+      "eventInfo": {
+        "teamA": "Le Havre",
+        "teamB": "Paris Saint-Germain",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+        "eventName": "Ligue 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "startTime": "31/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "CazéTV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+        },
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/IFFFAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7f9163a75c07",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "Konyaspor Vs Galatasaray",
       "eventInfo": {
         "teamA": "Konyaspor",
@@ -349,6 +409,11 @@
           "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
         },
         {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566641.m3u8?txSecret=407bc2c1b590a59eb474fd83dbb66d5a&txTime=6AE4E752",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/KYYYAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -379,6 +444,11 @@
           "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
         },
         {
+          "channel_name": "HD SERVER ",
+          "stream_url": "https://live.vivo155.com/live/sd-1-4566566.m3u8?txSecret=4c46b9f195b63be7f2ef39e04a589874&txTime=6AE4E730",
+          "referer": "https://player.on8on8.com/"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
           "stream_url": "http://193.47.62.41/hls/KYYYAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -386,6 +456,36 @@
         }
       ],
       "id": "evt_91c51a78d0d9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Shabab Vs Al-Ahli",
+      "eventInfo": {
+        "teamA": "Al-Shabab",
+        "teamB": "Al-Ahli",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "31/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.44/hls/IFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/IFFFAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_8266be5975be",
       "isHot": false
     },
     {
@@ -451,6 +551,36 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
+      "event_name": "Kauno Žalgiris Vs KK Partizan Mozzart Bet",
+      "eventInfo": {
+        "teamA": "Kauno Žalgiris",
+        "teamB": "KK Partizan Mozzart Bet",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6662/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6637/image",
+        "eventName": "Euroleague",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
+        "startTime": "31/10/2026 12:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.55/hls/E999.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.55/hls/E999.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_760b31248d86",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
       "event_name": "BC Dubai Vs Hapoel Tel-Aviv",
       "eventInfo": {
         "teamA": "BC Dubai",
@@ -509,91 +639,18 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Nice Vs Stade Rennais",
+      "event_name": "Lyngby Vs Randers FC",
       "eventInfo": {
-        "teamA": "Nice",
-        "teamB": "Stade Rennais",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-        "eventName": "Ligue 1",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
+        "teamA": "Lyngby",
+        "teamB": "Randers FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1756/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1301/image",
+        "eventName": "Danish Superliga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/39/image/dark",
         "startTime": "31/10/2026 12:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/IFFFAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_5d41626e01ad",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Le Havre Vs Paris Saint-Germain",
-      "eventInfo": {
-        "teamA": "Le Havre",
-        "teamB": "Paris Saint-Germain",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-        "eventName": "Ligue 1",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/34/image/dark",
-        "startTime": "31/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "CazéTV FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-        },
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/IFFFAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7f9163a75c07",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Al-Shabab Vs Al-Ahli",
-      "eventInfo": {
-        "teamA": "Al-Shabab",
-        "teamB": "Al-Ahli",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "31/10/2026 12:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://193.47.62.44/hls/IFFFAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/IFFFAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_8266be5975be",
+      "streams": [],
+      "id": "evt_b9db4cd89f1a",
       "isHot": false
     },
     {
@@ -621,48 +678,23 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Kauno Žalgiris Vs KK Partizan Mozzart Bet",
+      "event_name": "LDLC ASVEL Lyon-Villeurbanne Vs Kosner Baskonia",
       "eventInfo": {
-        "teamA": "Kauno Žalgiris",
-        "teamB": "KK Partizan Mozzart Bet",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6662/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6637/image",
+        "teamA": "LDLC ASVEL Lyon-Villeurbanne",
+        "teamB": "Kosner Baskonia",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3536/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3553/image",
         "eventName": "Euroleague",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "31/10/2026 12:00:00 AM"
+        "startTime": "31/10/2026 01:00:00 AM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.55/hls/E999.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.55/hls/E999.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_760b31248d86",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Lyngby Vs Randers FC",
-      "eventInfo": {
-        "teamA": "Lyngby",
-        "teamB": "Randers FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1756/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1301/image",
-        "eventName": "Danish Superliga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/39/image/dark",
-        "startTime": "31/10/2026 12:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_b9db4cd89f1a",
+      "id": "evt_969dd7d12152",
       "isHot": false
     },
     {
@@ -4655,28 +4687,6 @@
         }
       ],
       "id": "evt_f89e0501d7e8",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "LDLC ASVEL Lyon-Villeurbanne Vs Kosner Baskonia",
-      "eventInfo": {
-        "teamA": "LDLC ASVEL Lyon-Villeurbanne",
-        "teamB": "Kosner Baskonia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3536/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3553/image",
-        "eventName": "Euroleague",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/138/image/dark",
-        "startTime": "31/10/2026 01:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_969dd7d12152",
       "isHot": false
     },
     {
