@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:34 PM 30-10-2026",
+  "last_update_time": "01:45:24 PM 30-10-2026",
   "total_matches": 250,
-  "live_match": 12,
+  "live_match": 14,
   "matches": [
     {
       "status": "LIVE",
@@ -348,6 +348,14 @@
         {
           "channel_name": "WILLOW2 HD",
           "stream_url": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
+        },
+        {
+          "channel_name": "CRICBUZZ HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8"
+        },
+        {
+          "channel_name": "SD STREAM ",
+          "stream_url": "http://c8.vfruitfairy.com/HONG6six/index.m3u8"
         }
       ],
       "id": "evt_0e42b3735022",
@@ -388,35 +396,6 @@
         }
       ],
       "id": "evt_fb2381e4a71a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "England Wheelchair Vs Wales Wheelchair",
-      "eventInfo": {
-        "teamA": "England Wheelchair",
-        "teamB": "Wales Wheelchair",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1293291/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1293293/image",
-        "eventName": "Wheelchair World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
-        "startTime": "30/10/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_654f843797b5",
       "isHot": false
     },
     {
@@ -502,6 +481,84 @@
         }
       ],
       "id": "evt_5785e599eb03",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Geelong Cats Vs Western Bulldogs",
+      "eventInfo": {
+        "teamA": "Geelong Cats",
+        "teamB": "Western Bulldogs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/245076/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "30/10/2026 02:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_aa29d38f4302",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Brisbane Heat Women Vs Sydney Sixers Women",
+      "eventInfo": {
+        "teamA": "Brisbane Heat Women",
+        "teamB": "Sydney Sixers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "30/10/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "EUROSPORTS FHD",
+          "stream_url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+          "drm_key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+        },
+        {
+          "channel_name": "WILLOW ",
+          "stream_url": "http://51.77.217.114:8089/Wbbl52/index.m3u8"
+        }
+      ],
+      "id": "evt_6305119b9ac8",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Tasmania Jackjumpers Vs Sydney Kings",
+      "eventInfo": {
+        "teamA": "Tasmania Jackjumpers",
+        "teamB": "Sydney Kings",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/400450/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3614/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "30/10/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_3795d007a8ca",
       "isHot": false
     },
     {
@@ -815,35 +872,6 @@
     {
       "status": "UPCOMING",
       "Category": "Aussie rules",
-      "event_name": "Geelong Cats Vs Western Bulldogs",
-      "eventInfo": {
-        "teamA": "Geelong Cats",
-        "teamB": "Western Bulldogs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/307632/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/245076/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "30/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_aa29d38f4302",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
       "event_name": "Richmond Tigers Vs North Melbourne",
       "eventInfo": {
         "teamA": "Richmond Tigers",
@@ -950,29 +978,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Brisbane Heat Women Vs Sydney Sixers Women",
-      "eventInfo": {
-        "teamA": "Brisbane Heat Women",
-        "teamB": "Sydney Sixers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "30/10/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_6305119b9ac8",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "England Vs Papua New Guinea",
       "eventInfo": {
@@ -992,23 +997,6 @@
         }
       ],
       "id": "evt_f05ee392cfa0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Tasmania Jackjumpers Vs Sydney Kings",
-      "eventInfo": {
-        "teamA": "Tasmania Jackjumpers",
-        "teamB": "Sydney Kings",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/400450/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3614/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "30/10/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_3795d007a8ca",
       "isHot": false
     },
     {
@@ -6212,6 +6200,35 @@
         }
       ],
       "id": "evt_e4006a4791b5",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
+      "event_name": "England Wheelchair Vs Wales Wheelchair",
+      "eventInfo": {
+        "teamA": "England Wheelchair",
+        "teamB": "Wales Wheelchair",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1293291/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1293293/image",
+        "eventName": "Wheelchair World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
+        "startTime": "30/10/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_654f843797b5",
       "isHot": false
     },
     {
