@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:30:33 PM 30-10-2026",
+  "last_update_time": "03:45:25 PM 30-10-2026",
   "total_matches": 250,
-  "live_match": 16,
+  "live_match": 15,
   "matches": [
     {
       "status": "LIVE",
@@ -540,6 +540,29 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
+      "event_name": "England Vs Papua New Guinea",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Papua New Guinea",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24236/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24241/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "30/10/2026 03:05:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_f05ee392cfa0",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
       "event_name": "England Vs Samoa",
       "eventInfo": {
         "teamA": "England",
@@ -581,46 +604,6 @@
       },
       "streams": [],
       "id": "evt_3795d007a8ca",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "New Zealand Breakers Vs Adelaide 36ers",
-      "eventInfo": {
-        "teamA": "New Zealand Breakers",
-        "teamB": "Adelaide 36ers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "30/10/2026 12:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_b951aa3e1722",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "England Vs Papua New Guinea",
-      "eventInfo": {
-        "teamA": "England",
-        "teamB": "Papua New Guinea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24236/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24241/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "30/10/2026 03:05:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_f05ee392cfa0",
       "isHot": false
     },
     {
@@ -6262,6 +6245,23 @@
         }
       ],
       "id": "evt_5136458bf228",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "New Zealand Breakers Vs Adelaide 36ers",
+      "eventInfo": {
+        "teamA": "New Zealand Breakers",
+        "teamB": "Adelaide 36ers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/122090/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3612/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "30/10/2026 12:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b951aa3e1722",
       "isHot": false
     }
   ]
