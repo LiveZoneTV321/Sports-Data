@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:00:35 AM 31-10-2026",
-  "total_matches": 195,
-  "live_match": 23,
+  "last_update_time": "09:15:24 AM 31-10-2026",
+  "total_matches": 198,
+  "live_match": 18,
   "matches": [
     {
       "status": "LIVE",
@@ -451,49 +451,37 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Racing Club Vs Aldosivi",
+      "event_name": "Club Puebla Vs Pumas UNAM",
       "eventInfo": {
-        "teamA": "Racing Club",
-        "teamB": "Aldosivi",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/10/2026 06:15:00 AM"
+        "teamA": "Club Puebla",
+        "teamB": "Pumas UNAM",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+        "eventName": "Liga MX, Apertura",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+        "startTime": "31/10/2026 09:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/8888AAAAQQ.m3u8",
+          "channel_name": "QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/K666AAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_7f5087078d23",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sarmiento Vs Rosario Central",
-      "eventInfo": {
-        "teamA": "Sarmiento",
-        "teamB": "Rosario Central",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
-        "eventName": "Liga Profesional de Fútbol",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
-        "startTime": "31/10/2026 06:15:00 AM"
-      },
-      "streams": [
+        },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/8888AAAAQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL5 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         }
       ],
-      "id": "evt_d45898c9b883",
+      "id": "evt_89304c649df8",
       "isHot": false
     },
     {
@@ -518,6 +506,30 @@
         }
       ],
       "id": "evt_c1d9c8d375c8",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Fiji Vs France",
+      "eventInfo": {
+        "teamA": "Fiji",
+        "teamB": "France",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/494723/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446307/image",
+        "eventName": "World Cup, Women ",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
+        "startTime": "31/10/2026 08:35:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_ead67c8931cc",
       "isHot": false
     },
     {
@@ -552,39 +564,6 @@
     {
       "status": "LIVE",
       "Category": "Basketball",
-      "event_name": "Dallas Mavericks Vs Houston Rockets",
-      "eventInfo": {
-        "teamA": "Dallas Mavericks",
-        "teamB": "Houston Rockets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58900/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/14923f79-9c44-496c-a02c-2900adad58f2.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/8III.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_fa20f94b0746",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
       "event_name": "Phoenix Suns Vs Denver Nuggets",
       "eventInfo": {
         "teamA": "Phoenix Suns",
@@ -609,129 +588,6 @@
         }
       ],
       "id": "evt_6c1541eb7847",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Miami Heat Vs Indiana Pacers",
-      "eventInfo": {
-        "teamA": "Miami Heat",
-        "teamB": "Indiana Pacers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58894/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY ",
-          "stream_url": "https://www.rtmpcdn.com/live/0d0351a2-aded-44db-8d04-65d5e2f9f8f3.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/8IIIA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e39fd4ea21b4",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Minnesota Timberwolves Vs Los Angeles Clippers",
-      "eventInfo": {
-        "teamA": "Minnesota Timberwolves",
-        "teamB": "Los Angeles Clippers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "31/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58898/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_2be367efa1e1",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Calgary Flames Vs Seattle Kraken",
-      "eventInfo": {
-        "teamA": "Calgary Flames",
-        "teamB": "Seattle Kraken",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "31/10/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        },
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58896/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0532b8f-13eb-4df7-95b1-910947bda427/master.m3u8"
-        }
-      ],
-      "id": "evt_92e361fe4b8a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "American football",
-      "event_name": "UCF Knights Vs Baylor Bears",
-      "eventInfo": {
-        "teamA": "UCF Knights",
-        "teamB": "Baylor Bears",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4359/image",
-        "eventName": "NCAA Division FBS",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
-        "startTime": "31/10/2026 05:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TSN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "HD QUALITY +",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58886/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/Y999AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_c225e34b7102",
       "isHot": false
     },
     {
@@ -803,61 +659,49 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Club Puebla Vs Pumas UNAM",
+      "event_name": "Brisbane Roar Vs Sydney FC",
       "eventInfo": {
-        "teamA": "Club Puebla",
-        "teamB": "Pumas UNAM",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-        "eventName": "Liga MX, Apertura",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-        "startTime": "31/10/2026 09:00:00 AM"
+        "teamA": "Brisbane Roar",
+        "teamB": "Sydney FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174078/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174106/image",
+        "eventName": "A-League Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
+        "startTime": "31/10/2026 10:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/K666AAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "TUDN MEXICO FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
-        },
-        {
-          "channel_name": "CANAL5 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         }
       ],
-      "id": "evt_89304c649df8",
+      "id": "evt_c8fc0a30df7a",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "Fiji Vs France",
+      "Category": "Football",
+      "event_name": "Newcastle Jets Vs Wellington Phoenix",
       "eventInfo": {
-        "teamA": "Fiji",
-        "teamB": "France",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/494723/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446307/image",
-        "eventName": "World Cup, Women ",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10683/image/dark",
-        "startTime": "31/10/2026 08:35:00 AM"
+        "teamA": "Newcastle Jets",
+        "teamB": "Wellington Phoenix",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7568/image",
+        "eventName": "A-League Men",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
+        "startTime": "31/10/2026 10:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "channel_name": "TNT1UK SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
         }
       ],
-      "id": "evt_ead67c8931cc",
+      "id": "evt_79c8149924a9",
       "isHot": false
     },
     {
@@ -2973,30 +2817,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Brisbane Roar Vs Sydney FC",
-      "eventInfo": {
-        "teamA": "Brisbane Roar",
-        "teamB": "Sydney FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174078/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174106/image",
-        "eventName": "A-League Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1894/image/dark",
-        "startTime": "31/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_c8fc0a30df7a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Macarthur FC Vs Western Sydney Wanderers",
       "eventInfo": {
         "teamA": "Macarthur FC",
@@ -3038,30 +2858,6 @@
         }
       ],
       "id": "evt_09baf9a027d7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Newcastle Jets Vs Wellington Phoenix",
-      "eventInfo": {
-        "teamA": "Newcastle Jets",
-        "teamB": "Wellington Phoenix",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2934/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7568/image",
-        "eventName": "A-League Men",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/136/image/dark",
-        "startTime": "31/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        }
-      ],
-      "id": "evt_79c8149924a9",
       "isHot": false
     },
     {
@@ -3640,28 +3436,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "France Wheelchair Vs Scotland Wheelchair",
-      "eventInfo": {
-        "teamA": "France Wheelchair",
-        "teamB": "Scotland Wheelchair",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1253895/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1293290/image",
-        "eventName": "Wheelchair World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
-        "startTime": "31/10/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_16e86444cc34",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Australia Vs Cook Islands",
       "eventInfo": {
         "teamA": "Australia",
@@ -3678,43 +3452,9 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ],
       "id": "evt_f9ebd8996bbc",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Australia Wheelchair Vs New Zealand Wheelchair",
-      "eventInfo": {
-        "teamA": "Australia Wheelchair",
-        "teamB": "New Zealand Wheelchair",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/1253896/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1253898/image",
-        "eventName": "Wheelchair World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/38752/image/dark",
-        "startTime": "31/10/2026 12:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_9c702f6b343e",
       "isHot": false
     },
     {
@@ -3732,8 +3472,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
         }
       ],
       "id": "evt_a3043076313f",
@@ -3758,11 +3500,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ],
       "id": "evt_46c649e4d5cf",
@@ -3787,11 +3524,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
         }
       ],
       "id": "evt_7549d60a7efb",
@@ -3825,6 +3557,118 @@
         }
       ],
       "id": "evt_d564224d11d7",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Benetton Treviso Vs Edinburgh Rugby",
+      "eventInfo": {
+        "teamA": "Benetton Treviso",
+        "teamB": "Edinburgh Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21798/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4206/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_9f099a499d34",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Munster Vs Sharks",
+      "eventInfo": {
+        "teamA": "Munster",
+        "teamB": "Sharks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4203/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4187/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_1f3f8c30649e",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Dragons Vs Zebre Rugby",
+      "eventInfo": {
+        "teamA": "Dragons",
+        "teamB": "Zebre Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8084/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/75331/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 11:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_fc87fec7e68c",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Ospreys Vs Cardiff Rugby",
+      "eventInfo": {
+        "teamA": "Ospreys",
+        "teamB": "Cardiff Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/8082/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4215/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "01/11/2026 01:45:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_033a3b5d2fd6",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Rugby",
+      "event_name": "Vodacom Bulls XV Vs Scarlets",
+      "eventInfo": {
+        "teamA": "Vodacom Bulls XV",
+        "teamB": "Scarlets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4205/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_369463dd3c7e",
       "isHot": false
     },
     {
@@ -4840,6 +4684,54 @@
     },
     {
       "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Racing Club Vs Aldosivi",
+      "eventInfo": {
+        "teamA": "Racing Club",
+        "teamB": "Aldosivi",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3215/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/36836/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "31/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/8888AAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_7f5087078d23",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sarmiento Vs Rosario Central",
+      "eventInfo": {
+        "teamA": "Sarmiento",
+        "teamB": "Rosario Central",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+        "eventName": "Liga Profesional de Fútbol",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
+        "startTime": "31/10/2026 06:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/8888AAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_d45898c9b883",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Basketball",
       "event_name": "Philadelphia 76ers Vs New York Knicks",
       "eventInfo": {
@@ -4913,6 +4805,39 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Dallas Mavericks Vs Houston Rockets",
+      "eventInfo": {
+        "teamA": "Dallas Mavericks",
+        "teamB": "Houston Rockets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58900/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/14923f79-9c44-496c-a02c-2900adad58f2.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8III.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_fa20f94b0746",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "Toronto Raptors Vs Orlando Magic",
       "eventInfo": {
         "teamA": "Toronto Raptors",
@@ -4946,6 +4871,39 @@
     {
       "status": "ENDED",
       "Category": "Basketball",
+      "event_name": "Miami Heat Vs Indiana Pacers",
+      "eventInfo": {
+        "teamA": "Miami Heat",
+        "teamB": "Indiana Pacers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58894/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY ",
+          "stream_url": "https://www.rtmpcdn.com/live/0d0351a2-aded-44db-8d04-65d5e2f9f8f3.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/8IIIA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e39fd4ea21b4",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
       "event_name": "Washington Wizards Vs Charlotte Hornets",
       "eventInfo": {
         "teamA": "Washington Wizards",
@@ -4974,6 +4932,29 @@
         }
       ],
       "id": "evt_99f50562e1d6",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Minnesota Timberwolves Vs Los Angeles Clippers",
+      "eventInfo": {
+        "teamA": "Minnesota Timberwolves",
+        "teamB": "Los Angeles Clippers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "31/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58898/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_2be367efa1e1",
       "isHot": false
     },
     {
@@ -5040,6 +5021,73 @@
         }
       ],
       "id": "evt_e539fc3c3312",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Hockey",
+      "event_name": "Calgary Flames Vs Seattle Kraken",
+      "eventInfo": {
+        "teamA": "Calgary Flames",
+        "teamB": "Seattle Kraken",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3679/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/381707/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "31/10/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        },
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58896/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c0532b8f-13eb-4df7-95b1-910947bda427/master.m3u8"
+        }
+      ],
+      "id": "evt_92e361fe4b8a",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "American football",
+      "event_name": "UCF Knights Vs Baylor Bears",
+      "eventInfo": {
+        "teamA": "UCF Knights",
+        "teamB": "Baylor Bears",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4309/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4359/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "31/10/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        },
+        {
+          "channel_name": "HD QUALITY +",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58886/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/Y999AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_c225e34b7102",
       "isHot": false
     },
     {
