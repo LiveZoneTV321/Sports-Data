@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "08:00:35 PM 31-10-2026",
-  "total_matches": 252,
-  "live_match": 39,
+  "last_update_time": "08:15:23 PM 31-10-2026",
+  "total_matches": 253,
+  "live_match": 67,
   "matches": [
     {
       "status": "LIVE",
@@ -458,6 +458,46 @@
     {
       "status": "LIVE",
       "Category": "Football",
+      "event_name": "Bologna Vs Monza",
+      "eventInfo": {
+        "teamA": "Bologna",
+        "teamB": "Monza",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+        "eventName": "Serie A",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
+        "startTime": "31/10/2026 08:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "FUBO SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
+        },
+        {
+          "channel_name": "SPORT1 CZ FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "CBS NETWORK HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/58911/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/QHHHQQQQAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_550dec85d44b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
       "event_name": "VfL Wolfsburg Vs VfL Osnabrück",
       "eventInfo": {
         "teamA": "VfL Wolfsburg",
@@ -712,24 +752,30 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Chennaiyin FC Vs Kerala Blasters",
+      "event_name": "Mohun Bagan Super Giant Vs Punjab FC",
       "eventInfo": {
-        "teamA": "Chennaiyin FC",
-        "teamB": "Kerala Blasters",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/174598/image",
+        "teamA": "Mohun Bagan Super Giant",
+        "teamB": "Punjab FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/370834/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/230661/image",
         "eventName": "Indian Super League",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-        "startTime": "31/10/2026 05:30:00 PM"
+        "startTime": "31/10/2026 08:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "PRIME VIDEO FHD",
           "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
           "drm_key": "55bde6fbce567a3dccf69968f4b804f5:ced22b5107a842875a295c1261130063"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/QHHHQQQQAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_7df93e49d73b",
+      "id": "evt_5dea4cf720ec",
       "isHot": false
     },
     {
@@ -975,25 +1021,31 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Wisła Płock Vs Piast Gliwice",
+      "event_name": "Wieczysta Kraków Vs Jagiellonia Białystok",
       "eventInfo": {
-        "teamA": "Wisła Płock",
-        "teamB": "Piast Gliwice",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3122/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "teamA": "Wieczysta Kraków",
+        "teamB": "Jagiellonia Białystok",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
         "eventName": "Ekstraklasa",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "31/10/2026 05:15:00 PM"
+        "startTime": "31/10/2026 07:45:00 PM"
       },
       "streams": [
         {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.44/hls/BDDDAAAAQQAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
           "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/hhhhaaaa.m3u8",
+          "stream_url": "http://193.47.62.44/hls/BDDDAAAAQQAAAAA.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_239bbfff331b",
+      "id": "evt_7bd56e4692a7",
       "isHot": false
     },
     {
@@ -1089,35 +1141,96 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Bologna Vs Monza",
+      "event_name": "Coventry City Vs Sunderland",
       "eventInfo": {
-        "teamA": "Bologna",
-        "teamB": "Monza",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-        "eventName": "Serie A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/23/image/dark",
-        "startTime": "31/10/2026 08:00:00 PM"
+        "teamA": "Coventry City",
+        "teamB": "Sunderland",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_9910540272e9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Manchester City Vs Brighton & Hove Albion",
+      "eventInfo": {
+        "teamA": "Manchester City",
+        "teamB": "Brighton & Hove Albion",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "FUBO SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1"
-        },
-        {
-          "channel_name": "SPORT1 CZ FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "CBS NETWORK HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58911/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "SKY SPORT NZ2",
+          "stream_url": "https://admin2.formaturamaxi.com.br/sky2.m3u8"
         }
       ],
-      "id": "evt_550dec85d44b",
+      "id": "evt_bfbae38e1879",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hull City Vs Ipswich Town",
+      "eventInfo": {
+        "teamA": "Hull City",
+        "teamB": "Ipswich Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_2ee3496e1f07",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Brentford Vs Nottingham Forest",
+      "eventInfo": {
+        "teamA": "Brentford",
+        "teamB": "Nottingham Forest",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_926ecbc1b448",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Bournemouth Vs Leeds United",
+      "eventInfo": {
+        "teamA": "Bournemouth",
+        "teamB": "Leeds United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+        "eventName": "Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY SPORT NZ3",
+          "stream_url": "https://admin2.formaturamaxi.com.br/sky3.m3u8"
+        }
+      ],
+      "id": "evt_9cd9269595f6",
       "isHot": false
     },
     {
@@ -1133,7 +1246,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "31/10/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_3a1525320662",
       "isHot": false
     },
@@ -1150,7 +1270,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "31/10/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAAAQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_754963fc9712",
       "isHot": false
     },
@@ -1167,7 +1294,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "31/10/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_93ea12c2d741",
       "isHot": false
     },
@@ -1184,7 +1318,14 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "31/10/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_f49aeef7db82",
       "isHot": false
     },
@@ -1201,61 +1342,553 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/35/image/dark",
         "startTime": "31/10/2026 08:30:00 PM"
       },
-      "streams": [],
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAAAQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
       "id": "evt_d35627f3007d",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Mohun Bagan Super Giant Vs Punjab FC",
+      "event_name": "Bolton Wanderers Vs Bristol City",
       "eventInfo": {
-        "teamA": "Mohun Bagan Super Giant",
-        "teamB": "Punjab FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/370834/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/230661/image",
-        "eventName": "Indian Super League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
-        "startTime": "31/10/2026 08:00:00 PM"
+        "teamA": "Bolton Wanderers",
+        "teamB": "Bristol City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
       },
       "streams": [
         {
-          "channel_name": "PRIME VIDEO FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
-          "drm_key": "55bde6fbce567a3dccf69968f4b804f5:ced22b5107a842875a295c1261130063"
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_5dea4cf720ec",
+      "id": "evt_2bd0d38c6e26",
       "isHot": false
     },
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Wieczysta Kraków Vs Jagiellonia Białystok",
+      "event_name": "Burnley Vs Portsmouth",
       "eventInfo": {
-        "teamA": "Wieczysta Kraków",
-        "teamB": "Jagiellonia Białystok",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334956/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "31/10/2026 07:45:00 PM"
+        "teamA": "Burnley",
+        "teamB": "Portsmouth",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://193.47.62.44/hls/BDDDAAAAQQAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/BDDDAAAAQQAAAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_7bd56e4692a7",
+      "id": "evt_75fce23eb959",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Swansea City Vs Blackburn Rovers",
+      "eventInfo": {
+        "teamA": "Swansea City",
+        "teamB": "Blackburn Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_da549bf6a4ad",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "West Ham United Vs West Bromwich Albion",
+      "eventInfo": {
+        "teamA": "West Ham United",
+        "teamB": "West Bromwich Albion",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "CBS SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+          "referer": "https://amazon.com",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        }
+      ],
+      "id": "evt_f073521f47d3",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wolverhampton Vs Cardiff City",
+      "eventInfo": {
+        "teamA": "Wolverhampton",
+        "teamB": "Cardiff City",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_5173311067df",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Millwall Vs Derby County",
+      "eventInfo": {
+        "teamA": "Millwall",
+        "teamB": "Derby County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        }
+      ],
+      "id": "evt_959b892237fe",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Middlesbrough Vs Charlton Athletic",
+      "eventInfo": {
+        "teamA": "Middlesbrough",
+        "teamB": "Charlton Athletic",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_2d264446ce71",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Southampton Vs Queens Park Rangers",
+      "eventInfo": {
+        "teamA": "Southampton",
+        "teamB": "Queens Park Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+        "eventName": "Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_749cecd24988",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Al-Fayha Vs Al Faisaly",
+      "eventInfo": {
+        "teamA": "Al-Fayha",
+        "teamB": "Al Faisaly",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+        "eventName": "Saudi Pro League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
+        "startTime": "31/10/2026 08:55:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_215858a01103",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kilmarnock Vs St. Johnstone",
+      "eventInfo": {
+        "teamA": "Kilmarnock",
+        "teamB": "St. Johnstone",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2347/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_125da825fa9f",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Motherwell Vs St. Mirren",
+      "eventInfo": {
+        "teamA": "Motherwell",
+        "teamB": "St. Mirren",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_9aae1544c10d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Hibernian Vs Dundee FC",
+      "eventInfo": {
+        "teamA": "Hibernian",
+        "teamB": "Dundee FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+        "eventName": "Scottish Premiership",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_6bb92e7e659b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "RCD Espanyol de Barcelona Vs Logroño United",
+      "eventInfo": {
+        "teamA": "RCD Espanyol de Barcelona",
+        "teamB": "Logroño United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/861598/image",
+        "eventName": "Liga F Moeve",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_d56db823e6b2",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Leicester City Vs Stevenage",
+      "eventInfo": {
+        "teamA": "Leicester City",
+        "teamB": "Stevenage",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_166ca6b9c61b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barnsley Vs Oxford United",
+      "eventInfo": {
+        "teamA": "Barnsley",
+        "teamB": "Oxford United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_172d16a43e86",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wycombe Wanderers Vs Burton Albion",
+      "eventInfo": {
+        "teamA": "Wycombe Wanderers",
+        "teamB": "Burton Albion",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/134/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_a7ed613226d0",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Milton Keynes Dons Vs Doncaster Rovers",
+      "eventInfo": {
+        "teamA": "Milton Keynes Dons",
+        "teamB": "Doncaster Rovers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/84/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_1ef823b5498b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Wigan Athletic Vs Bromley",
+      "eventInfo": {
+        "teamA": "Wigan Athletic",
+        "teamB": "Bromley",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/180/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_cef1d2229134",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Mansfield Town Vs Notts County",
+      "eventInfo": {
+        "teamA": "Mansfield Town",
+        "teamB": "Notts County",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/70/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_814bd9ec1dc1",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Peterborough United Vs Luton Town",
+      "eventInfo": {
+        "teamA": "Peterborough United",
+        "teamB": "Luton Town",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/72/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_2f9a086ad559",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Stockport County Vs AFC Wimbledon",
+      "eventInfo": {
+        "teamA": "Stockport County",
+        "teamB": "AFC Wimbledon",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/23957/image",
+        "eventName": "League One",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_a0e7a66c4daa",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Benetton Treviso Vs Edinburgh Rugby",
+      "eventInfo": {
+        "teamA": "Benetton Treviso",
+        "teamB": "Edinburgh Rugby",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/21798/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4206/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_9f099a499d34",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Vodacom Bulls XV Vs Scarlets",
+      "eventInfo": {
+        "teamA": "Vodacom Bulls XV",
+        "teamB": "Scarlets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4205/image",
+        "eventName": "United Rugby Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIER1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
+          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
+        }
+      ],
+      "id": "evt_369463dd3c7e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Saracens Vs Newcastle Red Bulls",
+      "eventInfo": {
+        "teamA": "Saracens",
+        "teamB": "Newcastle Red Bulls",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4197/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4192/image",
+        "eventName": "Prem Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_bf5bff27a10a",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "Exeter Chiefs Vs Harlequin FC",
+      "eventInfo": {
+        "teamA": "Exeter Chiefs",
+        "teamB": "Harlequin FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/43335/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4201/image",
+        "eventName": "Prem Rugby",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
+        "startTime": "31/10/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_750c2d2ba76d",
       "isHot": false
     },
     {
@@ -1274,7 +1907,15 @@
       "streams": [
         {
           "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/kkkkAAAAAQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
       "id": "evt_76c813392e5d",
@@ -1354,6 +1995,11 @@
           "drm_key": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835"
         },
         {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        },
+        {
           "channel_name": "TSN5 SPORTS FHD",
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1364,31 +2010,6 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
-        },
-        {
-          "channel_name": "CANAL MX FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
-          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
-        },
-        {
-          "channel_name": "FORMULA + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/58842/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/58464152-0ce6-4e18-a3c1-393ba5669a09/master.m3u8"
-        },
-        {
-          "channel_name": "RUSSIA FEED",
-          "stream_url": "https://bl.rutube.ru/livestream/03f4a36bbbfe2a72345db6fd9190c36c/index.m3u8?s=F5DOuQUwB7eJ57TPdhvqfw&e=1793471365&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "Formula 1 GP ",
-          "stream_url": "http://193.47.62.50/hls/KYYY.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         },
         {
           "channel_name": "SporTV3 BR FHD",
@@ -1565,45 +2186,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Coventry City Vs Sunderland",
-      "eventInfo": {
-        "teamA": "Coventry City",
-        "teamB": "Sunderland",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_9910540272e9",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Manchester City Vs Brighton & Hove Albion",
-      "eventInfo": {
-        "teamA": "Manchester City",
-        "teamB": "Brighton & Hove Albion",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORT NZ2",
-          "stream_url": "https://admin2.formaturamaxi.com.br/sky2.m3u8"
-        }
-      ],
-      "id": "evt_bfbae38e1879",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Aston Villa Vs Fulham",
       "eventInfo": {
         "teamA": "Aston Villa",
@@ -1622,62 +2204,6 @@
         }
       ],
       "id": "evt_26a047522f51",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hull City Vs Ipswich Town",
-      "eventInfo": {
-        "teamA": "Hull City",
-        "teamB": "Ipswich Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_2ee3496e1f07",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Brentford Vs Nottingham Forest",
-      "eventInfo": {
-        "teamA": "Brentford",
-        "teamB": "Nottingham Forest",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_926ecbc1b448",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Bournemouth Vs Leeds United",
-      "eventInfo": {
-        "teamA": "Bournemouth",
-        "teamB": "Leeds United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/60/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY SPORT NZ3",
-          "stream_url": "https://admin2.formaturamaxi.com.br/sky3.m3u8"
-        }
-      ],
-      "id": "evt_9cd9269595f6",
       "isHot": false
     },
     {
@@ -1931,182 +2457,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Bolton Wanderers Vs Bristol City",
-      "eventInfo": {
-        "teamA": "Bolton Wanderers",
-        "teamB": "Bristol City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/58/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2bd0d38c6e26",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Burnley Vs Portsmouth",
-      "eventInfo": {
-        "teamA": "Burnley",
-        "teamB": "Portsmouth",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_75fce23eb959",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Swansea City Vs Blackburn Rovers",
-      "eventInfo": {
-        "teamA": "Swansea City",
-        "teamB": "Blackburn Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_da549bf6a4ad",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "West Ham United Vs West Bromwich Albion",
-      "eventInfo": {
-        "teamA": "West Ham United",
-        "teamB": "West Bromwich Albion",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "CBS SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-          "referer": "https://amazon.com",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-          "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
-        }
-      ],
-      "id": "evt_f073521f47d3",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wolverhampton Vs Cardiff City",
-      "eventInfo": {
-        "teamA": "Wolverhampton",
-        "teamB": "Cardiff City",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_5173311067df",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Millwall Vs Derby County",
-      "eventInfo": {
-        "teamA": "Millwall",
-        "teamB": "Derby County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        }
-      ],
-      "id": "evt_959b892237fe",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Middlesbrough Vs Charlton Athletic",
-      "eventInfo": {
-        "teamA": "Middlesbrough",
-        "teamB": "Charlton Athletic",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2d264446ce71",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Southampton Vs Queens Park Rangers",
-      "eventInfo": {
-        "teamA": "Southampton",
-        "teamB": "Queens Park Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
-        "eventName": "Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/18/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_749cecd24988",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Charlotte FC Vs Orlando City SC",
       "eventInfo": {
         "teamA": "Charlotte FC",
@@ -2260,35 +2610,8 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
         "startTime": "01/11/2026 12:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_aca1f00fc06a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Al-Fayha Vs Al Faisaly",
-      "eventInfo": {
-        "teamA": "Al-Fayha",
-        "teamB": "Al Faisaly",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-        "eventName": "Saudi Pro League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/955/image/dark",
-        "startTime": "31/10/2026 08:55:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_215858a01103",
       "isHot": false
     },
     {
@@ -2323,8 +2646,10 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "D SPORTS + FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3"
         }
       ],
       "id": "evt_777a03dbd7a9",
@@ -2423,72 +2748,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Kilmarnock Vs St. Johnstone",
-      "eventInfo": {
-        "teamA": "Kilmarnock",
-        "teamB": "St. Johnstone",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2347/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_125da825fa9f",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Motherwell Vs St. Mirren",
-      "eventInfo": {
-        "teamA": "Motherwell",
-        "teamB": "St. Mirren",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2359/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_9aae1544c10d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Hibernian Vs Dundee FC",
-      "eventInfo": {
-        "teamA": "Hibernian",
-        "teamB": "Dundee FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-        "eventName": "Scottish Premiership",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/36/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_6bb92e7e659b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Madrid CFF Vs Real Club Deportivo de A Coruña",
       "eventInfo": {
         "teamA": "Madrid CFF",
@@ -2506,28 +2765,6 @@
         }
       ],
       "id": "evt_d19b0670bc5d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "RCD Espanyol de Barcelona Vs Logroño United",
-      "eventInfo": {
-        "teamA": "RCD Espanyol de Barcelona",
-        "teamB": "Logroño United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/38323/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/861598/image",
-        "eventName": "Liga F Moeve",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1127/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_d56db823e6b2",
       "isHot": false
     },
     {
@@ -2802,177 +3039,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "Leicester City Vs Stevenage",
-      "eventInfo": {
-        "teamA": "Leicester City",
-        "teamB": "Stevenage",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/133/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_166ca6b9c61b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Barnsley Vs Oxford United",
-      "eventInfo": {
-        "teamA": "Barnsley",
-        "teamB": "Oxford United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/23/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/95/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_172d16a43e86",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wycombe Wanderers Vs Burton Albion",
-      "eventInfo": {
-        "teamA": "Wycombe Wanderers",
-        "teamB": "Burton Albion",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/62/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/134/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_a7ed613226d0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Milton Keynes Dons Vs Doncaster Rovers",
-      "eventInfo": {
-        "teamA": "Milton Keynes Dons",
-        "teamB": "Doncaster Rovers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/84/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_1ef823b5498b",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Wigan Athletic Vs Bromley",
-      "eventInfo": {
-        "teamA": "Wigan Athletic",
-        "teamB": "Bromley",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/49/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/180/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_cef1d2229134",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Mansfield Town Vs Notts County",
-      "eventInfo": {
-        "teamA": "Mansfield Town",
-        "teamB": "Notts County",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/70/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_814bd9ec1dc1",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Peterborough United Vs Luton Town",
-      "eventInfo": {
-        "teamA": "Peterborough United",
-        "teamB": "Luton Town",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/54/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/72/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_2f9a086ad559",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Stockport County Vs AFC Wimbledon",
-      "eventInfo": {
-        "teamA": "Stockport County",
-        "teamB": "AFC Wimbledon",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/10/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/23957/image",
-        "eventName": "League One",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/24/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_a0e7a66c4daa",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Cúcuta Deportivo Vs Independiente Santa Fe",
       "eventInfo": {
         "teamA": "Cúcuta Deportivo",
@@ -3032,30 +3098,6 @@
         }
       ],
       "id": "evt_d564224d11d7",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Benetton Treviso Vs Edinburgh Rugby",
-      "eventInfo": {
-        "teamA": "Benetton Treviso",
-        "teamB": "Edinburgh Rugby",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/21798/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4206/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        }
-      ],
-      "id": "evt_9f099a499d34",
       "isHot": false
     },
     {
@@ -3131,29 +3173,6 @@
     {
       "status": "UPCOMING",
       "Category": "Rugby",
-      "event_name": "Vodacom Bulls XV Vs Scarlets",
-      "eventInfo": {
-        "teamA": "Vodacom Bulls XV",
-        "teamB": "Scarlets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/245501/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4205/image",
-        "eventName": "United Rugby Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/419/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIER1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-          "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f"
-        }
-      ],
-      "id": "evt_369463dd3c7e",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
       "event_name": "Bath Rugby Vs Sale Sharks",
       "eventInfo": {
         "teamA": "Bath Rugby",
@@ -3197,50 +3216,6 @@
         }
       ],
       "id": "evt_2ef94ac6ba3a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Saracens Vs Newcastle Red Bulls",
-      "eventInfo": {
-        "teamA": "Saracens",
-        "teamB": "Newcastle Red Bulls",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4197/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4192/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_bf5bff27a10a",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Rugby",
-      "event_name": "Exeter Chiefs Vs Harlequin FC",
-      "eventInfo": {
-        "teamA": "Exeter Chiefs",
-        "teamB": "Harlequin FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/43335/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4201/image",
-        "eventName": "Prem Rugby",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/424/image/dark",
-        "startTime": "31/10/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_750c2d2ba76d",
       "isHot": false
     },
     {
@@ -4385,6 +4360,23 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "AE Kifisia Vs Olympiacos FC",
+      "eventInfo": {
+        "teamA": "AE Kifisia",
+        "teamB": "Olympiacos FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/120224/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
+        "eventName": "Stoiximan Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/185/image/dark",
+        "startTime": "31/10/2026 11:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_bd9b9c537d48",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Tampa Bay Rays Vs Milwaukee Brewers",
       "eventInfo": {
@@ -4636,6 +4628,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         }
       ],
       "id": "evt_1f0bfbf4b046",
@@ -4823,6 +4820,11 @@
           "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
           "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
+        },
+        {
+          "channel_name": "CANAL MX FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "drm_key": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
         }
       ],
       "id": "evt_9dbe22ceb387",
@@ -5926,6 +5928,29 @@
     {
       "status": "ENDED",
       "Category": "Football",
+      "event_name": "Chennaiyin FC Vs Kerala Blasters",
+      "eventInfo": {
+        "teamA": "Chennaiyin FC",
+        "teamB": "Kerala Blasters",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/174590/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/174598/image",
+        "eventName": "Indian Super League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1900/image/dark",
+        "startTime": "31/10/2026 05:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "PRIME VIDEO FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
+          "drm_key": "55bde6fbce567a3dccf69968f4b804f5:ced22b5107a842875a295c1261130063"
+        }
+      ],
+      "id": "evt_7df93e49d73b",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
       "event_name": "Brisbane Roar Vs Sydney FC",
       "eventInfo": {
         "teamA": "Brisbane Roar",
@@ -6554,6 +6579,30 @@
         }
       ],
       "id": "evt_edfd6e43fa13",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Wisła Płock Vs Piast Gliwice",
+      "eventInfo": {
+        "teamA": "Wisła Płock",
+        "teamB": "Piast Gliwice",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3122/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7918/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "31/10/2026 05:15:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/hhhhaaaa.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_239bbfff331b",
       "isHot": false
     }
   ]
