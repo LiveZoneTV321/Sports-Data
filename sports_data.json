@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "01:30:33 PM 31-10-2026",
-  "total_matches": 237,
-  "live_match": 22,
+  "last_update_time": "01:45:23 PM 31-10-2026",
+  "total_matches": 239,
+  "live_match": 24,
   "matches": [
     {
       "status": "LIVE",
@@ -67,6 +67,47 @@
         }
       ],
       "id": "evt_cb92eaad2884",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Pakistan Vs Sri Lanka",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+        "eventName": "ODI Tri-series in Pakistan",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
+        "startTime": "31/10/2026 01:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY CRICKET FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        },
+        {
+          "channel_name": "WILLOW SPORTS HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8"
+        }
+      ],
+      "id": "evt_0411ec57803d",
       "isHot": false
     },
     {
@@ -456,36 +497,6 @@
     {
       "status": "LIVE",
       "Category": "Rugby",
-      "event_name": "New Zealand Vs Fiji",
-      "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "Fiji",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24240/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24237/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "31/10/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/bbbbAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_a3043076313f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Rugby",
       "event_name": "New Zealand Vs Papua New Guinea",
       "eventInfo": {
         "teamA": "New Zealand",
@@ -554,31 +565,23 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen",
+      "event_name": "Gwangju FC Vs Gimcheon Sangmu FC",
       "eventInfo": {
-        "teamA": "Jeonbuk Hyundai Motors",
-        "teamB": "Daejeon Hana Citizen",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
+        "teamA": "Gwangju FC",
+        "teamB": "Gimcheon Sangmu FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/48912/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7647/image",
         "eventName": "K League 1",
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/410/image/dark",
-        "startTime": "31/10/2026 11:00:00 AM"
+        "startTime": "31/10/2026 01:30:00 PM"
       },
       "streams": [
         {
           "channel_name": "STREAM TV + HD ",
-          "stream_url": "http://193.47.62.44/hls/bbbbAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/bbbbAAA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_66327a4cf80f",
+      "id": "evt_520d31b50f0c",
       "isHot": false
     },
     {
@@ -675,6 +678,36 @@
     },
     {
       "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Kashiwa Reysol Vs Urawa Red Diamonds",
+      "eventInfo": {
+        "teamA": "Kashiwa Reysol",
+        "teamB": "Urawa Red Diamonds",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3145/image",
+        "eventName": "J1 League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/196/image/dark",
+        "startTime": "31/10/2026 01:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.44/hls/VVVVAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/VVVVAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_ccc15c921c70",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Cricket",
       "event_name": "South Africa Vs Australia",
       "eventInfo": {
@@ -724,57 +757,77 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Pakistan Vs Sri Lanka",
+      "Category": "Aussie rules",
+      "event_name": "West Coast Eagles Vs Hawthorn Hawks",
       "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "Sri Lanka",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-        "eventName": "ODI Tri-series in Pakistan",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/22868/image/dark",
-        "startTime": "31/10/2026 01:30:00 PM"
+        "teamA": "West Coast Eagles",
+        "teamB": "Hawthorn Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/446333/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "31/10/2026 02:15:00 PM"
       },
       "streams": [
         {
-          "channel_name": "SKY CRICKET FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
         },
         {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        },
-        {
-          "channel_name": "WILLOW SPORTS HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8"
+          "channel_name": "TNT4UK SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
         }
       ],
-      "id": "evt_0411ec57803d",
+      "id": "evt_2cd398c8e10d",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Gwangju FC Vs Gimcheon Sangmu FC",
+      "Category": "Cricket",
+      "event_name": "Perth Scorchers Women Vs Melbourne Renegades Women",
       "eventInfo": {
-        "teamA": "Gwangju FC",
-        "teamB": "Gimcheon Sangmu FC",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/48912/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/7647/image",
-        "eventName": "K League 1",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/410/image/dark",
-        "startTime": "31/10/2026 01:30:00 PM"
+        "teamA": "Perth Scorchers Women",
+        "teamB": "Melbourne Renegades Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "31/10/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+          "drm_key": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909"
+        },
+        {
+          "channel_name": "FOX CRICKET HD",
+          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8"
+        },
+        {
+          "channel_name": "SKY SPORT ",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ],
+      "id": "evt_261496e172ca",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Cairns Taipans Vs Melbourne United",
+      "eventInfo": {
+        "teamA": "Cairns Taipans",
+        "teamB": "Melbourne United",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "31/10/2026 02:30:00 PM"
       },
       "streams": [
         {
@@ -782,7 +835,7 @@
           "stream_url": "https://file.genoads.com/ch1.m3u8"
         }
       ],
-      "id": "evt_520d31b50f0c",
+      "id": "evt_bbe1ab63848d",
       "isHot": false
     },
     {
@@ -936,35 +989,6 @@
         }
       ],
       "id": "evt_c4e10ab9664c",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Aussie rules",
-      "event_name": "West Coast Eagles Vs Hawthorn Hawks",
-      "eventInfo": {
-        "teamA": "West Coast Eagles",
-        "teamB": "Hawthorn Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334439/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/446333/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "31/10/2026 02:15:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "TNT4UK SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_2cd398c8e10d",
       "isHot": false
     },
     {
@@ -4199,8 +4223,9 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
         }
       ],
       "id": "evt_fd9a0be618e5",
@@ -4278,38 +4303,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Perth Scorchers Women Vs Melbourne Renegades Women",
-      "eventInfo": {
-        "teamA": "Perth Scorchers Women",
-        "teamB": "Melbourne Renegades Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "31/10/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
-          "drm_key": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909"
-        },
-        {
-          "channel_name": "FOX CRICKET HD",
-          "stream_url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8"
-        },
-        {
-          "channel_name": "SKY SPORT ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_261496e172ca",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Rugby",
       "event_name": "South Africa Vs Ireland",
       "eventInfo": {
@@ -4333,28 +4326,6 @@
     {
       "status": "UPCOMING",
       "Category": "Basketball",
-      "event_name": "Cairns Taipans Vs Melbourne United",
-      "eventInfo": {
-        "teamA": "Cairns Taipans",
-        "teamB": "Melbourne United",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3604/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3608/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "31/10/2026 02:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_bbe1ab63848d",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
       "event_name": "Perth Wildcats Vs Illawarra Hawks",
       "eventInfo": {
         "teamA": "Perth Wildcats",
@@ -4372,6 +4343,30 @@
         }
       ],
       "id": "evt_3eb589c046a5",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "American football",
+      "event_name": "North Carolina Tar Heels Vs Miami Hurricanes",
+      "eventInfo": {
+        "teamA": "North Carolina Tar Heels",
+        "teamB": "Miami Hurricanes",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4307/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/47357/image",
+        "eventName": "NCAA Division FBS",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/32199/image/dark",
+        "startTime": "01/11/2026 05:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0"
+        }
+      ],
+      "id": "evt_066444620f53",
       "isHot": false
     },
     {
@@ -5730,6 +5725,36 @@
     {
       "status": "ENDED",
       "Category": "Rugby",
+      "event_name": "New Zealand Vs Fiji",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Fiji",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24240/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24237/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "31/10/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/bbbbAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_a3043076313f",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Rugby",
       "event_name": "Fiji Vs France",
       "eventInfo": {
         "teamA": "Fiji",
@@ -5870,6 +5895,36 @@
         }
       ],
       "id": "evt_d1a6c3d7a0ab",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Jeonbuk Hyundai Motors Vs Daejeon Hana Citizen",
+      "eventInfo": {
+        "teamA": "Jeonbuk Hyundai Motors",
+        "teamB": "Daejeon Hana Citizen",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6908/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
+        "eventName": "K League 1",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/410/image/dark",
+        "startTime": "31/10/2026 11:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "http://193.47.62.44/hls/bbbbAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/bbbbAAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_66327a4cf80f",
       "isHot": false
     }
   ]
