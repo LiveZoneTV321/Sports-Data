@@ -2,8 +2,8 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "10:30:29 AM 31-10-2026",
-  "total_matches": 234,
+  "last_update_time": "10:45:23 AM 31-10-2026",
+  "total_matches": 233,
   "live_match": 18,
   "matches": [
     {
@@ -295,6 +295,29 @@
     },
     {
       "status": "LIVE",
+      "Category": "Aussie rules",
+      "event_name": "Richmond Tigers Vs North Melbourne",
+      "eventInfo": {
+        "teamA": "Richmond Tigers",
+        "teamB": "North Melbourne",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/334441/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/307631/image",
+        "eventName": "AFL, Women",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
+        "startTime": "31/10/2026 10:05:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TNT3UK SPORTS FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
+          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
+        }
+      ],
+      "id": "evt_f8587ff12ed5",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Club Puebla Vs Pumas UNAM",
       "eventInfo": {
@@ -375,6 +398,30 @@
         }
       ],
       "id": "evt_79c8149924a9",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Rugby",
+      "event_name": "New Zealand Vs Fiji",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Fiji",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/24240/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/24237/image",
+        "eventName": "World Cup",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
+        "startTime": "31/10/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        }
+      ],
+      "id": "evt_a3043076313f",
       "isHot": false
     },
     {
@@ -497,6 +544,44 @@
     {
       "status": "LIVE",
       "Category": "Other",
+      "event_name": "Horse Racing Vs Horse Racing",
+      "eventInfo": {
+        "teamA": "Horse Racing",
+        "teamB": "Horse Racing",
+        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "eventName": "Horse Racing",
+        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
+        "startTime": "31/10/2026 10:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FOX2 SPORTS FHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
+          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
+        },
+        {
+          "channel_name": "FOX1 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
+          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
+        },
+        {
+          "channel_name": "SKY SPORTS RACING - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "SKY SPORTS ACTION - FHD",
+          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        }
+      ],
+      "id": "evt_3c671d56b0ab",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
       "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
         "teamA": "GOLF EVENTO",
@@ -532,29 +617,6 @@
         }
       ],
       "id": "evt_dfa6ba76db50",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Aussie rules",
-      "event_name": "Richmond Tigers Vs North Melbourne",
-      "eventInfo": {
-        "teamA": "Richmond Tigers",
-        "teamB": "North Melbourne",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/334441/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/307631/image",
-        "eventName": "AFL, Women",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/10159/image/dark",
-        "startTime": "31/10/2026 10:05:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT3UK SPORTS FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd",
-          "drm_key": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca"
-        }
-      ],
-      "id": "evt_f8587ff12ed5",
       "isHot": false
     },
     {
@@ -595,65 +657,33 @@
       "isHot": false
     },
     {
-      "status": "LIVE",
-      "Category": "Rugby",
-      "event_name": "New Zealand Vs Fiji",
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Barcelona Vs Deportivo Alavés",
       "eventInfo": {
-        "teamA": "New Zealand",
-        "teamB": "Fiji",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/24240/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/24237/image",
-        "eventName": "World Cup",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/431/image/dark",
-        "startTime": "31/10/2026 10:30:00 AM"
+        "teamA": "Barcelona",
+        "teamB": "Deportivo Alavés",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+        "eventName": "LaLiga",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
+        "startTime": "01/11/2026 02:00:00 AM"
       },
       "streams": [
         {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "FANCODE FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
         }
       ],
-      "id": "evt_a3043076313f",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Other",
-      "event_name": "Horse Racing Vs Horse Racing",
-      "eventInfo": {
-        "teamA": "Horse Racing",
-        "teamB": "Horse Racing",
-        "teamAFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "teamBFlag": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "eventName": "Horse Racing",
-        "event_logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg",
-        "startTime": "31/10/2026 10:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FOX2 SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-          "drm_key": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae"
-        },
-        {
-          "channel_name": "FOX1 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-          "drm_key": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16"
-        },
-        {
-          "channel_name": "SKY SPORTS RACING - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/362d68a2d5d5b48dbf23522573e64d57/index.m3u8?s=SyXrFpONvusXH9PA0isg7Q&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "SKY SPORTS ACTION - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/a8983f2de47db830f6a6977cb71a13df/index.m3u8?s=0IPFuH3ITcZpvnrqHhYw0A&e=2075285628&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        }
-      ],
-      "id": "evt_3c671d56b0ab",
+      "id": "evt_6e64c688ee20",
       "isHot": false
     },
     {
@@ -683,35 +713,6 @@
         }
       ],
       "id": "evt_056c4c9db978",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Manchester United Vs Chelsea",
-      "eventInfo": {
-        "teamA": "Manchester United",
-        "teamB": "Chelsea",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-        "eventName": "Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/17/image/dark",
-        "startTime": "31/10/2026 06:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "TNT1UK SPORTS FHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749"
-        },
-        {
-          "channel_name": "SKY SPORTS EPL - FHD",
-          "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        }
-      ],
-      "id": "evt_056c4c9db978_2",
       "isHot": false
     },
     {
@@ -1248,36 +1249,6 @@
     {
       "status": "UPCOMING",
       "Category": "Football",
-      "event_name": "FC Barcelona Vs Deportivo Alavés",
-      "eventInfo": {
-        "teamA": "FC Barcelona",
-        "teamB": "Deportivo Alavés",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-        "eventName": "LaLiga",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/8/image/dark",
-        "startTime": "01/11/2026 02:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "FANCODE FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        }
-      ],
-      "id": "evt_09a3501a9def",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
       "event_name": "Rayo Vallecano Vs Celta Vigo",
       "eventInfo": {
         "teamA": "Rayo Vallecano",
@@ -1377,12 +1348,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "01/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_44c92d4afd70",
       "isHot": false
     },
@@ -1399,12 +1365,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "31/10/2026 09:15:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_ef9e84ca1c35",
       "isHot": false
     },
@@ -1421,12 +1382,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "31/10/2026 07:00:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_c778804e8aa1",
       "isHot": false
     },
@@ -1443,12 +1399,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/54/image/dark",
         "startTime": "31/10/2026 11:30:00 PM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_a49c1fdfbf4f",
       "isHot": false
     },
@@ -2283,12 +2234,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "startTime": "01/11/2026 05:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_83e362fffe4a",
       "isHot": false
     },
@@ -2377,12 +2323,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "01/11/2026 02:00:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_53465bd8c1c7",
       "isHot": false
     },
@@ -2401,8 +2342,9 @@
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
         }
       ],
       "id": "evt_9bba0fbf6a6e",
@@ -3405,50 +3347,6 @@
         }
       ],
       "id": "evt_576c92300731_2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "Moreirense Vs CF Estrela Amadora",
-      "eventInfo": {
-        "teamA": "Moreirense",
-        "teamB": "CF Estrela Amadora",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "31/10/2026 09:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_37e52acccca7_2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "FC Porto Vs Estoril Praia",
-      "eventInfo": {
-        "teamA": "FC Porto",
-        "teamB": "Estoril Praia",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-        "eventName": "Liga Portugal Betclic",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/238/image/dark",
-        "startTime": "01/11/2026 02:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_777a03dbd7a9_2",
       "isHot": false
     },
     {
@@ -4719,6 +4617,76 @@
     },
     {
       "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Vancouver Rise Vs Montreal Roses FC",
+      "eventInfo": {
+        "teamA": "Vancouver Rise",
+        "teamB": "Montreal Roses FC",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/463097/image",
+        "teamBFlag": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "eventName": "CANADA NORTHERN SUPER LEAGUE",
+        "event_logo": "http://api.sofascore.com/api/v1/unique-tournament/13470/image/dark",
+        "startTime": "01/11/2026 05:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        }
+      ],
+      "id": "evt_e0ba6a92fdbb",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Náutico Vs Avaí",
+      "eventInfo": {
+        "teamA": "Náutico",
+        "teamB": "Avaí",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2011/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/7315/image",
+        "eventName": "Brasileirão Série B",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/390/image/dark",
+        "startTime": "01/11/2026 04:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERER1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+          "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3"
+        },
+        {
+          "channel_name": "SPORT TV FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b"
+        }
+      ],
+      "id": "evt_9b008d3c038d",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
+      "Category": "Football",
+      "event_name": "Alianza Lima Vs Cienciano",
+      "eventInfo": {
+        "teamA": "Alianza Lima",
+        "teamB": "Cienciano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2311/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+        "eventName": "Liga 1 Te Apuesto",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/406/image/dark",
+        "startTime": "01/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_c908b02f70ce",
+      "isHot": false
+    },
+    {
+      "status": "UPCOMING",
       "Category": "Baseball",
       "event_name": "Tampa Bay Rays Vs Milwaukee Brewers",
       "eventInfo": {
@@ -4892,12 +4860,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/155/image/dark",
         "startTime": "01/11/2026 06:30:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_8491025744d0",
       "isHot": false
     },
@@ -4951,6 +4914,12 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
         }
       ],
       "id": "evt_1f0bfbf4b046",
@@ -4969,12 +4938,7 @@
         "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11621/image/dark",
         "startTime": "01/11/2026 07:07:00 AM"
       },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
+      "streams": [],
       "id": "evt_145f7f856fa7",
       "isHot": false
     },
@@ -5122,6 +5086,12 @@
           "referer": "https://amazon.com",
           "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
           "drm_key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+        },
+        {
+          "channel_name": "TUDN MEXICO FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411"
         }
       ],
       "id": "evt_9dbe22ceb387",
@@ -5807,23 +5777,6 @@
         }
       ],
       "id": "evt_c3a162aa9f82",
-      "isHot": false
-    },
-    {
-      "status": "ENDED",
-      "Category": "Football",
-      "event_name": "Atlético Nacional Vs Independiente Santa Fe",
-      "eventInfo": {
-        "teamA": "Atlético Nacional",
-        "teamB": "Independiente Santa Fe",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6106/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
-        "eventName": "Primera A",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11539/image/dark",
-        "startTime": "30/10/2026 07:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_e3d6aecff28a",
       "isHot": false
     },
     {
