@@ -2,10 +2,56 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:00:39 PM 02-11-2026",
+  "last_update_time": "09:15:25 PM 02-11-2026",
   "total_matches": 112,
-  "live_match": 13,
+  "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Krylya Sovetov Samara Vs Zenit St. Petersburg",
+      "eventInfo": {
+        "teamA": "Krylya Sovetov Samara",
+        "teamB": "Zenit St. Petersburg",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2322/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
+        "eventName": "Russian Premier League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
+        "startTime": "02/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://file.genoads.com/ch1.m3u8"
+        }
+      ],
+      "id": "evt_343c58928015",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Barcelona U19 Vs Aston Villa U19",
+      "eventInfo": {
+        "teamA": "Barcelona U19",
+        "teamB": "Aston Villa U19",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/90122/image",
+        "eventName": "UEFA Youth League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
+        "startTime": "02/11/2026 09:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "Link 1",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
+        }
+      ],
+      "id": "evt_ea19c4d1150a",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -348,52 +394,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Krylya Sovetov Samara Vs Zenit St. Petersburg",
-      "eventInfo": {
-        "teamA": "Krylya Sovetov Samara",
-        "teamB": "Zenit St. Petersburg",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2322/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/2321/image",
-        "eventName": "Russian Premier League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/203/image/dark",
-        "startTime": "02/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://file.genoads.com/ch1.m3u8"
-        }
-      ],
-      "id": "evt_343c58928015",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Barcelona U19 Vs Aston Villa U19",
-      "eventInfo": {
-        "teamA": "Barcelona U19",
-        "teamB": "Aston Villa U19",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/90122/image",
-        "eventName": "UEFA Youth League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2132/image/dark",
-        "startTime": "02/11/2026 09:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "Link 1",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408"
-        }
-      ],
-      "id": "evt_ea19c4d1150a",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Real Oviedo Vs UD Las Palmas",
       "eventInfo": {
         "teamA": "Real Oviedo",
@@ -437,7 +437,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Tractor FC Vs Neftchi Fergana",
       "eventInfo": {
@@ -459,7 +459,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al-Sadd Vs Al-Ahli",
       "eventInfo": {
@@ -481,7 +481,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Al Wasl Vs Al-Quwa Al-Jawiya",
       "eventInfo": {
@@ -503,7 +503,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Sport Huancayo Vs Melgar",
       "eventInfo": {
