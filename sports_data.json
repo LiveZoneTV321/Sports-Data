@@ -2,10 +2,33 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "11:00:35 PM 02-11-2026",
+  "last_update_time": "11:15:25 PM 02-11-2026",
   "total_matches": 108,
-  "live_match": 14,
+  "live_match": 16,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Gençlerbirliği Vs Alanyaspor",
+      "eventInfo": {
+        "teamA": "Gençlerbirliği",
+        "teamB": "Alanyaspor",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+        "eventName": "Trendyol Süper Lig",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
+        "startTime": "02/11/2026 11:00:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_1d648ceb67d5",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -369,29 +392,6 @@
     {
       "status": "LIVE",
       "Category": "Football",
-      "event_name": "Gençlerbirliği Vs Alanyaspor",
-      "eventInfo": {
-        "teamA": "Gençlerbirliği",
-        "teamB": "Alanyaspor",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-        "eventName": "Trendyol Süper Lig",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/52/image/dark",
-        "startTime": "02/11/2026 11:00:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel24.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        }
-      ],
-      "id": "evt_1d648ceb67d5",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
       "event_name": "Real Valladolid Vs Leganés",
       "eventInfo": {
         "teamA": "Real Valladolid",
@@ -449,7 +449,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "GAIS Vs AIK",
       "eventInfo": {
@@ -466,7 +466,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Mjällby AIF Vs Kalmar FF",
       "eventInfo": {
