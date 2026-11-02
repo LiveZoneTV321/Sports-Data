@@ -2,10 +2,27 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "05:30:29 AM 03-11-2026",
+  "last_update_time": "05:45:22 AM 03-11-2026",
   "total_matches": 98,
-  "live_match": 13,
+  "live_match": 19,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Deportes Concepción Vs Palestino",
+      "eventInfo": {
+        "teamA": "Deportes Concepción",
+        "teamB": "Palestino",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3160/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3157/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "03/11/2026 05:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_73f73c4055d0",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Football",
@@ -90,23 +107,6 @@
         }
       ],
       "id": "evt_f7a236702985",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportes Limache Vs Audax Italiano",
-      "eventInfo": {
-        "teamA": "Deportes Limache",
-        "teamB": "Audax Italiano",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/331131/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3162/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "03/11/2026 03:00:00 AM"
-      },
-      "streams": [],
-      "id": "evt_aa6c3aa220ee",
       "isHot": false
     },
     {
@@ -256,23 +256,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Deportes Concepción Vs Palestino",
-      "eventInfo": {
-        "teamA": "Deportes Concepción",
-        "teamB": "Palestino",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3160/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3157/image",
-        "eventName": "Liga de Primera",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
-        "startTime": "03/11/2026 05:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_73f73c4055d0",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Boxing",
       "event_name": "Monday Night RAW Vs Monday Night RAW",
       "eventInfo": {
@@ -379,7 +362,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Independiente Rivadavia Vs Banfield",
       "eventInfo": {
@@ -396,7 +379,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Atlético Tucumán Vs Argentinos Juniors",
       "eventInfo": {
@@ -413,7 +396,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "New York Knicks Vs Brooklyn Nets",
       "eventInfo": {
@@ -430,7 +413,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Charlotte Hornets Vs Detroit Pistons",
       "eventInfo": {
@@ -447,7 +430,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Indiana Pacers Vs Atlanta Hawks",
       "eventInfo": {
@@ -464,7 +447,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Orlando Magic Vs Washington Wizards",
       "eventInfo": {
@@ -481,7 +464,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Philadelphia 76ers Vs Chicago Bulls",
       "eventInfo": {
@@ -2848,6 +2831,23 @@
       },
       "streams": [],
       "id": "evt_da2494f215b1",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Deportes Limache Vs Audax Italiano",
+      "eventInfo": {
+        "teamA": "Deportes Limache",
+        "teamB": "Audax Italiano",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/331131/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3162/image",
+        "eventName": "Liga de Primera",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11653/image/dark",
+        "startTime": "03/11/2026 03:00:00 AM"
+      },
+      "streams": [],
+      "id": "evt_aa6c3aa220ee",
       "isHot": false
     }
   ]
