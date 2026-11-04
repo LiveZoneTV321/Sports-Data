@@ -2,10 +2,27 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:00:35 PM 04-11-2026",
+  "last_update_time": "03:15:23 PM 04-11-2026",
   "total_matches": 186,
-  "live_match": 8,
+  "live_match": 11,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Brisbane Bullets Vs Perth Wildcats",
+      "eventInfo": {
+        "teamA": "Brisbane Bullets",
+        "teamB": "Perth Wildcats",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "04/11/2026 03:00:00 PM"
+      },
+      "streams": [],
+      "id": "evt_fd8a6a66f571",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -306,23 +323,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Brisbane Bullets Vs Perth Wildcats",
-      "eventInfo": {
-        "teamA": "Brisbane Bullets",
-        "teamB": "Perth Wildcats",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/233139/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3609/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "04/11/2026 03:00:00 PM"
-      },
-      "streams": [],
-      "id": "evt_fd8a6a66f571",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "AEK Athens U19 Vs Real Madrid U19",
       "eventInfo": {
@@ -344,7 +344,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Pohang Steelers Vs Gamba Osaka",
       "eventInfo": {
@@ -367,7 +367,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "FC Seoul Vs Thể Công - Viettel",
       "eventInfo": {
