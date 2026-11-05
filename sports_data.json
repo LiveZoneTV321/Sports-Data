@@ -2,10 +2,37 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "03:30:30 PM 05-11-2026",
+  "last_update_time": "03:45:20 PM 05-11-2026",
   "total_matches": 115,
   "live_match": 13,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "Pakistan Vs India",
+      "eventInfo": {
+        "teamA": "Pakistan",
+        "teamB": "India",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "eventName": "SAFF Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "startTime": "05/11/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "T SPORTS HD",
+          "stream_url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
+        },
+        {
+          "channel_name": "HD QUALITY 2",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_c0e6e577dc7c",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -385,33 +412,6 @@
         }
       ],
       "id": "evt_a6252405842b",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Pakistan Vs India",
-      "eventInfo": {
-        "teamA": "Pakistan",
-        "teamB": "India",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "eventName": "SAFF Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "startTime": "05/11/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "T SPORTS HD",
-          "stream_url": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
-        },
-        {
-          "channel_name": "HD QUALITY 2",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        }
-      ],
-      "id": "evt_c0e6e577dc7c",
       "isHot": false
     },
     {
