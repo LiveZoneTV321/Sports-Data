@@ -2,10 +2,33 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "02:30:27 PM 05-11-2026",
+  "last_update_time": "02:45:22 PM 05-11-2026",
   "total_matches": 115,
   "live_match": 10,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Sydney Thunder Women Vs Perth Scorchers Women",
+      "eventInfo": {
+        "teamA": "Sydney Thunder Women",
+        "teamB": "Perth Scorchers Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "05/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ],
+      "id": "evt_b7c43fddc371",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -152,45 +175,6 @@
         }
       ],
       "id": "evt_29d6961d0665",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Adelaide Strikers Women Vs Brisbane Heat Women",
-      "eventInfo": {
-        "teamA": "Adelaide Strikers Women",
-        "teamB": "Brisbane Heat Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "05/11/2026 10:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "FANCODE1 FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
-        },
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubdi2yucnd/out/v1/8ef7e7dc1a994f058e795e429ae797e6/cenc.mpd",
-          "drm_key": "755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a"
-        },
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        },
-        {
-          "channel_name": "WILLOW ALT",
-          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ubdi2yucnd/out/v1/8ef7e7dc1a994f058e795e429ae797e6/cenc.mpd",
-          "drm_key": "755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a"
-        }
-      ],
-      "id": "evt_2e138a6c1131",
       "isHot": false
     },
     {
@@ -395,29 +379,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Cricket",
-      "event_name": "Sydney Thunder Women Vs Perth Scorchers Women",
-      "eventInfo": {
-        "teamA": "Sydney Thunder Women",
-        "teamB": "Perth Scorchers Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "05/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_b7c43fddc371",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Pakistan Vs India",
       "eventInfo": {
@@ -3433,6 +3394,45 @@
         }
       ],
       "id": "evt_38bf742b3bf0",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Cricket",
+      "event_name": "Adelaide Strikers Women Vs Brisbane Heat Women",
+      "eventInfo": {
+        "teamA": "Adelaide Strikers Women",
+        "teamB": "Brisbane Heat Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "05/11/2026 10:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "FANCODE1 FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca"
+        },
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubdi2yucnd/out/v1/8ef7e7dc1a994f058e795e429ae797e6/cenc.mpd",
+          "drm_key": "755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        },
+        {
+          "channel_name": "WILLOW ALT",
+          "stream_url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ubdi2yucnd/out/v1/8ef7e7dc1a994f058e795e429ae797e6/cenc.mpd",
+          "drm_key": "755296074254464e7c3aaee0f9189f0a:ed96b2f0b70c789daa69b64c1195ff3a"
+        }
+      ],
+      "id": "evt_2e138a6c1131",
       "isHot": false
     }
   ]
