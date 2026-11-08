@@ -2,9 +2,9 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "04:00:31 AM 09-11-2026",
+  "last_update_time": "04:15:22 AM 09-11-2026",
   "total_matches": 168,
-  "live_match": 24,
+  "live_match": 26,
   "matches": [
     {
       "status": "LIVE",
@@ -403,29 +403,6 @@
         }
       ],
       "id": "evt_3ab9b0c18e67",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Lech Poznań Vs Zagłębie Lubin",
-      "eventInfo": {
-        "teamA": "Lech Poznań",
-        "teamB": "Zagłębie Lubin",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3113/image",
-        "eventName": "Ekstraklasa",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
-        "startTime": "09/11/2026 01:15:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_057fc6037a2f",
       "isHot": false
     },
     {
@@ -875,7 +852,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Deportivo Garcilaso Vs Comerciantes Unidos",
       "eventInfo": {
@@ -892,7 +869,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Detroit Pistons Vs Los Angeles Lakers",
       "eventInfo": {
@@ -915,7 +892,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Hockey",
       "event_name": "Winnipeg Jets Vs Tampa Bay Lightning",
       "eventInfo": {
@@ -5436,6 +5413,29 @@
       },
       "streams": [],
       "id": "evt_01f33f960217",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Lech Poznań Vs Zagłębie Lubin",
+      "eventInfo": {
+        "teamA": "Lech Poznań",
+        "teamB": "Zagłębie Lubin",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3113/image",
+        "eventName": "Ekstraklasa",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/202/image/dark",
+        "startTime": "09/11/2026 01:15:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_057fc6037a2f",
       "isHot": false
     }
   ]
