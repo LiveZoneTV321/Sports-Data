@@ -2,10 +2,33 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "06:30:26 AM 08-11-2026",
+  "last_update_time": "06:45:24 AM 08-11-2026",
   "total_matches": 191,
-  "live_match": 37,
+  "live_match": 40,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Atlanta Hawks Vs Brooklyn Nets",
+      "eventInfo": {
+        "teamA": "Atlanta Hawks",
+        "teamB": "Brooklyn Nets",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "08/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_0ed96f6e9070",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Boxing",
@@ -843,29 +866,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Hawks Vs Brooklyn Nets",
-      "eventInfo": {
-        "teamA": "Atlanta Hawks",
-        "teamB": "Brooklyn Nets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "08/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_0ed96f6e9070",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Football",
       "event_name": "Instituto De Córdoba Vs Newell's Old Boys",
       "eventInfo": {
@@ -1089,7 +1089,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "América de Cali Vs Deportivo Cali",
       "eventInfo": {
@@ -1106,7 +1106,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Football",
       "event_name": "Cienciano Vs Sport Huancayo",
       "eventInfo": {
@@ -1123,7 +1123,7 @@
       "isHot": false
     },
     {
-      "status": "UPCOMING",
+      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Golden State Warriors Vs Orlando Magic",
       "eventInfo": {
