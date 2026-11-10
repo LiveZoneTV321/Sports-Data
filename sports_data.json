@@ -2,10 +2,62 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "07:00:32 AM 10-11-2026",
+  "last_update_time": "07:15:21 AM 10-11-2026",
   "total_matches": 93,
   "live_match": 17,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Dallas Mavericks Vs Indiana Pacers",
+      "eventInfo": {
+        "teamA": "Dallas Mavericks",
+        "teamB": "Indiana Pacers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_febe0864f024",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "Edmonton Oilers Vs New York Rangers",
+      "eventInfo": {
+        "teamA": "Edmonton Oilers",
+        "teamB": "New York Rangers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "10/11/2026 07:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "PREMIERE2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_69aff6ed83d6",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Basketball",
@@ -160,23 +212,6 @@
         }
       ],
       "id": "evt_4b324a9ae6de",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Sportivo Luqueño Vs CS 2 de Mayo",
-      "eventInfo": {
-        "teamA": "Sportivo Luqueño",
-        "teamB": "CS 2 de Mayo",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5998/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5992/image",
-        "eventName": "Primera División",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
-        "startTime": "10/11/2026 04:30:00 AM"
-      },
-      "streams": [],
-      "id": "evt_3042f4cd9599",
       "isHot": false
     },
     {
@@ -389,58 +424,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Dallas Mavericks Vs Indiana Pacers",
-      "eventInfo": {
-        "teamA": "Dallas Mavericks",
-        "teamB": "Indiana Pacers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_febe0864f024",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "Edmonton Oilers Vs New York Rangers",
-      "eventInfo": {
-        "teamA": "Edmonton Oilers",
-        "teamB": "New York Rangers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3686/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3701/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "10/11/2026 07:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "PREMIERE2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_69aff6ed83d6",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "American football",
       "event_name": "Minnesota Vikings Vs Buffalo Bills",
       "eventInfo": {
@@ -537,6 +520,29 @@
         }
       ],
       "id": "evt_8a0a19004a8e",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Phoenix Suns Vs San Antonio Spurs",
+      "eventInfo": {
+        "teamA": "Phoenix Suns",
+        "teamB": "San Antonio Spurs",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 08:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        }
+      ],
+      "id": "evt_d6fcc5f98d62",
       "isHot": false
     },
     {
@@ -1394,29 +1400,6 @@
         }
       ],
       "id": "evt_ebaee61058d0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "Phoenix Suns Vs San Antonio Spurs",
-      "eventInfo": {
-        "teamA": "Phoenix Suns",
-        "teamB": "San Antonio Spurs",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 08:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        }
-      ],
-      "id": "evt_d6fcc5f98d62",
       "isHot": false
     },
     {
@@ -2619,6 +2602,23 @@
       },
       "streams": [],
       "id": "evt_b93d6ad70ed0",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Sportivo Luqueño Vs CS 2 de Mayo",
+      "eventInfo": {
+        "teamA": "Sportivo Luqueño",
+        "teamB": "CS 2 de Mayo",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/5998/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5992/image",
+        "eventName": "Primera División",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11541/image/dark",
+        "startTime": "10/11/2026 04:30:00 AM"
+      },
+      "streams": [],
+      "id": "evt_3042f4cd9599",
       "isHot": false
     }
   ]
