@@ -2,10 +2,71 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "09:00:34 AM 10-11-2026",
+  "last_update_time": "09:15:22 AM 10-11-2026",
   "total_matches": 96,
-  "live_match": 15,
+  "live_match": 14,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "Golden State Warriors Vs New Orleans Pelicans",
+      "eventInfo": {
+        "teamA": "Golden State Warriors",
+        "teamB": "New Orleans Pelicans",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/D666AAA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_086e724c530d",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Hockey",
+      "event_name": "San Jose Sharks Vs New York Islanders",
+      "eventInfo": {
+        "teamA": "San Jose Sharks",
+        "teamB": "New York Islanders",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
+        "eventName": "NHL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
+        "startTime": "10/11/2026 09:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NOVA SPORT 2 FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SPORTSCAST ",
+          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/42544de9-c804-4301-b831-52e908f4fab5/master.m3u8"
+        }
+      ],
+      "id": "evt_4d2f556604db",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Hockey",
@@ -189,36 +250,6 @@
     },
     {
       "status": "LIVE",
-      "Category": "Football",
-      "event_name": "Club Aurora Vs Club FC Universitario",
-      "eventInfo": {
-        "teamA": "Club Aurora",
-        "teamB": "Club FC Universitario",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/33714/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/268082/image",
-        "eventName": "División Profesional",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/16736/image/dark",
-        "startTime": "10/11/2026 06:30:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "http://193.47.62.41/hls/CCCCA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.41/hls/CCCCA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_60e27ebaab7d",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
       "Category": "Basketball",
       "event_name": "Toronto Raptors Vs Memphis Grizzlies",
       "eventInfo": {
@@ -298,128 +329,6 @@
         }
       ],
       "id": "evt_c3a162aa9f82",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Atlanta Hawks Vs Los Angeles Lakers",
-      "eventInfo": {
-        "teamA": "Atlanta Hawks",
-        "teamB": "Los Angeles Lakers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA GAMEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "eed56ed06f7c791ad0573985b01359a5:5fecbef86756acb6352bacd33bf3b811"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59705/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER+ TV ",
-          "stream_url": "https://www.rtmpcdn.com/live/f4f24d4c-4796-46cc-bb82-e95375544f8a.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/JJJJ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_a034614bec35",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Detroit Pistons Vs Washington Wizards",
-      "eventInfo": {
-        "teamA": "Detroit Pistons",
-        "teamB": "Washington Wizards",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA GAMEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pjkfjsy5k/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "fcad8675710ba2e37fd340d22300b5c1:d01c1af5f6ea734eab42bab06238bacc"
-        },
-        {
-          "channel_name": "NOVA SPORT 2 FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59707/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER+ TV ",
-          "stream_url": "https://www.rtmpcdn.com/live/63095c64-0ebd-4bd3-a47b-a93bb904b416.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/JJJJQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9b46e1b04df7",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Charlotte Hornets Vs Cleveland Cavaliers",
-      "eventInfo": {
-        "teamA": "Charlotte Hornets",
-        "teamB": "Cleveland Cavaliers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 06:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA GAMEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd?",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "c37b24670e3e46f9a09f3ab09f572ea5:d511848653308f6f414fd8db68870985"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59706/load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SERVER+ TV ",
-          "stream_url": "https://www.rtmpcdn.com/live/e3969db9-0f68-4831-ba06-bad01f2d79c9.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/D666.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_9f8e1846f743",
       "isHot": false
     },
     {
@@ -550,63 +459,169 @@
     },
     {
       "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Golden State Warriors Vs New Orleans Pelicans",
+      "Category": "Other",
+      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
       "eventInfo": {
-        "teamA": "Golden State Warriors",
-        "teamB": "New Orleans Pelicans",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "10/11/2026 09:00:00 AM"
+        "teamA": "GOLF EVENTO",
+        "teamB": "GOLF EVENTO",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "eventName": "GOLF EVENTO",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
+        "startTime": "10/11/2026 09:40:00 AM"
       },
       "streams": [
         {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
+          "channel_name": "SKY GOLF FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd",
+          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
         },
         {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.59/hls/D666AAA.m3u8",
+          "channel_name": "SKY GOLF ALT",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
+          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
+        },
+        {
+          "channel_name": "Golf Channel - HD",
+          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+        },
+        {
+          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf Open de Espana",
+          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf PGA VidantaWorld Mexico Open",
+          "stream_url": "http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "Golf LPGA Maybank Championship",
+          "stream_url": "http://193.47.62.59/hls/TTTTQ.m3u8",
           "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
           "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
         }
       ],
-      "id": "evt_086e724c530d",
+      "id": "evt_dfa6ba76db50",
       "isHot": false
     },
     {
       "status": "LIVE",
-      "Category": "Hockey",
-      "event_name": "San Jose Sharks Vs New York Islanders",
+      "Category": "Other",
+      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
       "eventInfo": {
-        "teamA": "San Jose Sharks",
-        "teamB": "New York Islanders",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3696/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3703/image",
-        "eventName": "NHL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/234/image/dark",
-        "startTime": "10/11/2026 09:00:00 AM"
+        "teamA": "SPORTS LIVE",
+        "teamB": "SPORTS LIVE",
+        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "eventName": "SPORTS LIVE",
+        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
+        "startTime": "10/11/2026 09:40:00 AM"
       },
       "streams": [
         {
-          "channel_name": "NOVA SPORT 2 FHD",
-          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
-          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
-        },
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://chatgpt.hereisman.net/playlist//load-playlist?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "SPORTSCAST ",
-          "stream_url": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/42544de9-c804-4301-b831-52e908f4fab5/master.m3u8"
+          "channel_name": "NFL SERVER FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
+          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
         }
       ],
-      "id": "evt_4d2f556604db",
+      "id": "evt_cb92eaad2884",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Other",
+      "event_name": "TENNIS | EVENTO Vs TENNIS | EVENTO",
+      "eventInfo": {
+        "teamA": "TENNIS | EVENTO",
+        "teamB": "TENNIS | EVENTO",
+        "teamAFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "eventName": "TENNIS | EVENTO ",
+        "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
+        "startTime": "10/11/2026 09:40:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "SKY TOP EVENT FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
+          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
+        },
+        {
+          "channel_name": "BeIN1 SPORTSFHD ",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
+          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
+        },
+        {
+          "channel_name": "TENNIS + HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
+          "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
+        },
+        {
+          "channel_name": "SPOTV FHD",
+          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
+        },
+        {
+          "channel_name": "TSN4 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
+        },
+        {
+          "channel_name": "BeIN2 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
+        },
+        {
+          "channel_name": "TENNIS + SPORTS ",
+          "stream_url": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
+        },
+        {
+          "channel_name": "TENNIS PLUS",
+          "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8"
+        },
+        {
+          "channel_name": "BEIN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+        },
+        {
+          "channel_name": "TSN3 SPORTS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/BUUU.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "1. Tennis Masters Paris",
+          "stream_url": "http://193.47.62.44/hls/T777A.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "2 Tennis Masters Paris",
+          "stream_url": "http://193.47.62.44/hls/T777AA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_a6252405842b",
       "isHot": false
     },
     {
@@ -1484,173 +1499,6 @@
         }
       ],
       "id": "evt_ebaee61058d0",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "GOLF EVENTO Vs GOLF EVENTO",
-      "eventInfo": {
-        "teamA": "GOLF EVENTO",
-        "teamB": "GOLF EVENTO",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "eventName": "GOLF EVENTO",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsn5BK10q6F7RDnUoMF18c1HXCsm0WNNhAH_T3iee9Q&s",
-        "startTime": "10/11/2026 09:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY GOLF FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/agdcjco1zo/out/v1/e7aec5bb76ba477b8c5a59213af465ad/cenc.mpd",
-          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
-        },
-        {
-          "channel_name": "SKY GOLF ALT",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3eyutz3sbr/out/v1/369f8b2194004b5192c0c8e6a22822bf/cenc.mpd",
-          "drm_key": "5583887653a2df2531c22aa784c3f5fc:ab47a175b1912a7985daab1ac3ea160a"
-        },
-        {
-          "channel_name": "Golf Channel - HD",
-          "stream_url": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-        },
-        {
-          "channel_name": "Golf PGA Baycurrent Classic (USE VPN)",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf Open de Espana",
-          "stream_url": "http://193.47.62.44/hls/CTTTT.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf PGA VidantaWorld Mexico Open",
-          "stream_url": "http://193.47.62.59/hls/6HHHAAQQQAAQQQQQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "Golf LPGA Maybank Championship",
-          "stream_url": "http://193.47.62.59/hls/TTTTQ.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_dfa6ba76db50",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "SPORTS LIVE Vs SPORTS LIVE",
-      "eventInfo": {
-        "teamA": "SPORTS LIVE",
-        "teamB": "SPORTS LIVE",
-        "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "eventName": "SPORTS LIVE",
-        "event_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjkLQo2g5ENJMJlMOF-F_LJH5AhLJ22D3GbNx95sNFA&s=10",
-        "startTime": "10/11/2026 09:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NFL SERVER FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd",
-          "drm_key": "b6e646d15d2ddfcf74c41ef6574b90fc:5c8bb38d3758dca73ad0ba63d6ba2841"
-        }
-      ],
-      "id": "evt_cb92eaad2884",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Other",
-      "event_name": "TENNIS | EVENTO Vs TENNIS | EVENTO",
-      "eventInfo": {
-        "teamA": "TENNIS | EVENTO",
-        "teamB": "TENNIS | EVENTO",
-        "teamAFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "teamBFlag": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "eventName": "TENNIS | EVENTO ",
-        "event_logo": "https://i.ibb.co/jPv7P49q/Sktenn.png",
-        "startTime": "10/11/2026 09:40:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "SKY TOP EVENT FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd",
-          "drm_key": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901"
-        },
-        {
-          "channel_name": "BeIN1 SPORTSFHD ",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd",
-          "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281"
-        },
-        {
-          "channel_name": "TENNIS + HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd",
-          "drm_key": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a"
-        },
-        {
-          "channel_name": "SPOTV FHD",
-          "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-          "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed"
-        },
-        {
-          "channel_name": "TSN4 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7"
-        },
-        {
-          "channel_name": "BeIN2 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-          "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8"
-        },
-        {
-          "channel_name": "TENNIS + SPORTS ",
-          "stream_url": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0"
-        },
-        {
-          "channel_name": "TENNIS PLUS",
-          "stream_url": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8"
-        },
-        {
-          "channel_name": "BEIN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
-        },
-        {
-          "channel_name": "TSN3 SPORTS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/BUUU.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "1. Tennis Masters Paris",
-          "stream_url": "http://193.47.62.44/hls/T777A.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "2 Tennis Masters Paris",
-          "stream_url": "http://193.47.62.44/hls/T777AA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_a6252405842b",
       "isHot": false
     },
     {
@@ -2901,6 +2749,128 @@
     },
     {
       "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Atlanta Hawks Vs Los Angeles Lakers",
+      "eventInfo": {
+        "teamA": "Atlanta Hawks",
+        "teamB": "Los Angeles Lakers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA GAMEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uimi2x3j0k/out/v1/f96d381622f848adb38d43cc7b858de9/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "eed56ed06f7c791ad0573985b01359a5:5fecbef86756acb6352bacd33bf3b811"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59705/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER+ TV ",
+          "stream_url": "https://www.rtmpcdn.com/live/f4f24d4c-4796-46cc-bb82-e95375544f8a.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JJJJ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_a034614bec35",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Detroit Pistons Vs Washington Wizards",
+      "eventInfo": {
+        "teamA": "Detroit Pistons",
+        "teamB": "Washington Wizards",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA GAMEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0pjkfjsy5k/out/v1/d465fd2ab39041e288685c485be5b42b/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "fcad8675710ba2e37fd340d22300b5c1:d01c1af5f6ea734eab42bab06238bacc"
+        },
+        {
+          "channel_name": "NOVA SPORT 2 FHD",
+          "stream_url": "https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd",
+          "drm_key": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59707/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER+ TV ",
+          "stream_url": "https://www.rtmpcdn.com/live/63095c64-0ebd-4bd3-a47b-a93bb904b416.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.44/hls/JJJJQ.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9b46e1b04df7",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Charlotte Hornets Vs Cleveland Cavaliers",
+      "eventInfo": {
+        "teamA": "Charlotte Hornets",
+        "teamB": "Cleveland Cavaliers",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "10/11/2026 06:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA GAMEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c0aiuaaf38/out/v1/c439efc8c95a4dc88dcd33c418da47fb/cenc.mpd?",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "c37b24670e3e46f9a09f3ab09f572ea5:d511848653308f6f414fd8db68870985"
+        },
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59706/load-playlist?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "SERVER+ TV ",
+          "stream_url": "https://www.rtmpcdn.com/live/e3969db9-0f68-4831-ba06-bad01f2d79c9.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.59/hls/D666.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_9f8e1846f743",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
       "Category": "Football",
       "event_name": "Junior Barranquilla Vs Cúcuta Deportivo",
       "eventInfo": {
@@ -2927,6 +2897,36 @@
         }
       ],
       "id": "evt_4b324a9ae6de",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Football",
+      "event_name": "Club Aurora Vs Club FC Universitario",
+      "eventInfo": {
+        "teamA": "Club Aurora",
+        "teamB": "Club FC Universitario",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/33714/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/268082/image",
+        "eventName": "División Profesional",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/16736/image/dark",
+        "startTime": "10/11/2026 06:30:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "http://193.47.62.41/hls/CCCCA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.41/hls/CCCCA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_60e27ebaab7d",
       "isHot": false
     }
   ]
