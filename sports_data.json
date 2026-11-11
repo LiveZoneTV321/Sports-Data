@@ -2,10 +2,60 @@
   "name": "Live and Upcoming Sports Data",
   "owner": "Monirul Islam",
   "telegram_channel": "https://t.me/sm_iptv_bd",
-  "last_update_time": "12:23:17 PM 11-11-2026",
+  "last_update_time": "03:29:49 PM 11-11-2026",
   "total_matches": 104,
-  "live_match": 5,
+  "live_match": 7,
   "matches": [
+    {
+      "status": "LIVE",
+      "Category": "Basketball",
+      "event_name": "South East Melbourne Phoenix Vs Illawarra Hawks",
+      "eventInfo": {
+        "teamA": "South East Melbourne Phoenix",
+        "teamB": "Illawarra Hawks",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
+        "eventName": "NBL",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
+        "startTime": "11/11/2026 02:30:00 PM"
+      },
+      "streams": [],
+      "id": "evt_b7b80eaea8a2",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Cricket",
+      "event_name": "Women's Big Bash League Vs Women's Big Bash League",
+      "eventInfo": {
+        "teamA": "Women's Big Bash League",
+        "teamB": "Women's Big Bash League",
+        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "eventName": "Women's Big Bash League",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
+        "startTime": "11/11/2026 02:10:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "WILLOW FHD",
+          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zsuvftyusq/out/v1/edc42cc5fdff4e56b1139a1b4a9ea02a/cenc.mpd",
+          "drm_key": "21ef535c5597589225d278308c2a5c93:a4a38ac31294c388aaec39cab4aae93a"
+        },
+        {
+          "channel_name": "WILLOW HD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
+        },
+        {
+          "channel_name": "STREAM TV + HD ",
+          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+          "user_agent": "Mozilla"
+        }
+      ],
+      "id": "evt_cf32a5d3ffcf",
+      "isHot": false
+    },
     {
       "status": "LIVE",
       "Category": "Cricket",
@@ -42,56 +92,6 @@
         }
       ],
       "id": "evt_ef30158142c8",
-      "isHot": false
-    },
-    {
-      "status": "LIVE",
-      "Category": "Basketball",
-      "event_name": "Portland Trail Blazers Vs Oklahoma City Thunder",
-      "eventInfo": {
-        "teamA": "Portland Trail Blazers",
-        "teamB": "Oklahoma City Thunder",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-        "eventName": "NBA",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
-        "startTime": "11/11/2026 10:00:00 AM"
-      },
-      "streams": [
-        {
-          "channel_name": "NBA LEAGUEPASS FHD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsm8axafg5/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd",
-          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-          "drm_key": "493941d0e9286e1938b282b22a2aa5b5:7a6efbc41dc4bf672d069cd33d4d5812"
-        },
-        {
-          "channel_name": "XTREME+ TV ",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59814/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY 3",
-          "stream_url": "https://chatgpt.hereisman.net/playlist/59813/load-playlist-multi?&.m3u8",
-          "referer": "https://gooz.aapmains.net"
-        },
-        {
-          "channel_name": "HD QUALITY +4",
-          "stream_url": "https://www.rtmpcdn.com/live/431ef138-adf7-4ff7-bac7-2a27473fd6df.m3u8"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/RPPPA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        },
-        {
-          "channel_name": "LOW QUALITY (USE VPN)",
-          "stream_url": "http://193.47.62.50/hls/RPPPA.m3u8",
-          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
-        }
-      ],
-      "id": "evt_e8ec441bd37c",
       "isHot": false
     },
     {
@@ -265,6 +265,29 @@
         }
       ],
       "id": "evt_a6252405842b",
+      "isHot": false
+    },
+    {
+      "status": "LIVE",
+      "Category": "Football",
+      "event_name": "India Vs Maldives",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "Maldives",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+        "eventName": "SAFF Championship",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
+        "startTime": "11/11/2026 03:30:00 PM"
+      },
+      "streams": [
+        {
+          "channel_name": "STREAM TV + HD",
+          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?",
+          "referer": "https://xlz.domainkqt.cc/"
+        }
+      ],
+      "id": "evt_72aecdc8f4a5",
       "isHot": false
     },
     {
@@ -1237,79 +1260,6 @@
     },
     {
       "status": "UPCOMING",
-      "Category": "Cricket",
-      "event_name": "Women's Big Bash League Vs Women's Big Bash League",
-      "eventInfo": {
-        "teamA": "Women's Big Bash League",
-        "teamB": "Women's Big Bash League",
-        "teamAFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "eventName": "Women's Big Bash League",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
-        "startTime": "11/11/2026 02:10:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "WILLOW FHD",
-          "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lhdal9buc7/out/v1/8bc185a9052e4f0b911f5a26bf2e907d/cenc.mpd",
-          "drm_key": "41b0e855ff51711a08ab8e4ccf1d0ba1:e849d0113e5fe023ff48664f3dc76b02"
-        },
-        {
-          "channel_name": "WILLOW HD",
-          "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-          "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
-        },
-        {
-          "channel_name": "STREAM TV + HD ",
-          "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-          "user_agent": "Mozilla"
-        }
-      ],
-      "id": "evt_cf32a5d3ffcf",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Basketball",
-      "event_name": "South East Melbourne Phoenix Vs Illawarra Hawks",
-      "eventInfo": {
-        "teamA": "South East Melbourne Phoenix",
-        "teamB": "Illawarra Hawks",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/325629/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3613/image",
-        "eventName": "NBL",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/1524/image/dark",
-        "startTime": "11/11/2026 02:30:00 PM"
-      },
-      "streams": [],
-      "id": "evt_b7b80eaea8a2",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
-      "Category": "Football",
-      "event_name": "India Vs Maldives",
-      "eventInfo": {
-        "teamA": "India",
-        "teamB": "Maldives",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
-        "eventName": "SAFF Championship",
-        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/2354/image/dark",
-        "startTime": "11/11/2026 03:30:00 PM"
-      },
-      "streams": [
-        {
-          "channel_name": "STREAM TV + HD",
-          "stream_url": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?",
-          "referer": "https://xlz.domainkqt.cc/"
-        }
-      ],
-      "id": "evt_72aecdc8f4a5",
-      "isHot": false
-    },
-    {
-      "status": "UPCOMING",
       "Category": "Football",
       "event_name": "Vietnam Vs Chinese Taipei",
       "eventInfo": {
@@ -1844,7 +1794,7 @@
           "referer": "https://gooz.aapmains.net"
         }
       ],
-      "id": "evt_e8ec441bd37c_2",
+      "id": "evt_e8ec441bd37c",
       "isHot": false
     },
     {
@@ -2967,6 +2917,56 @@
         }
       ],
       "id": "evt_9253070dc4fe",
+      "isHot": false
+    },
+    {
+      "status": "ENDED",
+      "Category": "Basketball",
+      "event_name": "Portland Trail Blazers Vs Oklahoma City Thunder",
+      "eventInfo": {
+        "teamA": "Portland Trail Blazers",
+        "teamB": "Oklahoma City Thunder",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+        "eventName": "NBA",
+        "event_logo": "http://img.sofascore.com/api/v1/unique-tournament/132/image/dark",
+        "startTime": "11/11/2026 10:00:00 AM"
+      },
+      "streams": [
+        {
+          "channel_name": "NBA LEAGUEPASS FHD",
+          "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsm8axafg5/out/v1/02f930af80e84a9fb8040e478da6e252/cenc.mpd",
+          "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+          "drm_key": "493941d0e9286e1938b282b22a2aa5b5:7a6efbc41dc4bf672d069cd33d4d5812"
+        },
+        {
+          "channel_name": "XTREME+ TV ",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59814/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY 3",
+          "stream_url": "https://chatgpt.hereisman.net/playlist/59813/load-playlist-multi?&.m3u8",
+          "referer": "https://gooz.aapmains.net"
+        },
+        {
+          "channel_name": "HD QUALITY +4",
+          "stream_url": "https://www.rtmpcdn.com/live/431ef138-adf7-4ff7-bac7-2a27473fd6df.m3u8"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/RPPPA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        },
+        {
+          "channel_name": "LOW QUALITY (USE VPN)",
+          "stream_url": "http://193.47.62.50/hls/RPPPA.m3u8",
+          "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+          "user_agent": "Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36"
+        }
+      ],
+      "id": "evt_e8ec441bd37c_2",
       "isHot": false
     }
   ]
